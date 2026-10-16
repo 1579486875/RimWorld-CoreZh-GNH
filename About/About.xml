@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>原版中文补全（1.7 专用）</name>
+  <author>大赢经直插白皮赢道</author>
+  <packageId>gnh.cn.cys.corezh</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modVersion>2.0.1</modVersion>
+  <description>把 1.7 测试版删掉的原版官方中文补回来。
+
+【为什么需要它】
+RimWorld 1.7 测试版（Waylith 引擎）把 Data\Core\Languages 与全部 5 个 DLC 的
+语言目录砍到只剩 English —— 官方中文连同其余 27 种语言一起被移除。
+后果：原版界面、物品、生物、研究、事件的名称与描述全部回退成英文。
+模组自带的中文不受影响，所以看起来是「一半中文一半英文」。
+
+【它做什么】
+提供 Core + Royalty / Ideology / Biotech / Anomaly / Odyssey 的官方简体中文：
+· Keyed 30 个文件 —— 界面与提示
+· DefInjected 1114 个文件、152 个目录 —— 物品、生物、基因、研究、事件、心情、戒律等
+· Strings 97 个文件 —— 人名 / 地名 / 词根
+
+【翻译来源 —— 这是官方译文，不是机翻】
+直接取自 1.6 正式版的官方语言包（Data 下各 DLC 的 Languages 目录内
+ChineseSimplified (简体中文).tar），原样收录，并保留官方 LanguageInfo.xml
+（内附译者名单）与语言图标。术语与官方完全一致。
+
+【已知限制】
+1.6 → 1.7 之间新增的文本不在其中，那部分仍显示英文
+（例如主菜单「All translations of RimWorld are Fan-made…」那一句）。
+要补全需从 1.7 的官方语言包提取。
+
+【适用版本】RimWorld 1.7 测试版
+
+【加载顺序】排到模组列表最后。
+
+【重要】1.6 环境请禁用本模组 —— 1.6 自带官方中文，装上只会重复加载。
+
+作者　　　　大赢经直插白皮赢道</description>
+</ModMetaData>

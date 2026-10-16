@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install blood warmer -->
+  <InstallBloodWarmer.label>安装血液加热器</InstallBloodWarmer.label>
+  <!-- EN: Install blood warmer. -->
+  <InstallBloodWarmer.description>安装血液加热器。</InstallBloodWarmer.description>
+  <!-- EN: Installing blood warmer. -->
+  <InstallBloodWarmer.jobString>正在安装血液加热器。</InstallBloodWarmer.jobString>
+  
+  <!-- EN: install pilot assistant -->
+  <InstallPilotAssistant.label>安装驾驶助理</InstallPilotAssistant.label>
+  <!-- EN: Install a pilot assistant. -->
+  <InstallPilotAssistant.description>安装驾驶助理。</InstallPilotAssistant.description>
+  <!-- EN: Installing pilot assistant. -->
+  <InstallPilotAssistant.jobString>正在安装驾驶助理。</InstallPilotAssistant.jobString>
+  
+  <!-- EN: install vacskin gland -->
+  <InstallVacskinGland.label>安装蜡肤腺体</InstallVacskinGland.label>
+  <!-- EN: Install a vacskin gland. -->
+  <InstallVacskinGland.description>安装蜡肤腺体。</InstallVacskinGland.description>
+  <!-- EN: Installing vacskin gland. -->
+  <InstallVacskinGland.jobString>正在安装蜡肤腺体。</InstallVacskinGland.jobString>
+  
+  <!-- EN: remove pilot assistant -->
+  <RemovePilotAssistant.label>移除驾驶助理</RemovePilotAssistant.label>
+  <!-- EN: Remove pilot assistant. -->
+  <RemovePilotAssistant.description>移除驾驶助理。</RemovePilotAssistant.description>
+  <!-- EN: Removing pilot assistant. -->
+  <RemovePilotAssistant.jobString>正在移除驾驶助理。</RemovePilotAssistant.jobString>
+  
+  <!-- EN: remove vacskin gland -->
+  <RemoveVacskinGland.label>移除蜡肤腺体</RemoveVacskinGland.label>
+  <!-- EN: Remove vacskin gland. -->
+  <RemoveVacskinGland.description>移除蜡肤腺体。</RemoveVacskinGland.description>
+  <!-- EN: Removing vacskin gland. -->
+  <RemoveVacskinGland.jobString>正在移除蜡肤腺体。</RemoveVacskinGland.jobString>
+  
+</LanguageData>

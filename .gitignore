@@ -1,0 +1,14 @@
+# 临时文件与系统垃圾
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+
+# 打包产物（zip 不入库，通过 GitHub Release 分发）
+packing/*.zip
+*.zip
+
+# 审查/修复期的带时间戳备份（不入库）
+_backup/
+_backup_*/
+_backup_before_*/
