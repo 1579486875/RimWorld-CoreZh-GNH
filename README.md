@@ -21,8 +21,8 @@ RimWorld **1.7 测试版（Waylith 引擎）把 `Data\Core\Languages` 与全部 
 
 | 类别 | 内容 |
 |---|---|
-| `Keyed` | 界面与提示（30 个文件） |
-| `DefInjected` | 物品 / 生物 / 基因 / 研究 / 事件 / 心情 / 戒律等（1114 个文件、152 个目录） |
+| `Keyed` | 界面与提示（91 个文件） |
+| `DefInjected` | 物品 / 生物 / 基因 / 研究 / 事件 / 心情 / 戒律等（1470 个文件、151 个目录） |
 | `Strings` | 人名 / 地名 / 词根（97 个文件） |
 
 覆盖 **Core + Royalty + Ideology + Biotech + Anomaly + Odyssey** 六个来源。
@@ -61,7 +61,7 @@ RimWorld **1.7 测试版（Waylith 引擎）把 `Data\Core\Languages` 与全部 
 - **修法**：**重命名**而不是重写键 —— 首个 DLC 版保持原名，其余追加 `_<DLC>` 后缀
   （如 `Abilities.xml` / `Abilities_Ideology.xml` / `Abilities_Biotech.xml` / `Abilities_Anomaly.xml` / `Abilities_Odyssey.xml`）
 - **结果**：新增 **417 个文件**（DefInjected 356 + Keyed 61），全部是官方 tar 成员的**逐字节副本**；
-  文件数 1244 → **1661**；按游戏口径模拟，加载到的键 26,292 → **34,078 = 6 个 tar 的键全集（缺 0、多 0）**
+  文件数 1244 → **1661**；按游戏口径模拟，加载到的键 26,292 → **35,006 = 6 个 tar 的键全集（缺 0、多 0）**
 - **只增不改**：原有 1244 个文件除 `About.xml` 的版本号外零改动、零丢失
 
 ### v2.0.0 — 2026-10-13
