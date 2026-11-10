@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
@@ -122,7 +122,7 @@
   <!-- EN: Boring -->
   <CelebratedDate_Consumable.outcomeChances.1.label>枯燥乏味的</CelebratedDate_Consumable.outcomeChances.1.label>
   <!-- EN: The {0} was boring. Everyone felt too awkward to open up and laugh. -->
-  <CelebratedDate_Consumable.outcomeChances.1.description>{0 枯燥乏味。 参与者感到尴尬却又不敢放声大笑。</CelebratedDate_Consumable.outcomeChances.1.description>
+  <CelebratedDate_Consumable.outcomeChances.1.description>{0}枯燥乏味。参与者感到尴尬却又不敢放声大笑。</CelebratedDate_Consumable.outcomeChances.1.description>
   <!-- EN: Fun -->
   <CelebratedDate_Consumable.outcomeChances.2.label>有趣的</CelebratedDate_Consumable.outcomeChances.2.label>
   <!-- EN: The {0} was good. Everyone appreciated the chance to relax and have fun together. -->
