@@ -7,7 +7,7 @@
 | packageId | `gnh.cn.cys.corezh` |
 | 适用版本 | **RimWorld 1.7 测试版**（1.6 正式版自带官方中文，不需要它） |
 | 类型 | 纯语言包，**不含程序集** |
-| 当前版本 | v2.0.1 |
+| 当前版本 | v2.0.2 |
 
 ## 为什么需要它 —— ⚠ 立项前提已失效
 
@@ -93,6 +93,12 @@ python tools/count_l10n_keys.py
 > 官方再发新版时，重跑一次脚本、把结果同步到 README 与 `About/About.xml` 即可。
 
 ## 变更记录
+
+### v2.0.2 — 2026-11-10
+
+- 修 `CelebratedDate_Consumable.outcomeChances.1.description` 的占位符缺右括号（`{0` → `{0}`），
+  与 1.7 官方中文对齐；这是全包唯一一处与 1.6 不同的文本。
+- `modVersion` 2.0.1 → 2.0.2。
 
 ### v2.0.1 — 2026-10-16（重要修复）
 
