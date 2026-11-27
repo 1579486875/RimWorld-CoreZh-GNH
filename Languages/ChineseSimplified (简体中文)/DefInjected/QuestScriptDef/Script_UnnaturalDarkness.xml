@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN:
-    <li>initialPhaseLetterLabel->Dimming sky</li>
-    <li>initialPhaseLetterText->The sky is dimming. Soon it will be hard to see anything that isn't directly lit by lamps or torches.\n\nBuild well-lit areas to survive. Craft disruptor flare packs to explore the darkness.</li>
-    <li>mainPhaseLetterLabel->Unnatural darkness</li>
-    <li>mainPhaseLetterText->An unnatural darkness is descending. Inhuman things move just outside the light.\n\nPillars of jagged, oily metal are falling from the sky. They are terrible to look upon but surely contain valuable technology. Reach them by building well-lit paths - and destroy them to end this nightmare.\n\nAlternatively, if you can survive long enough, the darkness will dissipate on its own.</li>
-    <li>darknessLiftedLetterLabel->Darkness lifting</li>
-    <li>darknessLiftedLetterText->The unnatural darkness has begun to dissipate. The metallic pillars have somehow folded into themselves and vanished. You survived!</li>
+    <li>initialPhaseLetterLabel->天光渐暗</li>
+    <li>initialPhaseLetterText->天空正在变暗。很快，凡不是被灯具或火把直接照到的地方都难以看清。\n\n建起光照充足的区域以求生存。制作干扰照明弹包以探索黑暗。</li>
+    <li>mainPhaseLetterLabel->非自然的黑暗</li>
+    <li>mainPhaseLetterText->一片非自然的黑暗正在降临。非人之物在光线之外游动。\n\n参差不齐的油亮金属柱正从天而降。它们看上去可怖，但必定含有宝贵的技术。修建光照充足的道路抵达它们——并摧毁它们，以终结这场噩梦。\n\n另一种做法是，只要你能撑得足够久，黑暗也会自行消散。</li>
+    <li>darknessLiftedLetterLabel->黑暗消退</li>
+    <li>darknessLiftedLetterText->非自然的黑暗已开始消散。那些金属柱不知怎么自我折叠、消失不见了。你活下来了！</li>
   -->
   <UnnaturalDarkness.questContentRules.rulesStrings>
     <li>initialPhaseLetterLabel->昏暗的天空</li>
@@ -24,7 +24,7 @@
     <li>questDescription-></li>
   </UnnaturalDarkness.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questDescription->unnatural darkness</li>
+    <li>questDescription->非自然黑暗</li>
   -->
   <UnnaturalDarkness.questNameRules.rulesStrings>
     <li>questDescription->异常黑暗</li>

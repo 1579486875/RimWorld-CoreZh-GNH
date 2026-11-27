@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->delayed reward</li>
+    <li>questDescription->延迟发放的报酬</li>
   -->
   <DelayedRewardDropPods.questDescriptionRules.rulesStrings>
     <li>questDescription->延期回馈</li>
   </DelayedRewardDropPods.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->delayed reward</li>
+    <li>questName->延迟发放的报酬</li>
   -->
   <DelayedRewardDropPods.questNameRules.rulesStrings>
     <li>questName->延期回馈</li>

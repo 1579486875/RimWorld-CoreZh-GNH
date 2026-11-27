@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->sightstealerarrival</li>
+    <li>questDescription->窃视者降临</li>
   -->
   <SightstealerArrival.questDescriptionRules.rulesStrings>
     <li>questDescription->隐形魔袭击</li>
   </SightstealerArrival.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questDescription->sightstealerarrival</li>
+    <li>questDescription->窃视者降临</li>
   -->
   <SightstealerArrival.questNameRules.rulesStrings>
     <li>questDescription->隐形魔袭击</li>

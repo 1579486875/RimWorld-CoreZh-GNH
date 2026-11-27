@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN:
-    <li>sent->This drove [RECIPIENT_nameDef] into a rage and [RECIPIENT_pronoun] began a fight!</li>
+    <li>sent->这把[RECIPIENT_nameDef]激怒了，[RECIPIENT_pronoun]动起手来！</li>
   -->
   <Sentence_SocialFightStarted.rulePack.rulesStrings>
     <li>sent->这让[RECIPIENT_nameDef]怒不可遏，并开始打架！</li>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->ancient signal activation</li>
+    <li>questDescription->远古信号激活</li>
   -->
   <AncientSignalActivation.questDescriptionRules.rulesStrings>
     <li>questDescription->远古信号激活</li>
   </AncientSignalActivation.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->ancient signal activation</li>
+    <li>questName->远古信号激活</li>
   -->
   <AncientSignalActivation.questNameRules.rulesStrings>
     <li>questName->远古信号激活</li>

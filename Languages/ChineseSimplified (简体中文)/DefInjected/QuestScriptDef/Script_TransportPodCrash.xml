@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->A transport pod crashes with a refugee</li>
+    <li>questDescription->一具运输舱坠毁，载着一位难民</li>
   -->
   <RefugeePodCrash.questDescriptionRules.rulesStrings>
     <li>questDescription->装有难民的运输舱坠毁</li>
   </RefugeePodCrash.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->Transport pod crash</li>
+    <li>questName->运输舱坠毁</li>
   -->
   <RefugeePodCrash.questNameRules.rulesStrings>
     <li>questName->运输舱坠毁</li>

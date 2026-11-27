@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_battlename->Free-for-all</li>
+    <li>r_battlename->混战</li>
   -->
   <Battle_Brawl.rulePack.rulesStrings>
     <li>r_battlename->混战</li>
@@ -16,14 +16,14 @@
   </Battle_Duel.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_battlename->[FACTION1_name] internal conflict</li>
+    <li>r_battlename->[FACTION1_name]内乱</li>
   -->
   <Battle_Internal.rulePack.rulesStrings>
     <li>r_battlename->[FACTION1_name]内战</li>
   </Battle_Internal.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_battlename->[PARTICIPANT1_nameDef]'s report</li>
+    <li>r_battlename->[PARTICIPANT1_nameDef]的报告</li>
   -->
   <Battle_Solo.rulePack.rulesStrings>
     <li>r_battlename->[PARTICIPANT1_nameDef] 的报告</li>

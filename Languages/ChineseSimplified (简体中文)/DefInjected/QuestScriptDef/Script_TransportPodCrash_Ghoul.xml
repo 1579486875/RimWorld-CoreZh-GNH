@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->A transport pod crashes with a ghoul</li>
+    <li>questDescription->一具运输舱坠毁，载着一只食尸鬼</li>
   -->
   <RefugeePodCrash_Ghoul.questDescriptionRules.rulesStrings>
     <li>questDescription->一个载有食尸鬼的运输舱坠毁</li>
   </RefugeePodCrash_Ghoul.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->Transport pod crash</li>
+    <li>questName->运输舱坠毁</li>
   -->
   <RefugeePodCrash_Ghoul.questNameRules.rulesStrings>
     <li>questName->运输舱坠毁</li>

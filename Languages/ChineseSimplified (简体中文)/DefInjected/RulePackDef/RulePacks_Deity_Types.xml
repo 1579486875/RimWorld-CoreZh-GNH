@@ -3,12 +3,12 @@
   
   <!-- EN:
     <li>r_deityType->[god] of [memeConcept]</li>
-    <li>god(p=7, gender!=Female)->God</li>
-    <li>god(p=7, gender==Female)->Goddess</li>
+    <li>god(p=7, gender!=Female)->神</li>
+    <li>god(p=7, gender==Female)->女神</li>
     <li>god(p=4)->[memeGod]</li>
-    <li>god(p=3)->Spirit</li>
-    <li>god->Creator</li>
-    <li>god->Master</li>
+    <li>god(p=3)->精灵</li>
+    <li>god->造物主</li>
+    <li>god->主宰</li>
   -->
   <DeityTypeMakerGlobal.rulePack.rulesStrings>
     <li>r_deityType->[memeConcept]之[god] </li>

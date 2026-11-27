@@ -9,23 +9,23 @@
   </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
   
   <!-- EN:
-    <li>threatDescription->(*Threat)[hivesCount] insect hives(/Threat) will burrow up from underground.</li>
+    <li>threatDescription->(*Threat)[hivesCount] 座虫巢(/Threat)将从地下钻出。</li>
   -->
   <Util_Infestation.questDescriptionRules.rulesStrings>
     <li>threatDescription->(*Threat)[hivesCount]个虫巢(/Threat)将会冲出地面。</li>
   </Util_Infestation.questDescriptionRules.rulesStrings>
   
   <!-- EN:
-    <li>threatDescription->a pack of (*Threat)[animalCount] manhunting [animalKind_labelPlural](/Threat) will arrive.</li>
+    <li>threatDescription->一群 (*Threat)[animalCount] 只陷入猎杀状态的[animalKind_labelPlural](/Threat)将会到来。</li>
   -->
   <Util_ManhunterPack.questDescriptionRules.rulesStrings>
     <li>threatDescription->(*Threat)一群约[animalCount]只正在疯狂猎杀人类的[animalKind_labelPlural](/Threat)即将来到附近。</li>
   </Util_ManhunterPack.questDescriptionRules.rulesStrings>
   
   <!-- EN:
-    <li>threatDescription->a new site will appear nearby, where [allSitePartsDescriptions] This threat will remain until you go destroy it.</li>
-    <li>defaultSiteAppearedLetterText->A new site has appeared nearby.\n\n[allSitePartsDescriptions]</li>
-    <li>defaultSiteAppearedLetterLabel->Site appeared: [site_label]</li>
+    <li>threatDescription->附近将出现一处新地点，那里[allSitePartsDescriptions]。这个威胁会一直存在，直到你前去摧毁它。</li>
+    <li>defaultSiteAppearedLetterText->附近出现了一处新地点。\n\n[allSitePartsDescriptions]</li>
+    <li>defaultSiteAppearedLetterLabel->地点出现：[site_label]</li>
   -->
   <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
     <li>threatDescription->一个新站点将会出现在附近。除非你去摧毁它，否则[allSitePartsDescriptions]将会一直存在。</li>

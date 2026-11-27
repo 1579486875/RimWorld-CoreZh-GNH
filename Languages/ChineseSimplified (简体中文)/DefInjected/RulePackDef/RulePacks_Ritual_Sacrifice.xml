@@ -9,11 +9,11 @@
     <li>r_ritualName->[sacrifice] of [keyDeity]</li>
     <li>r_ritualName->[sacrifice] of [memeConcept]</li>
     <li>r_ritualName->[sacrifice] of [chosenIdeoName]</li>
-    <li>sacrifice->sacrifice</li>
-    <li>sacrifice->offering</li>
-    <li>sacrifice->immolation</li>
-    <li>sacrifice->oblation</li>
-    <li>sacrifice->slaughtering</li>
+    <li>sacrifice->献祭</li>
+    <li>sacrifice->供献</li>
+    <li>sacrifice->焚献</li>
+    <li>sacrifice->祭献</li>
+    <li>sacrifice->宰献</li>
   -->
   <NamerRitualSacrifice.rulePack.rulesStrings>
     <li>r_ritualName(p=2)->[memeAdjective][sacrifice]</li>

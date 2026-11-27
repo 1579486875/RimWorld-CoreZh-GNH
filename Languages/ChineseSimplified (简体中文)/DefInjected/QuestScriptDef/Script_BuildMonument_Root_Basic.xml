@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN:
-    <li>commonEnding->The monument is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nConstruction must be completed within [constructionTimeoutTicks_duration] of accepting the task. You'll receive the rewards when you finish construction.[dontDestroyMonument]</li>
+    <li>commonEnding->纪念碑的规模为[monumentSize]，需要以下资源（总价值[monumentRequiredResourcesMarketValue_money]）：\n\n[monumentRequiredResources]\n\n建造必须在接下任务后的[constructionTimeoutTicks_duration]内完成。完工后即可领取报酬。[dontDestroyMonument]</li>
     <li>dontDestroyMonument(priority=-10)-></li>
-    <li>dontDestroyMonument->\n\nIf the monument is destroyed within [keepMonumentTicks_duration] days of construction, your relations with [asker_factionName] will fall by [goodwillChangeIfMonumentDestroyed].</li>
+    <li>dontDestroyMonument->\n\n若纪念碑在建成后[keepMonumentTicks_duration]天内被毁，你与[asker_factionName]的关系将下降[goodwillChangeIfMonumentDestroyed]。</li>
   -->
   <BuildMonument_Basic.questDescriptionRules.rulesStrings>
     <li>commonEnding->这个[monumentSize]尺寸的纪念碑需要这些资源（总价值 [monumentRequiredResourcesMarketValue_money]）：\n\n[monumentRequiredResources]\n\n这个结构必须在接受任务后的[constructionTimeoutTicks_duration]内完成。当你完成结构之后会获得奖励。[dontDestroyMonument]</li>

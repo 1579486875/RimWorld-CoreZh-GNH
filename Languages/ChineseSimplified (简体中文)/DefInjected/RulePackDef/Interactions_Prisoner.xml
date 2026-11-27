@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN:
-    <li>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</li>
+    <li>sent->[RECIPIENT_nameDef]接受了，并加入了[INITIATOR_nameDef]的社群。</li>
   -->
   <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef]接受并加入了[INITIATOR_nameDef]的群体。</li>
   </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>sent->[RECIPIENT_nameDef] refused.</li>
+    <li>sent->[RECIPIENT_nameDef]拒绝了。</li>
   -->
   <Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef]拒绝了提议。</li>

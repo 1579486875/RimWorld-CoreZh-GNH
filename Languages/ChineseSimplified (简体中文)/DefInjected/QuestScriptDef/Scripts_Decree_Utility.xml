@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN:
-    <li>decreeIntro->[asker_nameDef], your [asker_bestRoyalTitle], has issued a royal decree.</li>
-    <li>decreeThreatInfo->If you fail to fulfill this decree within [decreeDays] days, [asker_nameDef] will start to become unhappy. [asker_possessive] anger will increase over time until the decree is satisfied.</li>
+    <li>decreeIntro->[asker_nameDef]——你的[asker_bestRoyalTitle]——颁布了一道王室敕令。</li>
+    <li>decreeThreatInfo->若你未能在[decreeDays]天内完成这道敕令，[asker_nameDef]就会开始不满。[asker_possessive]怒气会随时间增长，直到敕令得到满足。</li>
   -->
   <DecreeSetup.questDescriptionRules.rulesStrings>
     <li>decreeIntro->你的[asker_bestRoyalTitle]，[asker_nameDef]，颁布了一条皇家法令。</li>

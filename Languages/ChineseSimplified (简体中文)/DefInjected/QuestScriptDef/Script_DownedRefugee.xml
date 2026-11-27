@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription(askerIsNull==true)->[refugee_nameDef] contacts you and requests help. [refugee_pronoun] is wounded and unable to move.\n\n[refugee_nameDef] is a [refugee_age]-year-old [refugee_title]. [refugee_pronoun] promises to join you if you rescue [refugee_objective].\n\n[refugee_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] friend has been wounded while traveling. The victim is [refugee_nameIndef], a [refugee_age]-year-old [refugee_title].\n\n[asker_nameDef] has nobody to spare to rescue [refugee_nameDef], but says that if you can make it to [refugee_nameDef]'s position and rescue [refugee_objective], [refugee_pronoun] will join you.\n\n[asker_nameDef] says that [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>questDescription(askerIsNull==true)->[refugee_nameDef]联系上你，请求援助。[refugee_pronoun]受了伤，动弹不得。\n\n[refugee_nameDef]是一位[refugee_age]岁的[refugee_title]。[refugee_pronoun]承诺：若你救出[refugee_objective]，就会加入你。\n\n[refugee_nameDef]说，[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]的[asker_faction_leaderTitle][asker_nameDef]说，[asker_possessive]朋友在旅途中受了伤。伤者是[refugee_nameIndef]，一位[refugee_age]岁的[refugee_title]。\n\n[asker_nameDef]抽不出人去救[refugee_nameDef]，但说只要你能赶到[refugee_nameDef]的位置并救出[refugee_objective]，[refugee_pronoun]就会加入你。\n\n[asker_nameDef]说，[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo-></li>
   -->
@@ -14,10 +14,10 @@
     <li>pawnInvolvedInQuestInfo-></li>
   </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->Saving [refugee_nameDef]</li>
-    <li>questName->The Rescue of [refugee_nameDef]</li>
-    <li>questName->[refugee_nameDef]'s Rescue</li>
-    <li>questName->[refugee_nameDef]'s Salvation</li>
+    <li>questName->拯救[refugee_nameDef]</li>
+    <li>questName->[refugee_nameDef]的营救</li>
+    <li>questName->[refugee_nameDef]的救援</li>
+    <li>questName->[refugee_nameDef]的救赎</li>
   -->
   <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
     <li>questName->挽救[refugee_nameDef]</li>

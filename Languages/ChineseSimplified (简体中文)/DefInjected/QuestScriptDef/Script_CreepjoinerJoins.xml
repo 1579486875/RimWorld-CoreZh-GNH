@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->creepjoiner</li>
+    <li>questDescription->诡异投奔者</li>
   -->
   <CreepJoinerArrival.questDescriptionRules.rulesStrings>
     <li>questDescription->古怪同伴</li>
   </CreepJoinerArrival.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questDescription->creepjoiner</li>
+    <li>questDescription->诡异投奔者</li>
   -->
   <CreepJoinerArrival.questNameRules.rulesStrings>
     <li>questDescription->古怪同伴</li>
   </CreepJoinerArrival.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->creepjoiner</li>
+    <li>questDescription->诡异投奔者</li>
   -->
   <CreepJoinerArrival_Metalhorror.questDescriptionRules.rulesStrings>
     <li>questDescription->古怪同伴</li>
   </CreepJoinerArrival_Metalhorror.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questDescription->creepjoiner</li>
+    <li>questDescription->诡异投奔者</li>
   -->
   <CreepJoinerArrival_Metalhorror.questNameRules.rulesStrings>
     <li>questDescription->古怪同伴</li>

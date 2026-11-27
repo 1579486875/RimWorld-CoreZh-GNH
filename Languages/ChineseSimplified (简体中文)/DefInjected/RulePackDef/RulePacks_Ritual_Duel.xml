@@ -6,11 +6,11 @@
     <li>r_ritualName->[ritNoun] of [chosenTheme]</li>
     <li>r_ritualName->[ritNoun] of [memeConcept]</li>
     <li>r_ritualName->[memeAdjective] [ritNoun]</li>
-    <li>ritNoun->fight</li>
-    <li>ritNoun->duel</li>
-    <li>ritNoun->battle</li>
-    <li>ritNoun->brawl</li>
-    <li>ritNoun->contest</li>
+    <li>ritNoun->格斗</li>
+    <li>ritNoun->决斗</li>
+    <li>ritNoun->对战</li>
+    <li>ritNoun->混斗</li>
+    <li>ritNoun->较量</li>
   -->
   <NamerRitualGladiatorDuel.rulePack.rulesStrings>
     <li>r_ritualName->[keyDeity][ritNoun]</li>

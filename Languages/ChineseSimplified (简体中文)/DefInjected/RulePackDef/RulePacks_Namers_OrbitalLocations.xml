@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN:
-    <li>terrain_word(p=4)->asteroid</li>
-    <li>terrain_word->rock</li>
-    <li>terrain_word->satellite</li>
-    <li>terrain_word->planetoid</li>
-    <li>terrain_word->moon</li>
+    <li>terrain_word(p=4)->小行星</li>
+    <li>terrain_word->岩块</li>
+    <li>terrain_word->人造卫星</li>
+    <li>terrain_word->微行星</li>
+    <li>terrain_word->月球</li>
   -->
   <NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
     <li>terrain_word(p=4)->小行星</li>

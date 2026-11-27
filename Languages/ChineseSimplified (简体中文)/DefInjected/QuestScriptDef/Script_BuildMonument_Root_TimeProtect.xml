@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN:
-    <li>commonEnding->The monument is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\nConstruction must be completed within [constructionTimeoutTicks_duration] of accepting the task.\n\nAfter completion, you'll have to protect the monument for [haveToProtectForTicks_duration]. [asker2] will be upset if you abandon it during this time. If any piece of it is destroyed, [asker2]'s enforcement system will activate and [threatDescription]\n\nYou'll receive the rewards when you finish construction.</li>
+    <li>commonEnding->纪念碑的规模为[monumentSize]，需要以下资源（总价值[monumentRequiredResourcesMarketValue_money]）：\n\n[monumentRequiredResources]\n\n建造必须在接下任务后的[constructionTimeoutTicks_duration]内完成。\n\n完工后，你还得保护这座纪念碑[haveToProtectForTicks_duration]。若在此期间弃之不顾，[asker2]会不满。若其中任何一块被毁，[asker2]的强制执行系统就会启动，[threatDescription]\n\n完工后即可领取报酬。</li>
   -->
   <BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
     <li>commonEnding->建造这个[monumentSize]纪念碑需要如下资源（总价值：[monumentRequiredResourcesMarketValue_money]）：\n\n[monumentRequiredResources]\n\n一旦开始这项工程，建设必须在[constructionTimeoutTicks_duration]内完成。\n\n建造完成后，你需要在[haveToProtectForTicks_duration]内持续保护好纪念碑，如果你在这段时间内放弃了任务，[asker2]会不高兴。如果纪念碑受到一点损伤，[asker2]的执行系统将会激活并且[threatDescription]\n\n当你完成纪念碑建造工作后即会获得奖励。</li>

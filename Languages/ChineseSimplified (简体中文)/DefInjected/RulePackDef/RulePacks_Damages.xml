@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN:
-    <li>damaged_past->electrified</li>
-    <li>damaged_past->shocked</li>
-    <li>damaged_past->zapped</li>
+    <li>damaged_past->电击</li>
+    <li>damaged_past->触电</li>
+    <li>damaged_past->电麻</li>
     <li>destroyed_past->damaged_past</li>
   -->
   <Damage_MechBandShockwave.rulePack.rulesStrings>

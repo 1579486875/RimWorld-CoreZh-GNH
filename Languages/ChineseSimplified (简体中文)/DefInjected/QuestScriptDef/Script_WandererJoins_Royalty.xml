@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->A wander joins with abasia</li>
+    <li>questDescription->一位游荡者带着麻痹性失步症加入</li>
   -->
   <WandererJoinAbasia.questDescriptionRules.rulesStrings>
     <li>questDescription->一个流浪者带着麻痹加入了</li>
   </WandererJoinAbasia.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->Wanderer joins with abasia</li>
+    <li>questName->游荡者带病加入</li>
   -->
   <WandererJoinAbasia.questNameRules.rulesStrings>
     <li>questName->麻痹流浪者</li>
