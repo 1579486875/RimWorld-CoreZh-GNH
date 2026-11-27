@@ -3,26 +3,26 @@
   
   <!-- EN:
     <li>r_name(p=2)->[empire] of [ofThing]</li>
-    <li>r_name(p=2)->The [empire] of [ofThing]</li>
-    <li>r_name->The Exodus [empire]</li>
-    <li>r_name->The Refugee [empire]</li>
-    <li>r_name->The Broken [empire]</li>
-    <li>r_name->The Shattered [empire]</li>
-    <li>r_name->The Fallen [empire]</li>
-    <li>r_name->The [Color] [empire]</li>
-    <li>empire(p=4)->Empire</li>
-    <li>empire->Commonwealth</li>
-    <li>empire->Imperium</li>
-    <li>empire->Dominion</li>
-    <li>empire->Sovereignty</li>
+    <li>r_name(p=2)->[ofThing]的[empire]</li>
+    <li>r_name->出走[empire]</li>
+    <li>r_name->流亡[empire]</li>
+    <li>r_name->破碎[empire]</li>
+    <li>r_name->碎裂[empire]</li>
+    <li>r_name->殒落[empire]</li>
+    <li>r_name->[Color][empire]</li>
+    <li>empire(p=4)->帝国</li>
+    <li>empire->联邦</li>
+    <li>empire->治权</li>
+    <li>empire->领权</li>
+    <li>empire->主权国</li>
     <li>ofThing(p=4)->[WordImperial]</li>
-    <li>ofThing->the Sun</li>
-    <li>ofThing->the Moon</li>
-    <li>ofThing->the Universe</li>
-    <li>ofThing->God</li>
-    <li>ofThing->Perfection</li>
-    <li>ofThing->Eternity</li>
-    <li>ofThing->the Spirit</li>
+    <li>ofThing->太阳</li>
+    <li>ofThing->月亮</li>
+    <li>ofThing->宇宙</li>
+    <li>ofThing->神</li>
+    <li>ofThing->至善</li>
+    <li>ofThing->永恒</li>
+    <li>ofThing->圣灵</li>
   -->
   <NamerFactionEmpire.rulePack.rulesStrings>
     <li>r_name(p=2)->[ofThing][empire]</li>
@@ -75,26 +75,26 @@
     <li>r_name->[townname_fixed]</li>
     <li>townname_wordgen->[WordImperial]</li>
     <li>townname_wordgen->[WordImperial][townend]</li>
-    <li>townend(p=3)->ium</li>
-    <li>townend(p=3)->ior</li>
-    <li>townend(p=3)->polis</li>
-    <li>townend->nor</li>
-    <li>townend->lan</li>
-    <li>townend->lax</li>
-    <li>townend->lix</li>
-    <li>townend->lin</li>
-    <li>townend->lian</li>
-    <li>townend->phrum</li>
-    <li>townend->phor</li>
-    <li>townend->teor</li>
-    <li>townend->ople</li>
-    <li>townend->opium</li>
+    <li>townend(p=3)->姆</li>
+    <li>townend(p=3)->奥尔</li>
+    <li>townend(p=3)->波利斯</li>
+    <li>townend->诺</li>
+    <li>townend->兰</li>
+    <li>townend->拉克斯</li>
+    <li>townend->利克斯</li>
+    <li>townend->林</li>
+    <li>townend->连</li>
+    <li>townend->弗鲁姆</li>
+    <li>townend->福尔</li>
+    <li>townend->泰奥尔</li>
+    <li>townend->奥普尔</li>
+    <li>townend->奥皮姆</li>
     <li>townend->or</li>
-    <li>townend->aetor</li>
-    <li>townend->aeum</li>
-    <li>townend->aetium</li>
+    <li>townend->埃托尔</li>
+    <li>townend->埃乌姆</li>
+    <li>townend->埃提乌姆</li>
     <li>townend->am</li>
-    <li>townend->aeum</li>
+    <li>townend->埃乌姆</li>
   -->
   <NamerSettlementEmpire.rulePack.rulesStrings>
     <li>r_name->[townname_wordgen]</li>

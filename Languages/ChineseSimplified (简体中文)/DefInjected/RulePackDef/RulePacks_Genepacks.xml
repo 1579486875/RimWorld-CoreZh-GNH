@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_name->genepack ([geneWord][otherGenesInfo])</li>
+    <li>r_name->基因包（[geneWord][otherGenesInfo]）</li>
     <li>otherGenesInfo(geneCount==1)-></li>
     <li>otherGenesInfo(geneCount>=2)-> +[geneCountMinusOne]</li>
   -->
@@ -19,54 +19,54 @@
     <li>anyPrefix->[commonPrefix]</li>
     <li>anySuffix->[geneSuffix]</li>
     <li>anySuffix(p=3)->[commonSuffix]</li>
-    <li>commonPrefix->xeno</li>
-    <li>commonPrefix->alt</li>
+    <li>commonPrefix->泽诺</li>
+    <li>commonPrefix->阿尔特</li>
     <li>commonPrefix->ab</li>
-    <li>commonPrefix->out</li>
-    <li>commonPrefix->sub</li>
-    <li>commonPrefix->exo</li>
-    <li>commonPrefix->tube</li>
-    <li>commonPrefix->lab</li>
-    <li>commonPrefix->pod</li>
+    <li>commonPrefix->外</li>
+    <li>commonPrefix->亚</li>
+    <li>commonPrefix->外生</li>
+    <li>commonPrefix->管</li>
+    <li>commonPrefix->实验</li>
+    <li>commonPrefix->舱</li>
     <li>commonPrefix->an</li>
-    <li>commonPrefix->bon</li>
-    <li>commonPrefix->cel</li>
-    <li>commonPrefix->del</li>
-    <li>commonPrefix->ech</li>
-    <li>commonPrefix->fil</li>
-    <li>commonPrefix->gor</li>
-    <li>commonPrefix->hor</li>
-    <li>commonPrefix->ich</li>
-    <li>commonPrefix->jack</li>
-    <li>commonPrefix->kol</li>
-    <li>commonPrefix->lox</li>
-    <li>commonPrefix->mack</li>
-    <li>commonPrefix->nor</li>
+    <li>commonPrefix->邦</li>
+    <li>commonPrefix->塞尔</li>
+    <li>commonPrefix->德尔</li>
+    <li>commonPrefix->埃克</li>
+    <li>commonPrefix->菲尔</li>
+    <li>commonPrefix->戈尔</li>
+    <li>commonPrefix->霍尔</li>
+    <li>commonPrefix->伊奇</li>
+    <li>commonPrefix->杰克</li>
+    <li>commonPrefix->科尔</li>
+    <li>commonPrefix->洛克斯</li>
+    <li>commonPrefix->麦克</li>
+    <li>commonPrefix->诺尔</li>
     <li>commonPrefix->os</li>
-    <li>commonPrefix->per</li>
-    <li>commonPrefix->quin</li>
-    <li>commonPrefix->rax</li>
-    <li>commonPrefix->sil</li>
-    <li>commonPrefix->tel</li>
-    <li>commonPrefix->ultra</li>
-    <li>commonPrefix->vox</li>
-    <li>commonPrefix->whis</li>
-    <li>commonPrefix->xen</li>
-    <li>commonPrefix->yon</li>
-    <li>commonPrefix->zel</li>
-    <li>commonSuffix->kind</li>
-    <li>commonSuffix->man</li>
+    <li>commonPrefix->珀尔</li>
+    <li>commonPrefix->昆</li>
+    <li>commonPrefix->拉克斯</li>
+    <li>commonPrefix->西尔</li>
+    <li>commonPrefix->特尔</li>
+    <li>commonPrefix->超</li>
+    <li>commonPrefix->沃克斯</li>
+    <li>commonPrefix->维斯</li>
+    <li>commonPrefix->泽恩</li>
+    <li>commonPrefix->永</li>
+    <li>commonPrefix->泽尔</li>
+    <li>commonSuffix->种</li>
+    <li>commonSuffix->曼</li>
     <li>commonSuffix->an</li>
     <li>commonSuffix->ar</li>
-    <li>commonSuffix->dol</li>
-    <li>commonSuffix->dal</li>
+    <li>commonSuffix->多尔</li>
+    <li>commonSuffix->达尔</li>
     <li>commonSuffix(p=3)->er</li>
     <li>commonSuffix(p=2)->en</li>
     <li>commonSuffix->ex</li>
     <li>commonSuffix->id</li>
     <li>commonSuffix->in</li>
     <li>commonSuffix->il</li>
-    <li>commonSuffix->ist</li>
+    <li>commonSuffix->者</li>
     <li>commonSuffix->on</li>
     <li>commonSuffix->ol</li>
     <li>commonSuffix->ox</li>
