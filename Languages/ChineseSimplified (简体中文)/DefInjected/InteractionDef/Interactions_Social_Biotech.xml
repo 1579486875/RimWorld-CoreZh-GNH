@@ -4,36 +4,36 @@
   <!-- EN: play -->
   <BabyPlay.label>玩耍</BabyPlay.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] made [RECIPIENT_nameDef] [reaction].</li>
+    <li>r_logentry->[INITIATOR_nameDef]让[RECIPIENT_nameDef][reaction]。</li>
     <li>r_logentry->[INITIATOR_nameDef] [interaction] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] played [babyGame] with [RECIPIENT_nameDef].</li>
-    <li>reaction->giggle</li>
-    <li>reaction->smile</li>
-    <li>reaction->squirm with joy</li>
-    <li>reaction->laugh</li>
-    <li>reaction->drool playfully</li>
-    <li>reaction->gurgle</li>
-    <li>reaction->squeal</li>
-    <li>reaction->burp</li>
-    <li>reaction->stare in fascination</li>
-    <li>interaction->delighted</li>
-    <li>interaction->played with</li>
-    <li>interaction->entertained</li>
-    <li>interaction->amused</li>
-    <li>interaction->tickled</li>
-    <li>interaction->nuzzled</li>
-    <li>interaction->snuffled</li>
-    <li>interaction->hugged</li>
-    <li>interaction->tossed</li>
-    <li>interaction->sang to</li>
-    <li>interaction->told a story to</li>
-    <li>interaction->played a magic trick on</li>
-    <li>babyGame->hide-and-go-seek</li>
-    <li>babyGame->peekaboo</li>
-    <li>babyGame->find-the-finger</li>
-    <li>babyGame->monkey-see-monkey-do</li>
-    <li>babyGame->show-and-tell</li>
-    <li>babyGame->fingerpuppets</li>
+    <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef]一起玩了[babyGame]。</li>
+    <li>reaction->咯咯笑</li>
+    <li>reaction->微笑</li>
+    <li>reaction->高兴地扭动</li>
+    <li>reaction->大笑</li>
+    <li>reaction->开心地流口水</li>
+    <li>reaction->咿呀作声</li>
+    <li>reaction->尖叫</li>
+    <li>reaction->打嗝</li>
+    <li>reaction->入迷地盯着看</li>
+    <li>interaction->欣喜</li>
+    <li>interaction->一起玩耍</li>
+    <li>interaction->被逗乐</li>
+    <li>interaction->被逗笑</li>
+    <li>interaction->被挠痒</li>
+    <li>interaction->被蹭了蹭</li>
+    <li>interaction->被闻了闻</li>
+    <li>interaction->被抱了抱</li>
+    <li>interaction->被抛高</li>
+    <li>interaction->被唱了歌</li>
+    <li>interaction->被讲了故事</li>
+    <li>interaction->被变了个戏法</li>
+    <li>babyGame->捉迷藏</li>
+    <li>babyGame->躲猫猫</li>
+    <li>babyGame->找手指</li>
+    <li>babyGame->学样游戏</li>
+    <li>babyGame->展示讲述</li>
+    <li>babyGame->手指偶</li>
   -->
   <BabyPlay.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]朝[RECIPIENT_nameDef][reaction]。</li>
@@ -71,32 +71,32 @@
   <!-- EN: animal lesson -->
   <LessonAnimals.label>驯兽课程</LessonAnimals.label>
   <!-- EN:
-    <li>r_logentry(p=4)->[INITIATOR_nameDef] [teach_verb] how to [animal_verb] [article_animal] to [RECIPIENT_nameDef].</li>
-    <li>article_animal->a megasloth</li>
-    <li>article_animal->a megaspider</li>
-    <li>article_animal->a thrumbo</li>
-    <li>article_animal->a boomrat</li>
-    <li>article_animal->a chinchilla</li>
-    <li>article_animal->a guinea pig</li>
-    <li>article_animal->a cobra</li>
-    <li>article_animal->an emu</li>
-    <li>article_animal->an iguana</li>
-    <li>article_animal->a raccoon</li>
-    <li>article_animal->a warg</li>
-    <li>article_animal->a yak</li>
-    <li>article_animal->a squirrel</li>
-    <li>article_animal->a muffalo</li>
-    <li>animal_verb->tame</li>
-    <li>animal_verb->feed</li>
-    <li>animal_verb->calm</li>
-    <li>animal_verb->spook</li>
-    <li>animal_verb->gain the trust of</li>
-    <li>subject->animal psychology</li>
-    <li>subject->taming techniques</li>
-    <li>subject->dangerous wildlife</li>
-    <li>subject->reptiles</li>
-    <li>subject->scaria</li>
-    <li>subject->kibble</li>
+    <li>r_logentry(p=4)->[INITIATOR_nameDef][teach_verb][RECIPIENT_nameDef]怎么[animal_verb][article_animal]。</li>
+    <li>article_animal->巨型树懒</li>
+    <li>article_animal->巨蜘蛛</li>
+    <li>article_animal->巨鼬</li>
+    <li>article_animal->爆炸鼠</li>
+    <li>article_animal->毛丝鼠</li>
+    <li>article_animal->豚鼠</li>
+    <li>article_animal->眼镜蛇</li>
+    <li>article_animal->鸸鹋</li>
+    <li>article_animal->鬣蜥</li>
+    <li>article_animal->浣熊</li>
+    <li>article_animal->座狼</li>
+    <li>article_animal->牦牛</li>
+    <li>article_animal->松鼠</li>
+    <li>article_animal->巨角兽</li>
+    <li>animal_verb->驯服</li>
+    <li>animal_verb->喂养</li>
+    <li>animal_verb->安抚</li>
+    <li>animal_verb->惊吓</li>
+    <li>animal_verb->取得信任</li>
+    <li>subject->动物心理学</li>
+    <li>subject->驯服技巧</li>
+    <li>subject->危险的野生动物</li>
+    <li>subject->爬行动物</li>
+    <li>subject->狂乱病</li>
+    <li>subject->饲料</li>
   -->
   <LessonAnimals.logRulesInitiator.rulesStrings>
     <li>r_logentry(p=4)->[INITIATOR_nameDef][teach_verb][RECIPIENT_nameDef]如何[animal_verb][article_animal]。</li>
@@ -130,24 +130,24 @@
   <!-- EN: art lesson -->
   <LessonArtistic.label>艺术课程</LessonArtistic.label>
   <!-- EN:
-    <li>article_tool->a paint brush</li>
-    <li>article_tool->a charcoal pencil</li>
-    <li>article_tool->a chisel</li>
-    <li>article_tool->a canvas</li>
-    <li>article_tool->a lump of clay</li>
-    <li>action->make art with</li>
-    <li>action->use</li>
-    <li>action->express one's self with</li>
-    <li>action_gerund->making art with</li>
-    <li>action_gerund->using</li>
-    <li>action_gerund->expressing one's self with</li>
-    <li>subject->sculpture materials</li>
-    <li>subject->famous artists</li>
-    <li>subject->famous paintings</li>
-    <li>subject->glitterworld galleries</li>
-    <li>subject->portraiture</li>
-    <li>subject->abstract art</li>
-    <li>subject->mixing paints</li>
+    <li>article_tool->画笔</li>
+    <li>article_tool->炭笔</li>
+    <li>article_tool->凿子</li>
+    <li>article_tool->画布</li>
+    <li>article_tool->一团黏土</li>
+    <li>action->用来做艺术</li>
+    <li>action->使用</li>
+    <li>action->用来表达自我</li>
+    <li>action_gerund->用……做艺术</li>
+    <li>action_gerund->使用</li>
+    <li>action_gerund->用……表达自我</li>
+    <li>subject->雕塑材料</li>
+    <li>subject->著名艺术家</li>
+    <li>subject->著名画作</li>
+    <li>subject->闪耀世界画廊</li>
+    <li>subject->肖像画</li>
+    <li>subject->抽象艺术</li>
+    <li>subject->调色</li>
   -->
   <LessonArtistic.logRulesInitiator.rulesStrings>
     <li>article_tool->一支画笔</li>
@@ -173,23 +173,23 @@
   <!-- EN: construction lesson -->
   <LessonConstruction.label>建造课程</LessonConstruction.label>
   <!-- EN:
-    <li>article_tool->a hammer</li>
-    <li>article_tool->a table saw</li>
-    <li>article_tool->a ruler</li>
-    <li>article_tool->a ladder</li>
-    <li>article_tool->a level</li>
-    <li>action->use</li>
-    <li>action->work with</li>
-    <li>action->inspect</li>
-    <li>action_gerund->using</li>
-    <li>action_gerund->working with</li>
-    <li>action_gerund->inspecting</li>
-    <li>subject->architecture</li>
-    <li>subject->construction techniques</li>
-    <li>subject->deconstruction techniques</li>
-    <li>subject->building materials</li>
-    <li>subject->modeling software</li>
-    <li>subject->blueprints</li>
+    <li>article_tool->锤子</li>
+    <li>article_tool->台锯</li>
+    <li>article_tool->尺子</li>
+    <li>article_tool->梯子</li>
+    <li>article_tool->水平仪</li>
+    <li>action->使用</li>
+    <li>action->用来加工</li>
+    <li>action->用来检查</li>
+    <li>action_gerund->使用</li>
+    <li>action_gerund->用……加工</li>
+    <li>action_gerund->检查</li>
+    <li>subject->建筑学</li>
+    <li>subject->建造技术</li>
+    <li>subject->拆除技术</li>
+    <li>subject->建筑材料</li>
+    <li>subject->建模软件</li>
+    <li>subject->蓝图</li>
   -->
   <LessonConstruction.logRulesInitiator.rulesStrings>
     <li>article_tool->一把锤子</li>
@@ -214,26 +214,26 @@
   <!-- EN: cooking lesson -->
   <LessonCooking.label>烹饪课程</LessonCooking.label>
   <!-- EN:
-    <li>article_tool->a stove</li>
-    <li>article_tool->a spatula</li>
-    <li>article_tool->an oven</li>
-    <li>article_tool->a saucepan</li>
-    <li>article_tool->a nutrient paste dispenser</li>
-    <li>article_tool->a butcher table</li>
-    <li>action->clean</li>
-    <li>action->cook with</li>
-    <li>action_gerund->cleaning</li>
-    <li>action_gerund->cooking with</li>
-    <li>subject->spices</li>
-    <li>subject->packaged survival meals</li>
-    <li>subject->egg varieties</li>
-    <li>subject->varieties of meats</li>
-    <li>subject->flavors</li>
-    <li>subject->recipes</li>
-    <li>situation->while caravaning</li>
-    <li>situation->blindfolded</li>
-    <li>situation->in a hurry</li>
-    <li>situation->safely</li>
+    <li>article_tool->炉灶</li>
+    <li>article_tool->锅铲</li>
+    <li>article_tool->烤箱</li>
+    <li>article_tool->炖锅</li>
+    <li>article_tool->营养膏分配器</li>
+    <li>article_tool->屠宰台</li>
+    <li>action->用来清洁</li>
+    <li>action->用来烹饪</li>
+    <li>action_gerund->清洁</li>
+    <li>action_gerund->用……烹饪</li>
+    <li>subject->香料</li>
+    <li>subject->包装生存餐</li>
+    <li>subject->各种蛋类</li>
+    <li>subject->各种肉类</li>
+    <li>subject->风味</li>
+    <li>subject->食谱</li>
+    <li>situation->在商队旅途中</li>
+    <li>situation->蒙着眼睛</li>
+    <li>situation->匆忙之中</li>
+    <li>situation->安全地</li>
   -->
   <LessonCooking.logRulesInitiator.rulesStrings>
     <li>article_tool->一个炉灶</li>
@@ -261,30 +261,30 @@
   <!-- EN: crafting lesson -->
   <LessonCrafting.label>手工课程</LessonCrafting.label>
   <!-- EN:
-    <li>article_tool->a screwdriver</li>
-    <li>article_tool->a pair of pliers</li>
-    <li>article_tool->a circuit board</li>
-    <li>article_tool->a tailor bench</li>
-    <li>article_tool->a machining table</li>
-    <li>article_tool->a fabricator</li>
-    <li>action->use</li>
-    <li>action->work with</li>
-    <li>action->inspect</li>
-    <li>action_gerund->using</li>
-    <li>action_gerund->working with</li>
-    <li>action_gerund->inspecting</li>
-    <li>subject->organizing tools</li>
-    <li>subject->tinkering accomplishments</li>
-    <li>subject->gadgets</li>
-    <li>subject->fabric varieties</li>
-    <li>subject->cloth weaving techniques</li>
-    <li>subject->plate armor</li>
-    <li>subject->utility belts</li>
-    <li>subject->bionics</li>
-    <li>situation->safely</li>
-    <li>situation->without instructions</li>
-    <li>situation->by candlelight</li>
-    <li>situation(p=0.1)->while drunk</li>
+    <li>article_tool->螺丝刀</li>
+    <li>article_tool->一把钳子</li>
+    <li>article_tool->电路板</li>
+    <li>article_tool->裁缝台</li>
+    <li>article_tool->机械加工台</li>
+    <li>article_tool->制造机</li>
+    <li>action->使用</li>
+    <li>action->用来加工</li>
+    <li>action->用来检查</li>
+    <li>action_gerund->使用</li>
+    <li>action_gerund->用……加工</li>
+    <li>action_gerund->检查</li>
+    <li>subject->整理工具</li>
+    <li>subject->摆弄小玩意的成就</li>
+    <li>subject->小装置</li>
+    <li>subject->各种织物</li>
+    <li>subject->织布技巧</li>
+    <li>subject->板甲</li>
+    <li>subject->多功能腰带</li>
+    <li>subject->仿生体</li>
+    <li>situation->安全地</li>
+    <li>situation->没有说明的情况下</li>
+    <li>situation->烛光下</li>
+    <li>situation(p=0.1)->醉酒时</li>
   -->
   <LessonCrafting.logRulesInitiator.rulesStrings>
     <li>article_tool->一把螺丝刀</li>
@@ -316,7 +316,7 @@
   <!-- EN: lesson -->
   <LessonGeneric.label>课程</LessonGeneric.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] taught a lesson to [RECIPIENT_nameDef]</li>
+    <li>r_logentry->[INITIATOR_nameDef]给[RECIPIENT_nameDef]上了一课</li>
   -->
   <LessonGeneric.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]教授了[RECIPIENT_nameDef]一节课程。</li>
@@ -325,18 +325,18 @@
   <!-- EN: intellectual lesson -->
   <LessonIntellectual.label>知识课程</LessonIntellectual.label>
   <!-- EN:
-    <li>subject->genetics</li>
-    <li>subject->techprints</li>
-    <li>subject->multi-analyzer functions</li>
-    <li>subject->philosophy</li>
-    <li>subject->mathematics</li>
-    <li>subject->biology</li>
-    <li>subject->chemistry</li>
-    <li>subject->archotech mysteries</li>
-    <li>subject->starship reactors</li>
-    <li>subject->the scientific method</li>
-    <li>subject->seminal whitepapers</li>
-    <li>subject->Johnson-Tanaka propulsion</li>
+    <li>subject->遗传学</li>
+    <li>subject->科技图纸</li>
+    <li>subject->多重分析仪的功能</li>
+    <li>subject->哲学</li>
+    <li>subject->数学</li>
+    <li>subject->生物学</li>
+    <li>subject->化学</li>
+    <li>subject->超凡智能的奥秘</li>
+    <li>subject->星舰反应堆</li>
+    <li>subject->科学方法</li>
+    <li>subject->开创性白皮书</li>
+    <li>subject->约翰逊-田中推进技术</li>
   -->
   <LessonIntellectual.logRulesInitiator.rulesStrings>
     <li>subject->遗传学</li>
@@ -356,41 +356,41 @@
   <!-- EN: medical lesson -->
   <LessonMedicine.label>医学课程</LessonMedicine.label>
   <!-- EN:
-    <li>r_logentry(p=5)->[INITIATOR_nameDef] [teach_verb] how to [medical_verb] [hediff] to [RECIPIENT_nameDef].</li>
-    <li>article_tool->a medicine pack</li>
-    <li>article_tool->a bandage</li>
-    <li>article_tool->a syringe</li>
-    <li>article_tool->a healroot plant</li>
-    <li>article_tool->a vitals monitor</li>
-    <li>article_tool->a scalpel</li>
-    <li>article_tool->a healer mech serum dose</li>
-    <li>article_tool->a painstopper</li>
-    <li>action->use</li>
-    <li>action->inspect</li>
-    <li>action_gerund->using</li>
-    <li>action_gerund->inspecting</li>
-    <li>hediff->blood loss</li>
-    <li>hediff->a heart attack</li>
-    <li>hediff->heatstroke</li>
-    <li>hediff->food poisoning</li>
-    <li>hediff->carcinoma</li>
-    <li>hediff->gut worms</li>
-    <li>hediff->muscle parasites</li>
-    <li>hediff->paralytic abasia</li>
-    <li>hediff->malaria</li>
-    <li>hediff->the flu</li>
-    <li>hediff->cirrhosis</li>
-    <li>medical_verb->diagnose</li>
-    <li>medical_verb->triage</li>
-    <li>medical_verb->treat</li>
-    <li>subject->anesthesia dosing</li>
-    <li>subject->types of cancer</li>
-    <li>subject->surgical procedures</li>
-    <li>subject->bedside manner</li>
-    <li>subject->sterilization methods</li>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef][teach_verb][RECIPIENT_nameDef]怎么[medical_verb][hediff]。</li>
+    <li>article_tool->医药包</li>
+    <li>article_tool->绷带</li>
+    <li>article_tool->注射器</li>
+    <li>article_tool->一株治疗根</li>
+    <li>article_tool->生命体征监测仪</li>
+    <li>article_tool->手术刀</li>
+    <li>article_tool->一剂治疗机械血清</li>
+    <li>article_tool->止痛器</li>
+    <li>action->使用</li>
+    <li>action->用来检查</li>
+    <li>action_gerund->使用</li>
+    <li>action_gerund->检查</li>
+    <li>hediff->失血</li>
+    <li>hediff->心脏病发作</li>
+    <li>hediff->中暑</li>
+    <li>hediff->食物中毒</li>
+    <li>hediff->癌变</li>
+    <li>hediff->肠道蠕虫</li>
+    <li>hediff->肌肉寄生虫</li>
+    <li>hediff->瘫痪性步态不能</li>
+    <li>hediff->疟疾</li>
+    <li>hediff->流感</li>
+    <li>hediff->肝硬化</li>
+    <li>medical_verb->诊断</li>
+    <li>medical_verb->分诊</li>
+    <li>medical_verb->治疗</li>
+    <li>subject->麻醉剂量</li>
+    <li>subject->各类癌症</li>
+    <li>subject->手术流程</li>
+    <li>subject->医者态度</li>
+    <li>subject->消毒方法</li>
   -->
   <LessonMedicine.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=5)->[INITIATOR_nameDef] [teach_verb] how to [medical_verb] [hediff] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef][teach_verb][RECIPIENT_nameDef]怎么[medical_verb][hediff]。</li>
     <li>article_tool->一个医药包</li>
     <li>article_tool->一卷绷带</li>
     <li>article_tool->一个注射器</li>
@@ -427,30 +427,30 @@
   <!-- EN: melee lesson -->
   <LessonMelee.label>格斗课程</LessonMelee.label>
   <!-- EN:
-    <li>article_tool->an axe</li>
-    <li>article_tool->a club</li>
-    <li>article_tool->a sword</li>
-    <li>article_tool->an elbow blade</li>
-    <li>article_tool->a hand talon</li>
-    <li>article_tool->a longsword</li>
-    <li>article_tool->a monosword</li>
-    <li>article_tool->a plasmasword</li>
-    <li>article_tool->a spear</li>
-    <li>article_tool->a mace</li>
-    <li>article_tool->a warhammer</li>
-    <li>article_tool->a fist</li>
-    <li>action->parry</li>
-    <li>action->fight with</li>
-    <li>action->counter</li>
-    <li>action->care for</li>
-    <li>action->use</li>
-    <li>action->swing</li>
-    <li>action_gerund->parrying</li>
-    <li>action_gerund->fighting with</li>
-    <li>action_gerund->countering</li>
-    <li>action_gerund->caring for</li>
-    <li>action_gerund->using</li>
-    <li>action_gerund->swinging</li>
+    <li>article_tool->斧头</li>
+    <li>article_tool->棍棒</li>
+    <li>article_tool->剑</li>
+    <li>article_tool->肘刃</li>
+    <li>article_tool->手爪</li>
+    <li>article_tool->长剑</li>
+    <li>article_tool->单分子剑</li>
+    <li>article_tool->等离子剑</li>
+    <li>article_tool->长矛</li>
+    <li>article_tool->钉头锤</li>
+    <li>article_tool->战锤</li>
+    <li>article_tool->拳头</li>
+    <li>action->格挡</li>
+    <li>action->用来战斗</li>
+    <li>action->反击</li>
+    <li>action->用来保养</li>
+    <li>action->使用</li>
+    <li>action->挥舞</li>
+    <li>action_gerund->格挡</li>
+    <li>action_gerund->用……战斗</li>
+    <li>action_gerund->反击</li>
+    <li>action_gerund->保养</li>
+    <li>action_gerund->使用</li>
+    <li>action_gerund->挥舞</li>
   -->
   <LessonMelee.logRulesInitiator.rulesStrings>
     <li>article_tool->一把战斧</li>
@@ -482,26 +482,26 @@
   <!-- EN: mining lesson -->
   <LessonMining.label>采矿课程</LessonMining.label>
   <!-- EN:
-    <li>article_tool->a pickaxe</li>
-    <li>article_tool->a deep drill</li>
-    <li>article_tool->a shovel</li>
-    <li>article_tool->a long-range mineral scanner</li>
-    <li>article_tool->a ground-penetrating scanner</li>
-    <li>action->use</li>
-    <li>action->mine with</li>
-    <li>action->work with</li>
-    <li>action->inspect</li>
-    <li>action_gerund->using</li>
-    <li>action_gerund->mining with</li>
-    <li>action_gerund->working with</li>
-    <li>action_gerund->inspecting</li>
-    <li>subject->mineral veins</li>
-    <li>subject->precious gemstones</li>
-    <li>subject->geology</li>
-    <li>subject->tunneling</li>
-    <li>subject->sediment analysis</li>
-    <li>subject->cave-dwelling insects</li>
-    <li>situation(p=2)->underground</li>
+    <li>article_tool->镐</li>
+    <li>article_tool->深钻井</li>
+    <li>article_tool->铲子</li>
+    <li>article_tool->远程矿物扫描仪</li>
+    <li>article_tool->地表穿透扫描仪</li>
+    <li>action->使用</li>
+    <li>action->用来采矿</li>
+    <li>action->用来加工</li>
+    <li>action->用来检查</li>
+    <li>action_gerund->使用</li>
+    <li>action_gerund->用……采矿</li>
+    <li>action_gerund->用……加工</li>
+    <li>action_gerund->检查</li>
+    <li>subject->矿脉</li>
+    <li>subject->珍贵宝石</li>
+    <li>subject->地质学</li>
+    <li>subject->隧道挖掘</li>
+    <li>subject->沉积物分析</li>
+    <li>subject->穴居虫族</li>
+    <li>situation(p=2)->在地下</li>
   -->
   <LessonMining.logRulesInitiator.rulesStrings>
     <li>article_tool->一把铁镐</li>
@@ -529,23 +529,23 @@
   <!-- EN: gardening lesson -->
   <LessonPlants.label>园艺课程</LessonPlants.label>
   <!-- EN:
-    <li>article_tool->a sun lamp</li>
-    <li>article_tool->a hydroponics basin</li>
-    <li>article_tool->a sprinkler</li>
-    <li>article_tool->a shovel</li>
-    <li>article_tool->pruning shears</li>
-    <li>action->garden with</li>
-    <li>action->use</li>
-    <li>action->inspect</li>
-    <li>action_gerund->using</li>
-    <li>action_gerund->gardening with</li>
-    <li>action_gerund->inspecting</li>
-    <li>subject->types of soil</li>
-    <li>subject->pesticides</li>
-    <li>subject->irrigation techniques</li>
-    <li>subject->varieties of cacti</li>
-    <li>subject->anima trees</li>
-    <li>subject->gauranlen trees</li>
+    <li>article_tool->太阳灯</li>
+    <li>article_tool->水培盆</li>
+    <li>article_tool->洒水器</li>
+    <li>article_tool->铲子</li>
+    <li>article_tool->修枝剪</li>
+    <li>action->用来园艺</li>
+    <li>action->使用</li>
+    <li>action->用来检查</li>
+    <li>action_gerund->使用</li>
+    <li>action_gerund->用……园艺</li>
+    <li>action_gerund->检查</li>
+    <li>subject->各类土壤</li>
+    <li>subject->杀虫剂</li>
+    <li>subject->灌溉技巧</li>
+    <li>subject->各种仙人掌</li>
+    <li>subject->仙树</li>
+    <li>subject->高兰林树</li>
   -->
   <LessonPlants.logRulesInitiator.rulesStrings>
     <li>article_tool->一个太阳灯</li>
@@ -570,23 +570,23 @@
   <!-- EN: shooting lesson -->
   <LessonShooting.label>射击课程</LessonShooting.label>
   <!-- EN:
-    <li>article_tool->a rifle</li>
-    <li>article_tool->a pistol</li>
-    <li>article_tool->a shotgun</li>
-    <li>article_tool->a rocket launcher</li>
-    <li>article_tool->an SMG</li>
-    <li>article_tool->a minigun</li>
-    <li>article_tool->a short bow</li>
-    <li>article_tool->a recurve bow</li>
-    <li>article_tool->a greatbow</li>
-    <li>action->aim</li>
-    <li>action->shoot</li>
-    <li>action->care for</li>
-    <li>action->reload</li>
-    <li>action_gerund->aiming</li>
-    <li>action_gerund->shooting</li>
-    <li>action_gerund->caring for</li>
-    <li>action_gerund->reloading</li>
+    <li>article_tool->步枪</li>
+    <li>article_tool->手枪</li>
+    <li>article_tool->霰弹枪</li>
+    <li>article_tool->火箭筒</li>
+    <li>article_tool->冲锋枪</li>
+    <li>article_tool->转轮机枪</li>
+    <li>article_tool->短弓</li>
+    <li>article_tool->反曲弓</li>
+    <li>article_tool->大弓</li>
+    <li>action->瞄准</li>
+    <li>action->射击</li>
+    <li>action->用来保养</li>
+    <li>action->装填</li>
+    <li>action_gerund->瞄准</li>
+    <li>action_gerund->射击</li>
+    <li>action_gerund->保养</li>
+    <li>action_gerund->装填</li>
   -->
   <LessonShooting.logRulesInitiator.rulesStrings>
     <li>article_tool->一把突击步枪</li>
@@ -611,15 +611,15 @@
   <!-- EN: social lesson -->
   <LessonSocial.label>社交课程</LessonSocial.label>
   <!-- EN:
-    <li>subject->public speaking</li>
-    <li>subject->faction relations</li>
-    <li>subject->recruiting prisoners</li>
-    <li>subject->haggling techniques</li>
-    <li>subject->maintaining relationships</li>
-    <li>subject->comms console etiquette</li>
-    <li>subject->boosting morale</li>
-    <li>subject->naughty words</li>
-    <li>subject->sign language</li>
+    <li>subject->公开演讲</li>
+    <li>subject->派系关系</li>
+    <li>subject->招募囚犯</li>
+    <li>subject->砍价技巧</li>
+    <li>subject->维系人际关系</li>
+    <li>subject->通讯台礼仪</li>
+    <li>subject->提振士气</li>
+    <li>subject->粗俗用语</li>
+    <li>subject->手语</li>
   -->
   <LessonSocial.logRulesInitiator.rulesStrings>
     <li>subject->公开演讲</li>
@@ -636,76 +636,76 @@
   <!-- EN: sanguophage chat -->
   <SanguophageChat.label>赫血种交谈</SanguophageChat.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
-    <li>talkedabout->spoke about</li>
-    <li>talkedabout->talked about</li>
-    <li>talkedabout->whispered about</li>
-    <li>talkedabout(p=0.5)->spoke [adverb] about</li>
-    <li>talkedabout(p=0.5)->talked [adverb] about</li>
-    <li>talkedabout(p=0.5)->whispered [adverb] about</li>
-    <li>talkedabout->shared a word about</li>
-    <li>talkedabout->exchanged thoughts about</li>
-    <li>talkedabout->exchanged ideas about</li>
-    <li>talkedabout->expressed shared interest in</li>
-    <li>talkedabout->debated about</li>
-    <li>talkedabout->argued about</li>
-    <li>talkedabout->shared stories of</li>
-    <li>adverb->amicably</li>
-    <li>adverb->quietly</li>
-    <li>adverb->softly</li>
-    <li>adverb->disgustedly</li>
-    <li>adverb->bitterly</li>
-    <li>adverb->wearily</li>
-    <li>adverb->thoughtfully</li>
-    <li>adverb->soberly</li>
-    <li>adverb->grimly</li>
-    <li>adverb->solemnly</li>
-    <li>subject(p=20)->plans for [planType]</li>
+    <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][subject]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][subject]。</li>
+    <li>talkedabout->谈到了</li>
+    <li>talkedabout->聊到了</li>
+    <li>talkedabout->低声议论</li>
+    <li>talkedabout(p=0.5)->[adverb]谈到了</li>
+    <li>talkedabout(p=0.5)->[adverb]聊到了</li>
+    <li>talkedabout(p=0.5)->[adverb]低声议论</li>
+    <li>talkedabout->简要提了提</li>
+    <li>talkedabout->交换了对……的看法</li>
+    <li>talkedabout->交流了对……的想法</li>
+    <li>talkedabout->表达了对……的共同兴趣</li>
+    <li>talkedabout->辩论了</li>
+    <li>talkedabout->争论了</li>
+    <li>talkedabout->分享了关于……的故事</li>
+    <li>adverb->友好地</li>
+    <li>adverb->安静地</li>
+    <li>adverb->轻声地</li>
+    <li>adverb->厌恶地</li>
+    <li>adverb->苦涩地</li>
+    <li>adverb->疲惫地</li>
+    <li>adverb->若有所思地</li>
+    <li>adverb->冷静地</li>
+    <li>adverb->阴沉地</li>
+    <li>adverb->庄重地</li>
+    <li>subject(p=20)->关于[planType]的计划</li>
     <li>subject(p=0.1)->[TalkTopicHeavy]</li>
-    <li>subject->hemogen</li>
-    <li>subject->blood quality</li>
-    <li>subject->cannibalism</li>
-    <li>subject->deathlessness</li>
-    <li>subject->entropy</li>
-    <li>subject->eternity</li>
-    <li>subject->the passage of time</li>
-    <li>subject->life and death</li>
-    <li>subject->deathrest</li>
-    <li>subject->cheating death</li>
-    <li>subject->thralls</li>
-    <li>subject->humanity</li>
-    <li>subject->fire</li>
-    <li>subject->burning</li>
-    <li>subject->pain</li>
-    <li>subject->agony</li>
-    <li>subject->beheading</li>
-    <li>subject->flaying enemies</li>
-    <li>subject->torture</li>
-    <li>subject->archites</li>
-    <li>subject->genetics</li>
-    <li>subject->genes</li>
-    <li>subject->xenotypes</li>
-    <li>subject->sanguophages</li>
-    <li>subject->hussars</li>
-    <li>subject->impids</li>
-    <li>subject->dirtmoles</li>
-    <li>subject->genies</li>
-    <li>subject->neanderthals</li>
-    <li>subject->pigskins</li>
-    <li>subject->wasters</li>
-    <li>subject->deep history</li>
-    <li>subject->the history of the future</li>
-    <li>planType->domination</li>
-    <li>planType->escape</li>
-    <li>planType->blending in</li>
-    <li>planType->wielding influence</li>
-    <li>planType->collecting hemogen</li>
-    <li>planType->mastering technology</li>
-    <li>planType->spreading to other worlds</li>
-    <li>planType->influencing humans</li>
-    <li>planType->destroying sanguophage hunters</li>
-    <li>planType->enjoying endless life</li>
+    <li>subject->血原质</li>
+    <li>subject->血液品质</li>
+    <li>subject->食人</li>
+    <li>subject->不朽</li>
+    <li>subject->熵</li>
+    <li>subject->永恒</li>
+    <li>subject->时间的流逝</li>
+    <li>subject->生与死</li>
+    <li>subject->死眠</li>
+    <li>subject->欺骗死亡</li>
+    <li>subject->血奴</li>
+    <li>subject->人性</li>
+    <li>subject->火焰</li>
+    <li>subject->燃烧</li>
+    <li>subject->痛苦</li>
+    <li>subject->剧痛</li>
+    <li>subject->斩首</li>
+    <li>subject->剥敌人的皮</li>
+    <li>subject->酷刑</li>
+    <li>subject->远古科技</li>
+    <li>subject->遗传学</li>
+    <li>subject->基因</li>
+    <li>subject->异种</li>
+    <li>subject->血族</li>
+    <li>subject->骠骑兵</li>
+    <li>subject->炎魔</li>
+    <li>subject->掘地者</li>
+    <li>subject->灯神</li>
+    <li>subject->尼安德特人</li>
+    <li>subject->猪皮人</li>
+    <li>subject->废土人</li>
+    <li>subject->远古历史</li>
+    <li>subject->未来的历史</li>
+    <li>planType->统治</li>
+    <li>planType->逃离</li>
+    <li>planType->融入</li>
+    <li>planType->施加影响力</li>
+    <li>planType->收集血原质</li>
+    <li>planType->掌握技术</li>
+    <li>planType->向其他世界扩张</li>
+    <li>planType->影响人类</li>
+    <li>planType->消灭血族猎手</li>
+    <li>planType->享受无尽的生命</li>
   -->
   <SanguophageChat.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][subject]。</li>
