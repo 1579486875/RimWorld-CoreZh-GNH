@@ -2,68 +2,68 @@
 <LanguageData>
   
   <!-- EN:
-    <li>desc->a map [physicalDescription] showing a location of interest. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
-    <li>desc->[physicalDescription], this [mapType] [has] [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
-    <li>desc->this [mapType] is [physicalDescription] and [has] [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
-    <li>desc->a [mapType] containing [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
-    <li>desc->a collection of maps with [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
-    <li>desc->a map from [place] with [mapContents]. [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
-    <li>physicalDescription->printed on a thin and heat-resistant polymer</li>
-    <li>physicalDescription->laser-printed on hyperweave</li>
-    <li>physicalDescription->drawn in what appears to be dried blood</li>
-    <li>physicalDescription->held together with string</li>
-    <li>physicalDescription->bound in worn leather</li>
-    <li>physicalDescription->drawn on thin leather</li>
-    <li>physicalDescription->bound in vinyl</li>
-    <li>physicalDescription->etched into thin sheets of parchment</li>
-    <li>physicalDescription->etched in charcoal</li>
-    <li>physicalDescription->etched on a waterlogged canvas</li>
-    <li>physicalDescription->etched on fetid animal hide</li>
-    <li>physicalDescription->scrawled in black ink</li>
-    <li>physicalDescription->stitched into elk hide</li>
-    <li>physicalDescription->written on dried [Animal] skin</li>
-    <li>physicalDescription->crafted from blackened parchment</li>
-    <li>physicalDescription->delicately folded in sixteen sections</li>
-    <li>physicalDescription->printed by an industrial press</li>
-    <li>physicalDescription->printed on hyperweave</li>
-    <li>physicalDescription->delicately crafted on fine hyperweave</li>
-    <li>physicalDescription->adorned with holographic decals</li>
-    <li>physicalDescription->written in spidery handwriting</li>
-    <li>physicalDescription->inked upon yellowing paper</li>
-    <li>physicalDescription->inked with vivid colors</li>
-    <li>physicalDescription->clearly damaged from a fire</li>
-    <li>physicalDescription->drawn on a sturdy canvas</li>
-    <li>physicalDescription->folded many times over and smeared with dirt and charcoal</li>
-    <li>physicalDescription->drawn on crumbling parchment with faint spidery writing</li>
-    <li>physicalDescription->etched on yellowed parchment with tattered and crumbling edges</li>
-    <li>mapContents->hundreds of small drawings of [mapSubjectAdj] [mapSubject]</li>
-    <li>mapContents->quick sketches of [mapSubjectAdj] [mapSubject]</li>
-    <li>mapContents->lists of notable [mapSubject]. The longest list is titled '[AdjectiveBadass]!' It is circled in red ink</li>
-    <li>mapContents->burnt edges and smudged lines. The central map shows [mapSubjectAdj] [mapSubject] but the lines are obscured by [stain] stains</li>
-    <li>mapContents->new diagrams on every page. Some diagrams go into great detail about [mapSubject], the largest of which is undeniably [mapSubjectAdj]</li>
-    <li>mapContents->a mix of fantastical [mapSubject] and historical [mapSubject]</li>
-    <li>mapContents->dozens of ancient diagrams of [mapSubjectAdj] [mapSubject]</li>
-    <li>mapContents->themed drawings. A large central [depiction] resembles a [Animal], drawn in a [artstyle_adj] style</li>
-    <li>mapContents->thousands of strange symbols, many of which resemble [mapSubject]. The most common symbol looks like a [emotionalState] [Animal] drawn in a [artstyle_adj] style</li>
-    <li>mapContents->clear signs of age. One diagram, drawn with a different hand, shows the ancient [mapSubject] of [place]</li>
-    <li>mapContents->detailed diagrams of [place] [mapSubject] and their relation to [mapSubjectAdj] [mapSubject]</li>
-    <li>mapContents->four large sketches of [place] [mapSubject]</li>
-    <li>mapContents->many small diagrams. One diagram is labeled '[place] [RomanNumeral]' and contains a detailed survey of [place] [mapSubject]</li>
-    <li>mapContents->many small drawings of [mapSubjectAdj] [mapSubject] and [mapSubjectAdj] [mapSubject]</li>
-    <li>mapContents->detailed drawings of the planet. Several nearby locations are labeled '[Enemy]s' in red ink</li>
-    <li>mapContents->the coordinates for a number of [mapSubjectAdj] [mapSubject]</li>
-    <li>mapContents->coordinates highlighted in yellow marker</li>
-    <li>mapContents->drawings of nearby territories. Crude symbols mark safe havens and hidden caches</li>
-    <li>mapContents->the locations of [Quantity_adjphrase] [Animal] sanctuaries. Red 'X's also denote several graves</li>
-    <li>mapContents->nothing of importance. Or so it seems</li>
-    <li>mapContents->faded gridlines. Each quadrant contains [mapSubjectAdj] [mapSubject]</li>
-    <li>mapContents->[Quantity_adjphrase] [mapSubject] rendered in a [artstyle_adj] style. Underneath each is a [AdjectiveAny] [Animal]</li>
+    <li>desc->一张[physicalDescription]的地图，标示着一处值得关注的地点。[maybe_specialFact][maybe_authorInfo][maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->这份[physicalDescription]的[mapType]载有[mapContents]。[maybe_specialFact][maybe_authorInfo][maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->这份[mapType][physicalDescription]，载有[mapContents]。[maybe_specialFact][maybe_authorInfo][maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->一份载有[mapContents]的[mapType]。[maybe_specialFact][maybe_authorInfo][maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->一册地图集，其中绘有[mapContents]。[maybe_specialFact][maybe_authorInfo][maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->一张来自[place]的地图，绘有[mapContents]。[maybe_specialFact][maybe_authorInfo][maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>physicalDescription->印在薄而耐热的聚合物上</li>
+    <li>physicalDescription->以激光印制在超强纤维上</li>
+    <li>physicalDescription->以看似干涸血液的颜料绘制</li>
+    <li>physicalDescription->用细绳捆扎成册</li>
+    <li>physicalDescription->以磨损的皮革装订</li>
+    <li>physicalDescription->绘在薄皮革上</li>
+    <li>physicalDescription->以乙烯基材料装订</li>
+    <li>physicalDescription->蚀刻在薄薄的羊皮纸页上</li>
+    <li>physicalDescription->以炭笔蚀刻</li>
+    <li>physicalDescription->蚀刻在被水浸透的帆布上</li>
+    <li>physicalDescription->蚀刻在散发恶臭的兽皮上</li>
+    <li>physicalDescription->以黑墨水潦草涂写</li>
+    <li>physicalDescription->缝制在麋鹿皮上</li>
+    <li>physicalDescription->写在晾干的[Animal]皮上</li>
+    <li>physicalDescription->以熏黑的羊皮纸制成</li>
+    <li>physicalDescription->精巧地折成十六个折页</li>
+    <li>physicalDescription->以工业印刷机印制</li>
+    <li>physicalDescription->印在超强纤维上</li>
+    <li>physicalDescription->精巧地制于上等超强纤维之上</li>
+    <li>physicalDescription->饰有全息贴花</li>
+    <li>physicalDescription->以蛛丝般细密的字迹写成</li>
+    <li>physicalDescription->以墨水绘于泛黄的纸上</li>
+    <li>physicalDescription->以鲜艳的色彩着墨</li>
+    <li>physicalDescription->明显有过火烧的痕迹</li>
+    <li>physicalDescription->绘在结实的帆布上</li>
+    <li>physicalDescription->反复折叠多次，沾满污垢与炭灰</li>
+    <li>physicalDescription->绘在崩脆的羊皮纸上，字迹细如蛛丝而模糊</li>
+    <li>physicalDescription->蚀刻在泛黄的羊皮纸上，边缘破损崩脆</li>
+    <li>mapContents->数百幅[mapSubjectAdj][mapSubject]的小图</li>
+    <li>mapContents->[mapSubjectAdj][mapSubject]的速写</li>
+    <li>mapContents->若干份显赫[mapSubject]的名单。最长那份题为「[AdjectiveBadass]！」，用红墨水圈了起来</li>
+    <li>mapContents->边缘烧焦，线条模糊。中央的地图绘着[mapSubjectAdj][mapSubject]，但线条被[stain]污渍遮住</li>
+    <li>mapContents->每页都是新的图样。有些图样对[mapSubject]描绘得极为细致，其中最大的一幅无疑是[mapSubjectAdj]</li>
+    <li>mapContents->奇幻的[mapSubject]与史实的[mapSubject]混杂其间</li>
+    <li>mapContents->数十幅古老的[mapSubjectAdj][mapSubject]图样</li>
+    <li>mapContents->主题画作。中央一幅巨大的[depiction]形似一只[Animal]，以[artstyle_adj]风格绘成</li>
+    <li>mapContents->数千个奇异符号，其中许多形似[mapSubject]。最常见的符号像一只[emotionalState]的[Animal]，以[artstyle_adj]风格绘成</li>
+    <li>mapContents->明显陈旧。其中一幅出自他人笔迹的图样，绘着[place]古老的[mapSubject]</li>
+    <li>mapContents->[place][mapSubject]的详细图样，以及它们与[mapSubjectAdj][mapSubject]的关系</li>
+    <li>mapContents->四幅[place][mapSubject]的大幅速写</li>
+    <li>mapContents->许多小图样。其中一幅标注着「[place][RomanNumeral]」，内含对[place][mapSubject]的详尽测绘</li>
+    <li>mapContents->许多[mapSubjectAdj][mapSubject]与[mapSubjectAdj][mapSubject]的小图</li>
+    <li>mapContents->这颗行星的详尽图绘。附近数处地点用红墨水标着「[Enemy]」</li>
+    <li>mapContents->若干[mapSubjectAdj][mapSubject]的坐标</li>
+    <li>mapContents->用黄色记号笔标出的坐标</li>
+    <li>mapContents->周边地带的图绘。粗糙的符号标出避风处与隐藏的储物点</li>
+    <li>mapContents->[Quantity_adjphrase]处[Animal]庇护所的位置。红色「X」还标出了几座坟墓</li>
+    <li>mapContents->没有任何重要之物。至少看起来如此</li>
+    <li>mapContents->褪色的网格线。每个象限内都绘有[mapSubjectAdj][mapSubject]</li>
+    <li>mapContents->[Quantity_adjphrase]幅以[artstyle_adj]风格绘成的[mapSubject]。每一幅下方都有一只[AdjectiveAny]的[Animal]</li>
     <li>maybe_specialFact-></li>
     <li>maybe_specialFact->[specialFact]</li>
-    <li>specialFact->The markings are invisible in normal light. Yet, in complete darkness, ghostly symbols and spectral lines emerge, glowing a pale silver.</li>
-    <li>specialFact->Markings appear and vanish depending on the angle of the light.</li>
-    <li>specialFact->The pages glow faintly with crimson sigils that shift and twist when held to a flame.</li>
-    <li>specialFact->The annotations are in a regional dialect, suggesting the author is from [place].</li>
+    <li>specialFact->这些标记在寻常光线下不可见。然而在完全的黑暗中，幽灵般的符号与幽影线条会浮现出来，泛着苍白的银光。</li>
+    <li>specialFact->标记会随光线角度而显现或消隐。</li>
+    <li>specialFact->书页上有暗红的符印微微发光，凑近火焰时会扭动变形。</li>
+    <li>specialFact->批注用的是某种地方方言，可见作者来自[place]。</li>
     <li>specialFact->Each fold contains a letter and several numbers but their meaning is unclear.</li>
     <li>specialFact->Something about the markings is unnerving.</li>
     <li>specialFact->It contains annotations from a long forgotten language.</li>
