@@ -6,12 +6,12 @@
     <li>name->[syl][syl][end]</li>
     <li>name->[syl]-[syl][end]</li>
     <li>syl->[SylB]</li>
-    <li>end->kos</li>
-    <li>end->pos</li>
-    <li>end->pon</li>
-    <li>end->teo</li>
-    <li>end->teas</li>
-    <li>end->dio</li>
+    <li>end->科斯</li>
+    <li>end->波斯</li>
+    <li>end->蓬</li>
+    <li>end->特奥</li>
+    <li>end->忒阿斯</li>
+    <li>end->迪奥</li>
   -->
   <GodContent_Byzantine.rulePack.rulesStrings>
     <li>name->[syl][end]</li>
@@ -35,55 +35,55 @@
     <li>start->as</li>
     <li>start->at</li>
     <li>start->b</li>
-    <li>start->but</li>
-    <li>start->ban</li>
-    <li>start->bin</li>
-    <li>start->bon</li>
+    <li>start->布特</li>
+    <li>start->班</li>
+    <li>start->宾</li>
+    <li>start->邦</li>
     <li>start->c</li>
     <li>start->ca</li>
     <li>start->co</li>
     <li>start->d</li>
     <li>start->do</li>
-    <li>start->din</li>
-    <li>start->del</li>
+    <li>start->丁</li>
+    <li>start->德尔</li>
     <li>start->ed</li>
     <li>start->en</li>
-    <li>start->ent</li>
+    <li>start->恩特</li>
     <li>start->er</li>
     <li>start->es</li>
     <li>start->f</li>
-    <li>start->for</li>
-    <li>start->far</li>
-    <li>start->fin</li>
-    <li>start->fun</li>
-    <li>start->fen</li>
+    <li>start->福尔</li>
+    <li>start->法尔</li>
+    <li>start->芬</li>
+    <li>start->丰</li>
+    <li>start->芬</li>
     <li>start->g</li>
     <li>start->h</li>
-    <li>start->had</li>
-    <li>start->hat</li>
-    <li>start->hen</li>
-    <li>start->her</li>
-    <li>start->hin</li>
-    <li>start->his</li>
+    <li>start->哈德</li>
+    <li>start->哈特</li>
+    <li>start->亨</li>
+    <li>start->赫尔</li>
+    <li>start->欣</li>
+    <li>start->希斯</li>
     <li>start->in</li>
     <li>start->is</li>
     <li>start->it</li>
-    <li>start->ith</li>
+    <li>start->伊斯</li>
     <li>start->j</li>
     <li>start->k</li>
     <li>start->l</li>
-    <li>start->lon</li>
-    <li>start->len</li>
-    <li>start->lan</li>
+    <li>start->隆</li>
+    <li>start->伦</li>
+    <li>start->兰</li>
     <li>start->m</li>
-    <li>start->min</li>
-    <li>start->mon</li>
-    <li>start->men</li>
+    <li>start->敏</li>
+    <li>start->蒙</li>
+    <li>start->门</li>
     <li>start->n</li>
     <li>start->on</li>
     <li>start->or</li>
-    <li>start->oul</li>
-    <li>start->our</li>
+    <li>start->乌尔</li>
+    <li>start->奥尔</li>
     <li>start->p</li>
     <li>start->qu</li>
     <li>start->r</li>
@@ -91,11 +91,11 @@
     <li>start->sh</li>
     <li>start->st</li>
     <li>start->t</li>
-    <li>start->ted</li>
-    <li>start->ter</li>
+    <li>start->泰德</li>
+    <li>start->特尔</li>
     <li>start->un</li>
     <li>start->v</li>
-    <li>start->ver</li>
+    <li>start->维尔</li>
     <li>start->w</li>
     <li>start->y</li>
     <li>middle->a</li>
@@ -108,31 +108,31 @@
     <li>middle->ai</li>
     <li>middle->au</li>
     <li>end(p=4)-></li>
-    <li>end->cus</li>
-    <li>end->las</li>
-    <li>end->llas</li>
-    <li>end->lux</li>
-    <li>end->llux</li>
+    <li>end->库斯</li>
+    <li>end->拉斯</li>
+    <li>end->拉斯</li>
+    <li>end->卢克斯</li>
+    <li>end->卢克斯</li>
     <li>end->m</li>
     <li>end->n</li>
-    <li>end->nos</li>
-    <li>end->pius</li>
+    <li>end->诺斯</li>
+    <li>end->皮乌斯</li>
     <li>end->r</li>
     <li>end->ra</li>
-    <li>end->rus</li>
-    <li>end->rath</li>
-    <li>end->rrath</li>
-    <li>end->rum</li>
-    <li>end->rus</li>
-    <li>end->ron</li>
+    <li>end->鲁斯</li>
+    <li>end->拉斯</li>
+    <li>end->拉斯</li>
+    <li>end->鲁姆</li>
+    <li>end->鲁斯</li>
+    <li>end->罗恩</li>
     <li>end->s</li>
-    <li>end->stus</li>
-    <li>end->stor</li>
-    <li>end->teus</li>
+    <li>end->斯图斯</li>
+    <li>end->斯托</li>
+    <li>end->忒乌斯</li>
     <li>end->th</li>
-    <li>end->tor</li>
-    <li>end->ton</li>
-    <li>end->tar</li>
+    <li>end->托尔</li>
+    <li>end->顿</li>
+    <li>end->塔</li>
   -->
   <GodContent_English.rulePack.rulesStrings>
     <li>name->[start][middle][end]</li>
@@ -248,12 +248,12 @@
     <li>name->[syl][syl][end]</li>
     <li>name->[syl]'[syl][end]</li>
     <li>syl->[SylG]</li>
-    <li>end->abrei</li>
-    <li>end->tro</li>
+    <li>end->阿布雷</li>
+    <li>end->特罗</li>
     <li>end->ox</li>
-    <li>end->brin</li>
-    <li>end->bai</li>
-    <li>end->bust</li>
+    <li>end->布林</li>
+    <li>end->拜</li>
+    <li>end->布斯特</li>
   -->
   <NamerDeityCorunan.rulePack.rulesStrings>
     <li>name->[syl][end]</li>
