@@ -4,7 +4,7 @@
   <!-- EN: failed conversion -->
   <Convert_Failure.label>失败的教化</Convert_Failure.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</li>
+    <li>r_logentry->[INITIATOR_nameDef]试图使[RECIPIENT_nameDef]改信，但失败了。</li>
   -->
   <Convert_Failure.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]试图教化[RECIPIENT_nameDef]，但是失败了。</li>
@@ -13,7 +13,7 @@
   <!-- EN: successful conversion -->
   <Convert_Success.label>成功的教化</Convert_Success.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</li>
+    <li>r_logentry->[INITIATOR_nameDef]成功使[RECIPIENT_nameDef]改信。</li>
   -->
   <Convert_Success.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]尝试教化[RECIPIENT_nameDef]并且成功了。</li>
@@ -22,7 +22,7 @@
   <!-- EN: convert ideoligion attempt -->
   <ConvertIdeoAttempt.label>尝试教化文化形态</ConvertIdeoAttempt.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
+    <li>r_logentry->[INITIATOR_nameDef]试图让[RECIPIENT_nameDef]改信[INITIATOR_possessive]自己的理念。</li>
   -->
   <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]尝试将[RECIPIENT_nameDef]的文化形态教化为[INITIATOR_possessive]自己的文化形态。</li>
@@ -31,7 +31,7 @@
   <!-- EN: failed counsel -->
   <Counsel_Failure.label>失败的劝慰</Counsel_Failure.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
+    <li>r_logentry->[INITIATOR_nameDef]想劝导[RECIPIENT_nameDef]，却弄巧成拙，把事情弄得更糟。</li>
   -->
   <Counsel_Failure.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]尝试劝慰[RECIPIENT_nameDef]，但却搞砸了这次尝试，并且使事情变得更糟。</li>
@@ -40,13 +40,13 @@
   <!-- EN: successful counsel -->
   <Counsel_Success.label>成功的劝慰</Counsel_Success.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
-    <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
-    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] advice on overcoming negativity.</li>
-    <li>problems->[RECIPIENT_possessive] problems</li>
-    <li>problems->[RECIPIENT_possessive] troubles</li>
-    <li>problems->[RECIPIENT_possessive] painful feelings</li>
-    <li>problems->recent difficulties</li>
+    <li>r_logentry->[INITIATOR_nameDef]就[problems]开导[RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]帮[RECIPIENT_nameDef]想通了[problems]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]就如何克服消极情绪给[RECIPIENT_nameDef]提了建议。</li>
+    <li>problems->[RECIPIENT_possessive]的烦恼</li>
+    <li>problems->[RECIPIENT_possessive]的困扰</li>
+    <li>problems->[RECIPIENT_possessive]的痛苦感受</li>
+    <li>problems->最近的困境</li>
   -->
   <Counsel_Success.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]就[problems]对[RECIPIENT_nameDef]进行了劝慰。</li>
@@ -61,10 +61,10 @@
   <!-- EN: preached health -->
   <PreachHealth.label>健康宣讲</PreachHealth.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] strengthened [RECIPIENT_nameDef]'s health by preaching about [preaching_topic].</li>
-    <li>preaching_topic->reasons to live</li>
-    <li>preaching_topic->higher ideoligious goals</li>
-    <li>preaching_topic->[RECIPIENT_possessive] purpose of existence</li>
+    <li>r_logentry->[INITIATOR_nameDef]通过宣讲[preaching_topic]，增强了[RECIPIENT_nameDef]的健康。</li>
+    <li>preaching_topic->活下去的理由</li>
+    <li>preaching_topic->更高的理念目标</li>
+    <li>preaching_topic->[RECIPIENT_possessive]存在的意义</li>
   -->
   <PreachHealth.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]通过宣讲[preaching_topic]增强了[RECIPIENT_nameDef]的健康。</li>
@@ -76,7 +76,7 @@
   <!-- EN: reassurance -->
   <Reassure.label>安慰</Reassure.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
+    <li>r_logentry->[INITIATOR_nameDef]坚定了[RECIPIENT_nameDef]的信念。</li>
   -->
   <Reassure.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]加强了[RECIPIENT_nameDef]的信念。</li>
@@ -85,22 +85,22 @@
   <!-- EN: accuse -->
   <Trial_Accuse.label>指控</Trial_Accuse.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] presented some evidence.</li>
-    <li>r_logentry->[INITIATOR_nameDef] appealed to the emotions of the spectators.</li>
-    <li>r_logentry->[INITIATOR_nameDef] accused [RECIPIENT_nameDef] of [wrongdoing].</li>
-    <li>wrongdoing->sabotaging the colony</li>
-    <li>wrongdoing->being lazy</li>
-    <li>wrongdoing->eating too much</li>
-    <li>wrongdoing->stealing</li>
-    <li>wrongdoing->being a horrible person</li>
-    <li>wrongdoing->disrespecting sacred ideas</li>
-    <li>wrongdoing->disrespecting respected figures</li>
-    <li>wrongdoing->heresy</li>
-    <li>wrongdoing->murder</li>
-    <li>wrongdoing->blasphemy</li>
-    <li>wrongdoing->treason</li>
-    <li>wrongdoing->hateful thinking</li>
-    <li>wrongdoing->disloyalty</li>
+    <li>r_logentry->[INITIATOR_nameDef]呈上了一些证据。</li>
+    <li>r_logentry->[INITIATOR_nameDef]诉诸旁观者的情感。</li>
+    <li>r_logentry->[INITIATOR_nameDef]指控[RECIPIENT_nameDef][wrongdoing]。</li>
+    <li>wrongdoing->破坏殖民地</li>
+    <li>wrongdoing->懒惰</li>
+    <li>wrongdoing->吃得太多</li>
+    <li>wrongdoing->偷窃</li>
+    <li>wrongdoing->为人恶劣</li>
+    <li>wrongdoing->不敬神圣理念</li>
+    <li>wrongdoing->不敬受尊敬的人物</li>
+    <li>wrongdoing->异端</li>
+    <li>wrongdoing->谋杀</li>
+    <li>wrongdoing->亵渎</li>
+    <li>wrongdoing->叛国</li>
+    <li>wrongdoing->心怀仇恨</li>
+    <li>wrongdoing->不忠</li>
   -->
   <Trial_Accuse.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]提交了一些证据。</li>
@@ -124,13 +124,13 @@
   <!-- EN: defend -->
   <Trial_Defend.label>辩护</Trial_Defend.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] deflected the accusation.</li>
-    <li>r_logentry->[INITIATOR_nameDef] presented another interpretation.</li>
-    <li>r_logentry->[INITIATOR_nameDef] pleaded to jury.</li>
-    <li>r_logentry->[INITIATOR_nameDef] called for mercy.</li>
-    <li>r_logentry->[INITIATOR_nameDef] stalled the proceedings.</li>
-    <li>r_logentry->[INITIATOR_nameDef] dismissed the allegations.</li>
-    <li>r_logentry->[INITIATOR_nameDef] called the trial a sham.</li>
+    <li>r_logentry->[INITIATOR_nameDef]避开了这项指控。</li>
+    <li>r_logentry->[INITIATOR_nameDef]提出了另一种解释。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向陪审团陈情。</li>
+    <li>r_logentry->[INITIATOR_nameDef]请求宽恕。</li>
+    <li>r_logentry->[INITIATOR_nameDef]拖延了审理。</li>
+    <li>r_logentry->[INITIATOR_nameDef]驳回了这些指控。</li>
+    <li>r_logentry->[INITIATOR_nameDef]称这场审判是场骗局。</li>
   -->
   <Trial_Defend.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]驳斥了这一指责。</li>
@@ -145,7 +145,7 @@
   <!-- EN: work drive -->
   <WorkDrive.label>工作激励</WorkDrive.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</li>
+    <li>r_logentry->[INITIATOR_nameDef]号召[RECIPIENT_nameDef]为殖民地的利益加倍努力。</li>
   -->
   <WorkDrive.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]呼吁[RECIPIENT_nameDef]为了殖民地的利益而加倍努力工作。</li>

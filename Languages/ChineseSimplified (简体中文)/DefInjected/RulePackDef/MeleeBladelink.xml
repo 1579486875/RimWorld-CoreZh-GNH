@@ -11,53 +11,53 @@
     <li>nameAnimal->[NameAnimalUnisex]</li>
     <li>nameAnimal->[NameAnimalMale]</li>
     <li>nameAnimal->[NameAnimalFemale]</li>
-    <li>noun->oath</li>
-    <li>noun->promise</li>
-    <li>noun->death</li>
-    <li>noun->pain</li>
-    <li>noun->blood</li>
-    <li>noun->doom</li>
-    <li>noun->murder</li>
-    <li>noun->justice</li>
-    <li>noun->fear</li>
-    <li>noun->terror</li>
-    <li>noun->chaos</li>
-    <li>noun->order</li>
-    <li>noun->war</li>
-    <li>noun->silence</li>
-    <li>noun->debt</li>
-    <li>verber->keeper</li>
-    <li>verber->bringer</li>
-    <li>verber->sender</li>
-    <li>verber->giver</li>
-    <li>verber->maker</li>
-    <li>verber->crusher</li>
-    <li>verber->breaker</li>
-    <li>verber->smasher</li>
-    <li>verber->bender</li>
-    <li>verber->knower</li>
-    <li>verber->doer</li>
+    <li>noun->誓约</li>
+    <li>noun->诺言</li>
+    <li>noun->死亡</li>
+    <li>noun->痛苦</li>
+    <li>noun->血</li>
+    <li>noun->厄运</li>
+    <li>noun->谋杀</li>
+    <li>noun->正义</li>
+    <li>noun->恐惧</li>
+    <li>noun->恐怖</li>
+    <li>noun->混沌</li>
+    <li>noun->秩序</li>
+    <li>noun->战争</li>
+    <li>noun->寂静</li>
+    <li>noun->债务</li>
+    <li>verber->守护者</li>
+    <li>verber->带来者</li>
+    <li>verber->遣送者</li>
+    <li>verber->赐予者</li>
+    <li>verber->铸造者</li>
+    <li>verber->碾碎者</li>
+    <li>verber->破坏者</li>
+    <li>verber->砸碎者</li>
+    <li>verber->折弯者</li>
+    <li>verber->知晓者</li>
+    <li>verber->践行者</li>
     <li>beginSyl->vi</li>
     <li>beginSyl->na</li>
     <li>beginSyl->lo</li>
     <li>beginSyl->ra</li>
     <li>beginSyl->to</li>
-    <li>beginSyl->ger</li>
-    <li>beginSyl->xan</li>
-    <li>beginSyl->kel</li>
-    <li>middleSyl->ser</li>
-    <li>middleSyl->gar</li>
-    <li>middleSyl->lor</li>
-    <li>middleSyl->ven</li>
-    <li>middleSyl->zan</li>
-    <li>middleSyl->xal</li>
+    <li>beginSyl->格</li>
+    <li>beginSyl->赞</li>
+    <li>beginSyl->凯尔</li>
+    <li>middleSyl->瑟</li>
+    <li>middleSyl->加</li>
+    <li>middleSyl->洛</li>
+    <li>middleSyl->文</li>
+    <li>middleSyl->赞</li>
+    <li>middleSyl->克萨</li>
     <li>endSyl->ys</li>
     <li>endSyl->or</li>
     <li>endSyl->ar</li>
-    <li>endSyl->sum</li>
-    <li>endSyl->dor</li>
-    <li>endSyl->mar</li>
-    <li>endSyl->gur</li>
+    <li>endSyl->苏姆</li>
+    <li>endSyl->多</li>
+    <li>endSyl->玛</li>
+    <li>endSyl->古尔</li>
   -->
   <NamerWeaponBladelink.rulePack.rulesStrings>
     <li>r_weapon_name(p=3)->[noun][verber]</li>
