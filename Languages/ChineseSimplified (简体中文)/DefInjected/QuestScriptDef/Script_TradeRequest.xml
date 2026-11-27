@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIf you want to make the trade, send a caravan with the requested items.[travelTime]</li>
-    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
+    <li>questDescription->附近一处聚落[settlement_label]有一份特殊的贸易请求。他们想收购：\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo]（价值 [requestedThingMarketValue_money]）\n\n若你想做这笔生意，派一支带着所需物品的商队过去。[travelTime]</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->普通以上品质</li>
     <li>qualityInfo-></li>
-    <li>travelTime(canCaravan==True,priority=1)-> The estimated travel time is [estimatedTravelTime_duration].</li>
+    <li>travelTime(canCaravan==True,priority=1)->预计行程时间为[estimatedTravelTime_duration]。</li>
     <li>travelTime-></li>
   -->
   <TradeRequest.questDescriptionRules.rulesStrings>
@@ -16,18 +16,18 @@
     <li>travelTime-></li>
   </TradeRequest.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->Caravan to [settlement_label]</li>
-    <li>questName->Trade with [settlement_label]</li>
-    <li>questName->Selling to [settlement_label]</li>
-    <li>questName->Supplies for [settlement_label]</li>
+    <li>questName->前往[settlement_label]的商队</li>
+    <li>questName->与[settlement_label]交易</li>
+    <li>questName->向[settlement_label]出售</li>
+    <li>questName->为[settlement_label]供货</li>
     <li>questName->A [special] [trade]</li>
-    <li>special->Special</li>
-    <li>special->Unique</li>
-    <li>special->Non-traditional</li>
-    <li>trade->Trade</li>
-    <li>trade->Exchange</li>
-    <li>trade->Deal</li>
-    <li>trade->Offer</li>
+    <li>special->特殊</li>
+    <li>special->独特</li>
+    <li>special->非传统</li>
+    <li>trade->贸易</li>
+    <li>trade->交换</li>
+    <li>trade->交易</li>
+    <li>trade->报价</li>
   -->
   <TradeRequest.questNameRules.rulesStrings>
     <li>questName->[settlement_label]的交易订单</li>

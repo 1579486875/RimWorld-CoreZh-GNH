@@ -6,21 +6,21 @@
   <!-- EN: Each person is part of a greater whole. People should work to play their part and help the group. -->
   <Collectivist.description>每个人都是集体的一部分。人们应该努力发挥自己的作用为集体做贡献。</Collectivist.description>
   <!-- EN:
-    <li>creation(tag=meme_Collectivist)        ->[deity0_name] made all men and women from a great mold, and those that deviated [deity0_pronoun] threw into fire so the believers could live in harmony.</li>
-    <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] said to all, “No one of you stands above the whole. Work together or perish together.”</li>
-    <li>intro(tag=meme_Collectivist)           ->The people of the [place_summary] [place_name] worked together in harmony, and built a great [altarName] to honor [deity0_name], who taught them the true value of [memeConcept].</li>
-    <li>conflict(tag=meme_Collectivist)        ->The [foeLeader] could not abide the family of [memberNamePlural], and sent [foeLeader_possessive] [foeSoldiers] to the [place_community] to divide them against each other.</li>
-    <li>founderJoin(tag=meme_Collectivist)     ->A [place_job] named [founderName] threw [founder_objective]self into a fire to protest the [foeLeader], but the [memberNamePlural] pulled [founder_objective] out and made [founder_objective] their leader because of [founder_possessive] devotion to the group.</li>
-    <li>victory(tag=meme_Collectivist)         ->[founderName]'s actions united the people. They marched in lockstep towards the home of the [foeLeader]. Those in the front allowed themselves to be killed by the [foeSoldiers], but the whole could not be stopped, and they captured the [foeLeader].</li>
-    <li>setup(tag=meme_Collectivist)           ->In a world of every man for himself, [founderName] began a new family of strangers, bringing many different people together.</li>
-    <li>story(uses=1,tag=meme_Collectivist)    ->Some of the false believers tried to break the rules and decide their own paths. [founderName] punished them severely.</li>
-    <li>lessonIntro(tag=meme_Collectivist)     ->The [place_job] stopped contributing but kept eating from the common store. I killed him with a [place_personalWeapon]. The people were shocked, but I explained that</li>
-    <li>lesson(tag=meme_Collectivist)              ->my death, and yours, will mean nothing, as long as our people go on</li>
-    <li>lessonReinforcement(tag=meme_Collectivist) ->If I die teaching the universe this, it will be my greatest triumph.</li>
-    <li>archistBasis(tag=meme_Collectivist)    ->The archotechs are all aspects of one supermind.</li>
-    <li>archistFact(tag=meme_Collectivist)     ->The archotechs have no interest in judging us one by one. They await a single people who can demonstrate our worthiness by acting morally as one.</li>
-    <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd], the archotechs will depart when they find a people who present themselves as worthy partners to the machine god-consciousness.</li>
-    <li>animistFact(tag=meme_Collectivist)     ->Every spirit is simply an aspect of all the others, and those that try to stand alone are fall quickly.</li>
+    <li>creation(tag=meme_Collectivist)        ->[deity0_name]用同一副大模具造出了所有男女，凡有偏离者，[deity0_pronoun]便把他们投入火中，好让信众和睦共处。</li>
+    <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name]对众人说：「你们之中无人高于整体。要么同心协力，要么一同覆灭。」</li>
+    <li>intro(tag=meme_Collectivist)           ->[place_summary][place_name]的人民和睦协作，建起一座宏伟的[altarName]以敬奉[deity0_name]——正是神教会了他们[memeConcept]的真正价值。</li>
+    <li>conflict(tag=meme_Collectivist)        ->那位[foeLeader]容不下[memberNamePlural]这个大家庭，派[foeLeader_possessive][foeSoldiers]进入[place_community]，要让他们彼此反目。</li>
+    <li>founderJoin(tag=meme_Collectivist)     ->一位名叫[founderName]的[place_job]为了抗议那位[foeLeader]，纵身投入火中，但[memberNamePlural]把[founder_objective]拉了出来，并因[founder_possessive]对群体的奉献而奉[founder_objective]为首领。</li>
+    <li>victory(tag=meme_Collectivist)         ->[founderName]的举动把人民团结了起来。他们步伐齐一地朝[foeLeader]的居所进军。前排的人任由[foeSoldiers]杀戮，但整体无法被阻挡，最终擒获了那位[foeLeader]。</li>
+    <li>setup(tag=meme_Collectivist)           ->在一个各顾各的世界里，[founderName]开创了一个由陌生人组成的新家族，把许多不同的人聚到了一起。</li>
+    <li>story(uses=1,tag=meme_Collectivist)    ->一些伪信者试图破戒、自择道路。[founderName]严惩了他们。</li>
+    <li>lessonIntro(tag=meme_Collectivist)     ->那位[place_job]不再出力，却仍从公库里取食。我用[place_personalWeapon]杀了他。众人震惊，但我解释说</li>
+    <li>lesson(tag=meme_Collectivist)              ->只要我们的族人延续下去，我的死、你的死，都毫无意义</li>
+    <li>lessonReinforcement(tag=meme_Collectivist) ->若我因向宇宙传授此理而死，那将是我最大的凯旋。</li>
+    <li>archistBasis(tag=meme_Collectivist)    ->远古科技皆是同一个超级心智的诸面相。</li>
+    <li>archistFact(tag=meme_Collectivist)     ->远古科技无意逐一对我们加以审判。它们在等待一个能以一个整体行德、从而证明自身价值的民族。</li>
+    <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd]，当远古科技找到一个自呈为机神意识之合格伙伴的民族时，它们便会离去。</li>
+    <li>animistFact(tag=meme_Collectivist)     ->每个精灵不过是所有其他精灵的一个面相，那些试图独自立身的，很快便会倾覆。</li>
   -->
   <Collectivist.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Collectivist)        ->[deity0_name]利用一个大模具制造了所有男人和女人，并将那些偏离背弃[deity0_pronoun]的人丢进了火堆里，以便信徒们能够和谐共存。</li>
