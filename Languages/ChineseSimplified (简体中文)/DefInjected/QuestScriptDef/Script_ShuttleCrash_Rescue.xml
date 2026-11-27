@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN:
-    <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.</li>
-    <li>successLetterEndingCommon->You have successfully completed the quest '[resolvedQuestName]'.</li>
-    <li>goodwillSomeCiviliansLost->Not all the [asker_faction_pawnSingular] [pawnLabel] could be rescued. [goodwillNegativelyAffected]</li>
-    <li>goodwillAllCiviliansLost->None of the [asker_faction_pawnSingular] [pawnLabelPlural] could be rescued. [goodwillNegativelyAffected]</li>
-    <li>goodwillNegativelyAffected->Your goodwill with [asker_faction_name] has been negatively affected for every [pawnLabel] left.</li>
-    <li>commanderLandingDesc->[asker_nameDef], the commander who asked to land [asker_possessive] shuttle at [map_definite]</li>
-    <li>raidArrivedLetterLabel->Raid: [enemyFaction_name]</li>
-    <li>raidArrivedLetterText->[enemyFaction_pawnsPlural] from the [enemyFaction_name] have arrived. They will attack the [asker_faction_pawnsPlural] who crashed at [map_definite].\n\nDefend the [asker_faction_pawnsPlural] until their rescue shuttle arrives in [rescueShuttleAfterRaidDelay_duration].</li>
-    <li>rescueShuttleArrivedLetterLabel->Rescue shuttle arrived</li>
-    <li>rescueShuttleArrivedLetterText->The rescue shuttle has arrived to collect the [pawnLabelSingleOrPlural] who crashed landed. Make sure to have these people on the shuttle before it leaves in [leaveDelay_duration]:\n\n[civilians]</li>
-    <li>questCompletedSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>
-    <li>questCompletedSuccessLetterText->[commanderLandingDesc], has escaped. [asker_pronoun] is grateful for the help [asker_pronoun] received at [map_definite].\n\n[successLetterEndingCommon]</li>
-    <li>questCompletedCiviliansLostSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>
-    <li>questCompletedCiviliansLostSuccessLetterText->[commanderLandingDesc], has escaped.\n\n[goodwillSomeCiviliansLost]\n\n[successLetterEndingCommon]</li>
-    <li>askerLostLetterLabel->Quest failed: [resolvedQuestName]</li>
-    <li>askerLostLetterText->[commanderLandingDesc] was not on board when the shuttle departed.\n\n[goodwillSomeCiviliansLost]\n\n[failLetterEndingCommon]</li>
-    <li>allLostLetterLabel->Quest failed: [resolvedQuestName]</li>
-    <li>allLostLetterText->The rescue shuttle for the crashed [asker_faction_pawnsPlural] has departed without anyone on board.\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
-    <li>askerDiedLetterLabel->Quest failed: [resolvedQuestName]</li>
-    <li>askerDiedLetterText->[commanderLandingDesc] has died.\n\n[failLetterEndingCommon]</li>
-    <li>civilianDiedLetterLabel->Quest failed: [resolvedQuestName]</li>
-    <li>civilianDiedLetterText->a civilian has died.\n\n[failLetterEndingCommon]</li>
-    <li>shuttleDestroyedLetterLabel->Quest failed: [resolvedQuestName]</li>
-    <li>shuttleDestroyedLetterText->The shuttle sent to collect the crashed [asker_faction_pawnsPlural] has been destroyed. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</li>
-    <li>shuttleLeftBehindLetterLabel->Quest failed: [resolvedQuestName]</li>
-    <li>shuttleLeftBehindLetterText->The shuttle sent to collect the crashed [asker_faction_pawnsPlural] has been left behind. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</li>
-    <li>mapRemovedLetterLabel->Quest failed: [resolvedQuestName]</li>
-    <li>mapRemovedLetterText->The map was left behind before the crashed [asker_faction_pawnsPlural] could be collected. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</li>
+    <li>failLetterEndingCommon->任务「[resolvedQuestName]」失败了。</li>
+    <li>successLetterEndingCommon->你成功完成了任务「[resolvedQuestName]」。</li>
+    <li>goodwillSomeCiviliansLost->并非所有[asker_faction_pawnSingular][pawnLabel]都获救了。[goodwillNegativelyAffected]</li>
+    <li>goodwillAllCiviliansLost->[asker_faction_pawnSingular][pawnLabelPlural]无一人获救。[goodwillNegativelyAffected]</li>
+    <li>goodwillNegativelyAffected->每留下一位[pawnLabel]，你与[asker_faction_name]的好感度都会受损。</li>
+    <li>commanderLandingDesc->[asker_nameDef]——那位请求让[asker_possessive]穿梭机降落在[map_definite]的指挥官</li>
+    <li>raidArrivedLetterLabel->袭击：[enemyFaction_name]</li>
+    <li>raidArrivedLetterText->来自[enemyFaction_name]的[enemyFaction_pawnsPlural]已经抵达。他们将攻击在[map_definite]坠毁的[asker_faction_pawnsPlural]。\n\n守住这些[asker_faction_pawnsPlural]，直到救援穿梭机在[rescueShuttleAfterRaidDelay_duration]后抵达。</li>
+    <li>rescueShuttleArrivedLetterLabel->救援穿梭机已抵达</li>
+    <li>rescueShuttleArrivedLetterText->救援穿梭机已抵达，来接坠机幸存的[pawnLabelSingleOrPlural]。请务必在它[leaveDelay_duration]后离开前把这些人送上穿梭机：\n\n[civilians]</li>
+    <li>questCompletedSuccessLetterLabel->任务完成：[resolvedQuestName]</li>
+    <li>questCompletedSuccessLetterText->[commanderLandingDesc]，已经脱身。[asker_pronoun]感谢在[map_definite]得到的帮助。\n\n[successLetterEndingCommon]</li>
+    <li>questCompletedCiviliansLostSuccessLetterLabel->任务完成：[resolvedQuestName]</li>
+    <li>questCompletedCiviliansLostSuccessLetterText->[commanderLandingDesc]，已经脱身。\n\n[goodwillSomeCiviliansLost]\n\n[successLetterEndingCommon]</li>
+    <li>askerLostLetterLabel->任务失败：[resolvedQuestName]</li>
+    <li>askerLostLetterText->穿梭机起飞时，[commanderLandingDesc]不在机上。\n\n[goodwillSomeCiviliansLost]\n\n[failLetterEndingCommon]</li>
+    <li>allLostLetterLabel->任务失败：[resolvedQuestName]</li>
+    <li>allLostLetterText->为坠机的[asker_faction_pawnsPlural]派来的救援穿梭机已经起飞，机上空无一人。\n\n[goodwillAllCiviliansLost]\n\n[failLetterEndingCommon]</li>
+    <li>askerDiedLetterLabel->任务失败：[resolvedQuestName]</li>
+    <li>askerDiedLetterText->[commanderLandingDesc]，已经死了。\n\n[failLetterEndingCommon]</li>
+    <li>civilianDiedLetterLabel->任务失败：[resolvedQuestName]</li>
+    <li>civilianDiedLetterText->一名平民死了。\n\n[failLetterEndingCommon]</li>
+    <li>shuttleDestroyedLetterLabel->任务失败：[resolvedQuestName]</li>
+    <li>shuttleDestroyedLetterText->派去接坠机[asker_faction_pawnsPlural]的穿梭机被摧毁了。这些[asker_faction_pawnsPlural]现在只能徒步离开。\n\n[failLetterEndingCommon]</li>
+    <li>shuttleLeftBehindLetterLabel->任务失败：[resolvedQuestName]</li>
+    <li>shuttleLeftBehindLetterText->派去接坠机[asker_faction_pawnsPlural]的穿梭机被抛下了。这些[asker_faction_pawnsPlural]现在只能徒步离开。\n\n[failLetterEndingCommon]</li>
+    <li>mapRemovedLetterLabel->任务失败：[resolvedQuestName]</li>
+    <li>mapRemovedLetterText->还没等接走坠机的[asker_faction_pawnsPlural]，这张地图就被抛下了。这些[asker_faction_pawnsPlural]现在只能徒步离开。\n\n[failLetterEndingCommon]</li>
   -->
   <ShuttleCrash_Rescue.questContentRules.rulesStrings>
     <li>failLetterEndingCommon->你未完成任务'[resolvedQuestName]'.</li>
@@ -62,8 +62,8 @@
     <li>mapRemovedLetterText->该地图在成功装载坠机的[asker_faction_pawnsPlural]前就被遗弃了。[asker_faction_pawnsPlural]现在会徒步离开。\n\n[failLetterEndingCommon]</li>
   </ShuttleCrash_Rescue.questContentRules.rulesStrings>
   <!-- EN:
-    <li>pawnLabel->civilian</li>
-    <li>pawnLabelPlural->civilians</li>
+    <li>pawnLabel->平民</li>
+    <li>pawnLabelPlural->平民</li>
   -->
   <ShuttleCrash_Rescue.questDescriptionAndNameRules.rulesStrings>
     <li>pawnLabel->平民</li>
@@ -72,13 +72,13 @@
   <!-- EN:
     <li>pawnLabelSingleOrPlural(civilians_count==1)->[pawnLabel]</li>
     <li>pawnLabelSingleOrPlural(civilians_count>=2)->[pawnLabelPlural]</li>
-    <li>questDescription->A shuttle of [asker_faction_name] has taken damage and is seeking a place to land. Its commander [asker_nameDef] wants to land at [map_definite].\n\n[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack the crashed shuttle site in an attempt to kill its occupants. You must defend them.\n\nThe shuttle contains [asker_nameDef][andOtherCivilians] and [soldierCountKinds]. The commander [andCivilians] must be rescued, but the [soldiers0_kindPlural] may be sacrificed.\n\nAfter [rescueDelay_duration], a rescue shuttle will come to pick up the survivors. You'll need to get them all on board within [leaveDelay_duration].</li>
+    <li>questDescription->[asker_faction_name]的一艘穿梭机受损，正在寻找降落点。其指挥官[asker_nameDef]希望降落在[map_definite]。\n\n来自[enemyFaction_name]的[enemyFaction_pawnsPlural]将攻击坠机地点，企图杀光机上人员。你必须守住他们。\n\n穿梭机上载有[asker_nameDef][andOtherCivilians]以及[soldierCountKinds]。指挥官[andCivilians]必须获救，但那些[soldiers0_kindPlural]可以被牺牲。\n\n[rescueDelay_duration]后，会有救援穿梭机来接幸存者。你需要在[leaveDelay_duration]内把所有人送上去。</li>
     <li>andOtherCivilians(civilians_count==1)-></li>
-    <li>andOtherCivilians(civilians_count==2)->, another [pawnLabel],</li>
-    <li>andOtherCivilians(civilians_count>=3)->, [civilianCountMinusOne] other [pawnLabelSingleOrPlural],</li>
+    <li>andOtherCivilians(civilians_count==2)->，另一位[pawnLabel]，</li>
+    <li>andOtherCivilians(civilians_count>=3)->，另有[civilianCountMinusOne]位[pawnLabelSingleOrPlural]，</li>
     <li>andCivilians(civilians_count==1)-></li>
-    <li>andCivilians(civilians_count==2)->and [pawnLabel]</li>
-    <li>andCivilians(civilians_count>=3)->and [pawnLabelPlural]</li>
+    <li>andCivilians(civilians_count==2)->与[pawnLabel]</li>
+    <li>andCivilians(civilians_count>=3)->与[pawnLabelPlural]</li>
     <li>soldierCountKinds(soldiers_count==1)->[soldiers_count] [soldiers0_kind]</li>
     <li>soldierCountKinds(soldiers_count>1)->[soldiers_count] [soldiers0_kindPlural]</li>
   -->
@@ -102,19 +102,19 @@
     <li>questName->[asker_nameDef]'s [damaged] [shuttle]</li>
     <li>questName->[emergency] [landing]</li>
     <li>questName->[asker_nameDef]'s [emergency] [landing]</li>
-    <li>shuttle->shuttle</li>
-    <li>shuttle->transporter</li>
-    <li>shuttle->ship</li>
-    <li>crash->crash</li>
-    <li>crash->down</li>
-    <li>damaged->damaged</li>
-    <li>damaged->busted</li>
-    <li>damaged->failing</li>
-    <li>emergency->emergency</li>
-    <li>emergency->forced</li>
-    <li>landing->landing</li>
-    <li>landing->descent</li>
-    <li>landing->approach</li>
+    <li>shuttle->穿梭机</li>
+    <li>shuttle->运输船</li>
+    <li>shuttle->飞船</li>
+    <li>crash->坠毁</li>
+    <li>crash->坠落</li>
+    <li>damaged->受损</li>
+    <li>damaged->损坏</li>
+    <li>damaged->失灵</li>
+    <li>emergency->紧急</li>
+    <li>emergency->被迫</li>
+    <li>landing->着陆</li>
+    <li>landing->下降</li>
+    <li>landing->接近</li>
   -->
   <ShuttleCrash_Rescue.questNameRules.rulesStrings>
     <li>questName->[shuttle][crash]</li>
