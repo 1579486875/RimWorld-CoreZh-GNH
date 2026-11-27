@@ -64,72 +64,72 @@
     <li>specialFact->标记会随光线角度而显现或消隐。</li>
     <li>specialFact->书页上有暗红的符印微微发光，凑近火焰时会扭动变形。</li>
     <li>specialFact->批注用的是某种地方方言，可见作者来自[place]。</li>
-    <li>specialFact->Each fold contains a letter and several numbers but their meaning is unclear.</li>
-    <li>specialFact->Something about the markings is unnerving.</li>
-    <li>specialFact->It contains annotations from a long forgotten language.</li>
-    <li>specialFact->The crude and uneven markings slowly change over time, revealing hidden meaning.</li>
-    <li>specialFact->It claims to reveal the very lifeblood of the land itself, guiding the reader to a place of great natural power.</li>
-    <li>specialFact->Hidden among the many folds is a slip of paper with a drawing of a [emotionalState] [Animal].</li>
-    <li>specialFact->Touching the map for too long leaves faint red stains on the reader's fingertips.</li>
-    <li>specialFact->Grains of sand can be found amongst the map's folds.</li>
-    <li>specialFact->Annotations on the map suggest that it holds the key to some greater secret.</li>
-    <li>specialFact->A crude rendition of several [mapSubject] from [place] is sketched in the margins.</li>
-    <li>specialFact->The ink is faded, and faint stains obscure some of the details, making deciphering the details a challenge.</li>
-    <li>specialFact->Subtle stitching suggests it was repurposed from several larger maps.</li>
-    <li>specialFact->This map may be as much a warning as a guide.</li>
-    <li>specialFact->The markings are careless in places, suggesting the map was created in a hurry.</li>
-    <li>specialFact->Its detail suggests it was commissioned by someone with means, and its secrecy implies it contains something worth hiding.</li>
-    <li>specialFact->[Quantity_adjphrase] [Character]s are drawn [noteLocation]. They look [emotionalState].</li>
-    <li>specialFact->Elegant calligraphy labels a few [mapSubject], but one isolated drawing bears only a cryptic mark - a symbol of a [mapSymbol].</li>
-    <li>specialFact->The map contains a short biography of its author - a notable [PersonJob] from [place].</li>
-    <li>specialFact->The map was authored by an infamous [PersonBadass].</li>
-    <li>specialFact->The map was authored by a [emotionalState] [PersonBadass].</li>
-    <li>specialFact->The map's simplicity suggests it was hastily made by a [PersonBadass] needing to stay one step ahead of the authorities.</li>
-    <li>specialFact->Key areas are circled, with annotations like 'avoid [Enemy]s' and 'strong like a [Animal].'</li>
-    <li>specialFact->On the map, a [mapSymbol] is circled and labeled with '[smell] and [stain]'.</li>
-    <li>specialFact->Written in the margins is a thousand-year-old poem titled 'Diabolus'.</li>
-    <li>specialFact->The map's legend identifies [Color] [mapSymbol]s as [Enemy] lairs and [Color] [mapSymbol]s as [Animal] hunting grounds.</li>
-    <li>specialFact->The scale of the map is clearly wrong.</li>
-    <li>specialFact->The map has a faded wax seal [noteLocation]. It resembles a [emotionalState] [Animal].</li>
+    <li>specialFact->每一处折痕里都有一个字母和几个数字，但含义不明。</li>
+    <li>specialFact->这些标记有种令人不安的东西。</li>
+    <li>specialFact->其中含有一种早已被遗忘的语言的批注。</li>
+    <li>specialFact->粗糙而不匀的标记会随时间缓慢变化，显出隐藏的含义。</li>
+    <li>specialFact->它声称能揭示这片土地本身的命脉，引导读者前往一处蕴含巨大自然伟力的所在。</li>
+    <li>specialFact->层层折页之间藏着一张纸条，上面画着一只[emotionalState]的[Animal]。</li>
+    <li>specialFact->长时间触碰这张地图，会在读者指尖留下淡淡的红色污痕。</li>
+    <li>specialFact->折页之间能找到沙粒。</li>
+    <li>specialFact->图上的批注暗示，它掌握着某个更宏大秘密的钥匙。</li>
+    <li>specialFact->页边空白处粗略地勾画着几处来自[place]的[mapSubject]。</li>
+    <li>specialFact->墨迹已褪，淡淡的污渍遮住了部分细节，辨识起来颇费功夫。</li>
+    <li>specialFact->细密的缝线表明，它是由几张大图改造而成的。</li>
+    <li>specialFact->这张地图既是指引，也可能是警告。</li>
+    <li>specialFact->有些地方的标记很草率，可见制图时十分仓促。</li>
+    <li>specialFact->其精细程度说明委托人颇有财力，而其隐秘性则暗示其中藏有值得隐藏之物。</li>
+    <li>specialFact->[noteLocation]画着[Quantity_adjphrase]个[Character]，他们看起来[emotionalState]。</li>
+    <li>specialFact->优雅的书法标注了几处[mapSubject]，但有一幅孤立的图样只带一个晦涩的记号——一个[mapSymbol]的符号。</li>
+    <li>specialFact->图中附有作者的简短传记——一位来自[place]的显赫[PersonJob]。</li>
+    <li>specialFact->这张地图出自一位声名狼藉的[PersonBadass]之手。</li>
+    <li>specialFact->这张地图出自一位[emotionalState]的[PersonBadass]之手。</li>
+    <li>specialFact->这张地图的简陋表明，它是由一位需要始终领先当局一步的[PersonBadass]仓促绘制的。</li>
+    <li>specialFact->关键区域被圈出，旁注写着「避开[Enemy]」「强壮如[Animal]」。</li>
+    <li>specialFact->图上有一个[mapSymbol]被圈出，标注为「[smell]与[stain]」。</li>
+    <li>specialFact->页边写着一首千年古诗，题为「Diabolus」。</li>
+    <li>specialFact->图例标明：[Color]的[mapSymbol]是[Enemy]的巢穴，[Color]的[mapSymbol]是[Animal]的猎场。</li>
+    <li>specialFact->这张地图的比例尺明显有误。</li>
+    <li>specialFact->[noteLocation]有一枚褪色的火漆印，形似一只[emotionalState]的[Animal]。</li>
     <li>maybe_questInfo-></li>
     <li>maybe_questInfo(p=3)->[questInfo]</li>
-    <li>questInfo->An area of the map is circled and labeled: '[mapText]!'</li>
-    <li>questInfo->An attached note is labeled '[mapText]?'</li>
-    <li>questInfo->'[mapText]' is scrawled in faded ink [noteLocation].</li>
-    <li>questInfo->A note [noteLocation] reads: '[mapText].'</li>
-    <li>questInfo->A hastily written note [noteLocation] reads: '[mapText]!'</li>
-    <li>questInfo->A cryptic riddle has been scrawled [noteLocation]. It ends with '...[mapText].'</li>
-    <li>questInfo->Next to a [Color] [mapSymbol] are the words '[mapText].'</li>
-    <li>questInfo->Burned into the map are the words '[mapText].'</li>
-    <li>questInfo->A large [mapSymbol] is drawn near a [mapFeature]. It is labeled '[mapText].'</li>
-    <li>questInfo->A [Color] compass rose is etched into the map. Strangely, north and south are mislabeled. In the center of the compass are the words: '[mapText].'</li>
-    <li>questInfo->The map's previous owner has clearly been looking for something. An area is circled next to the words: '[mapText].'</li>
-    <li>questInfo->Holding the map up to the light, you can see the words '[mapText].'</li>
-    <li>questInfo->[noteLocation], a [Color] [mapSymbol] is labeled '[mapText]!'</li>
-    <li>questInfo->[noteLocation], a [mapSymbol] is labeled '[mapText]?'</li>
-    <li>questInfo->[noteLocation], some notes have been smudged. The only thing legible is: 'confirmed - [mapText].'</li>
-    <li>questInfo->[noteLocation] is a crude drawing of a [emotionalState] [PersonBadass]. Underneath are the words: '[mapText].'</li>
-    <li>questInfo->A [Animal] is drawn in pencil [noteLocation]. Beneath it are the words: '[mapText].'</li>
-    <li>questInfo->The map's legend labels [Color] [mapSymbol]s as '[mapText].'</li>
-    <li>questInfo->A thick red X is scratched over a location. Next to it, '[mapText]' is written in tiny script.</li>
-    <li>questInfo->Upon closer inspection, it appears someone has tried to erase the words '[mapText]' from the map.</li>
-    <li>questInfo->Near a [Color] skull icon, someone has written in bold letters: '[mapText].'</li>
-    <li>questInfo->An unusual symbol is drawn [noteLocation]. Below it are the words '[mapText].'</li>
-    <li>questInfo->A [Color] dagger is etched into the map, pointing towards the words '[mapText].'</li>
-    <li>questInfo->[noteLocation] is a checklist. Each item on the list has been crossed out. Only one remains: '[mapText].'</li>
+    <li>questInfo->图上有一处区域被圈出，标注为：「[mapText]！」</li>
+    <li>questInfo->附着一张便条，标注为「[mapText]？」</li>
+    <li>questInfo->[noteLocation]用褪色的墨水潦草写着「[mapText]」。</li>
+    <li>questInfo->[noteLocation]有一张便条写着：「[mapText]。」</li>
+    <li>questInfo->[noteLocation]有一张仓促写就的便条写着：「[mapText]！」</li>
+    <li>questInfo->[noteLocation]潦草地写着一则晦涩的谜语，末尾是「……[mapText]。」</li>
+    <li>questInfo->一个[Color]的[mapSymbol]旁边写着「[mapText]」。</li>
+    <li>questInfo->地图上灼烧出几个字：「[mapText]」。</li>
+    <li>questInfo->一处[mapFeature]附近画着一个大[mapSymbol]，标注为「[mapText]」。</li>
+    <li>questInfo->图上蚀刻着一个[Color]的罗盘玫瑰。奇怪的是，南北标示反了。罗盘中央写着：「[mapText]。」</li>
+    <li>questInfo->地图的前任主人显然在寻找某物。有一处区域被圈出，旁边写着：「[mapText]。」</li>
+    <li>questInfo->把地图举向光亮，能看见几个字：「[mapText]。」</li>
+    <li>questInfo->[noteLocation]，一个[Color]的[mapSymbol]被标注为「[mapText]！」</li>
+    <li>questInfo->[noteLocation]，一个[mapSymbol]被标注为「[mapText]？」</li>
+    <li>questInfo->[noteLocation]有些笔记被涂污了，唯一能辨认的是：「已确认——[mapText]。」</li>
+    <li>questInfo->[noteLocation]潦草地画着一个[emotionalState]的[PersonBadass]，下方写着：「[mapText]。」</li>
+    <li>questInfo->[noteLocation]用铅笔画着一只[Animal]，下方写着：「[mapText]」。</li>
+    <li>questInfo->图例把[Color]的[mapSymbol]标注为「[mapText]」。</li>
+    <li>questInfo->有一处地点上被划了一个粗大的红 X，旁边用极小的字写着「[mapText]」。</li>
+    <li>questInfo->细看之下，似乎有人试图把「[mapText]」这几个字从图上擦掉。</li>
+    <li>questInfo->在一个[Color]的骷髅图标旁，有人用粗体写着：「[mapText]。」</li>
+    <li>questInfo->[noteLocation]画着一个不寻常的符号，下方写着「[mapText]」。</li>
+    <li>questInfo->图上蚀刻着一柄[Color]匕首，匕尖指向「[mapText]」这几个字。</li>
+    <li>questInfo->[noteLocation]是一份清单，每一项都被划掉了，只剩最后一项：「[mapText]。」</li>
     <li>maybe_condition-></li>
     <li>maybe_condition->[conditionSmell]</li>
     <li>maybe_condition->[conditionStains]</li>
     <li>maybe_condition->[conditionTouch]</li>
-    <li>conditionSmell->It stinks of [smell].</li>
-    <li>conditionSmell->It smells faintly of [smell].</li>
-    <li>conditionSmell->The map smells faintly of [smell], a hint of its previous owner's trade.</li>
-    <li>smell->brine and seaweed</li>
-    <li>smell->roses</li>
-    <li>smell->sulphur</li>
-    <li>smell->chemfuel</li>
-    <li>smell->hay and manure</li>
-    <li>smell->burnt flesh</li>
+    <li>conditionSmell->它散发着一股[smell]的臭味。</li>
+    <li>conditionSmell->它隐约有[smell]的气味。</li>
+    <li>conditionSmell->地图隐约有[smell]的气味，暗示着前任主人的营生。</li>
+    <li>smell->海水与海藻</li>
+    <li>smell->玫瑰</li>
+    <li>smell->硫磺</li>
+    <li>smell->化合燃料</li>
+    <li>smell->干草与粪肥</li>
+    <li>smell->焦肉</li>
     <li>smell->insect jelly</li>
     <li>smell->perfume</li>
     <li>smell->oil and gunpowder</li>
@@ -150,7 +150,7 @@
     <li>stain->wax</li>
     <li>stain->coffee</li>
     <li>stain->rust</li>
-    <li>stain->chemfuel</li>
+    <li>stain->化合燃料</li>
     <li>conditionTouch->The pages are rough to the touch.</li>
     <li>conditionTouch->The map is brittle to the touch.</li>
     <li>conditionTouch->Burn marks on the edges suggest it's been salvaged from a failed mission.</li>
