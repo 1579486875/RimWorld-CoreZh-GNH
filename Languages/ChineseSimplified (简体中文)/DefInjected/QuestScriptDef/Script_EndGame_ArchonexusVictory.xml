@@ -15,17 +15,17 @@
   </EndGame_ArchonexusVictory.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->[descriptionIntro] looking to expand their territory, and are interested in taking over [playerSettlements] with all [itsTheir] wealth and technology. If you can increase your total wealth to [requiredWealth_money], they will take the [settlementsSingularOrPlural].\n\nIn trade, they offer you part of a map showing the location of an ancient archotech nexus. The archonexus is thought to be a conduit through which an archotech superintelligence influences the physical world. If you could invoke its power, what happens next could go beyond physical reality.\n\n[onlyHaveHas] one piece of the map. The other parts are held by other factions.\n\nIf you accept their offer, the [factionPawnsPlural] will take possession of your settlement, including all items, people, and recorded research. They'll bring [colonistsAllowed] of your people and [animalsAllowed] of your animals to anywhere you want on the planet to start a new colony.\n\nLater, you can trade with others for the final two parts of the map.</li>
-    <li>itsTheir(playerSettlementsCount==1)->its</li>
-    <li>itsTheir(playerSettlementsCount>=2)->their</li>
-    <li>settlementsSingularOrPlural(playerSettlementsCount==1)->settlement</li>
-    <li>settlementsSingularOrPlural(playerSettlementsCount>=2)->settlements</li>
-    <li>onlyHaveHas(factionless==false)->[civilOutlander_name] only has</li>
-    <li>onlyHaveHas(factionless==true)->The group only have</li>
+    <li>questDescription->[descriptionIntro]正打算扩张领土，有意接管[playerSettlements]及其全部[itsTheir]财富与技术。只要你能把总财富提升到[requiredWealth_money]，他们就会接收这些[settlementsSingularOrPlural]。\n\n作为交换，他们给你一份地图的一部分，标着一座远古科技枢纽的位置。远古枢纽被认为是一条通道，某个远古科技超级智能借它影响物理世界。若你能唤起它的力量，接下来发生的事可能超出物理现实的范畴。\n\n[onlyHaveHas]地图的一块。其余部分由其他派系掌握。\n\n若你接受他们的提议，[factionPawnsPlural]将接管你的聚落——包括所有物品、人员与已记录的研究成果。他们会把你选定的[colonistsAllowed]名人员和[animalsAllowed]只动物，带到行星上任何你想去的地方，另起一座新殖民地。\n\n之后，你可以与他人交易，换取地图最后两块。</li>
+    <li>itsTheir(playerSettlementsCount==1)->其</li>
+    <li>itsTheir(playerSettlementsCount>=2)->它们的</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount==1)->聚落</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount>=2)->聚落</li>
+    <li>onlyHaveHas(factionless==false)->[civilOutlander_name]只持有</li>
+    <li>onlyHaveHas(factionless==true)->这群人只持有</li>
     <li>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</li>
-    <li>factionPawnsPlural(factionless==true)->wild people</li>
+    <li>factionPawnsPlural(factionless==true)->野人</li>
     <li>descriptionIntro(factionless==false)->[civilOutlander_name] is</li>
-    <li>descriptionIntro(factionless==true)->A group of wild people are</li>
+    <li>descriptionIntro(factionless==true)->一群野人正</li>
   -->
   <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
     <li>questDescription->[descriptionIntro]致力于扩大他们的势力范围， 并有兴趣出全资接管[playerSettlements]和[itsTheir]全部科技。 如果你能将你的总财富值增加到[requiredWealth_money]， 他们将会接管[settlementsSingularOrPlural]。\n\n作为交换， 他们将会给你包含有一处远古超凡枢纽位置信息的地图残片。 超凡枢纽被认为是超凡智能借以影响客观世界的媒介。 凭借它的力量，可以跨越物理法则的限制。\n\n[onlyHaveHas]一份地图残片。 其他部分被别的派系所持有。\n\n如果你接受提议，[factionPawnsPlural]将占有你的殖民地，包括物品、其他人员及已记录的科技。 他们还会帮你将[colonistsAllowed]名人员和[animalsAllowed]只动物运送至星球上任何你想建立新殖民地的位置。\n\n之后你可以尝试和其他人交易另外两份地图残片。</li>
@@ -41,22 +41,22 @@
     <li>descriptionIntro(factionless==true)->一群野人正</li>
   </EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->the archonexus</li>
+    <li>questName->远古枢纽</li>
   -->
   <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
     <li>questName->超凡枢纽</li>
   </EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->With the first archonexus map part securely recorded, you prepare for the next step of your journey.\n\n[cycle1Faction] told you of the cataclysm that destroyed this world. Humans built a great thinking machine here centuries ago. It turned against the people and there was a great war. Only a few were left when the machine transcended and fell dormant.\n\nThe map to the archonexus has three parts, and you hold one of them. [otherMapPartHolders] also each hold parts of the map. They'll trade their parts to you for a wealthy new colony and all of its recorded research.[descriptionStudyRequirement]\n\nIt's time to get building.</li>
+    <li>questDescription->第一块远古枢纽地图已妥善记录，你可以为旅程的下一步做准备了。\n\n[cycle1Faction]向你讲述了摧毁这个世界的巨变。数百年前，人类在这里造出了一台伟大的思考机器。它转而与人为敌，于是爆发了一场大战。当那台机器超脱、陷入沉寂时，只剩下寥寥数人。\n\n通往远古枢纽的地图共有三块，你手里有一块。[otherMapPartHolders]也各持一块。他们愿意用自己那块换一座富庶的新殖民地，连同其全部已记录的研究成果。[descriptionStudyRequirement]\n\n该动手建起来了。</li>
     <li>cycle1Faction(factionless==false)->[civilOutlander_leader_nameDef]</li>
-    <li>cycle1Faction(factionless==true)->The [wildPeople]</li>
-    <li>otherMapPartHolders(factionless==false)->[roughOutlander_name] and [roughTribe_name]</li>
-    <li>otherMapPartHolders(factionless==true)->other [wildPeople]</li>
+    <li>cycle1Faction(factionless==true)->[wildPeople]们</li>
+    <li>otherMapPartHolders(factionless==false)->[roughOutlander_name]与[roughTribe_name]</li>
+    <li>otherMapPartHolders(factionless==true)->其他[wildPeople]</li>
     <li>takeoverPawnsPlural(factionless==false)->[roughOutlander_pawnsPlural]</li>
     <li>takeoverPawnsPlural(factionless==true)->[wildPeople]</li>
-    <li>wildPeople->wild people</li>
-    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nThe next map part is encoded in a very strange way. In order to interpret it, you must first learn more about archotechnology by studying the structure here.</li>
+    <li>wildPeople->野人</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\n下一块地图的编码方式非常古怪。要解读它，你必须先研究此处的结构，以进一步了解远古科技。</li>
     <li>descriptionStudyRequirement(studyRequirement==false)-></li>
   -->
   <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
@@ -72,24 +72,24 @@
     <li>descriptionStudyRequirement(studyRequirement==false)-></li>
   </EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->the archonexus</li>
+    <li>questName->远古枢纽</li>
   -->
   <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
     <li>questName->超凡枢纽</li>
   </EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questAcceptedLetterLabel->archonexus discovered</li>
+    <li>questAcceptedLetterLabel->远古枢纽已发现</li>
     <li>questAcceptedLetterText->[questDescriptionBeforeAccepted]</li>
-    <li>questDescriptionBeforeAccepted->You have two parts of the archonexus map. [factionName] have the last piece of the map, passed down from the time their ancestors survived the cataclysm. They'll trade it to you for a wealthy new colony along with its recorded research.[descriptionStudyRequirement]\n\nIt's time to get building.</li>
-    <li>questDescriptionAfterAccepted->[descriptionIntro] have given you the last part of the archonexus map. Using your knowledge of archotech info-encoding, you have decoded the map and pinpointed the location of the archonexus.\n\nYour allies don't expect you to return, so after you go there, they will take over [playerSettlements].\n\n[descriptionThreats]Now all that's left is to get to the archonexus, invoke the power of the machine god, and find out whether the stories are real.</li>
+    <li>questDescriptionBeforeAccepted->你已握有远古枢纽地图的两块。[factionName]持有最后一块——那是他们祖先熬过那场巨变时传下来的。他们愿意用它换一座富庶的新殖民地，连同其已记录的研究成果。[descriptionStudyRequirement]\n\n该动手建起来了。</li>
+    <li>questDescriptionAfterAccepted->[descriptionIntro]把远古枢纽地图的最后一块交给了你。凭着你对远古科技信息编码的了解，你已解出地图，并确定了远古枢纽的确切位置。\n\n你的盟友并不指望你能回来，所以在你前往之后，他们就会接管[playerSettlements]。\n\n[descriptionThreats]现在只剩下最后一件事：抵达远古枢纽，唤起机神的力量，看看那些传说究竟是真是假。</li>
     <li>factionName(factionless==false)->[roughTribe_name]</li>
-    <li>factionName(factionless==true)->The wild people</li>
-    <li>descriptionIntro(factionless==false)->[roughTribe_name]'s leader [roughTribe_leader_nameDef] has</li>
-    <li>descriptionIntro(factionless==true)->The wild people have</li>
-    <li>descriptionStudyRequirement(studyRequirement==true)->\n\nAs before, the map part is encoded. In order to decode it, you must first study the archotech structure.</li>
+    <li>factionName(factionless==true)->野人</li>
+    <li>descriptionIntro(factionless==false)->[roughTribe_name]的首领[roughTribe_leader_nameDef]已经</li>
+    <li>descriptionIntro(factionless==true)->这群野人已经</li>
+    <li>descriptionStudyRequirement(studyRequirement==true)->\n\n和之前一样，这块地图是加密的。要解码它，你必须先研究这座远古科技结构。</li>
     <li>descriptionStudyRequirement(studyRequirement==false)-></li>
-    <li>descriptionThreats(threatsEnabled==true)->The archonexus will likely have mechanoid defenders, so go prepared.\n\n</li>
+    <li>descriptionThreats(threatsEnabled==true)->远古枢纽很可能有机械体守卫，请做好准备。\n\n</li>
     <li>descriptionThreats(threatsEnabled==false)-></li>
   -->
   <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
@@ -113,7 +113,7 @@
     <li>questDescription-></li>
   </EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->the archonexus</li>
+    <li>questName->远古枢纽</li>
   -->
   <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
     <li>questName->超凡枢纽</li>
