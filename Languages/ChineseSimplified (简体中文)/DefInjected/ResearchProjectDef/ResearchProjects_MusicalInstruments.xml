@@ -6,14 +6,14 @@
   <!-- EN: Craft the harp, a simple stationary musical instrument popular among nobility in some cultures. -->
   <Harp.description>解锁制作「竖琴」，在某些文化中很受贵族欢迎的一种简易固定乐器。</Harp.description>
   <!-- EN:
-    <li>subject->harps</li>
-    <li>subject->simple string instruments</li>
-    <li>subject_story->trained in the school of music</li>
-    <li>subject_story->constructed a harp from common feral world materials</li>
-    <li>subject_story->performed a harp solo for the Imperial nobility</li>
-    <li>subject_story->practiced glissandos every day</li>
-    <li>subject_story->researched the cultural significance of stringed instrument usage</li>
-    <li>subject_gerund->playing the harp</li>
+    <li>subject->竖琴</li>
+    <li>subject->简易弦乐器</li>
+    <li>subject_story->在音乐学校受过训练</li>
+    <li>subject_story->用蛮荒世界的常见材料做了一把竖琴</li>
+    <li>subject_story->为帝国贵族献上过一场竖琴独奏</li>
+    <li>subject_story->每天练习滑音</li>
+    <li>subject_story->研究过弦乐器使用的文化意义</li>
+    <li>subject_gerund->弹奏竖琴</li>
   -->
   <Harp.generalRules.rulesStrings>
     <li>subject->竖琴</li>
@@ -31,12 +31,12 @@
   <!-- EN: Craft the harpsichord, a complex stationary musical instrument. -->
   <Harpsichord.description>制作大键琴，一种复杂的固定乐器。</Harpsichord.description>
   <!-- EN:
-    <li>subject->harpsichord</li>
-    <li>subject_story->led a renaissance in the harpsichord in the coreworld systems</li>
-    <li>subject_story->tuned harpsichords for concert use on Glitterworlds</li>
-    <li>subject_story->took up a role as lead harpischordist for the local philharmonic</li>
-    <li>subject_story->constructed dual-keyboard harpsichords focused on harmonics</li>
-    <li>subject_gerund->playing the harpsichord</li>
+    <li>subject->羽管键琴</li>
+    <li>subject_story->在核心世界星系引领了一场羽管键琴复兴</li>
+    <li>subject_story->在闪耀世界为音乐会演奏用的羽管键琴调音</li>
+    <li>subject_story->担任过当地爱乐乐团的羽管键琴首席</li>
+    <li>subject_story->制作过专注和声效果的双键盘羽管键琴</li>
+    <li>subject_gerund->弹奏羽管键琴</li>
   -->
   <Harpsichord.generalRules.rulesStrings>
     <li>subject->大键琴</li>
@@ -52,13 +52,13 @@
   <!-- EN: Craft the piano, an advanced stationary musical instrument. -->
   <Piano.description>制作钢琴，一种先进的固定乐器。</Piano.description>
   <!-- EN:
-    <li>subject->piano</li>
-    <li>subject_story->was acquainted with the entire corpus of stringed instruments</li>
-    <li>subject_story->joined a music academy, where the students learned about composers as much as the piano itself</li>
-    <li>subject_story->transported pianos between the coreworlds</li>
-    <li>subject_story->recorded the techniques of several master pianists</li>
-    <li>subject_story->constructed a strange piano</li>
-    <li>subject_gerund->playing the piano</li>
+    <li>subject->钢琴</li>
+    <li>subject_story->对弦乐器的完整曲目了然于心</li>
+    <li>subject_story->加入过一所音乐学院，那里的学生学作曲家和学钢琴本身一样多</li>
+    <li>subject_story->在核心世界之间运输钢琴</li>
+    <li>subject_story->记录过好几位钢琴大师的技法</li>
+    <li>subject_story->造过一台古怪的钢琴</li>
+    <li>subject_gerund->弹奏钢琴</li>
   -->
   <Piano.generalRules.rulesStrings>
     <li>subject->钢琴</li>
