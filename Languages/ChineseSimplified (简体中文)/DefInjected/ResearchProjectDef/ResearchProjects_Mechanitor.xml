@@ -6,12 +6,12 @@
   <!-- EN: The technology needed for your mechanitor to create and control basic-tier mechanoids. -->
   <BasicMechtech.description>解锁机械师需要的技术来制造和控制基础机械族。</BasicMechtech.description>
   <!-- EN:
-    <li>subject->mechanoids</li>
-    <li>subject_story->authored a children's book covering the basic types of mechanoid</li>
-    <li>subject_story->was implanted with a prototype mechlink</li>
-    <li>subject_story->replicated basic biomech techniques independently</li>
-    <li>subject_story->was mining an ancient exostrider wreck and found a mechlink preserved in the wreckage</li>
-    <li>subject_gerund->creating basic mechanoids</li>
+    <li>subject->机械体</li>
+    <li>subject_story->写过多本介绍机械体基本类型的儿童读物</li>
+    <li>subject_story->被植入了一枚原型机械链接器</li>
+    <li>subject_story->独立复现了基础的生物机械技术</li>
+    <li>subject_story->在开采一艘远古外行者的残骸时，发现了一枚完好保存在残骸中的机械链接器</li>
+    <li>subject_gerund->创造基础机械体</li>
   -->
   <BasicMechtech.generalRules.rulesStrings>
     <li>subject->机械族</li>
@@ -27,12 +27,12 @@
   <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
   <HighMechtech.description>解锁机械师需要的技术来制造和控制高级机械族。\n\n你可以通过让机械师召唤一个战争女皇并击败它以获得能量汇聚芯片。</HighMechtech.description>
   <!-- EN:
-    <li>subject->high tier mechanoids</li>
-    <li>subject_story->survived a War Queen assault on an Imperial world</li>
-    <li>subject_story->bought a Powerfocus chip from a trader who didn't understand its worth</li>
-    <li>subject_story->interrogated mechanitors captured in planetary raids</li>
-    <li>subject_story->built prototype mechanoid micro-organs for an offworld client</li>
-    <li>subject_gerund->creating high-tier mechanoids</li>
+    <li>subject->高阶机械体</li>
+    <li>subject_story->在一场针对帝国世界的「战争女王」进攻中幸存</li>
+    <li>subject_story->从一位不识货的商人手里买下了一枚聚能芯片</li>
+    <li>subject_story->审问过在行星突袭中俘获的机械师</li>
+    <li>subject_story->为一位外星客户制造过原型机械体微型器官</li>
+    <li>subject_gerund->创造高阶机械体</li>
   -->
   <HighMechtech.generalRules.rulesStrings>
     <li>subject->高级机械族</li>
@@ -48,12 +48,12 @@
   <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
   <StandardMechtech.description>解锁机械师需要的技术来制造和控制标准机械族。\n\n你可以通过让机械师召唤一个炼狱魔王并击败它以获得同步信号芯片。</StandardMechtech.description>
   <!-- EN:
-    <li>subject->mechanoids</li>
-    <li>subject_story->acquired a signal chip in shady circumstances</li>
-    <li>subject_story->found an intact signal chip in a diabolus wreck</li>
-    <li>subject_story->survived a mechanoid hive assault</li>
-    <li>subject_story->collated reports of mechanoid attacks, looking for commonalities</li>
-    <li>subject_gerund->creating standard mechanoids</li>
+    <li>subject->机械体</li>
+    <li>subject_story->在不太光彩的情形下弄到了一枚信号芯片</li>
+    <li>subject_story->在一艘恶魔的残骸中找到了一枚完好的信号芯片</li>
+    <li>subject_story->在一场机械巢群的进攻中幸存</li>
+    <li>subject_story->整理机械体袭击的报告，寻找共性</li>
+    <li>subject_gerund->创造标准机械体</li>
   -->
   <StandardMechtech.generalRules.rulesStrings>
     <li>subject->机械族</li>
@@ -69,12 +69,12 @@
   <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
   <UltraMechtech.description>解锁机械师需要的技术来制造和控制极致机械族，以及制造大型机械与极致机械师装备。\n\n你可以通过让机械师召唤一个憎恶毒蜂并击败它以获得纳米结构芯片。</UltraMechtech.description>
   <!-- EN:
-    <li>subject->ultra-tier mechanoids</li>
-    <li>subject_story->found a powered-down apocriton in the wreckage of a deadworld</li>
-    <li>subject_story->observed an apocriton resurrecting mechs from a safe distance</li>
-    <li>subject_story->tapped into the deep psychic hatred that the apocritons feel towards humanity</li>
-    <li>subject_story->found an ascension diary next to an inert archonexus</li>
-    <li>subject_gerund->creating ultra-tier mechanoids</li>
+    <li>subject->超级机械体</li>
+    <li>subject_story->在死寂世界的残骸中发现了一台断电的「天启者」</li>
+    <li>subject_story->从安全距离观察到「天启者」复活机械体</li>
+    <li>subject_story->窥探到「天启者」对人类那种深层的灵能恨意</li>
+    <li>subject_story->在一座沉寂的远古枢纽旁找到了一本飞升日记</li>
+    <li>subject_gerund->创造超级机械体</li>
   -->
   <UltraMechtech.generalRules.rulesStrings>
     <li>subject->极致机械族</li>
@@ -90,12 +90,12 @@
   <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
   <WastepackAtomizer.description>解锁建造「垃圾分解器」，它可以在分子层面上安全的分解有毒垃圾并排放出去。</WastepackAtomizer.description>
   <!-- EN:
-    <li>subject->toxic waste atomization</li>
-    <li>subject_story->studied safe atomic waste disposal</li>
-    <li>subject_story->recruited disposable teams for solar waste disposal missions</li>
-    <li>subject_story->devised the theory for atomic destabilization from first principles</li>
-    <li>subject_story->observed a toxicworld from orbit</li>
-    <li>subject_gerund->constructing wastepack atomizers</li>
+    <li>subject->有毒废料雾化</li>
+    <li>subject_story->研究过安全的原子废料处置</li>
+    <li>subject_story->为太阳废料处置任务招募过一次性队伍</li>
+    <li>subject_story->从第一性原理推导出了原子失稳理论</li>
+    <li>subject_story->从轨道观察过一颗毒化世界</li>
+    <li>subject_gerund->建造废料包雾化器</li>
   -->
   <WastepackAtomizer.generalRules.rulesStrings>
     <li>subject->有毒垃圾分解</li>
