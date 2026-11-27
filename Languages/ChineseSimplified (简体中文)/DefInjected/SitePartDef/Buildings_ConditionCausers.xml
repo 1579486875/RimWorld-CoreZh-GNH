@@ -4,41 +4,41 @@
   <!-- EN: climate adjuster -->
   <ClimateAdjuster.label>气候调节器</ClimateAdjuster.label>
   <!-- EN: A climate adjuster. -->
-  <ClimateAdjuster.description>一台气候调节器。</ClimateAdjuster.description>
+  <ClimateAdjuster.description>一种用于调节气候的极致科技设备。它利用化学物质和奇异的磁场来影响大气，从而改变这块区域的温度。</ClimateAdjuster.description>
   
   <!-- EN: EMI dynamo -->
   <EMIDynamo.label>电磁干扰器</EMIDynamo.label>
   <!-- EN: An EMI dynamo. -->
-  <EMIDynamo.description>一台电磁干扰器。</EMIDynamo.description>
+  <EMIDynamo.description>一个能产生巨大电磁干扰的设备，它能够干扰或者关闭附近区域的电力设备。</EMIDynamo.description>
   
   <!-- EN: psychic droner -->
   <PsychicDroner.label>心灵干扰器</PsychicDroner.label>
   <!-- EN: A psychic droner. -->
-  <PsychicDroner.description>一台心灵干扰器。</PsychicDroner.description>
+  <PsychicDroner.description>一个传递疯狂超凡智能的思想的超凡科技设备。它能产生一个巨大的心灵场，影响星球上某个区域内所有特定性别的人类。受影响者的心情会持续低落，并可能因此狂暴。这种影响会因为个人的心灵敏感度而有所不同。</PsychicDroner.description>
   
   <!-- EN: psychic suppressor -->
   <PsychicSuppressor.label>心灵抑制器</PsychicSuppressor.label>
   <!-- EN: A psychic suppressor. -->
-  <PsychicSuppressor.description>一台心灵抑制器。</PsychicSuppressor.description>
+  <PsychicSuppressor.description>一个能产生影响特定性别的巨大心灵抑制场的超凡科技设备。这种性别的人心灵活跃度会受到抑制，这会降低他们的意识。这种影响会因为个人的心灵敏感度有所不同。</PsychicSuppressor.description>
   
   <!-- EN: smoke spewer -->
   <SmokeSpewer.label>烟雾产生器</SmokeSpewer.label>
   <!-- EN: A smoke spewer. -->
-  <SmokeSpewer.description>一台烟雾产生器。</SmokeSpewer.description>
+  <SmokeSpewer.description>一种设计用于区域内大规模杀伤的极致科技武器。通过收集附近的化合物并将其转化成可自我复制的不透明分子，它能够发出足够的烟雾来阻挡星球上整个区域的阳光。</SmokeSpewer.description>
   
   <!-- EN: sun blocker -->
   <SunBlocker.label>黑幕产生器</SunBlocker.label>
   <!-- EN: A sun blocker machine which turns the sky opaque. -->
-  <SunBlocker.description>一台黑幕产生器，使得阳光无法穿过天空。</SunBlocker.description>
+  <SunBlocker.description>一种极致科技设备，能够产生奇异的磁场来影响大气，使大气变得不透明，从而挡住太阳。</SunBlocker.description>
   
   <!-- EN: toxic spewer -->
   <ToxicSpewer.label>空气污染器</ToxicSpewer.label>
   <!-- EN: A toxic spewer. -->
-  <ToxicSpewer.description>一台空气污染器。</ToxicSpewer.description>
+  <ToxicSpewer.description>一种设计用于区域内大规模杀伤的极致科技武器。通过收集附近可用的化合物并将其转化成可以自我复制的有毒物质。通过散布这些有毒物质，它能够有效对星球上一片区域产生足够的毒雾。</ToxicSpewer.description>
   
   <!-- EN: weather controller -->
   <WeatherController.label>气象操纵仪</WeatherController.label>
   <!-- EN: A weather controller. -->
-  <WeatherController.description>一台气象操纵仪。</WeatherController.description>
+  <WeatherController.description>一种用于操纵天气的极致科技设备。基于化学物质和奇特磁场，它能够强行将区域的天气改变为内置计算机所配置的天气。</WeatherController.description>
   
 </LanguageData>

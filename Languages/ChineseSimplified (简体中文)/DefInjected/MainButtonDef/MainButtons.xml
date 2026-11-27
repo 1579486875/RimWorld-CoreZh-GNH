@@ -4,7 +4,7 @@
   <!-- EN: animals -->
   <Animals.label>动物</Animals.label>
   <!-- EN: Configure how the colony's tame animals should be treated. -->
-  <Animals.description>配置如何处理殖民地的已驯服的动物。</Animals.description>
+  <Animals.description>驯服、训练、管理、控制动物。</Animals.description>
   
   <!-- EN: architect -->
   <Architect.label>建筑规划</Architect.label>
@@ -40,9 +40,9 @@
   <Quests.description>查看可用的，激活的和过去的任务</Quests.description>
   
   <!-- EN: research -->
-  <Research.label>研究</Research.label>
+  <Research.label>科研</Research.label>
   <!-- EN: Examine and decide on research projects. -->
-  <Research.description>查看并选择研究项目。</Research.description>
+  <Research.description>研究员负责研究工作。因为研究是一项长期工作，专门的研究员需要降低其他工作的优先度。</Research.description>
   
   <!-- EN: schedule -->
   <Schedule.label>管制</Schedule.label>
@@ -57,7 +57,7 @@
   <!-- EN: work -->
   <Work.label>工作</Work.label>
   <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
-  <Work.description>指定殖民者进行何种工作，以及各种工作的优先顺序。</Work.description>
+  <Work.description>根据机械族的类型自主执行工作。如果有需要，则会自动前往充电站处补充能量。</Work.description>
   
   <!-- EN: world -->
   <World.label>世界</World.label>

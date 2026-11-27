@@ -632,11 +632,11 @@
   <Replant.verb>栽植</Replant.verb>
   
   <!-- EN: do research -->
-  <Research.label>研究科技</Research.label>
+  <Research.label>科研</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>研究于</Research.gerund>
   <!-- EN: research at -->
-  <Research.verb>研究于</Research.verb>
+  <Research.verb>研究</Research.verb>
   
   <!-- EN: shear animals -->
   <Shear.label>给动物剪毛</Shear.label>

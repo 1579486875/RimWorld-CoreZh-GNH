@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>美观</Beauty.label>
+  <Beauty.label>魅力</Beauty.label>
   <!-- EN: hideous -->
   <Beauty.scoreStages.hideous.label>极其丑陋</Beauty.scoreStages.hideous.label>
   <!-- EN: ugly -->
@@ -21,7 +21,7 @@
   <Beauty.scoreStages.unbelievably_beautiful.label>难以置信</Beauty.scoreStages.unbelievably_beautiful.label>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>清洁</Cleanliness.label>
+  <Cleanliness.label>清洁度</Cleanliness.label>
   <!-- EN: very dirty -->
   <Cleanliness.scoreStages.very_dirty.label>非常脏</Cleanliness.scoreStages.very_dirty.label>
   <!-- EN: dirty -->
@@ -34,7 +34,7 @@
   <Cleanliness.scoreStages.sterile.label>一尘不染</Cleanliness.scoreStages.sterile.label>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>食物有毒几率</FoodPoisonChance.label>
+  <FoodPoisonChance.label>食物有毒率</FoodPoisonChance.label>
   
   <!-- EN: grave visiting recreation factor -->
   <GraveVisitingJoyGainFactor.label>扫墓娱乐系数</GraveVisitingJoyGainFactor.label>
@@ -72,7 +72,7 @@
   <ResearchSpeedFactor.label>研究速度系数</ResearchSpeedFactor.label>
   
   <!-- EN: space -->
-  <Space.label>空间</Space.label>
+  <Space.label>太空</Space.label>
   <!-- EN: cramped -->
   <Space.scoreStages.cramped.label>狭窄</Space.scoreStages.cramped.label>
   <!-- EN: rather tight -->

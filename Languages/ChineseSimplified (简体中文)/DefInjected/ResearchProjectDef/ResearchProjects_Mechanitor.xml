@@ -88,7 +88,7 @@
   <!-- EN: wastepack atomizer -->
   <WastepackAtomizer.label>垃圾分解器</WastepackAtomizer.label>
   <!-- EN: Build wastepack atomizers which can safely dispose of toxic wastepacks by decomposing them at the molecular level. -->
-  <WastepackAtomizer.description>解锁建造「垃圾分解器」，它可以在分子层面上安全的分解有毒垃圾并排放出去。</WastepackAtomizer.description>
+  <WastepackAtomizer.description>一种能在分子层面安全的有毒垃圾分解并将其催化成惰性气体排放的闪耀科技设备。工作过程中需要耗费相当多的电力。</WastepackAtomizer.description>
   <!-- EN:
     <li>subject->有毒废料雾化</li>
     <li>subject_story->研究过安全的原子废料处置</li>

@@ -23,7 +23,7 @@
   <!-- EN: bliss lobotomy -->
   <BlissLobotomy.label>极乐切脑</BlissLobotomy.label>
   <!-- EN: This person has been psychically lobotomized, placing them in a state of bliss but limiting their cognitive function. -->
-  <BlissLobotomy.description>此人被切除了脑叶，从此沉溺于极乐之中，但也损失了一些认知能力。</BlissLobotomy.description>
+  <BlissLobotomy.description>对病人进行脑叶切除手术，使其变得无忧无虑，但同时也会丧失从事智识和专业工作的能力。</BlissLobotomy.description>
   
   <!-- EN: blood rage -->
   <BloodRage.label>滔天怒火</BloodRage.label>
@@ -157,7 +157,7 @@
   <!-- EN: death refusal -->
   <DeathRefusal.label>死亡回避</DeathRefusal.label>
   <!-- EN: This person is infused with a seed of nanoscale archotech machines that can recreate life. After they die, the archites will sustain their mind and, when they choose, rebuild their body. The flesh will rapidly reform, replacing missing organs and healing wounds. The process is not perfect and may cause scarring or other health complications. This can only be done a certain number of times. -->
-  <DeathRefusal.description>此人植入了可以再塑生命的超凡微械胚种。当此人死亡时，这些超凡微械将会维持其心智，待其做出决定，再重塑其身体。通过迅速重组血肉来替换失去的器官、修复伤口。此过程并不完美，可能会留下疤痕，或是导致其它健康并发症。这番奇迹能够施展的次数是有限的。</DeathRefusal.description>
+  <DeathRefusal.description>进行心灵仪式，赋予某人“死亡回避”的能力，能够在死后复活一次。</DeathRefusal.description>
   
   <!-- EN: death refusal -->
   <DeathRefusalCreepJoiner.label>死亡回避</DeathRefusalCreepJoiner.label>
@@ -219,7 +219,7 @@
   <!-- EN: juggernaut serum -->
   <JuggernautSerum.label>强力血清</JuggernautSerum.label>
   <!-- EN: A serum is super-powering this person's musculature, making them stronger and faster, but reducing their mood due to discomfort. -->
-  <JuggernautSerum.description>血清大幅强化了此人的肌肉组织，使其迅速、更有力，但随之而来的不适感也会降低使用者的心情。</JuggernautSerum.description>
+  <JuggernautSerum.description>装有不透明乳黄色流体的注射针剂，能够提升使用者的速度和力量，并让其伤口愈合更快。注射进肌肉后，血清会为使用者的各种代谢过程提供能量。然而这种不稳定的物质也会对使用者的心智精神造成影响，令其紧张不安、情绪低落。</JuggernautSerum.description>
   
   <!-- EN: light exposure -->
   <LightExposure.label>光照暴露</LightExposure.label>
@@ -258,12 +258,12 @@
   <!-- EN: mind-numb serum -->
   <MindNumbSerum.label>思滞血清</MindNumbSerum.label>
   <!-- EN: This person's neural patterns are being moderated by an exotic serum. They're unaffected by the highs and lows of human emotion. They will never have a mental break but they will also never feel inspired. -->
-  <MindNumbSerum.description>外部血清改变了此人的神经模式，自此与人类的悲欢再无相通。虽然再也不会精神崩溃，但同时也感受不到快乐刺激。</MindNumbSerum.description>
+  <MindNumbSerum.description>装有澄清黏性流体的注射针剂。向脑干附近注射后能够使被使用者思维停滞、不再感受到人情冷暖。这将暂时阻止此人发生精神崩溃或是激发灵感。</MindNumbSerum.description>
   
   <!-- EN: neurosis pulse -->
   <NeurosisPulse.label>焦虑脉冲</NeurosisPulse.label>
   <!-- EN: This person has been affected by a psychic pulse of motivated, neurotic emotions. This makes them irritable, but also motivates them to work faster. -->
-  <NeurosisPulse.description>此人受到一股激发神经的心灵脉冲影响。虽然因此变得烦躁，但也促使其更快地工作。</NeurosisPulse.description>
+  <NeurosisPulse.description>进行心灵仪式，提高区域内的每个人的工作速度，但这些人也会变得更加暴躁。</NeurosisPulse.description>
   
   <!-- EN: pain field -->
   <PainField.label>痛苦领域</PainField.label>
@@ -273,7 +273,7 @@
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>愉悦脉冲</PleasurePulse.label>
   <!-- EN: This person has been impacted by a psychic pulse of pleasurable sensations and emotions. They feel unnaturally happy, distracting them from their work. -->
-  <PleasurePulse.description>此人受到一股能让感官愉悦的心灵脉冲影响。虽然因此变得异常开心，但也让其无法专心工作。</PleasurePulse.description>
+  <PleasurePulse.description>进行心灵仪式，让区域内的每个人都变得更加愉悦，但这些人的工作热情也会降低。</PleasurePulse.description>
   
   <!-- EN: psychically dead -->
   <PsychicallyDead.label>心灵凋散</PsychicallyDead.label>

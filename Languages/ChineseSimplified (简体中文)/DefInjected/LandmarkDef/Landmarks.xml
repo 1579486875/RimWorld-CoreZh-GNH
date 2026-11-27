@@ -11,10 +11,10 @@
   <AncientChemfuelRefinery.label>远古化合燃料精炼厂</AncientChemfuelRefinery.label>
   
   <!-- EN: ancient garrison -->
-  <AncientGarrison.label>远古守备队</AncientGarrison.label>
+  <AncientGarrison.label>远古军营</AncientGarrison.label>
   
   <!-- EN: ancient vent -->
-  <AncientHeatVent.label>远古热气排放孔</AncientHeatVent.label>
+  <AncientHeatVent.label>远古热气孔</AncientHeatVent.label>
   
   <!-- EN: infested settlement -->
   <AncientInfestedSettlement.label>被侵占的定居点</AncientInfestedSettlement.label>
@@ -26,10 +26,10 @@
   <AncientQuarry.label>远古采石场</AncientQuarry.label>
   
   <!-- EN: ancient vent -->
-  <AncientSmokeVent.label>远古烟气排放孔</AncientSmokeVent.label>
+  <AncientSmokeVent.label>远古烟气孔</AncientSmokeVent.label>
   
   <!-- EN: ancient vent -->
-  <AncientToxVent.label>远古毒气排放孔</AncientToxVent.label>
+  <AncientToxVent.label>远古毒气孔</AncientToxVent.label>
   
   <!-- EN: ancient warehouse -->
   <AncientWarehouse.label>远古仓库</AncientWarehouse.label>
@@ -95,13 +95,13 @@
   <Lake.label>湖泊</Lake.label>
   
   <!-- EN: lake -->
-  <LakeWithIsland.label>湖中孤岛</LakeWithIsland.label>
+  <LakeWithIsland.label>岛屿湖</LakeWithIsland.label>
   
   <!-- EN: lake -->
-  <LakeWithIslands.label>群岛湖</LakeWithIslands.label>
+  <LakeWithIslands.label>岛屿湖</LakeWithIslands.label>
   
   <!-- EN: lava lake -->
-  <LavaCrater.label>火山口熔岩湖</LavaCrater.label>
+  <LavaCrater.label>熔岩湖</LavaCrater.label>
   
   <!-- EN: lava flow -->
   <LavaFlow.label>熔岩流</LavaFlow.label>

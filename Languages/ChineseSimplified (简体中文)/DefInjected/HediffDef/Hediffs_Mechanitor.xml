@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: band node (tuned) -->
-  <BandNode.label>频带节点（调谐）</BandNode.label>
+  <BandNode.label>频带节点</BandNode.label>
   <!-- EN: This mechanitor's bandwidth is being increased thanks to the influence of a band node structure. -->
-  <BandNode.description>由于频带节点设施影响，该机械师的带宽已增加。</BandNode.description>
+  <BandNode.description>一台用于机械族通信的信号放大器。频带节点必须被调谐至特定的机械师。这将会为被调谐的机械师增加1带宽上限，使其控制更多的机械族。\n\n频带节点在完成建造之后可以快速调谐至一位机械师。但是，将频带节点重新调谐至一位不同的机械师需要长的多的时间。</BandNode.description>
   
   <!-- EN: control sublink -->
   <ControlSublinkImplant.label>控制子链</ControlSublinkImplant.label>

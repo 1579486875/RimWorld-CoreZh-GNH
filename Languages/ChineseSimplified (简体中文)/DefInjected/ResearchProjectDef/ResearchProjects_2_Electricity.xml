@@ -496,7 +496,7 @@
   <!-- EN: tube television -->
   <TubeTelevision.label>显像管电视</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>解锁建造「显像管电视」。</TubeTelevision.description>
+  <TubeTelevision.description>用阴极射线管显示器显示运动图像和声音。即使在边缘世界，也经常有个老旧发射塔发送一些有趣的玩意。</TubeTelevision.description>
   <!-- EN:
     <li>subject->显像管电视</li>
     <li>subject_story->设计了一台能接收星际信号的仿复古电视机</li>
@@ -515,7 +515,7 @@
   <!-- EN: watermill generator -->
   <WatermillGenerator.label>水轮发电机</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
-  <WatermillGenerator.description>解锁建造「水轮发电机」，放置在河流上后能提供不间断的电力。</WatermillGenerator.description>
+  <WatermillGenerator.description>通过河流的动能产生电力。必须把有轮子的那一侧放置在流动的水里。</WatermillGenerator.description>
   <!-- EN:
     <li>subject->水车发电机</li>
     <li>subject_story->看着枝枝叶叶被拽向下游，从中看出了力量</li>

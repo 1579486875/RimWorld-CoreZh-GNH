@@ -49,7 +49,7 @@
   <!-- EN: fishing -->
   <Fishing.label>钓鱼</Fishing.label>
   <!-- EN: Place zones where your colonists can go fishing. -->
-  <Fishing.description>规划区域供殖民者钓鱼。</Fishing.description>
+  <Fishing.description>在钓鱼区中钓鱼。</Fishing.description>
   <!-- EN: Fishing zone -->
   <Fishing.customUnlockTexts.0>钓鱼区</Fishing.customUnlockTexts.0>
   <!-- EN:

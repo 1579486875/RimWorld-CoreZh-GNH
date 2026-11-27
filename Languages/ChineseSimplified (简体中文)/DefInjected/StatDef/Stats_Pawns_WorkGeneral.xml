@@ -62,7 +62,7 @@
   <MiningSpeed.description>开采表层矿物资源时的速度。</MiningSpeed.description>
   
   <!-- EN: mining yield -->
-  <MiningYield.label>采矿效率</MiningYield.label>
+  <MiningYield.label>矿产</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
   <MiningYield.description>矿工将达到的百分比产出。\n\n同时应用于资源块开采和深钻开采。\n不影响石块开采。</MiningYield.description>
   

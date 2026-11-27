@@ -4,12 +4,12 @@
   <!-- EN: acid spray -->
   <AcidSpray.label>酸液喷吐</AcidSpray.label>
   <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
-  <AcidSpray.description>从颈部的腺体喷出粘稠的酸性物质，通过嘴巴向外喷出。酸性物质附着的目标会被灼烧。</AcidSpray.description>
+  <AcidSpray.description>这种基因的携带者在脖子上长有用以生成并存储粘稠的强酸的腺体，和一副对强酸耐受的口腔系统，他们可以将酸液喷洒到一片区域，沾染上的敌人将会随时间被灼烧。</AcidSpray.description>
   
   <!-- EN: animal warcall -->
   <AnimalWarcall.label>唤兽战吼</AnimalWarcall.label>
   <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
-  <AnimalWarcall.description>通过强大的吼声发起心灵链接，召唤一只动物为你而战。</AnimalWarcall.description>
+  <AnimalWarcall.description>这种基因的携带者可以通过强大的吼声发起心灵链接，召唤一只动物为自己战斗。</AnimalWarcall.description>
   <!-- EN: warcall -->
   <AnimalWarcall.verbProperties.label>唤兽战吼</AnimalWarcall.verbProperties.label>
   <!-- EN: Choose an animal to call -->
@@ -18,12 +18,12 @@
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>汲血</Bloodfeed.label>
   <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size. -->
-  <Bloodfeed.description>啃咬目标，从血液里获取血原质。目标会失去血液并对此感到惊恐，除此之外不会受到其他伤害。同时会分泌一种能够防止伤口出血的速效凝血剂。\n\n只能以非渴血症人类为目标。获取到的血原质受目标体型影响。</Bloodfeed.description>
+  <Bloodfeed.description>当血族的血原质水平很低时，他们可能会以这个囚犯为食。在同一间牢房里的其他汲血者也可以以这个囚犯为食。</Bloodfeed.description>
   
   <!-- EN: coagulate -->
   <Coagulate.label>伤口凝结</Coagulate.label>
   <!-- EN: Use special glands in the wrists to quickly tend someone's wounds. -->
-  <Coagulate.description>使用手腕上的特殊腺体快速包扎伤者的伤口。</Coagulate.description>
+  <Coagulate.description>这种基因的携带者在其手和腕关节上长有可分泌独特的速凝化合物的腺体，唾液中也携带着该种化合物。这使得他们可以快速包扎伤口。</Coagulate.description>
   
   <!-- EN: fire burst -->
   <FireBurst.label>火焰喷发</FireBurst.label>
@@ -38,12 +38,12 @@
   <!-- EN: fire spew -->
   <FireSpew.label>火焰吐息</FireSpew.label>
   <!-- EN: Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition. -->
-  <FireSpew.description>从嘴巴吐出粘稠的易燃液体。易燃液体可让任何被附着的物体燃烧，同时会在地上形成燃烧区域。\n\n易燃液体储存于颈部的特殊器官，以及一个用于点燃的自燃囊袋。</FireSpew.description>
+  <FireSpew.description>这种基因的携带者可以喷出由脖子上一个特殊器官生成的易燃液体，这种液体将在小范围内黏在任何东西上并点燃他们。</FireSpew.description>
   
   <!-- EN: foam spray -->
   <FoamSpray.label>泡沫喷吐</FoamSpray.label>
   <!-- EN: Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches. -->
-  <FoamSpray.description>从颈部通过嘴巴向外喷射厚厚的阻燃泡沫。泡沫会覆盖一个区域，区域内所有被接触到的火焰都会熄灭。</FoamSpray.description>
+  <FoamSpray.description>这种基因的携带者在脖子上长有生成并储存阻燃泡沫的腺体。他们可以将其喷出以熄灭一片区域的火焰。</FoamSpray.description>
   
   <!-- EN: longjump -->
   <Longjump.label>长距跳跃</Longjump.label>
@@ -67,9 +67,9 @@
   <LongjumpMechLauncher.verbProperties.label>跳跃</LongjumpMechLauncher.verbProperties.label>
   
   <!-- EN: piercing spine -->
-  <PiercingSpine.label>脊刺</PiercingSpine.label>
+  <PiercingSpine.label>硬化脊刺</PiercingSpine.label>
   <!-- EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
-  <PiercingSpine.description>向目标发射用血原质反应生成的脊刺。脊刺从胸部的筒形开口处射出。由于发射方式，瞄准异常简单。</PiercingSpine.description>
+  <PiercingSpine.description>这种基因的携带者在其上胸部有一筒形开口，内部填充着脊柱利用血原质反应生成的角质化的脊刺，他们可以将这些脊刺以极高的速度和准度向附近的目标发射。</PiercingSpine.description>
   
   <!-- EN: implant genes -->
   <ReimplantXenogerm.label>植入基因</ReimplantXenogerm.label>

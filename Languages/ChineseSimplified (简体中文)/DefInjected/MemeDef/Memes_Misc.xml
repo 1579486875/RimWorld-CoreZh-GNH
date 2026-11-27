@@ -1212,9 +1212,9 @@
   <Transhumanist.symbolPacks.5.theme>强化</Transhumanist.symbolPacks.5.theme>
   
   <!-- EN: tree connection -->
-  <TreeConnection.label>灵木共鸣</TreeConnection.label>
+  <TreeConnection.label>母树共鸣仪式</TreeConnection.label>
   <!-- EN: Trees are the essence of life, and we must be near them. -->
-  <TreeConnection.description>树木是生命的精华，我们必须亲近它。</TreeConnection.description>
+  <TreeConnection.description>一个共鸣者将会与母树共鸣，共鸣者将触摸母树并与之对话形成永久共鸣，其他人围成一圈观看，并为仪式增强力量。</TreeConnection.description>
   <!-- EN:
     <li>creation(tag=meme_TreeConnection)        ->[deity0_name]使树木牢牢扎根于大地，却让它们稳稳向天生长。这是[deity0_name]关于如何认识[deity0_objective]的第一课。</li>
     <li>episode(uses=1,tag=meme_TreeConnection)  ->[deity0_name]的森林更新[deity0_possessive]子民呼吸的空气，提供他们遮身的枝干，也是他们采集食物的储藏室。</li>
@@ -1299,9 +1299,9 @@
   </TreeConnection.generalRules.rulesStrings>
   
   <!-- EN: tunneler -->
-  <Tunneler.label>地底之心</Tunneler.label>
+  <Tunneler.label>培育掘进机</Tunneler.label>
   <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
-  <Tunneler.description>人类应该生活在地下，享受地下深处甜美多汁的果实。</Tunneler.description>
+  <Tunneler.description>培育一个掘进机。</Tunneler.description>
   <!-- EN:
     <li>creation(tag=meme_Tunneler)        ->[deity0_name]诞生于世界中心的地底。[deity0_pronoun]赐福于最深的山谷与隧道中离[deity0_objective]最近的人。</li>
     <li>episode(uses=1,tag=meme_Tunneler)  ->[deity0_name]在岩石中填满丰饶的矿物与资源，作为礼物赐予那些智慧足以向下挖掘、以求更接近[deity0_name]的人。</li>

@@ -12,7 +12,7 @@
   <BedroomTantrum.recoveryMessage>{0}不再发脾气了。</BedroomTantrum.recoveryMessage>
   
   <!-- EN: berserk -->
-  <Berserk.label>狂暴</Berserk.label>
+  <Berserk.label>激怒</Berserk.label>
   <!-- EN: Mental state: Berserk -->
   <Berserk.baseInspectLine>精神状态: 狂暴</Berserk.baseInspectLine>
   <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->

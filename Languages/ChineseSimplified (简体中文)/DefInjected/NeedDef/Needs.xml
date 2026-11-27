@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>美观</Beauty.label>
+  <Beauty.label>魅力</Beauty.label>
   <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
-  <Beauty.description>美观度反映了人物最近感受的周围环境的视觉愉悦程度。看到像是艺术品这类美丽的东西能够满足人们的美观需求，另外，像是各种污渍或者太丑的石头之类的东西会让人们的美观感受降低。你可以在右下角勾选「开关美观度显示」，来查看鼠标所在位置的平均美观度。</Beauty.description>
+  <Beauty.description>一个物体放在周围时给人视觉上的愉悦程度。\n\n漂亮的物体有助于满足殖民者对环境美观的需求。</Beauty.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>舒适</Comfort.label>
+  <Comfort.label>安慰</Comfort.label>
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
-  <Comfort.description>舒适度可以通过坐在或睡在舒适的家具上获得。躺在床上，工作的时候坐在舒适的椅子上，或者别的什么时候都能获得这个需求。当殖民者从事长期工作比如雕塑和研究时，建议你给工作台配张好的沙发。</Comfort.description>
+  <Comfort.description>动物会提供更多情感支持。它会更频繁地亲昵，为殖民者带来好心情。</Comfort.description>
   
   <!-- EN: chemical -->
   <DrugDesire.label>药品</DrugDesire.label>

@@ -17,7 +17,7 @@
   </EnslaveAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: try to reduce will -->
-  <ReduceWill.label>试图降低意志</ReduceWill.label>
+  <ReduceWill.label>降低意志</ReduceWill.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef]告诉[RECIPIENT_nameDef]，[RECIPIENT_pronoun][negative]。</li>
     <li>r_logentry->[INITIATOR_nameDef]解释说，[RECIPIENT_nameDef][negative]。</li>

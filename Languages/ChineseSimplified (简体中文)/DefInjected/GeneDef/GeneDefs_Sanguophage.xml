@@ -49,9 +49,9 @@
   <Deathless.symbolPack.wholeNameSymbols.0.symbol>不灭者</Deathless.symbolPack.wholeNameSymbols.0.symbol>
   
   <!-- EN: deathrest -->
-  <Deathrest.label>死眠</Deathrest.label>
+  <Deathrest.label>死眠设备</Deathrest.label>
   <!-- EN: Carriers of this gene must periodically regenerate themselves in a special coma called deathrest. Deathrest takes days, but can confer substantial bonuses. Deathrest can be accelerated and its effects enhanced by the use of a variety of special buildings and technologies.\n\nThose who put off deathresting will suffer from deathrest exhaustion. -->
-  <Deathrest.description>这种基因的携带者会定期陷入名为死眠的昏迷状态，在此期间恢复自身。一次死眠会持续数天之久，但会在之后提供加成。利用各式特殊设备和科技可以让死眠的过程加快，或是强化效果。\n\n过久不死眠会引发死眠衰竭症，这将极大地降低一个人的身体能力。</Deathrest.description>
+  <Deathrest.description>解锁建造可以加速那些拥有死眠基因的人必须定期经历的一种持续数天的死眠进行进度的设备，并给予那些死眠者特定的加成。终有一天，你可以建造出一座宏伟的死眠神庙。</Deathrest.description>
   <!-- EN: death -->
   <Deathrest.symbolPack.prefixSymbols.0.symbol>死亡</Deathrest.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: dead -->
@@ -67,7 +67,7 @@
   <DiseaseFree.description>这种基因的携带者不会如正常人般衰老。他们不会获得癌症，背痛，白内障，老年痴呆这类的慢性疾病。</DiseaseFree.description>
   
   <!-- EN: pyrophobia -->
-  <FireTerror.label>恐火症</FireTerror.label>
+  <FireTerror.label>畏惧火焰</FireTerror.label>
   <!-- EN: Carriers of this gene have an intense fear of fire. When fires are close, there is a chance they will have a mental breakdown at any moment. -->
   <FireTerror.description>这种基因的携带者会极度惧怕火焰。在携带者靠近火焰可能会迅速进入精神崩溃。</FireTerror.description>
   <!-- EN: May have a mental breakdown when near fires. -->

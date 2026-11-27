@@ -4,7 +4,7 @@
   <!-- EN: orbit -->
   <Orbit.label>轨道</Orbit.label>
   <!-- EN: Empty space a few hundred kilometers above the surface of the world. -->
-  <Orbit.description>行星地表上方数百公里处的真空带。</Orbit.description>
+  <Orbit.description>轨道上没有天气。</Orbit.description>
   
   <!-- EN: space -->
   <Space.label>太空</Space.label>

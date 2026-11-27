@@ -39,7 +39,7 @@
   <Drafting.helpText>若想直接控制殖民者进行战斗，选择他们并点击下方命令栏内的「征召」按钮。\n\n被征召的殖民者只会遵从你直接下达的命令，并一直保持战斗状态。装备有武器的殖民者会自动使用武器。\n\n不要一直保持征召状态，殖民者会挨饿从而变得不满。</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
-  <DrugAddiction.label>沉迷成瘾品</DrugAddiction.label>
+  <DrugAddiction.label>成瘾品成瘾</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
   <DrugAddiction.helpText>你可以在「需求」选项卡看到殖民者对成瘾品的渴望程度。\n\n一旦其需求度降至0，便会进入「戒断」状态，产生诸多负面情绪。\n\n但只要坚持戒断足够长的时间，他们最终会不再成瘾，戒断反应也会消失。</DrugAddiction.helpText>
   

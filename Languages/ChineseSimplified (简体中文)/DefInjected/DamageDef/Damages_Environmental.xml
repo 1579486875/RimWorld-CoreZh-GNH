@@ -7,7 +7,7 @@
   <Burn.deathMessage>{0}被烧死了。</Burn.deathMessage>
   
   <!-- EN: flame -->
-  <Flame.label>烧伤</Flame.label>
+  <Flame.label>火焰</Flame.label>
   <!-- EN: {0} has burned to death. -->
   <Flame.deathMessage>{0}被烧死了。</Flame.deathMessage>
   

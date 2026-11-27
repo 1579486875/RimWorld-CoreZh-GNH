@@ -67,7 +67,7 @@
   <!-- EN: gene processor -->
   <GeneProcessor.label>基因处理器</GeneProcessor.label>
   <!-- EN: Build gene processors, which allow a gene assembler to create xenogerms of higher genetic complexity. -->
-  <GeneProcessor.description>解锁建造「基因处理器」，它允许基因装配器创造更加复杂的异种胚芽。</GeneProcessor.description>
+  <GeneProcessor.description>一台用于分析处理基因信息的设备。将其放置在基因装配器旁可以增加所能装配的异种胚芽基因复杂度的上限。建造多个基因处理器可进一步提高异种胚芽基因复杂度的上限。</GeneProcessor.description>
   <!-- EN:
     <li>subject->基因处理器</li>
     <li>subject_story->从一艘漂流的废船中提取出闪耀世界基因</li>
@@ -155,9 +155,9 @@
   </ToxGas.generalRules.rulesStrings>
   
   <!-- EN: toxifier generator -->
-  <ToxifierGenerator.label>污染性发电</ToxifierGenerator.label>
+  <ToxifierGenerator.label>排污发电机</ToxifierGenerator.label>
   <!-- EN: Create toxifier generators which generate electricity, but also spread pollution around themselves. -->
-  <ToxifierGenerator.description>解锁建造会污染周遭环境的「排污发电机」。</ToxifierGenerator.description>
+  <ToxifierGenerator.description>一种在产电时会非常缓慢地污染它周围半径内地格的发电机。如果半径内的所有地格都已受到污染，这种发电机就会停止运作。</ToxifierGenerator.description>
   <!-- EN:
     <li>subject->毒素发电机</li>
     <li>subject_story->率清理队前往一颗有毒的小行星体</li>

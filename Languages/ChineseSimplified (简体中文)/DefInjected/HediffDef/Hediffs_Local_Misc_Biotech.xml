@@ -27,11 +27,11 @@
   <!-- EN: tubal ligation -->
   <TubalLigation.label>输卵管结扎</TubalLigation.label>
   <!-- EN: This individual's reproductive parts have been shut down by closing off the fallopian tubes, preventing ova from traveling from the ovary to the uterus. -->
-  <TubalLigation.description>这个个体的生殖器官被关闭了输卵管，阻止了卵子从卵巢进入子宫。</TubalLigation.description>
+  <TubalLigation.description>永久性地使人不育。</TubalLigation.description>
   
   <!-- EN: vasectomy -->
   <Vasectomy.label>输精管结扎</Vasectomy.label>
   <!-- EN: This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization. -->
-  <Vasectomy.description>这种生物的生殖器官因切割和封闭输精管而丧失了生育功能，输精管是将精子输送到尿道的管道。在大多数情况下，这可以通过手术解除，但也有可能永久绝育。</Vasectomy.description>
+  <Vasectomy.description>切断输精管，使病人无法再生育。如果手术出错，病人将永久不育。</Vasectomy.description>
   
 </LanguageData>

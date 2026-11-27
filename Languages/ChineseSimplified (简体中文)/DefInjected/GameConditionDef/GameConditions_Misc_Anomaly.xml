@@ -4,7 +4,7 @@
   <!-- EN: blood rain frenzy -->
   <BloodRain.label>血怒之雨</BloodRain.label>
   <!-- EN: Blood-like fluid falls from the sky. Anyone outside will be driven into a berserk frenzy. -->
-  <BloodRain.description>天空中降下了鲜血般的心灵流体。任何长时间暴露在其中的人都会陷入狂暴。</BloodRain.description>
+  <BloodRain.description>任何长时间暴露在血怒之雨中的人都会陷入狂暴。某些特性和心灵敏感度会影响狂暴效果。</BloodRain.description>
   <!-- EN: The blood rain is ending. -->
   <BloodRain.endMessage>血怒之雨停了。</BloodRain.endMessage>
   <!-- EN: Drops of thick blood-like fluid have begun falling from the sky.\n\nAnyone exposed feels a growing anger which strengthens melee attacks but will eventually become a berserk rage. Exposed animals will eventually become manhunters. The intensity of the effect varies between individuals depending on their traits, psychic sensitivity, and random individual factors. -->
@@ -20,7 +20,7 @@
   <!-- EN: gray pall stench -->
   <GrayPall.label>灰棘迷雾</GrayPall.label>
   <!-- EN: A putrid stench fills the air, making people unhappy. The smell is worse outside. -->
-  <GrayPall.description>一股如沙尘般粗糙的迷雾笼罩了这片区域，散发出腐烂且酸臭的难闻味道。这种异常天气会唤起人们心中的恐惧。</GrayPall.description>
+  <GrayPall.description>天空中弥漫着如沙尘般粗糙的迷雾，散发出腐烂且酸臭的难闻味道。这种异常天气会唤起人们心中的恐惧。</GrayPall.description>
   <!-- EN: A blanket of gritty fog has descended on this area. It smells somehow ancient and stings the skin. The unnatural grayness of it invokes a sense of dread. -->
   <GrayPall.letterText>一股如沙尘般粗糙的迷雾笼罩了这片区域，散发出腐烂且酸臭的难闻味道。这种异常天气会唤起人们心中的恐惧。</GrayPall.letterText>
   

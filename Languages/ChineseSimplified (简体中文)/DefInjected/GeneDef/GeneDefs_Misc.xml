@@ -56,9 +56,9 @@
   <Instability_Mild.description>这种基因的携带者相较正常人维生所需进食量减少，但代价是其细胞复制能力轻微失稳。</Instability_Mild.description>
   
   <!-- EN: kill thirst -->
-  <KillThirst.label>杀戮饥渴</KillThirst.label>
+  <KillThirst.label>杀欲</KillThirst.label>
   <!-- EN: Carriers of this gene lust for the feeling of ending another's life. They will become irritated if they go for too long without killing someone in close combat. -->
-  <KillThirst.description>这种基因的携带者渴望结束他人的生命。若太长时间未在近距离战斗中击杀某人的话其会变得愤怒。</KillThirst.description>
+  <KillThirst.description>杀欲满足了对人类受害者实施暴力的内在欲望。如果没有得到满足，这个人就会变得非常不快乐。</KillThirst.description>
   <!-- EN: kill-thirsty -->
   <KillThirst.labelShortAdj>杀戮饥渴</KillThirst.labelShortAdj>
   <!-- EN: murder -->

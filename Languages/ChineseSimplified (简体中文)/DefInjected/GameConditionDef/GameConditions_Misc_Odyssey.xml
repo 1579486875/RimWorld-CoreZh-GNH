@@ -8,7 +8,7 @@
   <!-- EN: The bioluminescent spores are subsiding. -->
   <BioluminescentSpores.endMessage>萤光孢子正在消散。</BioluminescentSpores.endMessage>
   <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores pose no danger, and the shimmering visuals will brighten the mood of anyone who sees them. -->
-  <BioluminescentSpores.letterText>某种真菌正恣意绽放并释放出萤光孢子！这些孢子瑰丽且无害，流光溢彩将观者心绪点亮。</BioluminescentSpores.letterText>
+  <BioluminescentSpores.letterText>某种真菌正恣意绽放并释放出萤光孢子！这些孢子瑰丽且无害。</BioluminescentSpores.letterText>
   
   <!-- EN: darkened skies -->
   <DarkenedSkies.label>暗沉的天空</DarkenedSkies.label>
@@ -53,12 +53,12 @@
   <!-- EN: lava flow -->
   <LavaFlow.label>熔岩流</LavaFlow.label>
   <!-- EN: Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way! -->
-  <LavaFlow.description>熔岩已经开始涌入该地区。它将漫覆低洼处的火山岩，而其他地形将幸免于难。请确保你的殖民者远离危险！</LavaFlow.description>
+  <LavaFlow.description>周边地形将大量熔岩引流至此地，使其极为不适宜居住。</LavaFlow.description>
   
   <!-- EN: volcanic ash -->
   <VolcanicAsh.label>火山灰</VolcanicAsh.label>
   <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
-  <VolcanicAsh.description>附近火山喷发的火山灰正弥漫天空。阳光被遮蔽，刺鼻的空气令人肺部灼痛，灰云将持续数日。</VolcanicAsh.description>
+  <VolcanicAsh.description>来自火山喷发的灰烬。</VolcanicAsh.description>
   <!-- EN: a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe -->
   <VolcanicAsh.descriptionFuture>附近的火山喷发将让火山灰云覆盖[map_definite][gameConditionDuration_duration]，天空变暗，难以呼吸。</VolcanicAsh.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->

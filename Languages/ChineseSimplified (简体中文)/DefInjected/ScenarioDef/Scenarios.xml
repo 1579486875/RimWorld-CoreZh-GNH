@@ -15,9 +15,9 @@
   <Mechanitor.scenario.summary>一名机械师和几个机械族仆从。</Mechanitor.scenario.summary>
   
   <!-- EN: The Sanguophage -->
-  <Sanguophage.label>血族</Sanguophage.label>
+  <Sanguophage.label>赫血种</Sanguophage.label>
   <!-- EN: When a dark stranger offered you a cure for your cancer, you were ready to agree to anything. He made you into a sanguophage - an immortal blood-drinker hated by a thousand religions. You hid your condition for years, but eventually a hunter tracked you down. Stowing away on the first starship leaving the system, you barely escaped alive.\n\nNote: Sanguophages have unique strengths and weaknesses, which makes this a difficult scenario. -->
-  <Sanguophage.description>当一名在潜伏黑暗中的陌生人说自己能为你提供完美治疗癌症的方法时，你想自己已经准备好了牺牲一切。可他把你变成了血族——一种被千百种宗教所憎恨的不朽的吸食血液之人。你尽力隐藏了你的身份多年，但最终还是有一位血族猎人找到了你。最后濒临死亡的你不得不靠潜伏在第一艘离开星系的星际飞船里偷渡逃离了此地。\n\n注意：血族有着与正常人类不同的优劣势，这是个高难度的剧本。</Sanguophage.description>
+  <Sanguophage.description>血族是被超凡智能所强化过的异种人，而赫血种则是其中最负盛名的一脉。在超凡微械的加持下，他们有着远超一般基因强化的超能力。他们精神强大，各个外形优美。在战斗中能够发射致命的脊刺和治愈同伴。他们不会自然衰老和死亡，也不会受疾病和毒素侵扰。一个赫血种可以将自己的异种胚芽植入到另一个人身上来创造一个新的赫血种。\n\n赫血种必须定时摄入人类血液中的血原质和陷入为时不短的死眠。他们怕火，而且会被紫外线所弱化。\n\n千年以前，开拓公瓦兰·杜尔曾尝试控制一个超凡智能，但最终却被它改造成为了史上第一个赫血种，自此以后所有的血族便都由他而生。在那之后的血族由于其不稳定的超能力和对人血的依赖而常常被人类社会猎杀。由于他们的外形和普通人相似，所以常常隐藏在人类社会之中。\n\n当前血族的人数不为人知，有些人认为他们数量少到无关紧要，有些则猜测他们可能已经在暗中掌控了数个人类文明。宇宙之中不断有传说出现，诉说着在黑石太空站中号令亿万的永恒帝王，或是在都市世界底层中不断上演的血腥祭祀。</Sanguophage.description>
   <!-- EN: When a dark stranger offered you a cure for your cancer, you were ready to agree to anything. He made you into a sanguophage - an immortal blood-drinker hated by a thousand religions. You hid your condition for years, but eventually a hunter tracked you down. Stowing away on the first starship leaving the system, you barely escaped alive.\n\nNote: Sanguophages have unique strengths and weaknesses, which makes this a difficult scenario. -->
   <Sanguophage.scenario.description>当一名在潜伏黑暗中的陌生人说自己能为你提供完美治疗癌症的方法时，你想自己已经准备好了牺牲一切。可他把你变成了血族——一种被千百种宗教所憎恨的不朽的吸食血液之人。你尽力隐藏了你的身份多年，但最终还是有一位血族猎人找到了你。最后濒临死亡的你不得不靠潜伏在第一艘离开星系的星际飞船里偷渡逃离了此地。\n\n注意：血族有着与正常人类不同的优劣势，这是个高难度的剧本。</Sanguophage.scenario.description>
   <!-- EN: The Sanguophage -->

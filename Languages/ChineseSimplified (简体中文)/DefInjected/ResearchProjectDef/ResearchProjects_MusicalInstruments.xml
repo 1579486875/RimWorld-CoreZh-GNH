@@ -4,7 +4,7 @@
   <!-- EN: harp -->
   <Harp.label>竖琴</Harp.label>
   <!-- EN: Craft the harp, a simple stationary musical instrument popular among nobility in some cultures. -->
-  <Harp.description>解锁制作「竖琴」，在某些文化中很受贵族欢迎的一种简易固定乐器。</Harp.description>
+  <Harp.description>一种简单的固定乐器。一排琴弦伸展在一个框架上，由音乐家的手指直接拨动。\n\n它可以在一个手工加工点或锻造台上制作。</Harp.description>
   <!-- EN:
     <li>subject->竖琴</li>
     <li>subject->简易弦乐器</li>
@@ -29,7 +29,7 @@
   <!-- EN: harpsichord -->
   <Harpsichord.label>大键琴</Harpsichord.label>
   <!-- EN: Craft the harpsichord, a complex stationary musical instrument. -->
-  <Harpsichord.description>制作大键琴，一种复杂的固定乐器。</Harpsichord.description>
+  <Harpsichord.description>一种复杂的固定乐器。一位音乐家触摸乐器前面的一排琴键。每个按键都连接在一个内部机构上，该机构可以拔出一排在木架上的绳子中的一根。虽然它有着比竖琴更复杂的构造，但它的木制结构和弹拨机构限制了它的输出量和表现力。\n\n它可以在艺创台或者锻造台上制作。</Harpsichord.description>
   <!-- EN:
     <li>subject->羽管键琴</li>
     <li>subject_story->在核心世界星系引领了一场羽管键琴复兴</li>
@@ -50,7 +50,7 @@
   <!-- EN: piano -->
   <Piano.label>钢琴</Piano.label>
   <!-- EN: Craft the piano, an advanced stationary musical instrument. -->
-  <Piano.description>制作钢琴，一种先进的固定乐器。</Piano.description>
+  <Piano.description>一种先进的固定乐器。它是通过按一排键来演奏的，这会使击锤敲击在钢架上伸展的内部弦。击锤机制和高压琴弦使音乐家可以演奏非常柔和和响亮的音乐，使钢琴成为一种非常有表现力的乐器。\n\n它能够在锻造台上制作。</Piano.description>
   <!-- EN:
     <li>subject->钢琴</li>
     <li>subject_story->对弦乐器的完整曲目了然于心</li>

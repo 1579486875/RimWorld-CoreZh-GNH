@@ -9,7 +9,7 @@
   <!-- EN: thrumbo roar -->
   <ThrumboRoar.label>怒嚎</ThrumboRoar.label>
   <!-- EN: This creature has been shaken by the powerful roar of a thrumbo. -->
-  <ThrumboRoar.description>该生物被强大敲击兽的震撼怒嚎所惊扰。</ThrumboRoar.description>
+  <ThrumboRoar.description>指挥敲击兽发出强有力的咆哮，有一定几率使敌人与动物因恐惧而颤抖，降低其移动速度与操作能力。</ThrumboRoar.description>
   
   <!-- EN: vacuum exposure -->
   <VacuumExposure.label>真空暴露</VacuumExposure.label>
@@ -34,6 +34,6 @@
   <!-- EN: war trumpet -->
   <WarTrumpet.label>战吼</WarTrumpet.label>
   <!-- EN: This creature has been shaken by the powerful trumpeting of a mighty beast. -->
-  <WarTrumpet.description>该生物被强大野兽的震撼战吼所惊扰。</WarTrumpet.description>
+  <WarTrumpet.description>指挥动物发出强有力的咆哮，有一定几率使敌人与动物因恐惧而颤抖，降低其移动速度与操作能力。</WarTrumpet.description>
   
 </LanguageData>

@@ -25,7 +25,7 @@
   <!-- EN: atmospheric heater -->
   <AtmosphericHeater.label>大气升温器</AtmosphericHeater.label>
   <!-- EN: Build bioferrite-powered heaters that produce enough heat to warm an entire region. -->
-  <AtmosphericHeater.description>解锁建造消耗活铁运作的「大气升温器」，产生的热量足以使整个地区的温度上升。</AtmosphericHeater.description>
+  <AtmosphericHeater.description>由暗黑超凡碎片驱动的热能投射设备。它能通过燃烧活铁来搅动大气中的气体分子，提高当地室外温度。它本身也会产生大量废热。</AtmosphericHeater.description>
   <!-- EN:
     <li>subject->生物铁加热</li>
     <li>subject_story->升级了老旧的地热装置</li>
@@ -96,7 +96,7 @@
   <!-- EN: bioferrite generator -->
   <BioferriteGenerator.label>活铁发电机</BioferriteGenerator.label>
   <!-- EN: Build power generators that burn bioferrite as a fuel. -->
-  <BioferriteGenerator.description>建造燃烧活铁作为燃料的发电机。</BioferriteGenerator.description>
+  <BioferriteGenerator.description>通过加压点燃活铁并从产生的热量中获取电力的发电机。\n\n由于发电过程需要破坏其心灵活性，这种设备会发出一种令人不适的心灵嗡鸣。</BioferriteGenerator.description>
   <!-- EN:
     <li>subject->生物铁发电</li>
     <li>subject_story->接受了新型能源使用的训练</li>
@@ -209,7 +209,7 @@
   <!-- EN: blood rain -->
   <BloodRain.label>血怒之雨</BloodRain.label>
   <!-- EN: Perform a psychic ritual which causes blood-like psychofluid to fall from the sky. Anyone caught outside will soon be driven into a berserk rage. -->
-  <BloodRain.description>进行心灵仪式，使血液般的心灵流体从天而降。任何暴露其中的人心头都将泛起一股无名怒火，最终陷入狂暴。</BloodRain.description>
+  <BloodRain.description>任何长时间暴露在血怒之雨中的人都会陷入狂暴。某些特性和心灵敏感度会影响狂暴效果。</BloodRain.description>
   <!-- EN:
     <li>subject->血雨</li>
     <li>subject_story->研究了关于有机降水的古代自然神论神话</li>
@@ -349,7 +349,7 @@
   <!-- EN: electroharvester -->
   <Electroharvester.label>汲电器</Electroharvester.label>
   <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
-  <Electroharvester.description>解锁建造能够从被捕获的实体身上汲取电力的发电机。该过程会加重实体的负担，使其收容难度更大。</Electroharvester.description>
+  <Electroharvester.description>可放置在收容平台附近的发电机，它从被收容的实体身上汲取电力。这种发电机会刺入实体的身体，利用实体体内的异常空间扭曲或灵流来产生电力。\n\n体型较大的实体通常可以产生更多电力。但汲电器会刺激实体，使其逃脱的欲望更加强烈。\n\n每个收容平台只能连接一台汲电器，但每台汲电器最多可以连接四个平台。</Electroharvester.description>
   <!-- EN:
     <li>subject->实体衍生发电</li>
     <li>subject_story->研究了细胞膜上的离子泵</li>
@@ -395,7 +395,7 @@
   <!-- EN: frenzy inducer -->
   <FrenzyInducer.label>狂热诱发器</FrenzyInducer.label>
   <!-- EN: Build shard-powered structures that generate a frenetic psychic field to make anyone nearby move and work faster. However, the unstable emotional energy creates a tendency towards violence, irritating anyone nearby. -->
-  <FrenzyInducer.description>解锁建造由暗黑超凡碎片驱动的设备，产生能令人陷入狂热的心灵场，让附近的人行动和工作得更快。但不稳定的心情能量会产生暴力倾向，激怒附近的任何人。</FrenzyInducer.description>
+  <FrenzyInducer.description>将暗黑超凡碎片安装在电刺激框架中制成的设备。它能在附近产生狂热的心灵振波，刺激附近的每个人以加快移动与工作速度。然而一旦有人精神崩溃，将会展现出极为暴力的行为。</FrenzyInducer.description>
   <!-- EN:
     <li>subject->超凡狂乱诱发器</li>
     <li>subject_story->担任过激励治疗师</li>
@@ -502,7 +502,7 @@
   <!-- EN: juggernaut serum -->
   <JuggernautSerum.label>强力血清</JuggernautSerum.label>
   <!-- EN: Synthesize a serum which temporarily increases the user's strength and speed, and allows them to recover from injuries faster. However, it reduces their mood. -->
-  <JuggernautSerum.description>解锁合成一种血清，它能暂时增强使用者的力量和速度，让其更快地从伤病中恢复过来。但它也会降低心情。</JuggernautSerum.description>
+  <JuggernautSerum.description>装有不透明乳黄色流体的注射针剂，能够提升使用者的速度和力量，并让其伤口愈合更快。注射进肌肉后，血清会为使用者的各种代谢过程提供能量。然而这种不稳定的物质也会对使用者的心智精神造成影响，令其紧张不安、情绪低落。</JuggernautSerum.description>
   <!-- EN:
     <li>subject->巨兽血清</li>
     <li>subject_story->因被抓到用巨兽血清给队伍下药，[ANYPAWN_pronoun]被核心世界联盟禁赛</li>
@@ -523,7 +523,7 @@
   <!-- EN: metalblood serum -->
   <MetalbloodSerum.label>钢血血清</MetalbloodSerum.label>
   <!-- EN: Synthesize metalblood serums that make the user more resistant to damage. -->
-  <MetalbloodSerum.description>解锁合成钢血血清，使用者能够抵御更多伤害。</MetalbloodSerum.description>
+  <MetalbloodSerum.description>装有铁锈色流体的注射针剂，其中的药剂不断地在液态与固态间往复变化。注射进血液后，这种钢血物质能够使肉体在受到冲击前迅速硬化，让使用者抵御更多伤害。然而，这种基于活铁的化学物质也让使用者面对火焰时格外脆弱。</MetalbloodSerum.description>
   <!-- EN:
     <li>subject->金属血血清</li>
     <li>subject_story->为军用世界的装甲研究反应性液体</li>
@@ -544,7 +544,7 @@
   <!-- EN: mind-numb serum -->
   <MindNumbSerum.label>思滞血清</MindNumbSerum.label>
   <!-- EN: Synthesize a serum that stabilizes a person's mood, preventing mental breaks. -->
-  <MindNumbSerum.description>解锁合成一种能稳定人情绪的血清，防止精神崩溃。</MindNumbSerum.description>
+  <MindNumbSerum.description>装有澄清黏性流体的注射针剂。向脑干附近注射后能够使被使用者思维停滞、不再感受到人情冷暖。这将暂时阻止此人发生精神崩溃或是激发灵感。</MindNumbSerum.description>
   <!-- EN:
     <li>subject->麻木血清</li>
     <li>subject_story->秘密让主唱麻木，从而破坏了一场情感演出</li>
@@ -665,7 +665,7 @@
   <!-- EN: proximity detector -->
   <ProximityDetector.label>潜近探测器</ProximityDetector.label>
   <!-- EN: Build a device that can detect invisible creatures. -->
-  <ProximityDetector.description>解锁建造能够探测隐形生物的设备。</ProximityDetector.description>
+  <ProximityDetector.description>能够探测隐形生物的扫描仪。当其探测范围内出现心灵隐形生物时，这种设备就会发出警报。</ProximityDetector.description>
   <!-- EN:
     <li>subject->近距探测器</li>
     <li>subject->运动传感器</li>
@@ -782,7 +782,7 @@
   <!-- EN: sleep suppressor -->
   <SleepSuppressor.label>睡眠抑制器</SleepSuppressor.label>
   <!-- EN: Build shard-powered structures that stimulate those nearby to prevent fatigue. The device will irritate anyone nearby. -->
-  <SleepSuppressor.description>解锁建造由暗黑超凡碎片驱动的建筑，刺激附近的任何人以防止他们疲劳。</SleepSuppressor.description>
+  <SleepSuppressor.description>将暗黑超凡碎片安装在电刺激框架中制成的设备。它能在小范围内发射心灵脉冲，影响附近人的大脑化学反应，阻止疲劳毒素积累，消除睡眠需求。但也会使人变得易怒。</SleepSuppressor.description>
   <!-- EN:
     <li>subject->睡眠抑制</li>
     <li>subject_story->研究过工厂工人的睡眠剥夺</li>

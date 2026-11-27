@@ -4,7 +4,7 @@
   <!-- EN: blinding -->
   <BlindingCeremony.label>盲目</BlindingCeremony.label>
   <!-- EN: A cutter will ritualistically blind a target. The audience will watch as the cutter gives a speech, cuts out both of the target's eyes, and says some closing words. The target will be left bleeding and need immediate medical care. -->
-  <BlindingCeremony.description>一名执行者以仪式性的方式弄瞎一个目标。观众会看见执行者发表演讲，切掉目标的眼睛，并说一些结束语。目标将会流血不止，并且需要立即接受治疗。</BlindingCeremony.description>
+  <BlindingCeremony.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</BlindingCeremony.description>
   
   <!-- EN: dance party -->
   <Classic_DanceParty.label>舞会</Classic_DanceParty.label>
@@ -19,7 +19,7 @@
   <!-- EN: conversion ritual -->
   <Conversion.label>教化仪式</Conversion.label>
   <!-- EN: Try to persuade someone into joining your ideoligion. -->
-  <Conversion.description>试图说服别人加入你的文化形态。</Conversion.description>
+  <Conversion.description>如果进展顺利，目标的文化形态认可度将会降低，或者他们将会改变信仰。如果进展不顺利，他们会对自己的旧信仰更加坚定。</Conversion.description>
   
   <!-- EN: christmas tree party -->
   <DateRitualConsumable.label>圣诞树派对</DateRitualConsumable.label>
@@ -29,7 +29,7 @@
   <!-- EN: public execution -->
   <Execution.label>公开处决</Execution.label>
   <!-- EN: An executioner will publicly execute a prisoner. The executioner will give a short speech, execute the prisoner by cutting, and say some closing words. Spectating slaves will become afraid and intimidated, and colonists will feel exhilarated or disgusted depending on their beliefs. -->
-  <Execution.description>一名刽子手将公开处决一名囚犯。刽子手会发表简短的讲话，然后切割处刑囚犯，并说一些结束语。旁观的奴隶会变得害怕和恐惧，而殖民者将依据他们的信仰感到兴奋或厌恶。</Execution.description>
+  <Execution.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</Execution.description>
   <!-- EN: Public execution -->
   <Execution.tipLabelOverride>公开处决</Execution.tipLabelOverride>
   
@@ -53,7 +53,7 @@
   <!-- EN: gladiator duel -->
   <GladiatorDuel.label>角斗士决斗</GladiatorDuel.label>
   <!-- EN: A duel between prisoners or slaves. The organizer will give a speech to excite the crowd, then the duelists will fight until one of them falls or time runs out. If weapons are in the arena, the duelists will pick up and use them. -->
-  <GladiatorDuel.description>囚犯或奴隶之间的决斗，组织者将发表演讲以激发观众的情绪，然后决斗者将进行战斗，直到其中一人倒下或时间耗尽。如果竞技场上有武器，决斗者将拿起并使用它们。</GladiatorDuel.description>
+  <GladiatorDuel.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</GladiatorDuel.description>
   <!-- EN: Prisoner/slave gladiator duel -->
   <GladiatorDuel.tipLabelOverride>囚犯/奴隶的角斗士决斗</GladiatorDuel.tipLabelOverride>
   
@@ -65,12 +65,12 @@
   <!-- EN: role change -->
   <RoleChange.label>职位变更</RoleChange.label>
   <!-- EN: A ceremony for changing social roles. The person changing roles will give a speech while others gather around. The required number of spectators must attend. -->
-  <RoleChange.description>一个变更社区职位的仪式。职位有变动的人将发表演讲，其他人聚拢在周围。必须有超过指定人数的出席人数。</RoleChange.description>
+  <RoleChange.description>一个新职位将被指派给殖民者。</RoleChange.description>
   
   <!-- EN: scarification -->
   <ScarificationCeremony.label>刻印仪式</ScarificationCeremony.label>
   <!-- EN: A ritualistic scarring where a cutter carves ideoligious symbols into a target. The audience will watch as the cutter gives a speech, performs the cutting, then says some finishing words. -->
-  <ScarificationCeremony.description>一种疤痕赋予仪式，由执行者为目标刻上具有宗教意义的符号。观众会看到执行者发表讲话，进行切割，最后说一些结束话语。</ScarificationCeremony.description>
+  <ScarificationCeremony.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</ScarificationCeremony.description>
   
   <!-- EN: tree connection ritual -->
   <TreeConnection.label>母树共鸣仪式</TreeConnection.label>
@@ -80,12 +80,12 @@
   <!-- EN: trial -->
   <Trial.label>审判</Trial.label>
   <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilities of the accused and accuser, and the number of spectators. -->
-  <Trial.description>对一些令人发指的罪行进行审判，发起人将宣布某人犯有可怕的罪行，并招募群众进行审判。旁观者会听到指控者与被告互相争论，然后决定指控是否属实。如果被告被判定有罪，你可以自由放逐、抓捕或者处决他们，没有人会介意。定罪有的机会取决于被告和指控者的社交能力，以及观众数量。</Trial.description>
+  <Trial.description>审判的质量决定被告被定罪的几率。</Trial.description>
   
   <!-- EN: trial -->
   <TrialMentalState.label>审判</TrialMentalState.label>
   <!-- EN: A trial over some heinous accusation. The initiator will accuse someone of terrible wrongdoing and gather people for a trial. Spectators will listen as the accuser and accused argue back and forth, then decide if the accusation is true. If the accused is convicted, you can freely banish, arrest or execute them and nobody will mind. The chance of a conviction depends on the social abilities of the accused and accuser, and the number of spectators. -->
-  <TrialMentalState.description>对一些令人发指的罪行进行审判，发起人将宣布某人犯有可怕的罪行，并招募群众进行审判。旁观者会听到指控者与被告互相争论，然后决定指控是否属实。如果被告被判定有罪，你可以自由放逐、抓捕或者处决他们，没有人会介意。定罪有的机会取决于被告和指控者的社交能力，以及观众数量。</TrialMentalState.description>
+  <TrialMentalState.description>审判的质量决定被告被定罪的几率。</TrialMentalState.description>
   
   <!-- EN: trial -->
   <TrialPrisoner.label>审判</TrialPrisoner.label>

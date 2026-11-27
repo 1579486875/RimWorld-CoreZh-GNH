@@ -12,7 +12,7 @@
   <Children.helpText>随着年龄的增长，孩子会获得特性和兴趣度，并能够参与更多的工作类型。\n\n孩子们有学习需求，可以通过几种方式满足。您可以在“需求”选项卡上查看孩子想要的学习活动。只有当孩子们的日程安排设置为娱乐或任何事情时，他们才会进行学习活动。满足的学习需求可以帮助孩子更快地提升成长评级，从而在成长阶段产生更多的兴趣度和选择。\n\n儿童只能穿着特殊的儿童尺寸服装。\n\n儿童会在13岁时长大成人。默认情况下，儿童成长比成人快4倍。您可以在叙事者的设置中对此进行调整。</Children.helpText>
   
   <!-- EN: Deathrest -->
-  <Deathrest.label>死眠</Deathrest.label>
+  <Deathrest.label>死眠设备</Deathrest.label>
   <!-- EN: Colonists with the deathrest gene must periodically regenerate themselves in a special coma called deathrest. This takes several days.\n\nSpecial machines placed near the casket can give bonuses to the deathrester. A person can only connect to a limited number of machines - this number is shown by their deathrest capacity.\n\nYou can increase deathrest capacity by injecting deathrest capacity serums. These can be purchased from traders. -->
   <Deathrest.helpText>具有死眠基因的殖民者必须在一种叫做“死眠”的特殊睡眠中周期性地自我再生。这个过程要几天时间。\n\n放置在死眠棺材附近的特殊设备可以给死眠者加成。一个人只能连接到有限数量的设备——这个数字由其的死眠容量表示。\n\n你可以通过注入死眠血清来增加死眠容量。这些可以从商人那里购买。</Deathrest.helpText>
   

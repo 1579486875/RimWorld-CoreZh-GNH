@@ -7,9 +7,9 @@
   <AttemptRecruit.description>狱卒将尝试招募囚犯。如果囚犯仍然有抵抗情绪，狱卒将与此人交谈以减少抵抗情绪。</AttemptRecruit.description>
   
   <!-- EN: execute -->
-  <Execution.label>处决</Execution.label>
+  <Execution.label>公开处决</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
-  <Execution.description>狱卒会当场处决该囚犯。这会影响其他囚犯和殖民者的心情。</Execution.description>
+  <Execution.description>参与者将在{MOODDAYS}天内获得{MINMOOD}到{MAXMOOD}的心情值，这取决于仪式的效果。</Execution.description>
   
   <!-- EN: maintain only -->
   <MaintainOnly.label>维持生命</MaintainOnly.label>
@@ -22,8 +22,8 @@
   <ReduceResistance.description>如果犯人仍有抵抗情绪，狱卒将与其交谈以减少反抗。不会进行招募尝试。</ReduceResistance.description>
   
   <!-- EN: release -->
-  <Release.label>释放</Release.label>
+  <Release.label>出击</Release.label>
   <!-- EN: A warden will release the prisoner. -->
-  <Release.description>一名狱卒会释放囚犯。</Release.description>
+  <Release.description>动物可以主动出击，攻击远处的目标，而不是仅仅保护主人。</Release.description>
   
 </LanguageData>

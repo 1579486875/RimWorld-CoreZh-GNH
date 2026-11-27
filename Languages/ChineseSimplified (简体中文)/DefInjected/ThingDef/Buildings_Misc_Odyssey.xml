@@ -122,7 +122,7 @@
   <!-- EN: ancient uplink -->
   <AncientUplink.label>远古上行链路</AncientUplink.label>
   <!-- EN: An ancient transmitter used for secure communications between the surface and orbit. Hack it to determine the last location it transmitted to. -->
-  <AncientUplink.description>用于地表与轨道间安全通讯的远古信号发射器。骇入可获知其最后一次运行时的目标位置。</AncientUplink.description>
+  <AncientUplink.description>该地区有一个用于与近地轨道卫星通讯的上行链路。骇入该链路将揭示隐藏轨道位置。</AncientUplink.description>
   <!-- EN: Hacked. -->
   <AncientUplink.comps.CompHackable.hackedInspectString>已骇入。</AncientUplink.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
@@ -240,7 +240,7 @@
   <!-- EN: passenger shuttle -->
   <PassengerShuttle.label>载客穿梭机</PassengerShuttle.label>
   <!-- EN: A chemfuel-powered shuttle designed for long-distance travel. It is capable of reaching orbital locations. -->
-  <PassengerShuttle.description>以化合燃料驱动的穿梭机，被设计用于远途旅行，可抵达近地轨道。</PassengerShuttle.description>
+  <PassengerShuttle.description>一艘正在飞行中的载客穿梭机。</PassengerShuttle.description>
   <!-- EN: {0} is ready to launch again. -->
   <PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>{0}已准备好再次发射。</PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: Chemfuel -->

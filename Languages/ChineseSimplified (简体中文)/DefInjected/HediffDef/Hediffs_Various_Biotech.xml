@@ -7,9 +7,9 @@
   <BioStarvation.description>此人处于培育舱中，由于培育舱缺少营养或电力导致无法正常工作，此人的身体处于生理饥饿状态。</BioStarvation.description>
   
   <!-- EN: deathresting -->
-  <Deathrest.label>死眠</Deathrest.label>
+  <Deathrest.label>死眠设备</Deathrest.label>
   <!-- EN: A deep coma-like sleep that lasts several days and restores the body's resources. Certain genes create a need for deathrest. Deathrest can also be enhanced with various support buildings that give special bonuses to the deathrester. -->
-  <Deathrest.description>持续数天的深度睡眠状态，恢复身体能力。某些基因导致了对死眠的需求。死眠也可以通过额外设施来增强，设施会给死眠提供独特的加成奖励。</Deathrest.description>
+  <Deathrest.description>解锁建造可以加速那些拥有死眠基因的人必须定期经历的一种持续数天的死眠进行进度的设备，并给予那些死眠者特定的加成。终有一天，你可以建造出一座宏伟的死眠神庙。</Deathrest.description>
   
   <!-- EN: deathrest exhaustion -->
   <DeathrestExhaustion.label>死眠衰竭症</DeathrestExhaustion.label>

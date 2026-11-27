@@ -4,7 +4,7 @@
   <!-- EN: security door -->
   <SecurityDoor.label>安全大门</SecurityDoor.label>
   <!-- EN: Build a heavily reinforced door. It is slow to open and requires power, but is very strong. It's a good choice if you want to keep something dangerous out - or in. -->
-  <SecurityDoor.description>解锁建造「安全大门」。这种经过重重加固的门开关速度较慢，且需要通电，但优点是非常坚固。若需要将危险挡在门外或锁在门内，它是个不错的选择。</SecurityDoor.description>
+  <SecurityDoor.description>经过重重加固的门。分隔房间。开关速度较慢，且需要通电，但优点是非常坚固。若需要将危险挡在门外或锁在门内，它是个不错的选择。这种大而重的门两侧必须与墙体相连才能正常工作。</SecurityDoor.description>
   <!-- EN:
     <li>subject->安保门</li>
     <li>subject_story->在一座封闭研究设施里当安保无人机</li>

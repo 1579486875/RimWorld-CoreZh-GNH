@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: breakup -->
-  <Breakup.label>感情破裂</Breakup.label>
+  <Breakup.label>破裂</Breakup.label>
   <!-- EN: r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break. -->
   <Breakup.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]要求和[RECIPIENT_nameDef]分手。</Breakup.logRulesInitiator.rulesStrings.0>
   <!-- EN: r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space. -->

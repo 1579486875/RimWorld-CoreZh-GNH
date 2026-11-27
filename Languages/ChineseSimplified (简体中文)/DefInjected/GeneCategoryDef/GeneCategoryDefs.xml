@@ -14,7 +14,7 @@
   <Beauty.label>魅力</Beauty.label>
   
   <!-- EN: cosmetic - body type -->
-  <Cosmetic_Body.label>体型</Cosmetic_Body.label>
+  <Cosmetic_Body.label>外观 - 体型</Cosmetic_Body.label>
   
   <!-- EN: drugs -->
   <Drugs.label>成瘾品</Drugs.label>
@@ -35,7 +35,7 @@
   <Pain.label>疼痛</Pain.label>
   
   <!-- EN: psychics -->
-  <Psychic.label>心灵</Psychic.label>
+  <Psychic.label>心灵攻击</Psychic.label>
   
   <!-- EN: reproduction -->
   <Reproduction.label>繁衍</Reproduction.label>

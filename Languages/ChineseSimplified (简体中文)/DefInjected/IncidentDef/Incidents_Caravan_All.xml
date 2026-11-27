@@ -9,7 +9,7 @@
   <Ambush.letterText>{0}被来自{2}的{1}的伏击了！</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>打劫</CaravanDemand.label>
+  <CaravanDemand.label>远行队被勒索</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
   <CaravanMeeting.label>远行队相遇</CaravanMeeting.label>

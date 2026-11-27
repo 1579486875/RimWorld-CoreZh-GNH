@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: monkey -->
-  <Monkey.label>猴类</Monkey.label>
+  <Monkey.label>猴</Monkey.label>
   <!-- EN: left clavicle -->
   <Monkey.corePart.parts.left_clavicle.customLabel>左锁骨</Monkey.corePart.parts.left_clavicle.customLabel>
   <!-- EN: right clavicle -->

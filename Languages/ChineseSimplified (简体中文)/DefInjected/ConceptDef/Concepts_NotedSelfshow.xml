@@ -46,7 +46,7 @@
   <CoverAndShooting.helpText>远程作战第一课：先给自己找掩体。\n\n掩体只有在处于交火路径当中且你的殖民者紧贴着掩体时才生效。\n\n你也可以把殖民者放在墙角后来射击。他们会侧身射击。\n\n大部分物体都可以作为掩体，但是它们的效果并不尽相同，一棵树比没有掩体要强，但是远不如沙袋好使。</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
-  <Deterioration.label>物品老化</Deterioration.label>
+  <Deterioration.label>老化</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
   <Deterioration.helpText>放置在室外的物品会因为淋雨等因素而缓慢老化损坏。\n\n如果你想长期保存该物品，就把它们放到有屋顶的房间里或物品架上。</Deterioration.helpText>
   

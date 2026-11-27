@@ -7,9 +7,9 @@
   <AbandonedCamp.description>一处废弃的营地。</AbandonedCamp.description>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>定居点（已废弃）</AbandonedSettlement.label>
+  <AbandonedSettlement.label>废弃定居点</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
-  <AbandonedSettlement.description>一处废弃的定居点。</AbandonedSettlement.description>
+  <AbandonedSettlement.description>逆重核心的能量信号正从这个定居点的某处发出。探索废弃的建筑来找到逆重核心。</AbandonedSettlement.description>
   
   <!-- EN: attacked caravan -->
   <AttackedNonPlayerCaravan.label>远行队（遇袭）</AttackedNonPlayerCaravan.label>

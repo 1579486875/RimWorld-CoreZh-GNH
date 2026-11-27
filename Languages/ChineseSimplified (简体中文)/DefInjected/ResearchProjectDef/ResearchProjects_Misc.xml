@@ -50,9 +50,9 @@
   </Biosculpting.generalRules.rulesStrings>
   
   <!-- EN: neural supercharger -->
-  <NeuralSupercharger.label>神经超频</NeuralSupercharger.label>
+  <NeuralSupercharger.label>神经超频装置</NeuralSupercharger.label>
   <!-- EN: Construct neural supercharger devices. Neural superchargers improve consciousness and learning rate, but they also increase hunger and the effect must be refreshed daily. Transhumanists often hold neural supercharging as an important practice. -->
-  <NeuralSupercharger.description>构建神经超频装置。神经超频可以提高意识和学习效率，但也会增加饥饿速度，而且必须每天刷新效果。超人类主义者通常将神经超频作为一项重要的实践。</NeuralSupercharger.description>
+  <NeuralSupercharger.description>一种每天只能使用一次的神经超频装置。神经超频者将获得思考和学习速度加成，但也会因此更容易饥饿。这种效果持续一天就会消失。神经超频装置消耗大量电力。</NeuralSupercharger.description>
   <!-- EN:
     <li>subject->神经增压器</li>
     <li>subject_story->在[ANYPAWN_possessive]寄宿学校推行了神经增压器</li>

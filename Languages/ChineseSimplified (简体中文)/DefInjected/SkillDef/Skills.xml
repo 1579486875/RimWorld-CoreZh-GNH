@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>驯兽</Animals.label>
+  <Animals.label>动物</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>驯服、训练、管理、控制动物。</Animals.description>
   <!-- EN:
@@ -72,7 +72,7 @@
   <!-- EN: construction -->
   <Construction.label>建造</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>更好更快的建造或拆除结构和家具。</Construction.description>
+  <Construction.description>建造者会建造你指定的建筑，并修理损坏的建筑、家具、工作台等。</Construction.description>
   <!-- EN:
     <li>subject->建造</li>
     <li>subject->建筑</li>
@@ -103,7 +103,7 @@
   <!-- EN: cooking -->
   <Cooking.label>烹饪</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>用各种食材烹饪食物。熟练的厨师能够更快烹饪食物，并且避免食物有毒。</Cooking.description>
+  <Cooking.description>厨师负责烹饪食物、屠宰尸体、填充储料器。</Cooking.description>
   <!-- EN:
     <li>subject->烹饪</li>
     <li>subject->食物</li>
@@ -140,9 +140,9 @@
   <Cooking.skillLabel>烹饪</Cooking.skillLabel>
   
   <!-- EN: crafting -->
-  <Crafting.label>手工</Crafting.label>
+  <Crafting.label>制作</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>制作武器、零部件等常规物品，以及精炼资源。</Crafting.description>
+  <Crafting.description>工匠负责把原材料制成成品。</Crafting.description>
   <!-- EN:
     <li>subject->手工制作</li>
     <li>subject->组装</li>
@@ -226,7 +226,7 @@
   <Intellectual.skillLabel>智识</Intellectual.skillLabel>
   
   <!-- EN: medical -->
-  <Medicine.label>医疗</Medicine.label>
+  <Medicine.label>医疗药品</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
   <Medicine.description>治疗伤口和疾病，以及执行医疗手术。</Medicine.description>
   <!-- EN:
@@ -281,7 +281,7 @@
   <Medicine.skillLabel>医疗</Medicine.skillLabel>
   
   <!-- EN: melee -->
-  <Melee.label>格斗</Melee.label>
+  <Melee.label>近战武器</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
   <Melee.description>使用各种类型的近战武器和空手进行战斗。</Melee.description>
   <!-- EN:
@@ -316,7 +316,7 @@
   <!-- EN: mining -->
   <Mining.label>采矿</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
-  <Mining.description>挖掘隧道，开采矿物或埋藏的资源。</Mining.description>
+  <Mining.description>矿工负责开采矿物和山岩，以及操作深钻井。</Mining.description>
   <!-- EN:
     <li>subject->采矿</li>
     <li>subject->挖掘</li>
@@ -351,7 +351,7 @@
   <Mining.skillLabel>采矿</Mining.skillLabel>
   
   <!-- EN: plants -->
-  <Plants.label>种植</Plants.label>
+  <Plants.label>植物</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
   <Plants.description>播种、照顾和收获作物或者在远行途中搜集食物。</Plants.description>
   <!-- EN:

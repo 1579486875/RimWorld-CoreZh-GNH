@@ -4,7 +4,7 @@
   <!-- EN: Custom -->
   <Custom.label>自定义</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
-  <Custom.description>此选项允许你详细定义属于你的游戏难度。\n\n(*SectionTitle)建议：(/SectionTitle)\n\n-对模板难度的其中一个级别较为满意，但想要有少许改变的玩家\n-希望尝试不同游戏难度的玩家\n\n有些设置可能会大幅影响游戏体验，请谨慎决定。</Custom.description>
+  <Custom.description>定制一个新的文化形态，并且调整每一项细节。这可能会消耗一些时间。</Custom.description>
   
   <!-- EN: community builder -->
   <Easy.label>开拓建设</Easy.label>
@@ -22,7 +22,7 @@
   <Hard.description>挑战难度。你将面临严酷的生存挑战，各种威胁迅速提升，并以恶趣味的方式接踵而至。这里没有万全之策，有时候必须懂得取舍。\n为了适应这个难度，你需要多样化的策略、战术和一些运气。\n\n(*SectionTitle)建议：(/SectionTitle)\n-想要努力求生的有经验的玩家。\n\n这个难度下，殖民者会有一个额外的小幅心情惩罚，同时采矿和种植产出略有减少，食物中毒和感染的机率小幅增加，事件强度增加很多。如果难以继续不妨将难度降低一点。</Hard.description>
   
   <!-- EN: adventure story -->
-  <Medium.label>孤星探险</Medium.label>
+  <Medium.label>中型</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
   <Medium.description>中等难度。建设殖民地同时抵御可能出现的危机，有着成长和繁荣的空间，但总体上这仍然是一个危险的星球。\n\n(*SectionTitle)建议：(/SectionTitle)\n-第一次玩RimWorld，但是游戏经验丰富的玩家\n-有游戏经验的RimWorld玩家，又希望有喘息的空间追求游戏乐趣和稀有成就\n\n在这个难度下，所有事件都可能会发生，事件强度略有减弱。殖民者不再有心情加成，采矿和种植也不再有额外产出。感染和中毒的几率有小幅降低，袭击类事件密度也有小幅降低。总体上说这个难度适合玩家对游戏的各种可能情况进行摸索，而不必挑战自己。</Medium.description>
   

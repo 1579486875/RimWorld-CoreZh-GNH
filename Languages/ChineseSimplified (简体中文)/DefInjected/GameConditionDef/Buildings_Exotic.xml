@@ -4,7 +4,7 @@
   <!-- EN: psychic droner -->
   <PsychicDroner.label>心灵干扰器</PsychicDroner.label>
   <!-- EN: A psychic droner tuned to the {0} gender is driving {0}s mad. -->
-  <PsychicDroner.description>一台心灵干扰器将频率转换为影响{0}，这会使所有的{0}殖民者发疯。</PsychicDroner.description>
+  <PsychicDroner.description>一个传递疯狂超凡智能的思想的超凡科技设备。它能产生一个巨大的心灵场，影响星球上某个区域内所有特定性别的人类。受影响者的心情会持续低落，并可能因此狂暴。这种影响会因为个人的心灵敏感度而有所不同。</PsychicDroner.description>
   <!-- EN: A psychic droner machine has begun affecting this region. -->
   <PsychicDroner.letterText>一台心灵干扰器开始影响整个区域。</PsychicDroner.letterText>
   

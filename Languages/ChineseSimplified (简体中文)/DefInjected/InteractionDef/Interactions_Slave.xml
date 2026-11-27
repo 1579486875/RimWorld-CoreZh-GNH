@@ -19,7 +19,7 @@
   </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
   
   <!-- EN: suppress -->
-  <Suppress.label>镇压</Suppress.label>
+  <Suppress.label>压制</Suppress.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef]告诉[RECIPIENT_nameDef]叛乱会有惩罚。</li>
     <li>r_logentry->[INITIATOR_nameDef]警告[RECIPIENT_nameDef]不服从会受罚。</li>

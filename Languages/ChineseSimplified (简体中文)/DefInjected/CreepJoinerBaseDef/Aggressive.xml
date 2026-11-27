@@ -11,7 +11,7 @@
   <!-- EN: {PAWN_nameDef} has transformed into a hideous fleshbeast! -->
   <FleshbeastEmergence.letterDesc>{PAWN_nameDef}突变成了一只恐怖的血肉兽！</FleshbeastEmergence.letterDesc>
   <!-- EN: {PAWN_nameDef} transformed -->
-  <FleshbeastEmergence.letterLabel>{PAWN_nameDef}已突变</FleshbeastEmergence.letterLabel>
+  <FleshbeastEmergence.letterLabel>血肉兽出现</FleshbeastEmergence.letterLabel>
   
   <!-- EN: sightstealer attack -->
   <SightstealerAttack.label>隐形魔袭击</SightstealerAttack.label>

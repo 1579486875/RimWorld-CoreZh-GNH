@@ -107,7 +107,7 @@
   <InsectJelly.description>巨型虫族储存作为食物的胶状物。如丝顺滑、营养丰富，能给食用者带来愉悦感。由于其独特的生物学特性，它可以滋养几乎任何生物而且不会腐烂。\n\n也可以用于喂养人类婴儿。</InsectJelly.description>
   
   <!-- EN: milk -->
-  <Milk.label>奶</Milk.label>
+  <Milk.label>收取动物产物</Milk.label>
   <!-- EN: Milk from an animal.\n\nMilk can be fed to human babies. -->
   <Milk.description>动物的乳汁。\n\n也可以用于喂养人类婴儿。</Milk.description>
   

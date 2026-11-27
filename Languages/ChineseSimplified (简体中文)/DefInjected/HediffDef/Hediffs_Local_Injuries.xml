@@ -32,7 +32,7 @@
   <BeamWound.labelNounPretty>{1}中的{0}</BeamWound.labelNounPretty>
   
   <!-- EN: bite -->
-  <Bite.label>咬伤</Bite.label>
+  <Bite.label>咬</Bite.label>
   <!-- EN: A bite wound. -->
   <Bite.description>咬伤伤口。</Bite.description>
   <!-- EN: set -->
@@ -144,7 +144,7 @@
   <Crush.labelNounPretty>{1}中的{0}</Crush.labelNounPretty>
   
   <!-- EN: cut -->
-  <Cut.label>割伤</Cut.label>
+  <Cut.label>割</Cut.label>
   <!-- EN: A cut. -->
   <Cut.description>割伤伤口。</Cut.description>
   <!-- EN: set -->
@@ -176,7 +176,7 @@
   <Decayed.labelNounPretty>衰竭{1}</Decayed.labelNounPretty>
   
   <!-- EN: electrical burn -->
-  <ElectricalBurn.label>电弧灼伤</ElectricalBurn.label>
+  <ElectricalBurn.label>电击灼伤</ElectricalBurn.label>
   <!-- EN: An electrical burn. -->
   <ElectricalBurn.description>电灼伤口。</ElectricalBurn.description>
   <!-- EN: electrical burn scar -->
@@ -244,7 +244,7 @@
   <Gunshot.labelNounPretty>{1}中的{0}</Gunshot.labelNounPretty>
   
   <!-- EN: wound -->
-  <Misc.label>伤口</Misc.label>
+  <Misc.label>杂项</Misc.label>
   <!-- EN: Miscellaneous injuries. -->
   <Misc.description>伤口。</Misc.description>
   <!-- EN: set -->
@@ -272,7 +272,7 @@
   <MissingBodyPart.labelNounPretty>{1}缺失</MissingBodyPart.labelNounPretty>
   
   <!-- EN: scratch -->
-  <Scratch.label>抓伤</Scratch.label>
+  <Scratch.label>抓</Scratch.label>
   <!-- EN: A scratch or tear. -->
   <Scratch.description>抓伤伤口。</Scratch.description>
   <!-- EN: set -->
@@ -314,7 +314,7 @@
   <Shredded.labelNounPretty>{1}中的{0}</Shredded.labelNounPretty>
   
   <!-- EN: stab -->
-  <Stab.label>刺伤</Stab.label>
+  <Stab.label>刺</Stab.label>
   <!-- EN: A stab wound. -->
   <Stab.description>刺伤伤口。</Stab.description>
   <!-- EN: set -->

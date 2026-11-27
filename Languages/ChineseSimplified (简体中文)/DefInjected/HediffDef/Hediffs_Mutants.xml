@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: awoken unnatural corpse -->
-  <AwokenCorpse.label>复苏的异常尸体</AwokenCorpse.label>
+  <AwokenCorpse.label>苏醒的死尸</AwokenCorpse.label>
   <!-- EN: The energy building within this corpse is erupting. It has risen and is attacking with increasing power and speed. It will not stop until it reaches its victim. -->
   <AwokenCorpse.description>这具尸体内的能量结构正在爆发。它已经开始爬起来伤人，力量和速度也越发增强。直至追上受害者为止，它不会罢休。</AwokenCorpse.description>
   <!-- EN: The unnatural corpse is moving faster! -->
@@ -11,7 +11,7 @@
   <!-- EN: ghoul -->
   <Ghoul.label>食尸鬼</Ghoul.label>
   <!-- EN: This person has been implanted with an archotech shard, twisting them into a jittering murder machine. Its body is an amalgam of flesh and metal, while its mind cycles between half-conscious stupor and murderous intent.\n\nThey cannot work; they only fight. Ghouls must eat raw meat. If they go hungry, they can turn hostile.\n\nMany find ghouls' constant twitching to be disturbing, even when they aren't killing someone. -->
-  <Ghoul.description>此人体内植入了暗黑超凡碎片和活铁，被扭曲转化成了可怕的杀戮机器。它的躯体血肉与金属混杂，思绪也在半醒恍惚与杀戮冲动间跳转。\n\n食尸鬼不能从事任何类型的工作，只能战斗。它们还对生肉有着狂热的渴望和依赖。一旦它们感到饥饿，便会立刻充满敌意，甚至会反目攻击它们的制造者以满足自己的食欲。\n\n许多人都觉得食尸鬼不断抽搐的姿态十分惊悚，即便是在它们没杀人的时候。</Ghoul.description>
+  <Ghoul.description>被转化为食尸鬼的人类。\n\n关于食尸鬼：食尸鬼是被暗黑超凡碎片和活铁扭曲转化成的可怕杀戮机器。\n\n食尸鬼在近战中非常危险。不过，鉴于其被制造出来的过程，它们不具备高层次的思考能力，更无法拿起武器或工具。它们不能从事任何工作，在非战斗状态下只会神志不清地四处游荡。\n\n许多人都觉得食尸鬼不断抽搐的姿态十分惊悚。不过比起这点，更可怕的是它们对生肉有着狂热的渴望和依赖。一旦它们感到饥饿，便会立刻充满敌意，甚至会反目攻击它们的制造者以满足自己的食欲。</Ghoul.description>
   
   <!-- EN: ghoul frenzy -->
   <GhoulFrenzy.label>食尸鬼狂热</GhoulFrenzy.label>
@@ -47,7 +47,7 @@
   <!-- EN: shambler -->
   <Shambler.label>蹒跚怪</Shambler.label>
   <!-- EN: This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire. -->
-  <Shambler.description>腐化的超凡微械使这具尸体“复活”了。蹒跚怪动作迟缓、头脑简单，会对活着的生物发起无情的攻击。徒步走上数天甚至数小时后，蹒跚怪就会死于代谢衰竭。由于无法活动，被捕获的蹒跚怪不会衰亡。</Shambler.description>
+  <Shambler.description>被腐化的超凡微械所“复活”的生物。\n\n关于蹒跚怪：蹒跚怪是受超凡微械影响而重获行动能力的尸体。它们会无差别攻击任何活物，且因不惧疼痛而难以被杀死。然而，超凡微械无法长时间维持蹒跚怪的腐烂躯体，因此它们数天甚至数小时后便会死于代谢衰竭。\n\n你可以通过多种方法来制造属于自己的蹒跚怪，它们不会攻击你的殖民者和动物。</Shambler.description>
   
   <!-- EN: shambler corpse -->
   <ShamblerCorpse.label>蹒跚怪尸体</ShamblerCorpse.label>

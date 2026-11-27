@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: terror -->
-  <Terror.label>恐惧</Terror.label>
+  <Terror.label>惊慌</Terror.label>
   <!-- EN: The intensity of terror this person is experiencing. -->
   <Terror.description>这个人现阶段的恐惧强度。</Terror.description>
   

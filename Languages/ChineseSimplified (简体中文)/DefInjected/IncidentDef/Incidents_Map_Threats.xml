@@ -29,7 +29,7 @@
   <Infestation.letterText>一大群虫族正在向你挖掘而来！它们会在片刻后突破地表并且安置虫巢。\n\n这些虫巢会繁衍更多的虫族和虫巢。\n\n如果你不希望虫族遍布整片区域，那就摧毁这些虫巢。但是要当心——这些虫族会保卫他们的家园。</Infestation.letterText>
   
   <!-- EN: manhunter pack -->
-  <ManhunterPack.label>猎杀人类</ManhunterPack.label>
+  <ManhunterPack.label>大群动物猎杀人类</ManhunterPack.label>
   
   <!-- EN: ship part crash (psychic) -->
   <PsychicEmanatorShipPartCrash.label>飞船部件坠毁（心灵）</PsychicEmanatorShipPartCrash.label>

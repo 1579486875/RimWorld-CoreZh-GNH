@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: execution cut -->
-  <ExecutionCut.label>处决</ExecutionCut.label>
+  <ExecutionCut.label>割伤</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
   <ExecutionCut.deathMessage>{0}被处决了。</ExecutionCut.deathMessage>
   

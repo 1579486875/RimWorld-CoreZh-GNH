@@ -4,7 +4,7 @@
   <!-- EN: architect -->
   <Architect.label>建筑规划</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>用于建筑规划菜单的按键。</Architect.description>
+  <Architect.description>指定殖民者在哪里修建何种建筑、种植何种植物、储存何种物品等等。</Architect.description>
   
   <!-- EN: debug menu -->
   <DebugMenu.label>调试菜单</DebugMenu.label>

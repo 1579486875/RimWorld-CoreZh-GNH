@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: fertile -->
-  <Fertile.label>强繁殖力</Fertile.label>
+  <Fertile.label>沃土</Fertile.label>
   <!-- EN: Carriers of this gene have a higher chance of becoming pregnant or impregnating others. -->
-  <Fertile.description>这种基因的携带者更容易怀孕或使其他人怀孕。</Fertile.description>
+  <Fertile.description>该地区的土壤比平常更加肥沃。</Fertile.description>
   
   <!-- EN: strong immunity -->
   <Immunity_Strong.label>强免疫</Immunity_Strong.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>美观度</Beauty.label>
+  <Beauty.label>魅力</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>一个物体放在周围时给人视觉上的愉悦程度。\n\n漂亮的物体有助于满足殖民者对环境美观的需求。</Beauty.description>
   
@@ -22,9 +22,9 @@
   <Cleanliness.description>一个物体对区域清洁度评价的贡献。</Cleanliness.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>舒适度</Comfort.label>
+  <Comfort.label>安慰</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>一个物体在被坐上或躺下时给人的舒适程度。\n\n更舒适的家具有助于满足殖民者对舒适性的需求。</Comfort.description>
+  <Comfort.description>动物会提供更多情感支持。它会更频繁地亲昵，为殖民者带来好心情。</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>老化速率</DeteriorationRate.label>
