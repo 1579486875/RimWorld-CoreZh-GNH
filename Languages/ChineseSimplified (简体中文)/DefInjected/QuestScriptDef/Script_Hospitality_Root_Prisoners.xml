@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN:
-    <li>lodgersLabel->prisoner</li>
-    <li>lodgersLabelPlural->prisoners</li>
+    <li>lodgersLabel->囚犯</li>
+    <li>lodgersLabelPlural->囚犯</li>
   -->
   <Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
     <li>lodgersLabel->囚犯</li>
     <li>lodgersLabelPlural->囚犯</li>
   </Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
-    <li>questDescription(askerIsNull==true,lodgersCount==1)->An orbiting ship captain wants you to guard a prisoner named [lodgers0_nameFull] at [map_definite] for [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]</li>
-    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] recently spat on the most loved child of [enemyFaction_leader_nameFull], [enemyFaction_leaderTitle] of [enemyFaction_name]. [enemyFaction_leader_nameDef] will send [enemyFaction_pawnsPlural] to seek revenge on any who would protect [lodgers0_objective]. [enemyGroupsParagraph]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->一位轨道船长想请你在[map_definite]看守一名名叫[lodgers0_nameFull]的囚犯，为期[shuttleDelayTicks_duration]。[allLodgerInfo][threatsInfo1][commonDescEnding]</li>
+    <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef]最近朝[enemyFaction_name]的[enemyFaction_leaderTitle][enemyFaction_leader_nameFull]最疼爱的孩子吐了口水。[enemyFaction_leader_nameDef]会派[enemyFaction_pawnsPlural]来报复任何保护[lodgers0_objective]的人。[enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==false)-></li>
-    <li>questDescription(askerIsNull==true,lodgersCount>=2)->An orbiting ship captain wants you to guard [lodgersCount] prisoners at [map_definite] for [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo2][commonDescEnding]</li>
-    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThe prisoners committed a string of murders against the [enemyFaction_pawnsPlural] of [enemyFaction_name], and their victims' families will send raids to seek revenge. [enemyGroupsParagraph]</li>
-    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nThe prisoners recently [mechViolation], and have been targeted by a mechanoid hive. [enemyGroupsParagraph]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->一位轨道船长想请你在[map_definite]看守[lodgersCount]名囚犯，为期[shuttleDelayTicks_duration]。[allLodgerInfo][threatsInfo2][commonDescEnding]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n这些囚犯对[enemyFaction_name]的[enemyFaction_pawnsPlural]犯下了一连串谋杀，受害者的家属会派袭击队来复仇。[enemyGroupsParagraph]</li>
+    <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n这些囚犯最近[mechViolation]，成了一座机械巢群的目标。[enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==false)-></li>
-    <li>questDescription(asker_factionLeader==True,lodgersCount==1)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], wants you to stash a special prisoner for [asker_objective]. The prisoner, a [lodgers0_age]-year-old [lodgers0_title] named [lodgers0_nameFull], knows embarrassing information about [asker_nameDef]'s [PersonalCharacteristic], and [asker_nameDef] doesn't want [lodgers0_objective] to be freed. You only need to keep the prisoner for [shuttleDelayTicks_duration] until the scandal passes. [allLodgerInfo][threatsInfo3][commonDescEnding]</li>
-    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nUnfortunately, [enemyFaction_name] wants to spread the shameful story and is sending raids to break [lodgers0_nameDef] out of jail. [enemyGroupsParagraph]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount==1)->[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]想请[asker_objective]藏起一名特殊囚犯。这名囚犯——一位[lodgers0_age]岁的[lodgers0_title]，名叫[lodgers0_nameFull]——掌握着关于[asker_nameDef]的[PersonalCharacteristic]的难堪情报，[asker_nameDef]不希望[lodgers0_objective]被放出去。你只需看住这名囚犯[shuttleDelayTicks_duration]，等丑闻过去。[allLodgerInfo][threatsInfo3][commonDescEnding]</li>
+    <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不幸的是，[enemyFaction_name]想把这段丢人的故事传出去，正派袭击队来把[lodgers0_nameDef]劫出牢房。[enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==false)-></li>
-    <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has captured [lodgersCount] prisoners from an enemy faction. With no place to store them, [asker_nameDef] wants you to watch over them for [shuttleDelayTicks_duration], until [asker_possessive] prison is ready.[allLodgerInfo][threatsInfo4][commonDescEnding]</li>
-    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThe prisoners have a paid rescue contract with [enemyFaction_name], so they will send [enemyFaction_pawnsPlural] after you. [enemyGroupsParagraph]</li>
-    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]'s enemies have some provoked a mechanoid hive into hunting the prisoners, so it will send mechanoid attack groups. [enemyGroupsParagraph]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_faction_name]的[asker_faction_leaderTitle][asker_nameFull]从敌方派系俘获了[lodgersCount]名囚犯。由于无处关押，[asker_nameDef]想请你看管他们[shuttleDelayTicks_duration]，直到[asker_possessive]监狱备好。[allLodgerInfo][threatsInfo4][commonDescEnding]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n这些囚犯与[enemyFaction_name]签有付费营救合同，所以对方会派[enemyFaction_pawnsPlural]来找你。[enemyGroupsParagraph]</li>
+    <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[asker_nameDef]的敌人不知怎么挑动了一座机械巢群来追猎这些囚犯，因此它会派出机械体攻击队。[enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==false)-></li>
-    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] has been caught in bed with the wrong person. [asker_pronoun] imprisoned the inappropriate lover in a show of rejection. Now [asker_pronoun] wants you to keep the prisoner [lodgers0_nameFull] caged until the scandal blows over in [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo5][commonDescEnding]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nUnfortunately, [asker_nameDef]'s court rivals are paying [enemyFaction_name] to try to break the lover out and bring the story to light. [enemyGroupsParagraph]</li>
-    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nUnfortunately, [asker_nameDef]'s court rivals have provoked mechanoids attacks from [enemyFaction_name] to try to break the lover out and bring the story to light. [enemyGroupsParagraph]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount==1)->[asker_faction_name]的[asker_royalTitleInCurrentFaction][asker_nameFull]被人撞见与不该在一起的人同床。[asker_pronoun]为了表示拒绝，把这位不合适的恋人关了起来。现在[asker_pronoun]想请你把囚犯[lodgers0_nameFull]关着，直到丑闻在[shuttleDelayTicks_duration]后平息。[allLodgerInfo][threatsInfo5][commonDescEnding]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不幸的是，[asker_nameDef]的宫廷对手正出钱请[enemyFaction_name]试图把这位恋人劫出来，好让这段故事曝光。[enemyGroupsParagraph]</li>
+    <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n不幸的是，[asker_nameDef]的宫廷对手挑动了[enemyFaction_name]的机械体进攻，试图把这位恋人劫出来，好让这段故事曝光。[enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==false)-></li>
-    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], seeks your help. [asker_nameDef]'s royal archaeologists recently extracted [lodgersCount] prisoners from an ancient cryptosleep vault, and intend to question them. To keep the prisoners secret from court rivals, [asker_nameDef] wants you to hold them for [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo6][commonDescEnding]</li>
-    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nUnfortunately, [enemyFaction_pawnsPlural] from [enemyFaction_name] revered the vault that the prisoners were extracted from. They'll send raids to seek revenge on anyone who holds them. [enemyGroupsParagraph]</li>
-    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nUnfortunately, [enemyFaction_pawnsPlural] from [enemyFaction_name] were guarding the vault that the prisoners were extracted from. They'll send mechanoids to hunt down the lost sleepers. [enemyGroupsParagraph]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_faction_name]的[asker_royalTitleInCurrentFaction][asker_nameFull]请求你协助。[asker_nameDef]的王室考古学家们最近从一座远古低温休眠库中取出了[lodgersCount]名囚犯，打算审问他们。为了对宫廷对手隐瞒这些囚犯，[asker_nameDef]想请你关押他们[shuttleDelayTicks_duration]。[allLodgerInfo][threatsInfo6][commonDescEnding]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n不幸的是，[enemyFaction_name]的[enemyFaction_pawnsPlural]曾崇奉这些囚犯被取出的那座休眠库。他们会派袭击队来报复任何关押这些人的人。[enemyGroupsParagraph]</li>
+    <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n不幸的是，[enemyFaction_name]的[enemyFaction_pawnsPlural]原本就守卫着这些囚犯被取出的那座休眠库。他们会派机械体来追猎这些遗失的沉睡者。[enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==false)-></li>
   -->
@@ -74,17 +74,17 @@
     <li>threatsInfo6(generateThreats==false)-></li>
   </Hospitality_Prisoners.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->Guarding for [asker_nameDef]</li>
-    <li>questName(lodgersCount==1)->guarding [lodgers0_nameDef]</li>
-    <li>questName(lodgersCount==1)->prisoner [lodgers0_nameDef]</li>
-    <li>questName(lodgersCount==1)->the [adjAny] prisoner</li>
-    <li>questName(lodgersCount==1)->one [adjAny] prisoner</li>
-    <li>questName(lodgersCount>=2)->warden for hire</li>
-    <li>questName(lodgersCount>=2)->prison warden</li>
-    <li>questName(lodgersCount>=2)->contract prison</li>
-    <li>questName(lodgersCount>=2)->the wanted prisoners</li>
-    <li>questName(lodgersCount>=2)->the [adjAny] prisoners</li>
-    <li>questName(lodgersCount>=2)->[asker_nameDef]'s prisoners</li>
+    <li>questName->为[asker_nameDef]看守</li>
+    <li>questName(lodgersCount==1)->看守[lodgers0_nameDef]</li>
+    <li>questName(lodgersCount==1)->囚犯[lodgers0_nameDef]</li>
+    <li>questName(lodgersCount==1)->[adjAny]囚犯</li>
+    <li>questName(lodgersCount==1)->一名[adjAny]囚犯</li>
+    <li>questName(lodgersCount>=2)->受雇看守</li>
+    <li>questName(lodgersCount>=2)->监狱看守</li>
+    <li>questName(lodgersCount>=2)->合同监狱</li>
+    <li>questName(lodgersCount>=2)->被通缉的囚犯</li>
+    <li>questName(lodgersCount>=2)->[adjAny]囚犯</li>
+    <li>questName(lodgersCount>=2)->[asker_nameDef]的囚犯</li>
     <li>adjAny->[AdjectiveBadass]</li>
     <li>adjAny->[AdjectiveAngsty]</li>
     <li>adjAny->[AdjectiveFriendly]</li>
