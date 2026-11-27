@@ -3,24 +3,24 @@
   
   <!-- EN:
     <li>r_name->[adj] [group]</li>
-    <li>group->survivors</li>
-    <li>group->refugees</li>
-    <li>group->runaways</li>
-    <li>group->castaways</li>
-    <li>group->trekkers</li>
-    <li>group->roamers</li>
-    <li>group->wanderers</li>
-    <li>group->travelers</li>
-    <li>group->nomads</li>
-    <li>adj->weary</li>
-    <li>adj->drained</li>
-    <li>adj->tired</li>
-    <li>adj->exhausted</li>
-    <li>adj->displaced</li>
-    <li>adj->resilient</li>
-    <li>adj->tough</li>
-    <li>adj->dogged</li>
-    <li>adj->tenacious</li>
+    <li>group->幸存者</li>
+    <li>group->难民</li>
+    <li>group->逃亡者</li>
+    <li>group->落难者</li>
+    <li>group->跋涉者</li>
+    <li>group->游荡者</li>
+    <li>group->漂泊者</li>
+    <li>group->旅人</li>
+    <li>group->游牧者</li>
+    <li>adj->疲倦</li>
+    <li>adj->枯竭</li>
+    <li>adj->疲惫</li>
+    <li>adj->力竭</li>
+    <li>adj->流离</li>
+    <li>adj->坚韧</li>
+    <li>adj->强悍</li>
+    <li>adj->执着</li>
+    <li>adj->顽强</li>
   -->
   <NamerFactionRefugee.rulePack.rulesStrings>
     <li>r_name->[adj][group]</li>

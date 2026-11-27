@@ -3,24 +3,24 @@
   
   <!-- EN:
     <li>damage_source->[source] [attacked]</li>
-    <li>source->something from within the [dark]</li>
-    <li>source->something in the [dark]</li>
-    <li>source->a creature in the [dark]</li>
-    <li>source->an invisible creature</li>
-    <li>source->a shadowy creature</li>
-    <li>source->an invisible foe within the [dark]</li>
-    <li>dark->darkness</li>
-    <li>dark->unnatural darkness</li>
-    <li>dark->inky blackness</li>
-    <li>dark->shadows</li>
-    <li>attacked->attacked</li>
-    <li>attacked->struck</li>
-    <li>attacked->hit</li>
-    <li>damaged_present->wounding</li>
-    <li>damaged_present->injuring</li>
-    <li>destroyed_present->removing</li>
-    <li>destroyed_present->crippling</li>
-    <li>destroyed_present->severing</li>
+    <li>source->[dark]中的某物</li>
+    <li>source->[dark]里的某物</li>
+    <li>source->[dark]中的一头生物</li>
+    <li>source->一头隐形生物</li>
+    <li>source->一头暗影生物</li>
+    <li>source->[dark]中的隐形敌人</li>
+    <li>dark->黑暗</li>
+    <li>dark->非自然的黑暗</li>
+    <li>dark->墨般的漆黑</li>
+    <li>dark->暗影</li>
+    <li>attacked->攻击了</li>
+    <li>attacked->击打了</li>
+    <li>attacked->打中了</li>
+    <li>damaged_present->伤及</li>
+    <li>damaged_present->损伤</li>
+    <li>destroyed_present->摘除</li>
+    <li>destroyed_present->致残</li>
+    <li>destroyed_present->切断</li>
   -->
   <DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
     <li>damage_source->[source][attacked]</li>
