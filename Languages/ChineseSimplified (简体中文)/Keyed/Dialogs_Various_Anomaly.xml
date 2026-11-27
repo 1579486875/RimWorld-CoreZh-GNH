@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Reading management -->
+  <!-- 阅读管理 -->
   <!-- EN: {0} max mental break chance -->
   <MaxMentalBreakChance>{0}最大精神崩溃几率</MaxMentalBreakChance>
   <!-- EN: Tomes -->
@@ -11,13 +11,13 @@
   <!-- EN: Entities -->
   <EntitiesSection>实体</EntitiesSection>
   
-  <!-- Hidden items filter -->
+  <!-- 隐藏物品筛选 -->
   <!-- EN: Undiscovered -->
   <UndiscoveredItemLabel>未发现</UndiscoveredItemLabel>
   <!-- EN: This item has not been discovered yet. -->
   <UndiscoveredItemDesc>尚未发现此物品。</UndiscoveredItemDesc>
 
-  <!-- Medical settings -->
+  <!-- 医疗设置 -->
   <!-- EN: Entities -->
   <MedGroupEntities>实体</MedGroupEntities>
   <!-- EN: Anomalous entities and their variations. -->

@@ -163,7 +163,7 @@
   <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>已载入的 Mod 中无可设置的内容。</NoConfigurableMods>
   
-  <!-- Options reset -->
+  <!-- 选项重置 -->
   <!-- EN: Restore all settings to default -->
   <RestoreToDefaultSettingsLabel>重置所有选项为默认值</RestoreToDefaultSettingsLabel>
   <!-- EN: Restore defaults -->
@@ -175,7 +175,7 @@
   <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
   <ChangedTextureCompressionRestart>改变「压缩画质」选项需要重启游戏，所有未保存的进度都会丢失！\n\n是否继续？</ChangedTextureCompressionRestart>
   
-  <!-- Background image -->
+  <!-- 背景图片 -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>主菜单背景</SetBackgroundImage>
 

@@ -262,7 +262,7 @@
   <!-- EN: Remove plans. -->
   <DesignatorPlanShrinkDesc>移除计划</DesignatorPlanShrinkDesc>
 
-  <!-- Failure messages -->
+  <!-- 失败消息 -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>未选择材料</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
@@ -320,7 +320,7 @@
   <!-- EN: Cannot be planted here -->
   <CannotBePlantedHere>无法在此种植</CannotBePlantedHere>
   
-  <!-- Mouse attachments -->
+  <!-- 鼠标附加提示 -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>扩展{0}或\n创建{1}</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
@@ -331,7 +331,7 @@
   <!-- EN: Create new plan -->
   <CreateNewPlan>创建新计划</CreateNewPlan>
   
-  <!-- Desc helpers -->
+  <!-- 描述辅助 -->
   <!-- EN: Transmits power -->
   <TransmitsPower>传输电力</TransmitsPower>
   <!-- EN: Construction needed -->

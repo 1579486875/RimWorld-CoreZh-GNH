@@ -33,13 +33,13 @@
   <!-- EN: or any psycaster, prestige, or mechlord apparel -->
   <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>或者任意灵质、贵族、机械领主衣物</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
 
-  <!-- Mech gestator -->
+  <!-- 机械孕育器 -->
   <!-- EN: Gestation cycles completed -->
   <GestationCyclesCompleted>已完成培育周期</GestationCyclesCompleted>
   <!-- EN: Gathered ingredients -->
   <FormerIngredients>已收集的原料</FormerIngredients>
 
-  <!-- Subcore scanner -->
+  <!-- 副核心扫描仪 -->
   <!-- EN: Ripscanning {PAWN_nameDef} will kill {PAWN_objective}. Are you sure you want to continue? -->
   <ConfirmRipscanPawn>裂解扫描{PAWN_nameDef}将会杀死{PAWN_objective}。你确定想要继续吗？</ConfirmRipscanPawn>
   <!-- EN: Cancelling a ripscan will still kill {PAWN_nameDef}. Are you sure you want to continue? -->
@@ -115,7 +115,7 @@
   <!-- EN: Select at least one gene to choose a name for this xenotype. -->
   <SelectAGeneToChooseAName>至少选择一个基因组来为此异种人选择一个名称。</SelectAGeneToChooseAName>
 
-  <!-- View genes -->
+  <!-- 查看基因 -->
   <!-- EN: Inspect genes -->
   <InspectGenes>检测基因</InspectGenes>
   <!-- EN: Inspect baby genes -->
@@ -137,7 +137,7 @@
   <!-- EN: Takes effect after age -->
   <TakesEffectAfterAge>生效年龄</TakesEffectAfterAge>
 
-  <!-- Xenotype editor -->
+  <!-- 异种编辑器 -->
   <!-- EN: Xenotype editor -->
   <XenotypeEditor>异种人编辑器</XenotypeEditor>
   <!-- EN: Any (non-archite) -->
@@ -197,7 +197,7 @@
   <!-- EN: {FIRST_label}, {SECOND_label} -->
   <GenesConflictDesc>{FIRST_label}，{SECOND_label}</GenesConflictDesc>
 
-  <!-- Xenogerm editor -->
+  <!-- 异种胚芽编辑器 -->
   <!-- EN: Load template -->
   <LoadXenogermTemplate>载入模板</LoadXenogermTemplate>
   <!-- EN: Save template -->
@@ -221,7 +221,7 @@
   <!-- EN: Waking {PAWN_nameDef} before {MINDURATION} has passed will interrupt {PAWN_possessive} deathrest, leaving {PAWN_objective} sick for days while {PAWN_pronoun} recovers. Waking early means {PAWN_nameDef} will not benefit from any deathrest buildings. {PAWN_pronoun} has been deathresting for {CURDURATION}.\n\nAre you sure you wish to wake {PAWN_nameDef}? -->
   <WarningWakingInterruptsDeathrest>在{MINDURATION}过去之前唤醒{PAWN_nameDef}将打断{PAWN_possessive}死眠，这会导致{PAWN_objective}在{PAWN_pronoun}恢复期内虚弱数天。提前唤醒意味着{PAWN_nameDef}将不会从死眠设备中获得任何加成。{PAWN_pronoun}已经进行了{CURDURATION}的死眠\n\n你确定想要唤醒{PAWN_nameDef}吗？</WarningWakingInterruptsDeathrest>
 
-  <!-- Text motes -->
+  <!-- 浮动文字 -->
   <!-- EN: {0} wounds tended -->
   <NumWoundsTended>已包扎{0}x伤口</NumWoundsTended>
 
@@ -253,7 +253,7 @@
   <!-- EN: Mechanoids -->
   <MechsSection>机械族</MechsSection>
 
-  <!-- Pawn naming -->
+  <!-- 角色命名 -->
   <!-- EN: Rename mech -->
   <RenameMech>重命名机械族</RenameMech>
   <!-- EN: The mech's name is now {0}. -->
@@ -300,7 +300,7 @@
   <!-- EN: Choose mech accent color -->
   <ChooseMechAccentColor>选择机械族涂装颜色</ChooseMechAccentColor>
 
-  <!-- Faction specific comms overrides -->
+  <!-- 派系专属通讯覆盖 -->
   <!-- EN: {0} squeals a string of curses into the microphone and disconnects. -->
   <PigFactionGreetingHostile>{0}对着话筒吱吱喳喳地骂了一串，然后断开了连接。</PigFactionGreetingHostile>
   <!-- EN: Oinking angrily, {0} demands that you make a gesture of unity, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nSnorting an insult, {0_pronoun} disconnects. -->
@@ -358,7 +358,7 @@
   <!-- EN: {0_labelShort} must have a tendable wound. -->
   <AbilityMustHaveTendableWound>{0_labelShort}必须有可被包扎的伤口。</AbilityMustHaveTendableWound>
 
-  <!-- Abandon home (including mechs) -->
+  <!-- 放弃家园（含机械体） -->
   <!-- EN: Some of your colonists, animals or mechanoids are in this area. Are you sure you want to abandon it?\n\nThe following people, animals and mechs will be left behind:\n\n{0} -->
   <ConfirmAbandonHomeWithColonyPawnsIncMechs>你的一些殖民者、动物或机械族都在这个区域。你确定你要放弃它吗？\n\n以下人员、动物和机械族将被遗弃\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs>
 

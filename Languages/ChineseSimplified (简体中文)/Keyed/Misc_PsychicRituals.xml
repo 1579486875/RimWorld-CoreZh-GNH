@@ -183,21 +183,21 @@
   <!-- EN: How affected the psychic ritual is by ideoligious beliefs. -->
   <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>文化形态会对心灵仪式产生多大的影响。</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>
 
-  <!-- PsychicRitualDef_InvokationCircle messages -->
+  <!-- PsychicRitualDef_InvokationCircle 消息 -->
   <!-- EN: {0} has begun performing the {1} psychic ritual. -->
   <PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0}已经开始进行{1}心灵仪式。</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
   <!-- EN: psychic ritual area is obstructed -->
   <PsychicRitualAreaObstructed>心灵仪式区域被遮挡</PsychicRitualAreaObstructed>
 
-  <!-- Animal summoning -->
+  <!-- 动物召唤 -->
   <!-- EN: Not enough animals in this biome. -->
   <NotEnoughAnimals>此生态群落缺少足够的动物。</NotEnoughAnimals>
 
-  <!-- Shambler summoning -->
+  <!-- 蹒跚者召唤 -->
   <!-- EN: No nearby shamblers. -->
   <NoNearbyShamblers>附近没有蹒跚怪。</NoNearbyShamblers>
 
-  <!-- Pit gate summoning -->
+  <!-- 深坑之门召唤 -->
   <!-- EN: There is already a pit gate on the map. -->
   <PitGateAlreadyExists>当前地图上已经存在一个巨坑了。</PitGateAlreadyExists>
   

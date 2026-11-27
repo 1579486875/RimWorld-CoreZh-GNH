@@ -114,7 +114,7 @@
   <Blindsight.description>只有那些盲眼的人才能察觉到真正的现实。</Blindsight.description>
   <!-- EN:
     <li>creation(tag=meme_Blindsight)        ->[deity0_name] looked over the dust of the void for an eternity, and there was nothing. Then [deity0_pronoun] tore out [deity0_possessive] eyes, and the universe formed inside [deity0_possessive] mind.</li>
-    <li>episode(uses=1,tag=meme_Blindsight)  ->A blind beggar asked [deity0_objective], "Why have you forsaken me? I cannot even see what you have created." [deity0_name] replied, "You see more, not less, for my truth lies in the mind."</li>
+    <li>episode(uses=1,tag=meme_Blindsight)  ->A blind beggar asked [deity0_objective], “Why have you forsaken me? I cannot even see what you have created.” [deity0_name] replied, “You see more, not less, for my truth lies in the mind.”</li>
     <li>intro(tag=meme_Blindsight)           ->The [deity0_type] [deity0_name] used a pathogen to strike the settlers of the [place_summary] [place_name] blind, forcing them to understand that sight is a barrier to divine knowledge.</li>
     <li>conflict(tag=meme_Blindsight)        ->A [foeLeader] demanded that all [memberNamePlural] watch [foeLeader_possessive] propaganda every day. Many blinded themselves in protest.</li>
     <li>founderJoin(tag=meme_Blindsight)     ->A [place_job] named [founderName] lost [founder_possessive] sight when [founder_pronoun] saved a [memberName] from one of [foeLeader]'s [foeSoldiers]. It was only then that [founderName] could truly see the tyranny of the [foeLeader].</li>
@@ -563,7 +563,7 @@
   <Nudism.description>衣物束缚、控制着我们，这让我们感到窒息。我们应当自由地一丝不挂。</Nudism.description>
   <!-- EN:
     <li>creation(tag=meme_Nudism)           ->In a pure and pristine void, [deity0_name] looked on, and wished for a race of free-fleshed beings in [deity0_possessive] own image, and made mankind.</li>
-    <li>episode(uses=1,tag=meme_Nudism)     ->The people wore clothes, and looking up at [deity0_name] asked, "Why aren't you clothed? It is disgusting." And the [deity0_type] replied, "Your form and mine were created from the heavens. To cover them is what is truly disgusting."</li>
+    <li>episode(uses=1,tag=meme_Nudism)     ->The people wore clothes, and looking up at [deity0_name] asked, “Why aren't you clothed? It is disgusting.” And the [deity0_type] replied, “Your form and mine were created from the heavens. To cover them is what is truly disgusting.”</li>
     <li>intro(tag=meme_Nudism)              ->On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where people would pray nude, and this pleased the [deity0_type].</li>
     <li>conflict(tag=meme_Nudism)           ->A prudish [foeLeader] took power, and demanded that everyone wear constricting clothes.</li>
     <li>founderJoin(tag=meme_Nudism)        ->[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], tore off [founder_possessive] clothes, and displayed [founder_objective]self in defiance of their commands.</li>
@@ -580,7 +580,7 @@
   -->
   <Nudism.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Nudism)           ->在一片纯净的虚空中， [deity0_name] 注视着， 并希望有一个按照[deity0_possessive]自己的形象自由生长的种族， 于是创造了人类。</li>
-    <li>episode(uses=1,tag=meme_Nudism)     ->待到人们穿上了衣服， 他们抬头看着[deity0_name]问道： "你为什么不穿衣服？这实在羞耻。" [deity0_type]回答说： "你我的形体是天生天造。遮盖它们才真正令人蒙羞。"</li>
+    <li>episode(uses=1,tag=meme_Nudism)     ->待到人们穿上了衣服， 他们抬头看着[deity0_name]问道： “你为什么不穿衣服？这实在羞耻。” [deity0_type]回答说： “你我的形体是天生天造。遮盖它们才真正令人蒙羞。”</li>
     <li>intro(tag=meme_Nudism)              ->在[place_summary][place_name]， 人们形成了赤身裸体在[deity0_name]的[altarRoomLabel]祷告的传统文化， 这愉悦了[deity0_type]。</li>
     <li>conflict(tag=meme_Nudism)           ->一名虚伪的[foeLeader]掌权之后， 要求每个人必须受到衣物约束。</li>
     <li>founderJoin(tag=meme_Nudism)        ->[deity0_name] 最虔诚的信徒 [founderName] 站到[place_powerCenter]的面前， 蔑视禁令， 扯下了[founder_possessive]衣物， 袒露[founder_objective]自己。</li>
@@ -779,7 +779,7 @@
   <Proselytizer.description>我们的使命是传播信仰。</Proselytizer.description>
   <!-- EN:
     <li>creation(tag=meme_Proselytizer)        ->[deity0_name] anointed a few among mortals to carry [deity0_possessive] word.</li>
-    <li>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name] said to all the [memberNamePlural], "Go forth and spread my word to all corners of the universe."</li>
+    <li>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name] said to all the [memberNamePlural], “Go forth and spread my word to all corners of the universe.”</li>
     <li>intro(tag=meme_Proselytizer)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that many would come to hear [deity0_name]'s divine word.</li>
     <li>conflict(tag=meme_Proselytizer)        ->A spiteful [foeLeader], seeking to deny the word of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to cut out the tongues of any who speak of the [deity0_type].</li>
     <li>founderJoin(tag=meme_Proselytizer)     ->[deity0_name] blessed a [place_job] named [founderName] with great charisma, and none could turn away when [founder_pronoun] spoke.</li>
@@ -969,7 +969,7 @@
   <Rancher.description>饲养动物才是正道； 种植植物食用可不是。</Rancher.description>
   <!-- EN:
     <li>creation(tag=meme_Rancher)        ->[deity0_name] created the animals, and then man, and gave the animals to man to cherish and raise and slaughter as acts of veneration towards [deity0_objective].</li>
-    <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] created all the noble animals and beasts of the land, and said, "Take these noble beasts, and through them make yourselves fruitful in my honor."</li>
+    <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] created all the noble animals and beasts of the land, and said, “Take these noble beasts, and through them make yourselves fruitful in my honor.”</li>
     <li>intro(tag=meme_Rancher)           ->The early [ranchingAnimal] ranchers of the [place_summary] [place_name] built a great [altarName] to [deity0_name].</li>
     <li>conflict(tag=meme_Rancher)        ->A powerful [foeLeader] despised the [memberNamePlural] and their ways, and bought up all the grasslands to grow [Vegetable]s.</li>
     <li>founderJoin(tag=meme_Rancher)     ->[memberName]'s savior [founderName] was born on a spring morning in a humble barn, amidst [ranchingAnimal]s, and [founder_possessive] parents were a [rancherParent1] and a [rancherParent2].</li>

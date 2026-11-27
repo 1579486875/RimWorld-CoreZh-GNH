@@ -31,7 +31,7 @@
   <!-- EN: {0} or {1} -->
   <ToCommaListOr>{0}或{1}</ToCommaListOr>
   
-  <!-- General-use words -->
+  <!-- 通用词汇 -->
   <!-- EN: Yes -->
   <Yes>是</Yes>
   <!-- EN: No -->
@@ -109,7 +109,7 @@
   <!-- EN: Edit -->
   <Edit>编辑</Edit>
 
-  <!-- Content generation-->
+  <!-- 内容生成 -->
   
   <!-- EN: {0} meat -->
   <MeatLabel>{0}肉</MeatLabel>
@@ -164,8 +164,8 @@
   <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
   <BabyTalk>ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah</BabyTalk>
 
-  <!-- For things made of stuff, e.g. "Stone bed" -->
-  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- 用于由材料制成的东西，例如「石床」 -->
+  <!-- 0 是 stuffProps 下的 stuffAdjective 属性，1 是 label -->
   <!-- EN: {0} {1} -->
   <ThingMadeOfStuffLabel>{0}{1}</ThingMadeOfStuffLabel>
 
@@ -183,7 +183,7 @@
   <!-- EN: (various) -->
   <VariousLabel>（多种）</VariousLabel>
 
-  <!-- History events -->
+  <!-- 历史事件 -->
   <!-- EN: Colonist died -->
   <ColonistDied>殖民者死亡</ColonistDied>
   
@@ -200,17 +200,17 @@
   <!-- EN: applying techprint ({0}) -->
   <ApplyingTechprint>正在应用科研蓝图（{0}）</ApplyingTechprint>
 
-  <!-- Apparel Looks -->
+  <!-- 服装外观 -->
   <!-- EN: variant of -->
   <VariantOf>原型</VariantOf>
   
-  <!-- Familial relationships -->
+  <!-- 亲属关系 -->
   <!-- EN: born to {0} -->
   <BornOfParents>由{0}所生</BornOfParents>
   <!-- EN: unknown parents -->
   <ParentsUnknown>未知父母</ParentsUnknown>
   
-  <!-- Legal status -->
+  <!-- 法律地位 -->
   <!-- EN: colonist -->
   <Colonist>殖民者</Colonist>
 

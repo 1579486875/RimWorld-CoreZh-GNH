@@ -316,7 +316,7 @@
   <!-- EN: Slave suppression: {0} -->
   <TextMote_SuppressionIncreased>奴隶镇压度：{0}</TextMote_SuppressionIncreased>
 
-  <!-- Role requirements -->
+  <!-- 职位要求 -->
   <!-- EN: Requirements -->
   <RoleRequirementsLabel>需求</RoleRequirementsLabel>
   <!-- EN: Passive effects -->
@@ -390,7 +390,7 @@
   <!-- EN: certainty -->
   <Certainty>认可度</Certainty>
 
-  <!-- Slave interaction -->
+  <!-- 奴隶交互 -->
   <!-- EN: The slave will leave the map on foot and return to their home faction, {0}. -->
   <EmancipateNonCololonistWithFactionTooltip>奴隶将步行离开当前地图并回归其原始派系{0}</EmancipateNonCololonistWithFactionTooltip>
   <!-- EN: The slave will leave on foot and exit the map. -->
@@ -403,7 +403,7 @@
   <!-- EN: Villagers are returning from nearby to protect the venerated terminal! -->
   <WorshippedTerminalRaidIncoming>村民们正为了保卫其崇敬的终端而从四周赶回！</WorshippedTerminalRaidIncoming>
 
-  <!-- Relic hunt -->
+  <!-- 圣物搜寻 -->
   <!-- EN: The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you. -->
   <RelicHuntFoundRelicSite>圣物置放于一个古老结构中，拥有多个单位的安保措施，你可以分而击破，也可以冲进去拿走遗物然后在守卫抓到你之前跑出去。</RelicHuntFoundRelicSite>
   <!-- EN: The relic rests in an ancient structure nearby. -->
@@ -414,7 +414,7 @@
   <!-- EN: Ritual seat -->
   <RitualSeat>仪式坐席</RitualSeat>
 
-  <!-- Ritual requirements -->
+  <!-- 仪式要求 -->
   <!-- EN: Active loudspeakers -->
   <RitualPredictedOutcomeDescNumActiveLoudspeakers>通电的音响</RitualPredictedOutcomeDescNumActiveLoudspeakers>
   <!-- EN: Drums -->
@@ -438,7 +438,7 @@
   <!-- EN: Must be placed indoors. -->
   <MustBePlacedIndoors>必须被放置到室内</MustBePlacedIndoors>
 
-  <!-- Gauranlen trees/Dryads -->
+  <!-- 高兰林树 / 树精 -->
   <!-- EN: Connected to -->
   <ConnectedPawn>共鸣</ConnectedPawn>
   <!-- EN: Nobody -->
@@ -512,7 +512,7 @@
   <!-- EN: Cannot assign allowed area -->
   <CannotAssignAllowedAreaToDryad>无法指定区域</CannotAssignAllowedAreaToDryad>
 
-  <!-- Shooting report -->
+  <!-- 射击报告 -->
   <!-- EN: Target outdoors and night-time -->
   <TargetNightOutdoors>目标在夜晚的室外</TargetNightOutdoors>
   <!-- EN: Target indoors and dark -->

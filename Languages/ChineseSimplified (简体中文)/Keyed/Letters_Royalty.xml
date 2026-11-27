@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Royal titles -->
+  <!-- 皇家头衔 -->
   <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
   <LetterLabelLostRoyalTitle>{TITLE}头衔丢失: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
@@ -66,7 +66,7 @@
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
   <PeaceTalksRoyalFavorGain>{PAWN_labelShort}已从{FACTION_name}获得{1}{FACTION_royalFavorLabel}。</PeaceTalksRoyalFavorGain>
 
-  <!-- Royal heritage-->
+  <!-- 皇家血统 -->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
   <LetterRoyalTitleHeir>如果{PAWN_pronoun}去世，则此头衔将被{HEIR_nameFull}所继承。</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
@@ -96,13 +96,13 @@
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
   <LetterTitleInheritance_NoHeirFound>{PAWN_possessive}{TITLE}头衔未被任何人继承，因为{PAWN_pronoun}没有指定该头衔的继承人。</LetterTitleInheritance_NoHeirFound>
 
-  <!-- Royal implant violations -->
+  <!-- 皇家植入体违规 -->
   <!-- EN: Lawbreaker: {PAWN_labelShort} -->
   <LetterLawViolationDetectedLabel>违法者: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
   <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name}检测到{PAWN_labelShort}被非法使用: {CULPRIT} (检测概率 {CHANCE})。\n\n根据{FACTION_name}的法律，只有拥有{TITLE}头衔的人才能使用{CULPRIT}。\n\n作为惩罚，与你的派系关系下降了{GOODWILL}。</LetterLawViolationDetectedForbiddenThingUse>
 
-  <!-- Wild decree mental break -->
+  <!-- 狂野敕令精神崩溃 -->
   <!-- EN: Wild decree -->
   <WildDecree>残酷勒令</WildDecree>
   <!-- EN: {0_nameIndef} issues decree -->
@@ -116,7 +116,7 @@
   <!-- EN: The decree is titled "{0}". -->
   <LetterDecree_Quest>这个法令是“{0}”。</LetterDecree_Quest>
   
-  <!-- Lent colonist died -->
+  <!-- 借出的殖民者死亡 -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
   <LentColonistDied>{PAWN_nameDef}曾被借调至{FACTION}。他们将在最近交还{PAWN_nameDef}的遗体。</LentColonistDied>  
 
@@ -154,13 +154,13 @@
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
   <LetterTextHonorAward_BanditCamp>谁应该因击败匪徒营地而获得{0}的奖励？</LetterTextHonorAward_BanditCamp>
 
-  <!-- Shuttle crash -->
+  <!-- 穿梭机坠毁 -->
   <!-- EN: Shuttle crashed -->
   <LetterLabelShuttleCrashed>穿梭机坠毁</LetterLabelShuttleCrashed>
   <!-- EN: A shuttle has crashed nearby -->
   <LetterTextShuttleCrashed>一艘穿梭机在坠毁在了附近</LetterTextShuttleCrashed>
 
-  <!-- Wanderer joins -->
+  <!-- 流浪者加入 -->
   <!-- EN: Transport pod crash: {0_nameDef} -->
   <LetterLabelWandererJoinsAbasia>运输舱坠毁：{0_nameDef}</LetterLabelWandererJoinsAbasia>
   <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->

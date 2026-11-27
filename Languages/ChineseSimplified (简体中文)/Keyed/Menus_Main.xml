@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Main menu -->
+  <!-- 主菜单 -->
   <!-- EN: Tutorial -->
   <Tutorial>游戏教学</Tutorial>
   <!-- EN: New colony -->
@@ -69,7 +69,7 @@
   <!-- EN: RimWorld - Odyssey Soundtrack -->
   <BuySoundtrack_Odyssey>奥德赛原声</BuySoundtrack_Odyssey>
   
-  <!-- Main menu translations info window -->
+  <!-- 主菜单翻译信息窗口 -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>RimWorld的所有翻译均由本游戏的爱好者们制作。\n翻译成员如下：\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
@@ -77,11 +77,11 @@
   <!-- EN: Learn more -->
   <LearnMore>了解更多</LearnMore>
 
-  <!-- Main menu dev build -->
+  <!-- 主菜单开发者版本 -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
   <DevBuildWarning>警告：这是一个不稳定的开发版本。这意味着我们正在进行设计实验并进行技术开发。\n\n一些地方会暂时失去平衡。这是一种经典的游戏设计方法，为了更好地理解平衡的界限，我们会故意在这方面绕远。然后我们会通过得到的信息结果决定最终的平衡点。\n\n期间我们会遇到一些问题，甚至可能造成游戏崩溃。对存档的兼容性支持也不会太好。\n\n如果你对所有这些都表示满意，非常感谢你参与测试！如果你不想接受测试，请选择最新的稳定版本。</DevBuildWarning>
 
-  <!-- Create/review world -->
+  <!-- 创建 / 查看世界 -->
   <!-- EN: Review world -->
   <ReviewWorld>查看世界</ReviewWorld>
   <!-- EN: Generate -->
@@ -127,7 +127,7 @@
   <!-- EN: Advanced settings -->
   <AdvancedSettings>高级设定</AdvancedSettings>
 
-  <!-- Select world -->
+  <!-- 选择世界 -->
   <!-- EN: Select world -->
   <SelectWorld>选择世界</SelectWorld>
   <!-- EN: Select -->
@@ -135,7 +135,7 @@
   <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>未能找到任何世界文件。请先创造一个世界。</NoWorldsFilesFound>
   
-  <!-- Version info -->
+  <!-- 版本信息 -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>新版本{0}已经发布。访问Ludeon.com以了解更多信息。</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
@@ -145,7 +145,7 @@
   <!-- EN: Loading version info... -->
   <LoadingVersionInfo>正在获取版本信息……</LoadingVersionInfo>
 
-  <!-- World generator -->
+  <!-- 世界生成器 -->
   <!-- EN: Generate world -->
   <GenerateWorld>生成世界</GenerateWorld>
 
@@ -303,7 +303,7 @@
   <!-- EN: Drag to reorder -->
   <DragToReorder>拖拽以排序</DragToReorder>
 
-  <!-- Select scenario -->
+  <!-- 选择剧本 -->
   <!-- EN: Choose scenario -->
   <ChooseScenario>选择剧本</ChooseScenario>
   <!-- EN: Custom -->
@@ -315,7 +315,7 @@
   <!-- EN: Delete -->
   <Delete>删除</Delete>
   
-  <!-- Scenario editor -->
+  <!-- 剧本编辑器 -->
   <!-- EN: seed -->
   <Seed>种子</Seed>
   <!-- EN: Load -->
@@ -343,7 +343,7 @@
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
   <ScenarioChangedSavePrompt>这个剧本已经被修改。\n\n你想要在使用前保存它吗？</ScenarioChangedSavePrompt>
   
-  <!-- Select storyteller -->
+  <!-- 选择叙事者 -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>选择AI故事叙述者</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
@@ -365,7 +365,7 @@
   <!-- EN: Storyteller and playstyle can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>叙事者和游戏模式可以随时更改。</CanChangeStorytellerSettingsDuringPlay>
 
-  <!-- custom difficulty settings -->
+  <!-- 自定义难度设置 -->
   <!-- EN: Custom playstyle settings -->
   <DifficultyCustomSectionLabel>自定义游戏难度设置</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
@@ -541,7 +541,7 @@
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
   <Difficulty_LowPopConversionBoost_Info>当玩家的开局文化形态追随者只有一个人的时候， 教化其他人至此文化形态的几率会乘以此数值。\n\n当玩家的开局文化形态追随者有两个人时， 此补正效果减半。\n\n当玩家的开局文化形态追随者有至少三个人时， 此补正无效。</Difficulty_LowPopConversionBoost_Info>
 
-  <!-- Site select -->
+  <!-- 地点选择 -->
   <!-- EN: Select starting site -->
   <SelectStartingSite>选择初始着陆点</SelectStartingSite>
   <!-- EN: Select random site -->
@@ -619,7 +619,7 @@
   <!-- EN: light -->
   <LightLower>光照</LightLower>
 
-  <!-- Character chooser -->
+  <!-- 角色选择器 -->
   <!-- EN: Create characters -->
   <CreateCharacters>创建角色</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->

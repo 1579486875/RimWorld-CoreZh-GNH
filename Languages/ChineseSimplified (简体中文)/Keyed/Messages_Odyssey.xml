@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Grav engine/substructrues -->
+  <!-- 重力引擎 / 子结构 -->
   <!-- EN: Must be placed on gravship substructure. -->
   <MessageMustBePlacedOnSubstructure>必须放置在逆重飞船基架上。</MessageMustBePlacedOnSubstructure>
   <!-- EN: Must be placed within the radius of a grav engine or grav field extender. -->
@@ -21,7 +21,7 @@
   <!-- EN: {0} has died from vacuum exposure. -->
   <MessagePlantDiedOfRot_ExposedToVacuum>{0}死于真空暴露。</MessagePlantDiedOfRot_ExposedToVacuum>
 
-  <!-- Ancient Vents -->
+  <!-- 远古喷口 -->
   <!-- EN: The ancient smoke vents have become active, darkening the sky. -->
   <AncientSmokeVentStartUp>远古烟气孔已启动，天空变得昏暗。</AncientSmokeVentStartUp>
   <!-- EN: The ancient smoke vents are stopping. -->

@@ -51,7 +51,7 @@
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
   <MessageConnectedPawnDied>{TREE_label}与{PAWN_nameDef}进行了共鸣。必须经过{DURATION}，才能重新开始共鸣。</MessageConnectedPawnDied>
 
-  <!-- Slave interactions -->
+  <!-- 奴隶交互 -->
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
   <MessageSlaveEmancipated>{0_nameDef}已经被{1_nameDef}解放了。</MessageSlaveEmancipated>
   <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
@@ -61,7 +61,7 @@
   <!-- EN: Enslavement will follow. -->
   <MessagePrisonerWillBroken_RecruitAttempsWillBegin>开始奴役。</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
 
-  <!-- Prisoner interactions -->
+  <!-- 囚犯交互 -->
   <!-- EN: No warden is capable of this enslavement. -->
   <MessageNoWardenCapableOfEnslavement>没有一个狱卒有能力进行这种奴役。</MessageNoWardenCapableOfEnslavement>
   <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
@@ -112,7 +112,7 @@
   <!-- EN: Precept name is too long (maximum {0} letters) -->
   <PreceptNameTooLong>戒律名过长（最大{0}字符）</PreceptNameTooLong>
 
-  <!-- Ancient complex -->
+  <!-- 远古复合体 -->
   <!-- EN: You've discovered an ancient terminal with info about the {0}! -->
   <MessageAncientTerminalDiscovered>你发现了一个远古终端机，其中包含有关{0}的信息！</MessageAncientTerminalDiscovered>
   <!-- EN: You've discovered secret information about {0}! Get back on the shuttle to launch it. -->
@@ -122,7 +122,7 @@
   <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
   <MessageAncientSignalHostileDetected>{1}的{0}探测到供应信号，正在攻击。</MessageAncientSignalHostileDetected>
 
-  <!-- Ancient altar -->
+  <!-- 远古祭坛 -->
   <!-- EN: All security systems are waking up! -->
   <MessageAncientAltarThreatsWokenUp>所有的安全系统都在苏醒！</MessageAncientAltarThreatsWokenUp>
   <!-- EN: All security systems are alerted to your presence. -->
@@ -138,19 +138,19 @@
   <!-- EN: You must select at least 1 colonist. -->
   <MessageNewColoyRequiresOneColonist>你必须选择至少一个殖民者。</MessageNewColoyRequiresOneColonist>
 
-  <!-- Fuel node -->
+  <!-- 燃料节点 -->
   <!-- EN: A {0} has been ignited and is going to explode! -->
   <MessageFuelNodeTriggered>一个{0}被点燃了，马上就要爆炸了！</MessageFuelNodeTriggered>
 
-  <!-- Ancient complex -->
+  <!-- 远古复合体 -->
   <!-- EN: {0_pawnsPlural} will wake up in {1}. -->
   <MessageSleepingThreatDelayActivated>{0_pawnsPlural}将在{1}中醒来。</MessageSleepingThreatDelayActivated>
   <!-- EN: Infestation arriving. -->
   <MessageInfestationDelayActivated>袭击到来。</MessageInfestationDelayActivated>
   <!-- EN: {0} was disturbed and might explode soon! -->
-  <MessageFuelNodeDelayActivated>{0}被扰乱了，可能很快就会爆炸！</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+  <MessageFuelNodeDelayActivated>{0}被扰乱了，可能很快就会爆炸！</MessageFuelNodeDelayActivated><!-- 当燃料节点被扰动后、在开始爆炸前的随机延迟期间，会触发此消息。 -->
 
-  <!-- Fluid ideo messages -->
+  <!-- 流动性意识形态消息 -->
   <!-- EN: Development points changed from {0} to {1} ({2}). -->
   <MessageDevelopmentPointsEarned>发展点数由{0}改变至{1}（{2}）。</MessageDevelopmentPointsEarned>
   <!-- EN: Only one change to structures, memes and styles is allowed. -->

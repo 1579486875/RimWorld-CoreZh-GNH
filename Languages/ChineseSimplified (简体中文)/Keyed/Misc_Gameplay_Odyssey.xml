@@ -131,7 +131,7 @@
   <!-- EN: This area has more {MINERAL_label} deposits than normal. -->
   <MineralRichDescription>该地区拥有大量{MINERAL_label}矿脉。</MineralRichDescription>
 
-  <!-- Insect Lair -->
+  <!-- 虫巢 -->
   <!-- EN: Cave entrance -->
   <CaveEntranceLetter>洞穴入口</CaveEntranceLetter>
   <!-- EN: The gravcore energy signature is coming from a nearby cave network. The entrance is guarded by insect hives.\n\nExplore the cave network to find the gravcore. -->
@@ -231,7 +231,7 @@
   <!-- EN: drug stockpile -->
   <StockpileDrugs>成瘾品库存</StockpileDrugs>
   
-  <!-- Outfit Stand -->
+  <!-- 服装架 -->
   <!-- EN: equip outfit -->
   <SwapOutfit>更衣</SwapOutfit>
   <!-- EN: equip outfit... -->
@@ -245,7 +245,7 @@
   <!-- EN: Remove this from the outfit stand. -->
   <EjectApparelTooltip>从服装架上移除此物品。</EjectApparelTooltip>
   
-  <!-- Orbital mechanoid platform -->
+  <!-- 轨道机械平台 -->
   <!-- EN: Ancient grav engine -->
   <LetterAncientGravEngineDiscoveredLabel>远古逆重引擎</LetterAncientGravEngineDiscoveredLabel>
   <!-- EN: You've discovered an ancient grav engine. Destroy it to obtain a gravcore. -->
@@ -310,7 +310,7 @@
   <!-- EN: {HACKER_nameDef} hacked an uplink and discovered -->
   <QuestDiscoveredFromUplink>{HACKER_nameDef}骇入一处上行链路并发现了</QuestDiscoveredFromUplink>
 
-  <!-- Special Trainables -->
+  <!-- 特殊可训练项 -->
   <!-- EN: Attack -->
   <AnimalAttackTarget>攻击</AnimalAttackTarget>
   <!-- EN: Command this animal to attack a specific target. -->

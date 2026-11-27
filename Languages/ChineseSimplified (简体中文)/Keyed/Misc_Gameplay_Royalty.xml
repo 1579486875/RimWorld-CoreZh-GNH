@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Royalty and throne -->
+  <!-- 皇权与王座 -->
   <!-- EN: Satisfies title -->
   <ThroneMaxSatisfiedTitle>符合头衔</ThroneMaxSatisfiedTitle>
   <!-- EN: ({0} impressiveness) -->
@@ -15,7 +15,7 @@
   <!-- EN: Personal bedroom (partner allowed) -->
   <RequirementPersonalBedroom>私人卧室(允许伴侣)</RequirementPersonalBedroom>
   
-  <!-- Generated neurotrainers -->
+  <!-- 生成的神经训练器 -->
   <!-- EN: psytrainer ({0}) -->
   <PsycastNeurotrainerLabel>心灵训练器({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use psytrainer to learn {0} psycast -->
@@ -34,7 +34,7 @@
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
   <Reward_RoyalFavor_ChoosePawn>你可以选择一个参与的{2}之一从{0_name}接收{1}{0_royalFavorLabel}</Reward_RoyalFavor_ChoosePawn>
   
-  <!-- Ship landing beacons -->
+  <!-- 飞船着陆信标 -->
   <!-- EN: Not usable -->
   <NotUsable>不可用</NotUsable>
   <!-- EN: unpowered -->
@@ -169,6 +169,6 @@
   <AbilityNoEntropyToDump>没有心灵熵。</AbilityNoEntropyToDump>
 
   <!-- EN: level {0} -->
-  <LevelNum>等级{0}</LevelNum> <!-- Psylink level as reported in health tab-->
+  <LevelNum>等级{0}</LevelNum> <!-- 健康页签中显示的灵能链接等级 -->
 
 </LanguageData>

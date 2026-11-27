@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Grav engine -->
+  <!-- 重力引擎 -->
   <!-- EN: Show substructure overlay -->
   <CommandShowSubstructureOverlay>显示基架</CommandShowSubstructureOverlay>
   <!-- EN: Display valid substructure in blue and invalid substructure in red. -->

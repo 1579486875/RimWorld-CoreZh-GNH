@@ -9,7 +9,7 @@
   <!-- EN: Brightly lit -->
   <LitBrightly>非常光亮</LitBrightly>
 
-  <!-- Price types -->
+  <!-- 价格类型 -->
   <!-- EN: very cheap -->
   <PriceTypeVeryCheap>非常便宜</PriceTypeVeryCheap>
   <!-- EN: cheap -->
@@ -21,7 +21,7 @@
   <!-- EN: exorbitant -->
   <PriceTypeExorbitant>非常昂贵</PriceTypeExorbitant>
 
-  <!-- Storage priority labels -->
+  <!-- 储存优先级标签 -->
   <!-- EN: unstored -->
   <StoragePriorityUnstored>不储存</StoragePriorityUnstored>
   <!-- EN: low -->
@@ -35,7 +35,7 @@
   <!-- EN: critical -->
   <StoragePriorityCritical>关键</StoragePriorityCritical>
 
-  <!-- Food type flags -->
+  <!-- 食物类型标志 -->
   <!-- EN: vegetables -->
   <FoodTypeFlags_VegetableOrFruit>蔬果</FoodTypeFlags_VegetableOrFruit>
   <!-- EN: raw meat -->
@@ -59,7 +59,7 @@
   <!-- EN: kibble -->
   <FoodTypeFlags_Kibble>动物饲料</FoodTypeFlags_Kibble>
 
-  <!-- Quality category -->
+  <!-- 品质类别 -->
   <!-- EN: awful -->
   <QualityCategory_Awful>极差</QualityCategory_Awful>
   <!-- EN: poor -->
@@ -121,7 +121,7 @@
   <!-- EN: impassable -->
   <Hilliness_Impassable>无法逾越</Hilliness_Impassable>
   
-  <!-- Steam workshop interaction -->
+  <!-- Steam 创意工坊交互 -->
   <!-- EN: Creating -->
   <WorkshopInteractStage_CreatingItem>创建</WorkshopInteractStage_CreatingItem>
   <!-- EN: Submitting -->
@@ -147,7 +147,7 @@
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam 创意工坊</ContentSource_SteamWorkshop>
   
-  <!-- Medical care category -->
+  <!-- 医疗护理类别 -->
   <!-- EN: no medical care -->
   <MedicalCareCategory_NoCare>无医生照顾</MedicalCareCategory_NoCare>
   <!-- EN: doctor care, but no medicine -->
@@ -159,7 +159,7 @@
   <!-- EN: best quality medicine -->
   <MedicalCareCategory_Best>提供最高等级的医药</MedicalCareCategory_Best>
 
-  <!-- Hostility response mode -->
+  <!-- 敌对反应模式 -->
   <!-- EN: Ignore -->
   <HostilityResponseMode_Ignore>无视</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
@@ -191,13 +191,13 @@
   <!-- EN: archotech -->
   <TechLevel_Archotech>超凡时代</TechLevel_Archotech>
 
-  <!-- Player pawns arrive method -->
+  <!-- 玩家角色抵达方式 -->
   <!-- EN: Standing -->
   <PlayerPawnsArriveMethod_Standing>固定</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
   <PlayerPawnsArriveMethod_DropPods>运输舱</PlayerPawnsArriveMethod_DropPods>
 
-  <!-- Pawn generation context -->
+  <!-- 角色生成上下文 -->
   <!-- EN: all characters -->
   <PawnGenerationContext_All>所有角色</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
@@ -205,11 +205,11 @@
   <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>NPC</PawnGenerationContext_NonPlayer>
 
-  <!-- Screen shake mode -->
+  <!-- 屏幕震动模式 -->
   <!-- EN: Screen shake intensity -->
   <ScreenShakeIntensity>屏幕抖动强度</ScreenShakeIntensity>
   
-  <!-- Animal name display mode -->
+  <!-- 动物名称显示模式 -->
   <!-- EN: Show animal names -->
   <ShowAnimalNames>显示动物名称</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
@@ -217,7 +217,7 @@
   <!-- EN: Tame (all) -->
   <AnimalNameDisplayMode_TameAll>已驯服（所有）</AnimalNameDisplayMode_TameAll>
 
-  <!-- Highlight display mode -->
+  <!-- 高亮显示模式 -->
   <!-- EN: Character highlighting -->
   <DotHighlightDisplayMode>高亮显示模式</DotHighlightDisplayMode>
   <!-- EN: Highlight hostiles -->
@@ -225,7 +225,7 @@
   <!-- EN: Highlight all -->
   <DotHighlightDisplayMode_HighlightAll>高亮全部</DotHighlightDisplayMode_HighlightAll> 
   
-  <!-- Highlight style -->
+  <!-- 高亮样式 -->
   <!-- EN: Highlight mode -->
   <HighlightStyleMode>高亮模式</HighlightStyleMode>
   <!-- EN: Dots -->
@@ -233,13 +233,13 @@
   <!-- EN: Silhouettes -->
   <HighlightStyleMode_Silhouettes>轮廓</HighlightStyleMode_Silhouettes> 
 
-  <!-- Mood gradient display strength-->
+  <!-- 心情梯度显示强度 -->
   <!-- EN: Visible mood -->
   <VisibleMood>可视化心情</VisibleMood>
   <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
   <VisibleMoodDesc>如果启用此项，当你的角色有精神崩溃的风险时，其屏幕顶部的头像框背景会产生颜色变化。</VisibleMoodDesc>
   
-  <!-- Mech name display mode -->
+  <!-- 机械体名称显示模式 -->
   <!-- EN: Show player mech names -->
   <ShowMechNames>显示玩家机械族名称</ShowMechNames>
   <!-- EN: While drafted -->
@@ -247,7 +247,7 @@
   <!-- EN: always -->
   <MechNameDisplayMode_Always>总是</MechNameDisplayMode_Always>
 
-  <!-- Show weapons under portrait mode -->
+  <!-- 头像模式下显示武器 -->
   <!-- EN: Weapons below portrait -->
   <ShowWeaponsUnderPortrait>头像下显示武器</ShowWeaponsUnderPortrait>
   <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
@@ -283,7 +283,7 @@
   <!-- EN: NW -->
   <Direction8Way_NorthWest_Short>西北</Direction8Way_NorthWest_Short>
   
-  <!-- Diet category -->
+  <!-- 饮食类别 -->
   <!-- EN: Never eats -->
   <DietCategory_NeverEats>不进食</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
@@ -309,7 +309,7 @@
   <!-- EN: C -->
   <DietCategory_Carnivorous_Short>肉</DietCategory_Carnivorous_Short>
 
-  <!-- Food poison cause -->
+  <!-- 食物中毒原因 -->
   <!-- EN: incompetent cook -->
   <FoodPoisonCause_IncompetentCook>不称职的厨师</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
@@ -319,7 +319,7 @@
   <!-- EN: dangerous food type -->
   <FoodPoisonCause_DangerousFoodType>危险的食物类型</FoodPoisonCause_DangerousFoodType>
 
-  <!-- Psychic drone level -->
+  <!-- 灵能低鸣等级 -->
   <!-- EN: none -->
   <PsychicDroneLevel_None>无</PsychicDroneLevel_None>
   <!-- EN: medium -->
@@ -333,7 +333,7 @@
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>极高</PsychicDroneLevel_BadExtreme>
   
-  <!-- Automatic pause mode -->
+  <!-- 自动暂停模式 -->
   <!-- EN: Never -->
   <AutomaticPauseMode_Never>从不</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
@@ -343,7 +343,7 @@
   <!-- EN: Any letter -->
   <AutomaticPauseMode_AnyLetter>任何事件</AutomaticPauseMode_AnyLetter>
 
-  <!-- Pain category -->
+  <!-- 疼痛类别 -->
   <!-- EN: itchy -->
   <PainCategory_LowPain>发痒</PainCategory_LowPain>
   <!-- EN: aching -->

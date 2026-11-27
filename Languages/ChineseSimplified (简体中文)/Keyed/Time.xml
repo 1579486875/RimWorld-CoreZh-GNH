@@ -62,7 +62,7 @@
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>生物年龄：{0} 年，{1} 象，{2} 日</AgeBiological>
 
-  <!-- Date periods -->
+  <!-- 时间段 -->
   <!-- EN: 1 year -->
   <Period1Year>1年</Period1Year>
   <!-- EN: {0} years -->

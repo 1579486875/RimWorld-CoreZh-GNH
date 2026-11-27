@@ -20,7 +20,7 @@
   <!-- EN: security crate -->
   <AncientSecurityCrate.label>保险储存箱</AncientSecurityCrate.label>
   <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
-  <AncientSecurityCrate.description>用来保存贵重物品的自供电保险箱。它可以保存内容物很长的一段时间。如果在没有输入正确的密码的情况下将其打开，那么就有可能会激活附近的"安保系统"。</AncientSecurityCrate.description>
+  <AncientSecurityCrate.description>用来保存贵重物品的自供电保险箱。它可以保存内容物很长的一段时间。如果在没有输入正确的密码的情况下将其打开，那么就有可能会激活附近的“安保系统”。</AncientSecurityCrate.description>
   
   <!-- EN: ancient terminal -->
   <AncientTerminal.label>远古终端机</AncientTerminal.label>

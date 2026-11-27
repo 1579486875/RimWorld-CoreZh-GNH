@@ -188,7 +188,7 @@
   <!-- EN: too small -->
   <TooSmall>太小了</TooSmall>
 
-  <!-- Deathrest buildings -->
+  <!-- 死眠建筑 -->
   <!-- EN: Bound to -->
   <BoundTo>绑定至</BoundTo>
   <!-- EN: Will bind permanently on first use. -->
@@ -216,7 +216,7 @@
   <!-- EN: total -->
   <Total>总值</Total>
   
-  <!-- Human pregnancy -->
+  <!-- 人类怀孕 -->
   <!-- EN: Father -->
   <FatherTip>父亲</FatherTip>
   <!-- EN: Genetic mother -->
@@ -436,7 +436,7 @@
   <!-- EN: Not in gene bank -->
   <NotInGeneBank>不在基因库</NotInGeneBank>
 
-  <!-- Child birth -->
+  <!-- 分娩 -->
   <!-- EN: Gather to help a mother give birth. A doctor can help deliver the baby. -->
   <ChildBirthAlwaysHealthy_Desc>聚集在一起帮助母亲分娩，医生可以帮助接生。</ChildBirthAlwaysHealthy_Desc>
   <!-- EN: until the baby is born -->
@@ -470,7 +470,7 @@
   <!-- EN: Lactation is paused due to starvation. -->
   <LactatingStoppedBecauseHungry>因饥饿而暂停泌乳。</LactatingStoppedBecauseHungry>
 
-  <!-- Mech gestating -->
+  <!-- 机械体孕育中 -->
   <!-- EN: Current gestation cycle -->
   <CurrentGestationCycle>当前培育周期</CurrentGestationCycle>
   <!-- EN: Gestation cycles remaining -->
@@ -506,7 +506,7 @@
   <!-- EN: This autofill amount determines the maximum amount of resources your colonists will automatically place in this {0}. Resources can be used to create {1}. -->
   <MechCarrierAutofillDesc>这个自动填充量决定了你的殖民者将自动放置在这个{0}的最大资源量。资源可以用来创造{1}。</MechCarrierAutofillDesc>
 
-  <!-- Mech power cell -->
+  <!-- 机械动力电池 -->
   <!-- EN: Power cell -->
   <MechPowerCell>能量电池</MechPowerCell>
   <!-- EN: War urchins have a one-time power source. When the power cell runs out, the mechanoid dies. -->
@@ -574,7 +574,7 @@
   <!-- EN: Aging speed -->
   <AgingSpeed>成长速度</AgingSpeed>
 
-  <!-- Mech charger -->
+  <!-- 机械充电站 -->
   <!-- EN: Waste -->
   <WasteLevel>污染</WasteLevel>
 
@@ -594,7 +594,7 @@
   <!-- EN: {0} cannot wear clothing for {1} -->
   <WrongDevelopmentalStageForClothing>{0}不能为{1}穿戴衣物</WrongDevelopmentalStageForClothing> 
 
-  <!-- Subcore scanner -->
+  <!-- 副核心扫描仪 -->
   <!-- EN: Start scanner -->
   <SubcoreScannerStart>开始扫描</SubcoreScannerStart>
   <!-- EN: Produces -->
@@ -642,7 +642,7 @@
   <!-- EN: One member of the group will reimplant their xenogerm into a colonist of your choice, thus turning your colonist into one of them. Your colonist will remain part of your faction and under your control. -->
   <Reward_ReimplantXenogerm_Desc>他们中的一员会将其异种胚芽植入到你选择的殖民者体内，从而把你的殖民者变成他们的同类。你的殖民者将继续属于你的派系并受你控制。</Reward_ReimplantXenogerm_Desc>
 
-  <!-- Mech resurrection -->
+  <!-- 机械复活 -->
   <!-- EN: Mech resurrection charges -->
   <MechResurrectionCharges>机械族复活充能</MechResurrectionCharges>
 
@@ -755,11 +755,11 @@
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
   <IvfPregnancyLetterParents>婴儿将具有{0}和{1}的基因构成。</IvfPregnancyLetterParents>
 
-  <!-- Remote mech shield -->
+  <!-- 远程机械护盾 -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
   <RemoteMechShieldTip>一个由机械师远程投射的护盾。护盾会拦截来袭的投射物或弹片，但无法阻挡近战攻击、高温以及火焰，遭受EMP打击后会立即耗尽能量。</RemoteMechShieldTip>
 
-  <!-- Thoughtdef fallbacks -->
+  <!-- ThoughtDef 回退 -->
   <!-- EN: my child is happy -->
   <MyChildIsHappy>我的孩子正开心</MyChildIsHappy>
   <!-- EN: my child is sad -->

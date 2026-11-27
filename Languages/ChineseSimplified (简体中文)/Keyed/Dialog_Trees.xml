@@ -15,7 +15,7 @@
   <!-- EN: Disconnect -->
   <Disconnect>断开连接</Disconnect>
 
-  <!-- Gift offer -->
+  <!-- 赠礼提议 -->
   <!-- EN: Offer gift -->
   <OfferGift>赠予礼物</OfferGift>
   <!-- EN: must be ally -->
@@ -31,7 +31,7 @@
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
   <SilverGiftSent>{0}对你表示感谢。\n\n（好感度增加{1}）。</SilverGiftSent>
 
-  <!-- Trade caravan request -->
+  <!-- 贸易商队请求 -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
   <RequestTrader>请求派出贸易商队（花费: {0}好感度）</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
@@ -41,7 +41,7 @@
   <!-- EN: wait {0} -->
   <WaitTime>等待{0}</WaitTime>
 
-  <!-- Orbital trade request -->
+  <!-- 轨道贸易请求 -->
   <!-- EN: Request orbital trader (cost: {0} goodwill) -->
   <RequestOrbitalTrader>呼叫轨道贸易商（花费：{0}好感度）</RequestOrbitalTrader>
   <!-- EN: {0} asks what kind of orbital trader you want. -->
@@ -49,7 +49,7 @@
   <!-- EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours. -->
   <OrbitalTraderSent>{0}将会要求一艘轨道贸易商船造访你，他们将在数小时内抵达。</OrbitalTraderSent>
   
-  <!-- AI core request -->
+  <!-- AI 核心请求 -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
   <RequestAICoreInformation>索要{0}相关位置（花费: {1}白银）</RequestAICoreInformation>
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
@@ -57,7 +57,7 @@
   <!-- EN: no more locations known -->
   <NoKnownAICore>无更多已知地点</NoKnownAICore>  
   
-  <!-- Military aid request -->
+  <!-- 军事援助请求 -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
   <RequestMilitaryAid>请求立即派出军事支援（花费: {0}好感度）</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->

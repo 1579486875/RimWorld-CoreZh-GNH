@@ -127,7 +127,7 @@
   <!-- EN: Acquaintance -->
   <Acquaintance>相识</Acquaintance>
   
-  <!-- History tab - subtabs -->
+  <!-- 历史页签 - 子页签 -->
   <!-- EN: Graph -->
   <Graph>统计图表</Graph>
   <!-- EN: Messages -->
@@ -135,7 +135,7 @@
   <!-- EN: Statistics -->
   <Statistics>统计数据</Statistics>
   
-  <!-- History tab - Graphs -->
+  <!-- 历史页签 - 图表 -->
   <!-- EN: Select graph -->
   <SelectGraph>选择图表</SelectGraph>
   <!-- EN: Last 30 days -->
@@ -151,7 +151,7 @@
   <!-- EN: External -->
   <External>外部</External>
 
-  <!-- History tab - Messages -->
+  <!-- 历史页签 - 消息 -->
   <!-- EN: Show letters -->
   <ShowLetters>显示信件</ShowLetters>
   <!-- EN: Show messages -->
@@ -161,7 +161,7 @@
   <!-- EN: no messages -->
   <NoMessages>无消息</NoMessages>
 
-  <!-- History tab - Statistics -->
+  <!-- 历史页签 - 统计 -->
   <!-- EN: Play time -->
   <Playtime>总游戏时间</Playtime>
   <!-- EN: Storyteller -->

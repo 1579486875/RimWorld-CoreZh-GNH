@@ -21,11 +21,11 @@
   <!-- EN: {0} has experienced a miraculous recovery! -->
   <MiracleHeal>{0}奇迹般的恢复健康了！</MiracleHeal>
 
-  <!-- Enemy raids -->
+  <!-- 敌方袭击 -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
   <EnemyRaidLeaderPresent>{LEADER_factionPawnsPlural}的其中一员——{LEADER_labelShort}，是该派系的领袖。</EnemyRaidLeaderPresent>
 
-  <!-- Friendly raids -->
+  <!-- 友好袭击 -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
   <FriendlyRaidLeaderPresent>{LEADER_factionPawnsPlural}的其中一员——{LEADER_labelShort}，是该派系的领袖。</FriendlyRaidLeaderPresent>
 
@@ -101,7 +101,7 @@
   <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
   <ManhunterPackArrived>一群猎杀人类的{0}已进入这片区域。它们被狂暴症逼疯了，将四处游荡猎杀人类。\n\n它们不会从门进来，所以如果你呆在室内并关好门应该是安全的。它们也不会攻击关闭的炮塔，所以如果你想避免炮台被拆，可以停止对炮塔供电。\n\n这群{0}将会在几天后离开。你可以躲起来等它们离开，或者与它们战斗。</ManhunterPackArrived>
   
-  <!-- Crashed ship part-->
+  <!-- 坠毁的飞船部件 -->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>{SOURCE_label}发出了一股心灵脉冲，它让附近的动物都发狂了。</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
@@ -119,7 +119,7 @@
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>坠毁的飞船部件产生的心灵低语强度提高了。这片区域内的所有{0}人类的思维都受到更严重的干扰，开始变得更恐慌、更偏执。</LetterPsychicDroneLevelIncreased>
   
-  <!-- Agent revealed -->
+  <!-- 特工暴露 -->
   <!-- EN: Agent -->
   <LetterLabelAgentRevealed>间谍</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
@@ -131,7 +131,7 @@
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>一群饥饿的阿尔法海狸出现。\n\n在这种基因改造动物啃倒本地区最后一棵树之前消灭他们。</BeaversArrived>
   
-  <!-- Self-tame -->
+  <!-- 自我驯化 -->
   <!-- EN: {1_kind} self-tamed -->
   <LetterLabelAnimalSelfTame>{1_kind}自行驯服</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
@@ -141,19 +141,19 @@
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
   <LetterAnimalSelfTameAndName>{0}自行驯服了。殖民者决定将它命名为{ANIMAL_nameFull}。</LetterAnimalSelfTameAndName>
 
-  <!-- Farm animals wander in -->
+  <!-- 农场动物游荡进入 -->
   <!-- EN: {0} join -->
   <LetterLabelFarmAnimalsWanderIn>{0}加入</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
   <LetterFarmAnimalsWanderIn>一群被遗弃或迷路的{0}游荡到本地区。\n\n它们似乎习惯与人类相处，并且加入了殖民地。</LetterFarmAnimalsWanderIn>
   
-  <!-- Thrumbo passes -->
+  <!-- 巨鼬经过 -->
   <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>罕见的敲击兽</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
   <LetterThrumboPasses>一小群敲击兽来到了本地区。\n\n这种罕见的野兽天性温顺，但一旦被激怒时就会变得非常危险。有些贸易商愿意出大价钱收购它们珍贵的皮革和角。\n\n敲击兽将会在几天后离开。</LetterThrumboPasses>
   
-  <!-- Trader caravan -->
+  <!-- 贸易商队 -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>来自{0}的{1}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
@@ -161,7 +161,7 @@
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
   <LetterCaravanArrivalCommonWarning>他们将在殖民地逗留几天，然后离开。你可以攻击他们，但这会激怒他们的派系！</LetterCaravanArrivalCommonWarning>
     
-  <!-- Ransom demand -->
+  <!-- 赎金要求 -->
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>向{0}索要赎金</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
@@ -171,7 +171,7 @@
   <!-- EN: Reject -->
   <RansomDemand_Reject>拒绝</RansomDemand_Reject>
   
-  <!-- Journey-related -->
+  <!-- 旅途相关 -->
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
@@ -179,7 +179,7 @@
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
   <EscapeShipFoundPeaceful>你已经抵达(*Name)沙隆·白石(/Name)所发给你的坐标并且发现了隐藏的太空船。\n\n这艘飞船的反应堆仍处于深度休眠模式，所以还无法飞行。你可以通过操作电脑核心启动它。\n\n(*Name)沙隆·白石(/Name)警告称启动进程将会耗费大约15天。</EscapeShipFoundPeaceful>
 
-  <!-- Caravan meeting -->
+  <!-- 商队会面 -->
   <!-- EN: Caravan meeting by {0} -->
   <CaravanMeetingTitle>远行队相遇（{0}）</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
@@ -195,7 +195,7 @@
   <!-- EN: need a trader with the title of {0} from {1_name} -->
   <CaravanMeeting_NoPermit>需要{1_name}的一名{0}来进行交易。</CaravanMeeting_NoPermit>
   
-  <!-- Caravan request -->
+  <!-- 商队请求 -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>远行队请求</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
@@ -207,7 +207,7 @@
   <!-- EN: not tainted -->
   <NotTainted>非死者衣物</NotTainted>
 
-  <!-- Caravan demand -->
+  <!-- 商队需求 -->
   <!-- EN: Caravan demand by {0} -->
   <CaravanDemandTitle>远行队被{0}打劫</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
@@ -217,7 +217,7 @@
   <!-- EN: Refuse and fight -->
   <CaravanDemand_Fight>拒绝并战斗</CaravanDemand_Fight>
 
-  <!-- Site no longer hostile -->
+  <!-- 地点不再敌对 -->
   <!-- EN: Quest no longer available -->
   <LetterLabelSiteNoLongerHostile>任务不再可用</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
@@ -227,19 +227,19 @@
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
   <LetterSiteNoLongerHostileMulti>因为你和{0}不再敌对，以下地点将不再可用</LetterSiteNoLongerHostileMulti>
 
-  <!-- Quest asker faction hostile -->
+  <!-- 任务委托派系敌对 -->
   <!-- EN: Quest failed -->
   <LetterLabelQuestAskerFactionHostile>任务失败</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
   <LetterQuestAskerFactionHostile>由于和 {FACTION_name} 已经处于敌对状态，因此该任务无法完成。</LetterQuestAskerFactionHostile>
 
-  <!-- Quest asker captured -->
+  <!-- 任务委托人被俘 -->
   <!-- EN: Quest failed -->
   <LetterLabelQuestAskerCaptured>任务失败</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
   <LetterQuestAskerCaptured>因为 {SUBJECT_definite} 已被捕获，该任务已无法继续进行。</LetterQuestAskerCaptured>
 
-  <!-- Quest asker died -->
+  <!-- 任务委托人死亡 -->
   <!-- EN: Quest failed -->
   <LetterLabelQuestAskerDied>任务失败</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->

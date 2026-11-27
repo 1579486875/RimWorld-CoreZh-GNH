@@ -9,7 +9,7 @@
   <!-- EN: Warning from {0_nameDef} -->
   <WarningFromLabel>来自{0_nameDef}的警告</WarningFromLabel>
 
-  <!-- Hate chanters -->
+  <!-- 憎恨咏唱者 -->
   <!-- EN: Cultist hate chanters -->
   <HateChantersLabel>邪教徒吟诵者</HateChantersLabel>
   <!-- EN: Cultist hate chanters have arrived. They intend to perform a hate chant ritual to force psychic rage into your colonists and drive them mad. The chant will grow louder and louder until the cultists are stopped. -->
@@ -19,7 +19,7 @@
   <!-- EN: The cultists have ended their hate chant and have begun to come out of their ritual trance.\n\nPrepare to defend. -->
   <HateChantersAttackingText>邪教徒们已停止恶咒吟诵并从仪式中回过神来开始进攻。\n\n准备迎战！</HateChantersAttackingText>
 
-  <!-- Psychic rituals -->
+  <!-- 灵能仪式 -->
   <!-- EN: {0} complete -->
   <PsychicRitualCompleteLabel>{0}完成</PsychicRitualCompleteLabel>
 
@@ -118,7 +118,7 @@
   <!-- EN: The death of fleshmass has triggered a violent response! The fleshmass shudders as it births new fleshbeasts to defend itself. -->
   <FleshmassResponseText>血肉块的死亡引发了激烈反应！血肉块颤抖着生出新的血肉兽来用以自卫。</FleshmassResponseText> 
 
-  <!-- Void awakening -->
+  <!-- 虚空觉醒 -->
   <!-- EN: Dimming sky -->
   <VoidAwakeningStageOneStructuresActivatedLabel>昏暗的天空</VoidAwakeningStageOneStructuresActivatedLabel>
   <!-- EN: Structures activated -->
@@ -152,7 +152,7 @@
   <!-- EN: While interacting with the void structure, {PAWN_nameDef} saw a vision of the void. For a moment {PAWN_pronoun} swam the black ocean of infinite depth and felt its endless inhuman power.\n\n{PAWN_nameDef} thinks there may be a way to control that power by embracing the void. If you were to permanently open the conduit to the void, rather than shutting it down, it could offer untold possibilities. -->
   <VoidAwakeningBreadcrumbLetterText>在和虚空结构交互过程中，{PAWN_nameDef}看到了虚空的景象。{PAWN_pronoun}短暂地在那无尽的黑色海洋中遨游，感受着它那无穷的非人力量。\n\n{PAWN_nameDef}认为可以通过接受虚空来找到控制那些力量的方法。如果你永久敞开这连通虚空的隧道，而不是将其关闭，将会带来无法预见的可能性。</VoidAwakeningBreadcrumbLetterText>
 
-  <!-- Void node -->
+  <!-- 虚空节点 -->
   <!-- EN: {PAWN_nameDef} returns -->
   <VoidNodeReturnedLabel>{PAWN_nameDef}回来了</VoidNodeReturnedLabel>
   <!-- EN: {PAWN_nameDef} has reappeared. -->
@@ -168,13 +168,13 @@
   <!-- EN: shambler control -->
   <RewardShamblerControlAbility>控制蹒跚怪</RewardShamblerControlAbility>
 
-  <!-- Duplicate sickness -->
+  <!-- 重复疾病 -->
   <!-- EN: Duplicate sickness -->
   <DuplicateSicknessLabel>复制后遗症</DuplicateSicknessLabel>
   <!-- EN: Both {0_nameDef} and {0_possessive} duplicate are feeling unwell. Their condition seems to be related to the duplication process and is worsening. The psychic connection that binds them is causing them to slowly lose consciousness. The condition won't get better until one of them dies. -->
   <DuplicateSicknessText>{0_nameDef}与{0_possessive}复制体都觉得有些不舒服。这番状况似乎是与复制过程有关，并且正在恶化。绑定着二者的心灵链接使两人都缓慢丧失着意识。情况在其中一人死亡前不会好转。</DuplicateSicknessText>
 
-  <!-- Frenzied animals -->
+  <!-- 狂乱动物 -->
   <!-- EN: Frenzied animals -->
   <FrenziedAnimalsLabel>发狂的动物</FrenziedAnimalsLabel>
   <!-- EN: A pack of man-hunting {0} have entered the area! They've been attracted by your ritual. They will roam the region hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out or fight them. -->
@@ -186,7 +186,7 @@
   <!-- EN: {PAWN_nameDef} has been driven mad by {PAWN_possessive} ravenous hunger for raw meat! -->
   <GhoulBetrayalText>{PAWN_nameDef}在对新鲜生肉的狂热饥饿下陷入了疯狂！</GhoulBetrayalText>
   
-  <!-- Distress signal -->
+  <!-- 求救信号 -->
   <!-- EN: Distress signal -->
   <DistressSignalLabel>求救信号</DistressSignalLabel>
   <!-- EN: You've intercepted a distress signal from a nearby camp of {FACTION_name}.\n\nThe frantic voice begs for immediate assistance defending against a threat. They offer everything at their camp in return for help, including shards of powerful archotechnology.\n\nAs the voice tries to explain the nature of the threat, the signal goes dead. -->
@@ -202,7 +202,7 @@
   <!-- EN: A group of twisted animal-like chimera monsters have appeared nearby.\n\nThe misshapen beasts will watch your colony, waiting for an opportunity to attack. They are skittish and may retaliate if provoked. -->
   <ChimeraAssaultText>一群扭曲的动物模样嵌合兽出现在了附近。\n\n这群畸形的野兽将会盯着你的殖民地，静待进攻的时机。当心了，它们受到挑衅后可能会发起报复。</ChimeraAssaultText>
 
-  <!-- Unnatural darkness -->
+  <!-- 非自然黑暗 -->
   <!-- EN: Darkness lifting -->
   <DarknessLiftingEarlyLetterLabel>黑暗散去</DarknessLiftingEarlyLetterLabel>
   <!-- EN: The last of the nightmarish pillars has collapsed. The unnatural darkness has begun to dissipate. Colonists breathe a sigh of relief in the clear air. -->
@@ -224,7 +224,7 @@
   <!-- EN: With the destruction of the noctolith, a faint crack appears in the darkness, before being filled with more of the sooty black.\n\nDestroy the remaining noctoliths to end the unnatural darkness. -->
   <DarknessWaveringLetterText>随着夜光柱的毁灭，黑暗中出现了一丝裂痕，而这很快就会被更多的黑暗补上。\n\n摧毁剩余的夜光柱，将这异常黑暗彻底终结吧。</DarknessWaveringLetterText>
 
-  <!-- Shambler Swarms -->
+  <!-- 蹒跚者集群 -->
   <!-- EN: Shamblers approach -->
   <LetterLabelShamblerSwarmArrived>蹒跚猎群接近</LetterLabelShamblerSwarmArrived>
   <!-- EN: Shambler approaches -->
@@ -238,7 +238,7 @@
   <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
   <LetterShamblerAnimalsArrived>一群浑身腐烂的{ANIMALKIND_label}蹒跚怪正在接近。某种异常力量使这些早已失去生机的尸体重获行动能力。\n\n它们会在这片区域四处游荡，并攻击看到的人类。若能小心避开，它们几天后便会离去。\n\n如果你能捕获一只，可对其展开调查以获取异象知识。</LetterShamblerAnimalsArrived>
 
-  <!-- Ghoul pod crash -->
+  <!-- 食尸鬼运输舱坠毁 -->
   <!-- EN: Transport pod crash -->
   <GhoulPodCrashLabel>运输舱坠毁</GhoulPodCrashLabel>
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
@@ -246,7 +246,7 @@
   <!-- EN: A transport pod carrying a ravenous hostile ghoul has landed nearby. On closer inspection, it appears to be {PAWN_nameDef}, a previous member of your crew.\n\nThe ghoul is currently in shock, but it will soon recover and attack anyone it sees. It can be captured to a holding platform for further study.\n\nCapture or kill it before it wakes. -->
   <GhoulPodCrashStartingPawnText>一个装有凶恶敌对食尸鬼的运输舱坠毁在了附近。经过近距离检查才发现，它竟是{PAWN_nameDef}，你们曾经的同伴。\n\n这只食尸鬼目前正处于心灵冲击状态，但很快就能恢复过来，然后攻击任何看到的人。可将其捕获并安置于一座收容平台内以供后续调查。\n\n最好趁它醒来前将其捕获或杀死。</GhoulPodCrashStartingPawnText>
 
-  <!-- Entity codex -->
+  <!-- 实体图鉴 -->
   <!-- EN: New research available -->
   <LetterLabelEntityDiscovery>有新的可研究项目</LetterLabelEntityDiscovery>
   <!-- EN: Your discovery of {ENTITY_definite} has yielded new insights. You can now research the following Anomaly projects -->

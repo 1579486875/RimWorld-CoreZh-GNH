@@ -624,7 +624,7 @@
   <MessageEnterCooldownBlocksEntering>危险！{0}内不允许再次进入。</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
-  <MessagePermitCooldownFinished>{0_labelShort} 现在可以免费使用 "{1}"。</MessagePermitCooldownFinished>
+  <MessagePermitCooldownFinished>{0_labelShort} 现在可以免费使用 “{1}”。</MessagePermitCooldownFinished>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
   <MessagePredatorHuntingPlayerAnimal>{PREDATOR}正在猎食{PREY_definite}（{PREY_kindBase}）</MessagePredatorHuntingPlayerAnimal>
@@ -699,7 +699,7 @@
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
   <MessageBedDestroyed>分配给{1_nameDef}的{0}已被销毁。</MessageBedDestroyed>
 
-  <!-- Lord jobs -->
+  <!-- 领主工作 -->
   <!-- EN: You need {0_indefinite}. -->
   <MessageLordJobNeedsAtLeastOneRolePawn>你需要{0_indefinite}。</MessageLordJobNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->

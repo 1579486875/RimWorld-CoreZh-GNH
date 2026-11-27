@@ -7,7 +7,7 @@
   <Collectivist.description>每个人都是集体的一部分。人们应该努力发挥自己的作用为集体做贡献。</Collectivist.description>
   <!-- EN:
     <li>creation(tag=meme_Collectivist)        ->[deity0_name] made all men and women from a great mold, and those that deviated [deity0_pronoun] threw into fire so the believers could live in harmony.</li>
-    <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] said to all, "No one of you stands above the whole. Work together or perish together."</li>
+    <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] said to all, “No one of you stands above the whole. Work together or perish together.”</li>
     <li>intro(tag=meme_Collectivist)           ->The people of the [place_summary] [place_name] worked together in harmony, and built a great [altarName] to honor [deity0_name], who taught them the true value of [memeConcept].</li>
     <li>conflict(tag=meme_Collectivist)        ->The [foeLeader] could not abide the family of [memberNamePlural], and sent [foeLeader_possessive] [foeSoldiers] to the [place_community] to divide them against each other.</li>
     <li>founderJoin(tag=meme_Collectivist)     ->A [place_job] named [founderName] threw [founder_objective]self into a fire to protest the [foeLeader], but the [memberNamePlural] pulled [founder_objective] out and made [founder_objective] their leader because of [founder_possessive] devotion to the group.</li>

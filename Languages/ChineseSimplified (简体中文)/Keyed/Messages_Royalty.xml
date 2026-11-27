@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Shuttle landing zones -->
+  <!-- 穿梭机着陆区 -->
   <!-- EN: Shuttle could not land on pad: {0} -->
   <ShuttleBlocked>穿梭机不能在着陆区降落：{0}</ShuttleBlocked>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->

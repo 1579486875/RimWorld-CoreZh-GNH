@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Main menu-->
+  <!-- 主菜单 -->
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>边缘世界 泰南·西尔维斯特的故事生成器</MainPageCredit>
 
@@ -67,7 +67,7 @@
   <!-- EN: and many other gracious volunteers! -->
   <AndOtherVolunteers>以及其他超赞的志愿者们！</AndOtherVolunteers>
 
-  <!-- Credits - Currently unused -->
+  <!-- 制作名单 - 当前未使用 -->
   <!-- EN: Test lead -->
   <Credit_TestLead>测试</Credit_TestLead>
   <!-- EN: Community donations -->

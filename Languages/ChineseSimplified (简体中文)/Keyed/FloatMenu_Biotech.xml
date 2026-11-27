@@ -110,7 +110,7 @@
   <!-- EN: Not enough blood. -->
   <CannotFeedOnWouldKill>血液不足。</CannotFeedOnWouldKill>
 
-  <!-- BreastfeedFailReason strings-->
+  <!-- BreastfeedFailReason 字符串 -->
   <!-- EN: {MOM_labelShort} does not have enough milk -->
   <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort}没有足够的乳汁</BreastfeedFailReason_MomNotEnoughMilk>
   <!-- EN: {MOM_labelShort} cannot breastfeed right now -->

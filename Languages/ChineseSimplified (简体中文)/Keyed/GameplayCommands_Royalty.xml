@@ -33,7 +33,7 @@
   <!-- EN: Cannot call aid here. -->
   <CommandCallRoyalAidInvalidMap>此处无法呼叫援军。</CommandCallRoyalAidInvalidMap>
   
-  <!-- Call laborers -->
+  <!-- 呼叫劳工 -->
   <!-- EN: Call laborers -->
   <CommandCallLaborers>呼叫劳工</CommandCallLaborers>
   <!-- EN: Use a special permit to call for a group of laborers from your ally. These workers can only do labor tasks, but you can control them like they were your own colonists. You are required to keep them safe. -->
@@ -67,13 +67,13 @@
   <!-- EN: Psychic insanity immune -->
   <IneffectivePsychicImmune>心灵错乱免疫</IneffectivePsychicImmune>
 
-  <!-- Select monument marker -->
+  <!-- 选择纪念碑标记 -->
   <!-- EN: Select monument -->
   <CommandSelectMonumentMarker>选择纪念碑</CommandSelectMonumentMarker>
   <!-- EN: Select the monument marker this belongs to. -->
   <CommandSelectMonumentMarkerDesc>选择所属的纪念碑标记。</CommandSelectMonumentMarkerDesc>
 
-  <!-- Warn in building radius -->
+  <!-- 建筑半径内警告 -->
   <!-- EN: Build radius warning -->
   <CommandWarnInBuildingRadius>建造半径警告</CommandWarnInBuildingRadius>
   <!-- EN: If enabled, this object will draw a red line to buildings you are placing using the architect menu, if they would interfere with meditation due to being too close.\n\nYou can turn this off if you don't intend to use this for meditation. -->

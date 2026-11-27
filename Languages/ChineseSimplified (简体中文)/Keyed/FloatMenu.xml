@@ -453,7 +453,7 @@
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>与{0}进行交易</TradeWithSettlement>
 
-  <!-- Specific thing interactions -->
+  <!-- 特定物品交互 -->
   <!-- EN: Enter cryptosleep casket -->
   <EnterCryptosleepCasket>进入低温休眠舱</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
@@ -461,7 +461,7 @@
   <!-- EN: Get in shuttle -->
   <EnterShuttle>登上穿梭机</EnterShuttle>
 
-  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- 例如 Cannot VERB OBJECT、Cannot repair wall、Cannot haul metal 等 -->
   <!-- EN: Cannot {0} {1} -->
   <CannotGenericWork>无法{0}{1}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
@@ -470,7 +470,7 @@
   <!-- EN: Incapable of {0} -->
   <CannotMissingHealthActivities>因健康问题无法{0}</CannotMissingHealthActivities>
 
-  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- 例如 Already GERUND OBJECT、Already repairing wall、already hauling metal 等 -->
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>已经在{0}{2_labelShort}中</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
@@ -505,7 +505,7 @@
   <!-- EN: Cannot prioritize burying -->
   <CannotPrioritizeBurying>无法优先安葬</CannotPrioritizeBurying>
 
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- 例如 Prioritize GERUND OBJECT、Prioritize repairing wall、prioritize hauling metal 等 -->
   <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>优先{0}{1}</PrioritizeGeneric>
   <!-- EN: Prioritize {0} -->
@@ -547,7 +547,7 @@
   <!-- EN: Unforbid all items -->
   <UnforbidAllItems>解禁所有道具</UnforbidAllItems>
 
-  <!-- Transport pods -->
+  <!-- 运输舱 -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
   <LandInExistingMap>在{0}上缩进然后选择登陆地点</LandInExistingMap>
   <!-- EN: The contents will be lost -->
@@ -561,7 +561,7 @@
   <!-- EN: Not part of launch group -->
   <NotPartOfLaunchGroup>不属于发射组</NotPartOfLaunchGroup>
 
-  <!-- Rescue quest -->
+  <!-- 营救任务 -->
   <!-- EN: Free prisoner -->
   <FreePrisoner>释放囚犯</FreePrisoner>
   <!-- EN: Offer help -->
@@ -608,7 +608,7 @@
   <!-- EN: closed -->
   <PortalClosed>关闭</PortalClosed>
 
-  <!-- Romance partner -->
+  <!-- 恋爱伴侣 -->
   <!-- EN: Cannot romance {0} -->
   <CannotRomance>无法约会{0}</CannotRomance>
   <!-- EN: Romance {0} -->

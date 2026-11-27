@@ -245,19 +245,19 @@
   <!-- EN: Resets all style items to their default values. -->
   <ResetButtonDesc>将所有风格项重置为默认值。</ResetButtonDesc>
 
-  <!-- Ancient complex mission -->
+  <!-- 远古复合体任务 -->
   <!-- EN: Send shuttle anyway -->
   <SendShuttleAnyway>强制发射穿梭机</SendShuttleAnyway>
   <!-- EN: Re-load shuttle -->
   <ReLoadShuttle>重新加载穿梭机</ReLoadShuttle>
 
-  <!-- Medical settings -->
+  <!-- 医疗设置 -->
   <!-- EN: Slaves -->
   <MedGroupSlaves>奴隶</MedGroupSlaves>
   <!-- EN: Enslaved members of your colony. -->
   <MedGroupSlavesDesc>你的殖民地中被奴役的成员</MedGroupSlavesDesc>
 
-  <!-- Dryad upgrades -->
+  <!-- 树精升级 -->
   <!-- EN: Choose dryad caste -->
   <ChangeMode>选择树精的品种</ChangeMode>
   <!-- EN: Required memes -->
@@ -319,7 +319,7 @@
   <!-- EN: Relics -->
   <RelicsSection>圣物</RelicsSection>
 
-  <!-- Food restrictions -->
+  <!-- 食物限制 -->
   <!-- EN: Vegetarian -->
   <FoodRestrictionVegetarian>素食</FoodRestrictionVegetarian>
   <!-- EN: Carnivore -->

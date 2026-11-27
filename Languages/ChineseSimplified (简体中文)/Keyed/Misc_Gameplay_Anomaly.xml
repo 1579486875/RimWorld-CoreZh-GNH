@@ -72,7 +72,7 @@
   <!-- EN: Your colonists hear a huge number of distant sightstealers screaming in their twisted rage. They are coming.\n\nThey might arrive immediately, or days from now. -->
   <LetterSightstealerHowlBig>殖民者听到远方传来大量隐形魔的怒嚎声。它们要来了。\n\n它们可能几天后才到，也可能马上来袭。</LetterSightstealerHowlBig>
 
-  <!-- Death Pall -->
+  <!-- 死亡阴霾 -->
   <!-- EN: Death pall clearing -->
   <LetterLabelDeathPallEnded>死灵迷雾消散</LetterLabelDeathPallEnded> 
   <!-- EN: The pall of death is lifting. The corpses reanimated by it will soon return to their natural state. -->
@@ -106,7 +106,7 @@
   <!-- EN: The dreadmeld's death has shocked the fleshmass and caused the cave system to destabilize. The fleshmass that supported the cavern is already beginning to deteriorate. Within half a day, the entire cavern will collapse.\n\nGet out of the undercave before it's too late! -->
   <LetterUndercaveCollapsing>惊惧母兽的死亡刺激了血肉块，导致洞穴变得不稳定。支撑洞穴的血肉块已经开始衰败。半天之内，整个洞穴就会坍塌。\n\n趁现在还来得及，赶快离开地下洞穴！</LetterUndercaveCollapsing>
 
-  <!-- Holding platform -->
+  <!-- 收容平台 -->
   <!-- EN: Holding -->
   <HoldingThing>收容中</HoldingThing>
   <!-- EN: Remove {0_labelShort} -->
@@ -231,7 +231,7 @@
   <!-- EN: Requires {0} shards to disable -->
   <ObeliskDeactivateMissingShards>需要{0}块暗黑超凡碎片才可停用</ObeliskDeactivateMissingShards>
   
-  <!-- Activity / Supression -->
+  <!-- 活动 / 抑制 -->
   <!-- EN: Activity level -->
   <ActivityLevel>活跃度</ActivityLevel>
   <!-- EN: Psychic suppression -->
@@ -271,13 +271,13 @@
   <!-- EN: This determines whether the {0} will be automatically suppressed when its activity is above {LEVEL}.\n\nAutomatic suppression is currently {ONOFF}. -->
   <ActivitySuppressionToggleTooltipDesc>决定当{0}的活跃度高于{LEVEL}时，是否会对其进行自动抑制。\n\n自动抑制当前已{ONOFF}。</ActivitySuppressionToggleTooltipDesc>
 
-  <!-- Activity Descs -->
+  <!-- 活动描述 -->
   <!-- EN: activity level -->
   <ActivityLevelDesc>活跃度</ActivityLevelDesc>
   <!-- EN: psychic suppression -->
   <PsychicallySuppressedDesc>心灵抑制</PsychicallySuppressedDesc>
 
-  <!-- Entity study -->
+  <!-- 实体研究 -->
   <!-- EN: Capture -->
   <CaptureEntity>捕获</CaptureEntity>
   <!-- EN: Capture {0_definite}. It must be restrained on a holding platform. Once restrained, it can be studied. -->
@@ -387,7 +387,7 @@
   <!-- EN: Hibernating. Will awaken if disturbed. -->
   <MetalhorrorDormant>休眠中。若被扰动则会苏醒。</MetalhorrorDormant>
   
-  <!-- Surgical inspection -->
+  <!-- 手术检视 -->
   <!-- EN: Surgical inspection results -->
   <LetterSurgicallyInspectedLabel>外科检查手术结果</LetterSurgicallyInspectedLabel>
   <!-- EN: {DOCTOR_nameDef} performed an extensive surgical inspection of {PATIENT_nameDef}. -->
@@ -395,7 +395,7 @@
   <!-- EN: {DOCTOR_pronoun} says that {DOCTOR_pronoun} found no anomalies. However, a doctor may lie if it is in their own self-interest. -->
   <LetterSurgicallyInspectedNothing>{DOCTOR_pronoun}称其在{DOCTOR_pronoun}身上未发现异常。但医生也可能会为了自己的目的隐瞒实情。</LetterSurgicallyInspectedNothing>
   
-  <!-- Death refusal -->
+  <!-- 拒绝死亡 -->
   <!-- EN: use -->
   <DeathRefusalUseSingular>使用</DeathRefusalUseSingular>
   <!-- EN: uses -->
@@ -403,7 +403,7 @@
   <!-- EN: Self-resurrecting -->
   <SelfResurrecting>正在起死回生</SelfResurrecting>
 
-  <!-- Harbinger Tree -->
+  <!-- 先驱之树 -->
   <!-- EN: near harbinger tree -->
   <HarbingerTreeConsumption>在厄兆噬树附近</HarbingerTreeConsumption>
   <!-- EN: A new harbinger tree has sprouted. -->
@@ -439,7 +439,7 @@
   <!-- EN: Send {PAWN_nameDef} away -->
   <RejectCreeper>让{PAWN_nameDef}离开</RejectCreeper>
   
-  <!-- Unnatural healing ability -->
+  <!-- 非自然治疗能力 -->
   <!-- EN: Unnatural healing -->
   <LetterUnnaturalHealingLabel>异常医术</LetterUnnaturalHealingLabel>
   <!-- EN: {CASTER_nameDef} has finished {CASTER_possessive} psychic healing on {PAWN_nameDef}. -->
@@ -447,7 +447,7 @@
   <!-- EN: However, something went terribly wrong.\n\n{PAWN_nameDef}'s arm split open as a violent growth emerged from {PAWN_possessive} body. {PAWN_possessive} arm has been replaced by a fleshy tentacle! -->
   <LetterUnnaturalHealingTentacle>然而，治疗出了大问题。\n\n{PAWN_nameDef}的手臂被撕裂开来，从{PAWN_possessive}体内里猛地长出了奇怪的东西。{PAWN_possessive}手臂被一根血肉触手取代了！</LetterUnnaturalHealingTentacle>
   
-  <!-- Transmutation ability -->
+  <!-- 转化能力 -->
   <!-- EN: {PAWN_nameDef} has transmuted {ORIGINAL} into {TRANSMUTED}. -->
   <MessageTransmutedItem>{PAWN_nameDef}将{ORIGINAL}转变为了{TRANSMUTED}。</MessageTransmutedItem>
   <!-- EN: {PAWN_nameDef} has transmuted {1} into {TRANSMUTED_labelShortIndef}. -->
@@ -461,7 +461,7 @@
   <!-- EN: Not connected to a holding platform. -->
   <ElectroharvesterNoPlatform>未连接至收容平台。</ElectroharvesterNoPlatform>
   
-  <!-- Fleshmass Heart -->
+  <!-- 血肉之心 -->
   <!-- EN: Invulnerable. Analyze fleshmass neural lumps to destroy this. -->
   <FleshmassHeartInvulnerable>无敌状态。分析神经组织块以将其摧毁。</FleshmassHeartInvulnerable>
   <!-- EN: Growing fleshmass. -->
@@ -509,7 +509,7 @@
   <!-- EN: {0} dropped a shard of dark archotechnology. You can collect and make use of it. -->
   <MessageShardDropped>{0}掉落了一块暗黑超凡碎片。你可以收集并利用它。</MessageShardDropped>
   
-  <!-- Blood rain -->
+  <!-- 血雨 -->
   <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
   <Berserk_BloodRain>血怒之雨让{0_nameIndef}陷入了狂暴状态！</Berserk_BloodRain>
   <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
@@ -517,7 +517,7 @@
   <!-- EN: This happened because of blood rage buildup. -->
   <MentalBreakReason_BloodRage>这是因为血怒积聚。</MentalBreakReason_BloodRage>
   
-  <!-- Unnatural corpses -->
+  <!-- 非自然尸体 -->
   <!-- EN: Corpse disappearance -->
   <LetterLabelCorpseDisappeared>尸体消失</LetterLabelCorpseDisappeared>
   <!-- EN: The unnatural corpse has vanished. -->
@@ -599,7 +599,7 @@
   <!-- EN: The unnatural corpse charging towards {PAWN_nameDef} has been defeated!\n\nThe corpse will no longer torment {PAWN_nameDef}. -->
   <UnnaturalCorpseAwokenDefeatedLetterDesc>针对{PAWN_nameDef}的异常尸体已被消灭！\n\n它再也无法折磨{PAWN_nameDef}。</UnnaturalCorpseAwokenDefeatedLetterDesc>
 
-  <!-- Golden Cube -->
+  <!-- 黄金方块 -->
   <!-- EN: {PAWN_labelShort}'s obsession with the golden cube has intensified. -->
   <MessageGoldenCubeSeverityIncreased>{PAWN_labelShort}对金色魔方的痴迷有增无减。</MessageGoldenCubeSeverityIncreased>
   <!-- EN: {PAWN_labelShort} is experiencing cube withdrawal. -->
@@ -651,7 +651,7 @@
   <!-- EN: building a sculpture. -->
   <ReportBuildingCubeEnroute>正在制造雕塑。</ReportBuildingCubeEnroute>
   
-  <!-- Slaughter ability -->
+  <!-- 屠宰能力 -->
   <!-- EN: Cannot slaughter: {PAWN_labelShort} does not have flesh. -->
   <MessageSlaughterNoFlesh>无法宰杀：{PAWN_labelShort}不是血肉之躯。</MessageSlaughterNoFlesh>
   <!-- EN: Cannot slaughter: {PAWN_labelShort} is too large. -->
@@ -693,7 +693,7 @@
   <!-- EN: Activated by proximity. -->
   <ActivatedByProximity>接近后激活。</ActivatedByProximity>
 
-  <!-- Void monolith -->
+  <!-- 虚空方尖碑 -->
   <!-- EN: No available pawns. -->
   <MonolithActivateDisabledPawns>没有可用的殖民者。</MonolithActivateDisabledPawns>
   <!-- EN: The monolith's dark metallic surface is warm to the touch, and {PAWN_nameDef} thinks {PAWN_pronoun} can hear a faint hum emanating from inside. The lines on its dusty surface seem to squirm in unsettling patterns.\n\n{PAWN_nameDef} focuses on the shapes, trying to uncover their meaning.\n\nThe hum strengthens. The shapes begin to flow in {PAWN_nameDef}'s vision, but the surface isn't changing. Power begins to uncoil in the empty space all around. A black shape is forming in {PAWN_possessive} mind.\n\nThe Anomaly is stirring... -->
@@ -763,7 +763,7 @@
   <!-- EN: A blanket of gritty fog has descended on this area. The fog smells ancient, somehow, and it stings the skin. The unnatural grayness of it invokes a sense of dread. -->
   <LetterGrayPallDescending>一股如沙尘般粗糙的迷雾笼罩了这片区域，散发出腐烂且酸臭的难闻味道。这种异常天气会唤起人们心中的恐惧。</LetterGrayPallDescending>
 
-  <!-- Void Awakening -->
+  <!-- 虚空觉醒 -->
   <!-- EN: Awakening the void monolith will engulf your colony in darkness for days and attract powerful entities. Make sure you are well prepared:\n\n- Stockpile food, building material, and weapons.\n- Make sure your colony is well lit, and has ample power. Avoid relying on solar generators.\n- Ensure your colony is well defended, and your colonists are ready to fight.\n\nOnce you awaken the void monolith, there is no going back.\n\nAre you sure you want to continue? -->
   <VoidAwakeningConfirmationText>唤醒虚空巨石会让殖民地陷入数天的黑暗，并将强大的实体吸引至此处。请确保做好了万全准备：\n\n——储备足够的食物、建材以及武器。\n——确保殖民地拥有充足的照明与电力供应。请勿依赖太阳能发电机。\n——确保殖民地防守严密，殖民者随时做好战斗准备。\n\n一旦唤醒了虚空巨石，就没有回头路了。\n\n确定要继续吗？</VoidAwakeningConfirmationText>
   <!-- EN: A sphere of writhing psychic energy rises before {PAWN_nameDef}.\n\n{PAWN_nameDef} feels a presence inside {PAWN_possessive} mind, deeper than any normal human sense. {PAWN_pronoun} stands on the shoreline of an infinite black ocean of power. It beckons {PAWN_objective} in...\n\nNearby archotech devices support the sphere along fragile connections. {PAWN_nameDef} could disrupt them, closing this link between worlds.\n\nOr, {PAWN_pronoun} could step into the sphere and merge with the void. It's unknown what dark power could be gained from such an inhuman act. -->
@@ -798,13 +798,13 @@
   <!-- EN: Knowledge from study reduced -->
   <KnowledgeFactorOutdoors>调查所获异象知识减少</KnowledgeFactorOutdoors>
 
-  <!-- Unnatural darkness -->
+  <!-- 非自然黑暗 -->
   <!-- EN: Emergence in {0} -->
   <EmergenceIn>{0}后出现</EmergenceIn>
   <!-- EN: Something will emerge from the ground in {0}. -->
   <EmergenceInDesc>{0}后将有东西从地下钻出。</EmergenceInDesc>
   
-  <!-- Bioferrite harvester -->
+  <!-- 生物铁氧采掘器 -->
   <!-- EN: Bioferrite contained -->
   <BioferriteHarvesterContained>含有活铁</BioferriteHarvesterContained>
   <!-- EN: per day -->
@@ -818,17 +818,17 @@
   <!-- EN: When active, colonists will automatically unload bioferrite from the harvester as it is filling up. -->
   <BioferriteHarvesterToggleUnloadingDesc>激活后，殖民者会在活铁装满时自动从采集器中取出活铁。</BioferriteHarvesterToggleUnloadingDesc>
   
-  <!-- Proximity detector -->
+  <!-- 接近探测器 -->
   <!-- EN: Invisible creature detected. -->
   <ProximityDetectorCreatureDetected>检测到隐形生物。</ProximityDetectorCreatureDetected>
   
-  <!-- Frenzy inducer -->
+  <!-- 狂乱诱导器 -->
   <!-- EN: Generating frenzy field. -->
   <FrenzyInducerEffectDescription>正在生成狂热领域。</FrenzyInducerEffectDescription>
   <!-- EN: This happened due to the influence of a frenzy inducer. -->
   <MentalBreakReason_FrenzyInducer>原因是受到了狂热诱发器的影响。</MentalBreakReason_FrenzyInducer>
   
-  <!-- Sleep suppressor -->
+  <!-- 睡眠抑制器 -->
   <!-- EN: sleepless psychic pulsation. -->
   <SleepSuppressorEffectDescription>无眠心灵脉冲</SleepSuppressorEffectDescription>
   
@@ -849,7 +849,7 @@
   <!-- EN: The chimeras have begun their attack! -->
   <LetterChimerasAttacking>嵌合兽已开始攻击！</LetterChimerasAttacking>
   
-  <!-- Anomaly event frequency -->
+  <!-- 异象事件频率 -->
   <!-- EN: No major threats -->
   <AnomalyFrequency_None>无大型威胁</AnomalyFrequency_None>
   <!-- EN: Very rare -->

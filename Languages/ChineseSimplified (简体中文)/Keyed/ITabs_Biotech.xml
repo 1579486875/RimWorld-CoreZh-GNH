@@ -18,7 +18,7 @@
   <!-- EN: Click to view {PAWN_nameDef}'s genes. -->
   <ViewGenesDesc>点击查看{PAWN_nameDef}的基因。</ViewGenesDesc>
 
-  <!-- Feeding tab (human babies) -->
+  <!-- 喂养页签（人类婴儿） -->
   <!-- EN: Feeding -->
   <TabFeeding>喂养</TabFeeding>
   <!-- EN: Auto feed settings -->
@@ -40,7 +40,7 @@
   <!-- EN: Consumable foods -->
   <BabyFoodConsumables>可用食物类型</BabyFoodConsumables>
 
-  <!-- Social tab (human babies) -->
+  <!-- 社交页签（人类婴儿） -->
   <!-- EN: ideoligion exposure -->
   <IdeoExposureSectionHeader>文化接触</IdeoExposureSectionHeader>
   <!-- EN: {BABY_labelShort} has not been exposed to any ideoligions yet. -->
@@ -58,7 +58,7 @@
   <!-- EN: Total exposure points -->
   <IdeoExposurePointsTooltipTotalExposure>总接触点数</IdeoExposurePointsTooltipTotalExposure>
 
-  <!-- Social tab (romance) -->
+  <!-- 社交页签（恋爱） -->
   <!-- EN: Romance -->
   <TryRomanceButtonLabel>恋爱</TryRomanceButtonLabel>
   <!-- EN: Nobody for {0_labelShort} to romance. -->
@@ -126,7 +126,7 @@
   <!-- EN: {0_nameDef} already has {1} partners. -->
   <RomanceWarningPolygamous>{0_nameDef}已经拥有{1}伴侣。</RomanceWarningPolygamous>
 
-  <!-- Guest tab (prisoners) -->
+  <!-- 访客页签（囚犯） -->
   <!-- EN: Genes -->
   <FactorForGenes>基因的乘数</FactorForGenes>
   <!-- EN: Prison breaking is disabled by {GENE_label} gene. -->

@@ -660,7 +660,7 @@
   <!-- EN: meditating at -->
   <MeditatingAt>冥想</MeditatingAt>
 
-  <!-- Fermentation barrel -->
+  <!-- 发酵桶 -->
   <!-- EN: Contains {0} / {1} wort. -->
   <ContainsWort>装有麦芽汁: {0} / {1}</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
@@ -738,7 +738,7 @@
   <!-- EN: Maximum {0} areas allowed. -->
   <MaxAreasReached>允许的最大{0}区域。</MaxAreasReached>
 
-  <!-- Animal pens -->
+  <!-- 动物圈舍 -->
   <!-- EN: Unenclosed -->
   <PenUnenclosedLabel>未封闭</PenUnenclosedLabel>
   <!-- EN: open door -->
@@ -781,7 +781,7 @@
   <!-- EN: Must be connected to walls on both sides to function. -->
   <DoorMustBeEnclosedByWalls>两侧必须与墙体相连才能正常工作。</DoorMustBeEnclosedByWalls>
 
-  <!-- Cell Inspector -->
+  <!-- 格子检视器 -->
   <!-- EN: Beauty -->
   <Beauty_Label>美观</Beauty_Label>
   <!-- EN: Zone -->
@@ -943,7 +943,7 @@
   <!-- EN: downed, unconscious. -->
   <DownedUnconscious>倒地不起（失去意识）。</DownedUnconscious> 
 
-  <!-- Lord job reports -->
+  <!-- 领主工作汇报 -->
   <!-- EN: Attending marriage ceremony -->
   <LordReportAttendingMarriageCeremony>正在参加婚礼</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
@@ -959,7 +959,7 @@
   <!-- EN: Forming caravan -->
   <LordReportFormingCaravan>正在组建远行队</LordReportFormingCaravan>
 
-  <!-- Shooting report -->
+  <!-- 射击报告 -->
   <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>武器误差半径</WeaponMissRadius>
   <!-- EN: Shooter -->
@@ -983,7 +983,7 @@
   <!-- EN: Execution -->
   <Execution>处决</Execution>
 
-  <!-- Generated recipes -->
+  <!-- 生成的配方 -->
   <!-- EN: make {0} -->
   <RecipeMake>制作{0}</RecipeMake>
   <!-- EN: Make {0}. -->
@@ -1015,7 +1015,7 @@
   <!-- EN: Minor break threshold -->
   <MentalBreakThresholdMinor>轻度精神崩溃临界值</MentalBreakThresholdMinor>
 
-  <!-- Pawn info readout -->
+  <!-- 角色信息读数 -->
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{PAWN_gender}{1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
@@ -1061,7 +1061,7 @@
   <!-- EN: Slowed by damage -->
   <SlowedByDamage>因受伤减速</SlowedByDamage>
 
-  <!-- Inspector general stuff -->
+  <!-- 检视器通用内容 -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>选择当前地格内的下一件东西。\n\n(*SectionTitle)快捷键: (/SectionTitle){0}\n\n你也可用鼠标左键慢速重复点击同个地格来选择下一件物品。</SelectNextInSquareTip>
   <!-- EN: View information. -->
@@ -1069,17 +1069,17 @@
   <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTipController>在同一个地格中选择下一个物体。\n\n你也可以通过略带间隔地再次点击同一个地格来完成此操作。</SelectNextInSquareTipController>
 
-  <!-- Hostility response -->
+  <!-- 敌对反应 -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
   <HostilityReponseTip>此人未被征召时遭遇敌人后的反应。</HostilityReponseTip>
   <!-- EN: Current mode -->
   <HostilityResponseCurrentMode>当前模式</HostilityResponseCurrentMode>
 
-  <!-- like 'Blood of John' -->
+  <!-- 如「约翰之血」 -->
   <!-- EN: of -->
   <OfLower>来自</OfLower>
 
-  <!-- Power readout -->
+  <!-- 电力读数 -->
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>未接入电网。</PowerNotConnected>
   <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
@@ -1097,7 +1097,7 @@
   <!-- EN: Self-discharging -->
   <SelfDischarging>自放电</SelfDischarging>
 
-  <!-- Temperature control -->
+  <!-- 温度控制 -->
   <!-- EN: Target temperature -->
   <TargetTemperature>目标温度</TargetTemperature>
   <!-- EN: Current power use -->
@@ -1109,7 +1109,7 @@
   <!-- EN: off -->
   <PowerConsumptionOff>无</PowerConsumptionOff>
 
-  <!-- Temperature readout -->
+  <!-- 温度读数 -->
   <!-- EN: Indoors -->
   <Indoors>室内</Indoors>
   <!-- EN: Unroofed -->
@@ -1135,7 +1135,7 @@
   <!-- EN: less than a day -->
   <LessThanADay>少于1天</LessThanADay>
 
-  <!-- Shooting tooltip -->
+  <!-- 射击提示框 -->
   <!-- EN: Shot by {1_labelShort} -->
   <ShotBy>被{1_labelShort}击中几率</ShotBy>
   <!-- EN: Cannot hit target. -->
@@ -1227,7 +1227,7 @@
   <!-- EN: Allow all -->
   <AllowAll>全部允许</AllowAll>
   
-  <!-- Storage Groups -->
+  <!-- 储存组 -->
   <!-- EN: Group -->
   <StorageGroup>组</StorageGroup>
   <!-- EN: Name -->
@@ -1243,11 +1243,11 @@
   <!-- EN: {0} only -->
   <OnlyQuality>仅{0}</OnlyQuality>
 
-  <!-- Mouseover indicator -->
+  <!-- 悬停指示器 -->
   <!-- EN: Undiscovered -->
   <Undiscovered>未探索</Undiscovered>
   
-  <!-- Animal management -->
+  <!-- 动物管理 -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
   <AnimalSterilizeConfirm>你确定要绝育{PAWN_nameDef}吗？这样做会激怒{FACTION_name}。</AnimalSterilizeConfirm>
   <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
@@ -1307,7 +1307,7 @@
   <!-- EN: fire size {0} -->
   <FireSizeLower>火焰大小: {0}</FireSizeLower>
 
-  <!-- Game conditions -->
+  <!-- 游戏条件 -->
   <!-- EN: Special conditions affecting the area right now. -->
   <GameConditionsTip>目前正在影响此区域的特殊状态。</GameConditionsTip>
   <!-- EN: time left -->
@@ -1323,11 +1323,11 @@
   <!-- EN: Caused by quest: {0} -->
   <CausedByQuest>由任务引起：{0}</CausedByQuest>
 
-  <!-- Building placement -->
+  <!-- 建筑放置 -->
   <!-- EN: You have no usable materials from which to build this. -->
   <NoStuffsToBuildWith>你缺少建造此建筑所需要的材料。</NoStuffsToBuildWith>
 
-  <!-- Building placement restricters -->
+  <!-- 建筑放置限制器 -->
   <!-- EN: {0} will have work speed penalty -->
   <WillGetWorkSpeedPenalty>{0}将有工作速度惩罚</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
@@ -1361,23 +1361,23 @@
   <!-- EN: Cannot be placed next to another building of the same type. -->
   <CannotPlaceAdjacentSameDef>不能放在另一个同类型的建筑旁边。</CannotPlaceAdjacentSameDef>
 
-  <!-- Wind Turbine -->
+  <!-- 风力涡轮机 -->
   <!-- EN: Blocked by -->
   <WindTurbine_WindPathIsBlockedBy>被该物品阻挡: </WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
   <WindTurbine_WindPathIsBlockedByRoof>被屋顶遮挡</WindTurbine_WindPathIsBlockedByRoof>
 
-  <!-- Watermill generator -->
+  <!-- 水车发电机 -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
   <Watermill_WaterUsedTwice>流量下降：来自其他水车的湍流</Watermill_WaterUsedTwice>
 
-  <!-- Cryptosleep casket -->
+  <!-- 低温休眠舱 -->
   <!-- EN: Contains -->
   <CasketContains>装有</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
   <CasketWarning>警告！\n\n{PAWN_nameDef}是你的最后一名可自由行动的殖民者！如果{PAWN_objective}进入低温休眠舱，你将无法继续进行游戏。你确定要这样做吗？</CasketWarning>
 
-  <!-- Ship launch report -->
+  <!-- 飞船发射报告 -->
   <!-- EN: Cannot launch. -->
   <ShipReportCannotLaunch>无法发射。</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
@@ -1427,7 +1427,7 @@
   <!-- EN: Untitled -->
   <Untitled>未命名</Untitled>
 
-  <!-- Unfinished thing -->
+  <!-- 未完成的物品 -->
   <!-- EN: Unfinished {0} -->
   <UnfinishedItem>{0}（未完成）</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
@@ -1443,7 +1443,7 @@
   <!-- EN: Quality: {0} -->
   <QualityIs>品质: {0}</QualityIs>
 
-  <!-- Mood descriptions -->
+  <!-- 心情描述 -->
   <!-- EN: mental state -->
   <Mood_MentalState>精神状态</Mood_MentalState>
   <!-- EN: about to break -->
@@ -1459,7 +1459,7 @@
   <!-- EN: happy -->
   <Mood_Happy>开心</Mood_Happy>
 
-  <!-- Game over -->
+  <!-- 游戏结束 -->
   <!-- EN: Game Over -->
   <GameOver>游戏结束</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
@@ -1493,7 +1493,7 @@
   <!-- EN: must wait {0}h -->
   <GameOverCreateNewWanderersWait>生成新的流浪者（必须等待{0}小时）</GameOverCreateNewWanderersWait>
 
-  <!-- Generic lifespan -->
+  <!-- 通用寿命 -->
   <!-- EN: Expires in: -->
   <LifespanExpiry>失效时间：</LifespanExpiry>
 
@@ -1509,7 +1509,7 @@
   <!-- EN: Front of building is blocked. -->
   <FacilityFrontBlocked>建筑前方被阻挡。</FacilityFrontBlocked>
 
-  <!-- Hediffs growth modes -->
+  <!-- 健康状态成长模式 -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
   <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}的{1}现在加重了。</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
@@ -1517,7 +1517,7 @@
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
   <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}的{1}现在缓解了。</DiseaseGrowthModeChanged_Remission>
 
-  <!-- Marriage spot -->
+  <!-- 婚礼地点 -->
   <!-- EN: Usable now. -->
   <MarriageSpotUsable>当前可用。</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
@@ -1559,7 +1559,7 @@
   <!-- EN: Deteriorating due to lack of maintenance. -->
   <DeterioratingDueToLackOfMaintenance>因缺乏维护而开始老化。</DeterioratingDueToLackOfMaintenance>
 
-  <!-- Deep drill -->
+  <!-- 深钻井 -->
   <!-- EN: Progress to next lump -->
   <ProgressToNextLump>生产进度</ProgressToNextLump>
   <!-- EN: Resource below -->
@@ -1573,11 +1573,11 @@
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>深钻资源枯竭。</DeepDrillExhaustedNoFallback>
 
-  <!-- reloading ammo -->
+  <!-- 重装弹药 -->
   <!-- EN: Remaining charges -->
   <ChargesRemaining>剩余充能</ChargesRemaining>
   
-  <!-- Learning helper -->
+  <!-- 学习助手 -->
   <!-- EN: Learning helper -->
   <LearningHelper>教学助手</LearningHelper>
   <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
@@ -1593,7 +1593,7 @@
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
   <CompassTip>指示北方。点击以旋转镜头使北极处在上方。</CompassTip>
 
-  <!-- World route planner -->
+  <!-- 世界路线规划器 -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
   <RoutePlannerButtonTip>点击以进入规划模式，你可以规划你的行程和计算路径点之间的距离。</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
@@ -1645,13 +1645,13 @@
   <!-- EN: Starting up -->
   <HibernatableStartingUp>启动中</HibernatableStartingUp>
 
-  <!-- Transport pods -->
+  <!-- 运输舱 -->
   <!-- EN: {0}: See available orders... -->
   <ClickToSeeAvailableOrders_WorldObject>{0}：查看可用命令...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>查看可用命令...</ClickToSeeAvailableOrders_Empty>
   
-  <!-- Pawn tooltips -->
+  <!-- 角色提示框 -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
   <PawnTooltipWithDescAndPrimaryEquip>{0}({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
   <!-- EN: {0} ({1})\n{2} -->
@@ -1671,7 +1671,7 @@
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>精神力：{0}</PawnTooltipPsyfocus>
   
-  <!-- Pawn tooltip description -->
+  <!-- 角色提示框描述 -->
   <!-- EN: {0} {1} -->
   <PawnTooltipGenderAndKindLabel>{0}{1}</PawnTooltipGenderAndKindLabel>
 
@@ -1737,7 +1737,7 @@
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
   <BladelinkAlreadyBondedMessage>{PAWN_nameDef}已经与{BONDEDWEAPON_labelShort}绑定</BladelinkAlreadyBondedMessage>
 
-  <!-- Biocoded weapons -->
+  <!-- 生物编码武器 -->
   <!-- EN: biocoded {0} -->
   <Biocoded>生物编码 {0}</Biocoded>
   <!-- EN: Biocoding: {0} -->
@@ -1745,7 +1745,7 @@
   <!-- EN: biocoded -->
   <BiocodedCodedForSomeoneElse>生物编码</BiocodedCodedForSomeoneElse>
 
-  <!-- Projectile interceptor -->
+  <!-- 弹射物拦截器 -->
   <!-- EN: Intercepts {0} every {1}. -->
   <InterceptsProjectilesEvery>每{1}拦截{0}。</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0}. -->
@@ -1757,11 +1757,11 @@
   <!-- EN: aerial projectiles -->
   <InterceptsProjectiles_AerialProjectiles>空中投射物</InterceptsProjectiles_AerialProjectiles>
 
-  <!-- Condition causers -->
+  <!-- 状态施加者 -->
   <!-- EN: Affected gender -->
   <AffectedGender>受影响的性别</AffectedGender>
 
-  <!-- Hediff misc -->
+  <!-- 健康状态杂项 -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>由于：{0}</CausedByHediff>
   
@@ -2057,7 +2057,7 @@
   <!-- EN: requires {0} -->
   <RequiredCapacity>需要{0}</RequiredCapacity>
 
-  <!-- Pocket Maps -->
+  <!-- 口袋地图 -->
   <!-- EN: Unable to enter {0}, destination is blocked -->
   <UnableToEnterPortal>无法进入{0}，目标被阻挡</UnableToEnterPortal>
 
@@ -2137,7 +2137,7 @@
   <!-- EN: This will not affect you {GERUND} {LAYER}. -->
   <ThisWillNotAffectLayer>这不会{GERUND}{LAYER}影响你。</ThisWillNotAffectLayer>
 
-  <!-- Pocket maps -->
+  <!-- 口袋地图 -->
   <!-- EN: Enter {0} -->
   <EnterPortal>进入{0}</EnterPortal>
   <!-- EN: Entering {0} -->

@@ -43,7 +43,7 @@
   <!-- EN: You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside. -->
   <LetterMechanitorCasketFound>你发现了一个机械师的低温休眠舱！\n\n打开它。</LetterMechanitorCasketFound>
   
-  <!-- Pawns lost because map closed (including mechs) -->
+  <!-- 因地图关闭而失去的角色（含机械体） -->
   <!-- EN: Your caravan has been lost. The following people, animals and mechanoids have been lost with it -->
   <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>你的远行队已经失踪。下列人员、动物和机械族已随同失踪 </LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
   <!-- EN: The following people, animals and mechanoids have been abandoned -->

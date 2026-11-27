@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- WITab titles -->
+  <!-- 世界检视页签标题 -->
   <!-- EN: Terrain -->
   <TabTerrain>地形</TabTerrain>
   <!-- EN: Planet -->
@@ -37,7 +37,7 @@
   <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>{1_labelShort}极有可能会死亡。</BanishTipWillDie>
   
-  <!-- Caravan inspect -->
+  <!-- 商队检视 -->
   <!-- EN: Colonists -->
   <CaravanColonists>殖民者</CaravanColonists>
   <!-- EN: Prisoners and animals -->
@@ -55,15 +55,15 @@
   <!-- EN: Caravan not moving -->
   <GainingJoyBecauseCaravanNotMoving>远行队未在移动</GainingJoyBecauseCaravanNotMoving>
   
-  <!-- Caravan gear -->
+  <!-- 商队装备 -->
   <!-- EN: Drag to rearrange. -->
   <DragToRearrange>拖动以重新排列。</DragToRearrange>
 
-  <!-- Caravan items -->
+  <!-- 商队物品 -->
   <!-- EN: Assign drug policies -->
   <AssignDrugPolicies>指定用药方案</AssignDrugPolicies>
 
-  <!-- Caravan health -->
+  <!-- 商队健康 -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
   <BeCarriedIfSickTip>当这个人或动物生病时，是否由其他远行队成员携带。\n\n被携带的远行队成员可以在远行队移动中休息，但会影响远行队的移动速度。</BeCarriedIfSickTip>
   

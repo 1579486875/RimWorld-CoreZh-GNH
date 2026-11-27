@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- ITab titles -->
+  <!-- 检视页签标题 -->
   <!-- EN: Bills -->
   <TabBills>清单</TabBills>
   <!-- EN: Growing -->
@@ -91,7 +91,7 @@
   <!-- EN: Finishes in -->
   <FinishesIn>结束于</FinishesIn>
 
-  <!-- Guest/prisoner tab -->
+  <!-- 访客 / 囚犯页签 -->
   <!-- EN: Resistance -->
   <RecruitmentResistance>抵抗</RecruitmentResistance>
   <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
@@ -150,7 +150,7 @@
 
 
 
-  <!-- Medical - general -->
+  <!-- 医疗 - 通用 -->
   <!-- EN: Move speed -->
   <MoveSpeed>移动速度</MoveSpeed>
   <!-- EN: Efficiency -->
@@ -234,7 +234,7 @@
   <!-- EN: What type of food can be given to this person. -->
   <FoodRestrictionDescription>可以给这个人享用什么类型的食物。</FoodRestrictionDescription>
 
-  <!-- Medical - Body and activities condition -->
+  <!-- 医疗 - 身体与活动状态 -->
   <!-- EN: None -->
   <None>无</None>
   <!-- EN: Very poor -->
@@ -321,7 +321,7 @@
   <!-- EN: Copy log to the clipboard. -->
   <CopyLogTip>将日志复制到剪贴板</CopyLogTip>
 
-  <!-- Forming caravan tab -->
+  <!-- 组建商队页签 -->
   <!-- EN: Gathering animals -->
   <FormingCaravanStatus_GatheringAnimals>召集动物</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
@@ -353,7 +353,7 @@
   <!-- EN: mentally broken -->
   <InMentalStateCountLower>精神崩溃</InMentalStateCountLower>
 
-  <!-- Transporter contents -->
+  <!-- 运输器内容物 -->
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>去掉 {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
@@ -371,7 +371,7 @@
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
   <DeleteQuest>删除并将此任务永久从任务列表移除。</DeleteQuest>
 
-  <!-- Animal pen food tab -->
+  <!-- 动物圈舍食物页签 -->
   <!-- EN: enclose the pen marker to calculate food information -->
   <PenFoodTab_NotEnclosed>将畜栏标牌放入以计算食物信息</PenFoodTab_NotEnclosed>
 

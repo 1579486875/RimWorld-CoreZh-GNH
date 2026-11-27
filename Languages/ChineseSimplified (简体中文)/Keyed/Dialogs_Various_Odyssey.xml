@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Grav engine/substructrues -->
+  <!-- 重力引擎 / 子结构 -->
   <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. Build a grav anchor to prevent this map from being destroyed. -->
   <ConfirmGravEngineLaunch>你确定要发射吗？\n\n你当前的地图，以及所有未在逆重飞船基架上的物体，将会被永久丢弃。发射过程是不可逆的，这意味着你将无法返回。建造一个逆重锚能保护该地图不受摧毁。</ConfirmGravEngineLaunch>
   <!-- EN: Warning -->
