@@ -6,51 +6,51 @@
     <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
-    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->这些[lodgersLabelPlural]</li>
     <li>includesChildren(priority=-999)-></li>
-    <li>includesChildren(childCount==1)->\n\nOne of [lodgersLabelSingOrPluralDef] is a child.</li>
-    <li>includesChildren(childCount>=2)->\n\nSome of [lodgersLabelSingOrPluralDef] are children.</li>
+    <li>includesChildren(childCount==1)->\n\n[lodgersLabelSingOrPluralDef]中有一个是孩子。</li>
+    <li>includesChildren(childCount>=2)->\n\n[lodgersLabelSingOrPluralDef]中有几个是孩子。</li>
     <li>healthInfo-></li>
     <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
     <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
     <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
-    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs] suffering from paralytic abasia and must be kept in bed.</li>
-    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] sick with blood rot and will require daily treatment. The disease can be slowed with high-quality care and medicine, but generally cannot be cured outright. If the disease becomes severe, [lodgersLabelSingOrPluralDef] will die, so ensure you have the necessary medical supplies.</li>
+    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef][areIs]罹患麻痹性失步症，必须卧床。</li>
+    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef][areIs]患上了血腐病，需要每日治疗。这种病可以靠优质护理与药物延缓，但通常无法直接治愈。若病情转重，[lodgersLabelSingOrPluralDef]会死亡，所以务必备足医疗物资。</li>
     <li>minMoodInfo-></li>
-    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\nyou must keep the mood of [lodgersLabelSingOrPluralDef] above [lodgersMoodThreshold_percent].</li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\n你必须把[lodgersLabelSingOrPluralDef]的心情维持在[lodgersMoodThreshold_percent]以上。</li>
     <li>workInfo-></li>
-    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] will not do any work.</li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef]不会做任何工作。</li>
     <li>commonDescEnding->[helpersParagraph]</li>
     <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->there will be (*Threat)a raid(/Threat) of roughly this size:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->there will be (*Threat)a raid(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->there will be (*Threat)[threatCount] raids(/Threat) of roughly this size:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->there will be (*Threat)[threatCount] raids(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)a mech cluster(/Threat) will deploy nearby.</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)two mech clusters(/Threat) will deploy nearby.</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)a mech cluster(/Threat) of [threatSize]x size will deploy nearby.</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)two mech clusters(/Threat) of [threatSize]x size will deploy nearby.</li>
-    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by an orbiting mechanoid swarm.</li>
-    <li>threatsInfoMechClustersMultiPrisoners->The prisoners recently [mechViolation], and have been targeted by an orbiting mechanoid swarm.</li>
-    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by a mechanoid hive.</li>
-    <li>threatsInfoMechRaidsMultiHuman->They recently [mechViolation], and have been targeted by a mechanoid hive.</li>
-    <li>mechViolation->angered a machine persona somehow</li>
-    <li>mechViolation->violated an ancient supercomputer terminal</li>
-    <li>mechViolation->murdered a human child favored by an archotech</li>
-    <li>mechViolation->attempted to hack a mechanoid control node</li>
-    <li>mechViolation->attempted to steal from an ancient storage site</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->将会有(*Threat)一次袭击(/Threat)，规模大致如此：\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->将会有(*Threat)一次袭击(/Threat)，强度为 [threatSize] 倍，规模大致如此：\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->将会有(*Threat)[threatCount] 次袭击(/Threat)，规模大致如此：\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->将会有(*Threat)[threatCount] 次袭击(/Threat)，强度为 [threatSize] 倍，规模大致如此：\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)一座机械集群(/Threat)将在附近展开。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)两座机械集群(/Threat)将在附近展开。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)一座规模为 [threatSize] 倍的机械集群(/Threat)将在附近展开。</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)两座规模为 [threatSize] 倍的机械集群(/Threat)将在附近展开。</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef]最近[mechViolation]，成了一群轨道机械体的目标。</li>
+    <li>threatsInfoMechClustersMultiPrisoners->这些囚犯最近[mechViolation]，成了一群轨道机械体的目标。</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef]最近[mechViolation]，成了一座机械巢群的目标。</li>
+    <li>threatsInfoMechRaidsMultiHuman->他们最近[mechViolation]，成了一座机械巢群的目标。</li>
+    <li>mechViolation->不知怎么惹怒了一个机械人格</li>
+    <li>mechViolation->侵入了远古超级计算机终端</li>
+    <li>mechViolation->杀害了一个受远古科技眷顾的人类孩子</li>
+    <li>mechViolation->试图入侵机械体控制节点</li>
+    <li>mechViolation->试图从一处远古储藏点行窃</li>
     <li>letterSubject->{SUBJECT_definite}</li>
-    <li>lodgersHasHave(lodgersCount==1)->has</li>
-    <li>lodgersHasHave(lodgersCount>=2)->have</li>
+    <li>lodgersHasHave(lodgersCount==1)->已</li>
+    <li>lodgersHasHave(lodgersCount>=2)->已</li>
     <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
-    <li>lodgersObjective(lodgersCount>=2)->them</li>
+    <li>lodgersObjective(lodgersCount>=2)->他们</li>
     <li>areIs(lodgersCount==1)->is</li>
-    <li>areIs(lodgersCount>=2)->are</li>
+    <li>areIs(lodgersCount>=2)->正</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
-    <li>remainingWillNowLeave(lodgersCount>=2)->Any remaining [lodgersLabelPlural] will now leave. </li>
-    <li>failLetterEndingQuest->You have failed the quest '[resolvedQuestName]'.</li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->余下的[lodgersLabelPlural]现在会离开。</li>
+    <li>failLetterEndingQuest->任务「[resolvedQuestName]」失败了。</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
-    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
+    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\n你与[asker_faction_name]的关系下降了[goodwillPenalty]。</li>
   -->
   <QuestHospitalityCommon.rulePack.rulesStrings>
     <li>allLodgerInfo->[healthInfo] [minMoodInfo] [workInfo] [includesChildren]</li>

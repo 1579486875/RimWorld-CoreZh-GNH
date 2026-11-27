@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN:
-    <li>situation(p=2)->safely</li>
-    <li>situation->at night</li>
-    <li>situation->in the cold</li>
-    <li>situation->while injured</li>
-    <li>situation(p=0.2)->while drunk</li>
+    <li>situation(p=2)->安然无事时</li>
+    <li>situation->夜里</li>
+    <li>situation->寒风中</li>
+    <li>situation->带伤时</li>
+    <li>situation(p=0.2)->醉酒时</li>
   -->
   <LessonInteractionCommonSituations.rulePack.rulesStrings>
     <li>situation(p=2)->安全地</li>
@@ -17,8 +17,8 @@
   </LessonInteractionCommonSituations.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_adverb] [teach_verb] how to [action] [article_tool] to [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [teach_verb] how to [action] [article_tool] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef][teach_adverb]地[teach_verb][RECIPIENT_nameDef]如何[action][article_tool]。</li>
+    <li>r_logentry->[INITIATOR_nameDef][teach_verb][RECIPIENT_nameDef]如何[action][article_tool]。</li>
   -->
   <LessonInteractionHowTo.rulePack.rulesStrings>
     <li>r_logentry(p=0.5)->[INITIATOR_nameDef][teach_adverb]向[RECIPIENT_nameDef][teach_verb]如何[action][article_tool]。</li>
@@ -27,10 +27,10 @@
   
   <!-- EN:
     <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_test] [RECIPIENT_nameDef] on [action_gerund] [article_tool] [situation].</li>
-    <li>teach_test->quizzed</li>
-    <li>teach_test->tested</li>
-    <li>teach_test->grilled</li>
-    <li>teach_test->cross-examined</li>
+    <li>teach_test->提问考校</li>
+    <li>teach_test->考核</li>
+    <li>teach_test->盘问</li>
+    <li>teach_test->交叉质询</li>
   -->
   <LessonInteractionQuiz.rulePack.rulesStrings>
     <li>r_logentry(p=0.5)->[INITIATOR_nameDef][teach_test][RECIPIENT_nameDef]如何[situation][action_gerund][article_tool]。</li>
@@ -41,12 +41,12 @@
   </LessonInteractionQuiz.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [study_verb] [subject] with [RECIPIENT_nameDef].</li>
-    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [study_verb] [subject] with [RECIPIENT_nameDef].</li>
-    <li>study_verb->covered</li>
-    <li>study_verb->went over</li>
-    <li>study_verb->researched</li>
-    <li>study_verb->studied</li>
+    <li>r_logentry(p=0.25)->[INITIATOR_nameDef][teach_adverb]地与[RECIPIENT_nameDef]一同[study_verb][subject]。</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef]与[RECIPIENT_nameDef]一同[study_verb][subject]。</li>
+    <li>study_verb->过了一遍</li>
+    <li>study_verb->温习了</li>
+    <li>study_verb->研究了</li>
+    <li>study_verb->研习了</li>
   -->
   <LessonInteractionStudySubjectWith.rulePack.rulesStrings>
     <li>r_logentry(p=0.25)->[INITIATOR_nameDef][teach_adverb]和[RECIPIENT_nameDef][study_verb][subject]。</li>
@@ -58,12 +58,12 @@
   </LessonInteractionStudySubjectWith.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>teach_adverb->calmly</li>
-    <li>teach_adverb->animatedly</li>
-    <li>teach_adverb->intently</li>
-    <li>teach_adverb->quickly</li>
-    <li>teach_adverb->lightheartedly</li>
-    <li>teach_adverb->carefully</li>
+    <li>teach_adverb->平静</li>
+    <li>teach_adverb->兴致勃勃</li>
+    <li>teach_adverb->聚精会神</li>
+    <li>teach_adverb->快速</li>
+    <li>teach_adverb->轻松</li>
+    <li>teach_adverb->仔细</li>
   -->
   <LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
     <li>teach_adverb->平静地</li>
@@ -75,10 +75,10 @@
   </LessonInteractionTeachingAdverbs.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>teach_verb->demonstrated</li>
-    <li>teach_verb->explained</li>
-    <li>teach_verb->showed</li>
-    <li>teach_verb->taught</li>
+    <li>teach_verb->演示</li>
+    <li>teach_verb->讲解</li>
+    <li>teach_verb->示范</li>
+    <li>teach_verb->教</li>
   -->
   <LessonInteractionTeachingVerbs.rulePack.rulesStrings>
     <li>teach_verb->论证了</li>
@@ -90,10 +90,10 @@
   <!-- EN:
     <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [talk_verb] [subject] to [RECIPIENT_nameDef].</li>
     <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [talk_verb] [subject] to [RECIPIENT_nameDef].</li>
-    <li>talk_verb->talked about</li>
-    <li>talk_verb->gave an overview of</li>
-    <li>talk_verb->gave a summary of</li>
-    <li>talk_verb->lectured about</li>
+    <li>talk_verb->谈论</li>
+    <li>talk_verb->概述</li>
+    <li>talk_verb->简述</li>
+    <li>talk_verb->讲授</li>
   -->
   <LessonInteractionTeachSubjectTo.rulePack.rulesStrings>
     <li>r_logentry(p=0.25)->[INITIATOR_nameDef]向[RECIPIENT_nameDef][teach_adverb][talk_verb][subject]的内容。</li>

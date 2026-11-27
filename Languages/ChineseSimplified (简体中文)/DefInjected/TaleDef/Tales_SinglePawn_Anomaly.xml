@@ -4,15 +4,15 @@
   <!-- EN: closed the void node -->
   <ClosedTheVoid.label>已关闭虚空节点</ClosedTheVoid.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] closing the void node.</li>
-    <li>image->[PAWN_nameFull] sealing the connection to the void, ensuring the safety of the colony [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] standing defiantly before the void node, determined to protect the colony [circumstance_group]</li>
-    <li>circumstance_phrase->amidst crackling energy</li>
-    <li>circumstance_phrase->as the void node emits a haunting glow</li>
-    <li>circumstance_phrase->while the void whispers in the background</li>
-    <li>desc_sentence->The gray metal presses in from all sides.</li>
-    <li>desc_sentence->The other colonists are shown [side_position], anxiously awaiting [PAWN_nameDef]'s return.</li>
-    <li>desc_sentence->[PAWN_nameDef]'s face betrays that [PAWN_pronoun] is agonising over the choice before [PAWN_objective].</li>
+    <li>tale_noun->[PAWN_nameDef]关闭了虚空节点。</li>
+    <li>image->[PAWN_nameFull]封上了通往虚空的连接，确保了殖民地的安全，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]倔然立于虚空节点之前，决心守护殖民地，[circumstance_group]</li>
+    <li>circumstance_phrase->在噼啪作响的能量之中</li>
+    <li>circumstance_phrase->虚空节点散发着萦绕不散的光</li>
+    <li>circumstance_phrase->虚空在背景中低语</li>
+    <li>desc_sentence->灰色金属从四面逼近。</li>
+    <li>desc_sentence->其他殖民者出现在[side_position]，焦急地等待[PAWN_nameDef]归来。</li>
+    <li>desc_sentence->[PAWN_nameDef]的表情透露出[PAWN_pronoun]正在为眼前的抉择而痛苦。</li>
   -->
   <ClosedTheVoid.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]正在关闭虚空节点。</li>
@@ -29,16 +29,16 @@
   <!-- EN: embraced the void -->
   <EmbracedTheVoid.label>拥抱虚空</EmbracedTheVoid.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] embracing the void</li>
-    <li>image->[PAWN_nameFull] harnessing the forbidden knowledge of the void, transcending mortal limitations, [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] surrendering to the allure of the void [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] giving in to the sinister whispers of the void [circumstance_group]</li>
-    <li>circumstance_phrase->as tendrils of dark energy coil around [PAWN_possessive] limbs</li>
-    <li>circumstance_phrase->amidst a swirling vortex of energy</li>
-    <li>circumstance_phrase->with an unsettling smile</li>
-    <li>desc_sentence->[PAWN_nameDef] radiates an aura of ominous power, a testament to [PAWN_possessive] pact with the void.</li>
-    <li>desc_sentence->[PAWN_nameDef]'s eyes begin to gleam with an otherworldly glow.</li>
-    <li>desc_sentence->The other colonists are shown [side_position], questioning the wisdom of [PAWN_nameDef]'s choice.</li>
+    <li>tale_noun->[PAWN_nameDef]拥抱虚空</li>
+    <li>image->[PAWN_nameFull]驾驭着虚空的禁忌知识，超越了凡俗的局限，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]向虚空的诱惑投降，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]屈服于虚空那不祥的低语，[circumstance_group]</li>
+    <li>circumstance_phrase->黑暗能量的触须盘绕在[PAWN_possessive]肢体上</li>
+    <li>circumstance_phrase->在旋转的能量漩涡之中</li>
+    <li>circumstance_phrase->带着令人不安的微笑</li>
+    <li>desc_sentence->[PAWN_nameDef]散发着不祥的力量，那是[PAWN_possessive]与虚空立约的明证。</li>
+    <li>desc_sentence->[PAWN_nameDef]的双眼开始泛起异界的光。</li>
+    <li>desc_sentence->其他殖民者出现在[side_position]，质疑[PAWN_nameDef]这一选择是否明智。</li>
   -->
   <EmbracedTheVoid.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]正拥抱虚空</li>
@@ -56,19 +56,19 @@
   <!-- EN: performed a psychic ritual -->
   <PerformedPsychicRitual.label>举行心灵仪式</PerformedPsychicRitual.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] leading a psychic ritual</li>
-    <li>image->[PAWN_nameFull] channeling energy that dances around [PAWN_objective] as [PAWN_pronoun] weaves a potent psychic ritual, [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] reciting dark incantations and tapping into mysterious forces to perform a psychic ritual, [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] focusing [PAWN_possessive] gaze as [PAWN_pronoun] performs a psychic ritual, [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] tracing intricate symbols in the air, harnessing hidden energies to manifest a psychic ritual, [circumstance_group]</li>
-    <li>circumstance_phrase->while focusing intently on the tome in front of [PAWN_objective]</li>
-    <li>circumstance_phrase->with focused determination, showcasing [PAWN_possessive] mastery of the psychic arts</li>
-    <li>circumstance_phrase->with a cruel smile</li>
-    <li>circumstance_phrase->while [PAWN_possessive] voice fights to be heard over the roar of energy</li>
-    <li>desc_sentence->The chanters can be seen [side_position] lending their support.</li>
-    <li>desc_sentence->The air shimmers as [PAWN_nameDef] completes the psychic ritual.</li>
-    <li>desc_sentence->The monolith shimmers in the background.</li>
-    <li>desc_sentence->The surrounding candles flicker and sputter in the swirling energy.</li>
+    <li>tale_noun->[PAWN_nameDef]主持灵能仪式</li>
+    <li>image->[PAWN_nameFull]引导着在[PAWN_objective]周身舞动的能量，编织着一场强大的灵能仪式，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]念诵着黑暗的咒文，勾动神秘的力量来施行灵能仪式，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]凝神注视，施行着一场灵能仪式，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]在空气中勾勒繁复的符号，驾驭潜藏的能量以显化灵能仪式，[circumstance_group]</li>
+    <li>circumstance_phrase->专注地盯着[PAWN_objective]面前的书卷</li>
+    <li>circumstance_phrase->神情专注而坚定，尽显[PAWN_possessive]对灵能技艺的精通</li>
+    <li>circumstance_phrase->带着残忍的微笑</li>
+    <li>circumstance_phrase->[PAWN_possessive]声音竭力压过能量的轰鸣</li>
+    <li>desc_sentence->颂唱者们出现在[side_position]，给予支持。</li>
+    <li>desc_sentence->[PAWN_nameDef]完成灵能仪式时，空气随之颤动。</li>
+    <li>desc_sentence->独石在背景中微微闪烁。</li>
+    <li>desc_sentence->四周的蜡烛在旋转的能量中明灭作响。</li>
   -->
   <PerformedPsychicRitual.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]正主持心灵仪式</li>
