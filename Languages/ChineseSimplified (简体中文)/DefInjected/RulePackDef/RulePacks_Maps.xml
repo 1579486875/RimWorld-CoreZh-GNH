@@ -130,91 +130,91 @@
     <li>smell->化合燃料</li>
     <li>smell->干草与粪肥</li>
     <li>smell->焦肉</li>
-    <li>smell->insect jelly</li>
-    <li>smell->perfume</li>
-    <li>smell->oil and gunpowder</li>
-    <li>smell->rotten toxipotatoes</li>
-    <li>smell->almonds</li>
-    <li>smell->bleach</li>
-    <li>smell->[Animal] feces</li>
-    <li>conditionStains->Scratches and [stain] stains obscure some details, making it hard to read.</li>
-    <li>conditionStains->[stain] stains and burn marks hint at regular use in tough conditions.</li>
-    <li>conditionStains->The diagrams are obscured by what appears to be [stain].</li>
-    <li>conditionStains->The map is incomplete and stained with [stain].</li>
-    <li>conditionTouch->[stain] stains and frayed edges give it a well-worn, utilitarian feel.</li>
-    <li>stain->blood</li>
-    <li>stain->oil</li>
-    <li>stain->grease</li>
-    <li>stain->red ink</li>
-    <li>stain->salt water</li>
-    <li>stain->wax</li>
-    <li>stain->coffee</li>
-    <li>stain->rust</li>
+    <li>smell->虫胶</li>
+    <li>smell->香水</li>
+    <li>smell->机油与火药</li>
+    <li>smell->腐烂的毒薯</li>
+    <li>smell->杏仁</li>
+    <li>smell->漂白剂</li>
+    <li>smell->[Animal]粪便</li>
+    <li>conditionStains->刮痕与[stain]污渍遮住了部分细节，难以辨读。</li>
+    <li>conditionStains->[stain]污渍与烧痕说明它常在艰苦环境中使用。</li>
+    <li>conditionStains->图样被看似[stain]的东西遮住了。</li>
+    <li>conditionStains->这张地图并不完整，还沾着[stain]污渍。</li>
+    <li>conditionTouch->[stain]污渍与磨损的边缘让它显得久经使用、朴实无华。</li>
+    <li>stain->血</li>
+    <li>stain->机油</li>
+    <li>stain->油脂</li>
+    <li>stain->红墨水</li>
+    <li>stain->盐水</li>
+    <li>stain->蜡</li>
+    <li>stain->咖啡</li>
+    <li>stain->锈</li>
     <li>stain->化合燃料</li>
-    <li>conditionTouch->The pages are rough to the touch.</li>
-    <li>conditionTouch->The map is brittle to the touch.</li>
-    <li>conditionTouch->Burn marks on the edges suggest it's been salvaged from a failed mission.</li>
-    <li>conditionTouch->The map feels fragile but carries years of hard-earned knowledge.</li>
-    <li>conditionTouch->The edges are scratched and faded. One corner has been patched with adhesive.</li>
+    <li>conditionTouch->书页摸起来很粗糙。</li>
+    <li>conditionTouch->这张地图摸起来很脆。</li>
+    <li>conditionTouch->边缘的烧痕说明它是从一次失败的任务中抢救出来的。</li>
+    <li>conditionTouch->地图摸起来很脆弱，却承载着多年辛苦得来的知识。</li>
+    <li>conditionTouch->边缘有划痕且已褪色，有一角用胶粘补过。</li>
     <li>maybe_authorInfo-></li>
     <li>maybe_authorInfo->\n\n[authorInfo]</li>
-    <li>authorInfo->It is unclear who created the map.</li>
-    <li>authorInfo->The map was created by [ANYPAWN_nameFull], a notable [ANYPAWN_kind] from [ANYPAWN_factionName].</li>
-    <li>authorInfo->[noteLocation], the map is signed by [ANYPAWN_nameIndef] the [PersonJob].</li>
-    <li>authorInfo->Included with the map is a small biography of its author, [ANYPAWN_nameIndef] the [ANYPAWN_kind].</li>
-    <li>authorInfo->The map's previous owner appears to have been someone named [ANYPAWN_nameIndef].</li>
-    <li>authorInfo->The map was once owned by an anonymous [ANYPAWN_kind]. The markings suggest [ANYPAWN_pronoun] was a member of [ANYPAWN_factionName].</li>
-    <li>has->has</li>
-    <li>has->contains</li>
-    <li>has->features</li>
-    <li>emotionalState->happy</li>
-    <li>emotionalState->depressed</li>
-    <li>emotionalState->angry</li>
-    <li>emotionalState->sensual</li>
-    <li>mapType(p=4)->map</li>
-    <li>mapType->chart</li>
-    <li>mapType->atlas</li>
-    <li>mapType->survey</li>
-    <li>mapSymbol->key</li>
+    <li>authorInfo->无法确定这张地图出自谁手。</li>
+    <li>authorInfo->这张地图由[ANYPAWN_nameFull]绘制——一位来自[ANYPAWN_factionName]的显赫[ANYPAWN_kind]。</li>
+    <li>authorInfo->[noteLocation]，地图上有[ANYPAWN_nameIndef]这位[PersonJob]的签名。</li>
+    <li>authorInfo->地图中附有作者[ANYPAWN_nameIndef]这位[ANYPAWN_kind]的小传。</li>
+    <li>authorInfo->地图的前任主人似乎是个名叫[ANYPAWN_nameIndef]的人。</li>
+    <li>authorInfo->这张地图曾属于一位匿名的[ANYPAWN_kind]。标记显示[ANYPAWN_pronoun]是[ANYPAWN_factionName]的成员。</li>
+    <li>has->载有</li>
+    <li>has->录有</li>
+    <li>has->绘有</li>
+    <li>emotionalState->快活的</li>
+    <li>emotionalState->消沉的</li>
+    <li>emotionalState->愤怒的</li>
+    <li>emotionalState->妩媚的</li>
+    <li>mapType(p=4)->地图</li>
+    <li>mapType->海图</li>
+    <li>mapType->地图集</li>
+    <li>mapType->测绘图</li>
+    <li>mapSymbol->钥匙</li>
     <li>mapSymbol->'X'</li>
-    <li>mapSymbol->star</li>
-    <li>mapSymbol->moon</li>
-    <li>mapSymbol->tower</li>
-    <li>mapSymbol->skull</li>
+    <li>mapSymbol->星形</li>
+    <li>mapSymbol->月牙</li>
+    <li>mapSymbol->塔形</li>
+    <li>mapSymbol->骷髅</li>
     <li>mapSymbol->[Animal]</li>
     <li>mapText(p=10)->[questMapText]</li>
     <li>mapText(p=2)->[subject]</li>
-    <li>mapText->extreme danger</li>
-    <li>mapText->beware of [Enemy]</li>
-    <li>mapText->hunger lies ahead</li>
-    <li>mapText->leave no trace</li>
-    <li>mapText->mad [Animal]</li>
-    <li>mapText->raider attack</li>
-    <li>mapText->our last caravan</li>
-    <li>mapText->no survivors</li>
-    <li>mapText->it's here</li>
-    <li>mapText->here lies [ANYPAWN_nameIndef]</li>
-    <li>mapText->[ANYPAWN_nameIndef]'s grave</li>
-    <li>mapText->property of [ANYPAWN_factionName]</li>
+    <li>mapText->极度危险</li>
+    <li>mapText->当心[Enemy]</li>
+    <li>mapText->前路饥荒</li>
+    <li>mapText->不留痕迹</li>
+    <li>mapText->发狂的[Animal]</li>
+    <li>mapText->劫掠者袭击</li>
+    <li>mapText->我们最后一支商队</li>
+    <li>mapText->无人生还</li>
+    <li>mapText->就在这儿</li>
+    <li>mapText->[ANYPAWN_nameIndef]长眠于此</li>
+    <li>mapText->[ANYPAWN_nameIndef]之墓</li>
+    <li>mapText->[ANYPAWN_factionName]之产</li>
     <li>mapFeature(p=8)->[questMapFeature]</li>
-    <li>mapFeature->river</li>
-    <li>mapFeature->confluence of two rivers</li>
-    <li>mapFeature->crossroads</li>
-    <li>mapFeature->mountain range</li>
-    <li>mapFeature->coastline</li>
-    <li>mapFeature->lake</li>
-    <li>mapFeature->coastal inlet</li>
-    <li>mapFeature->coastal island</li>
-    <li>noteLocation->in the corner</li>
-    <li>noteLocation->in the corner of the map</li>
-    <li>noteLocation->in one corner</li>
-    <li>noteLocation->on the left-hand side</li>
-    <li>noteLocation->on the back</li>
-    <li>noteLocation->at the bottom</li>
-    <li>noteLocation->near a [mapFeature]</li>
-    <li>noteLocation->next to a [mapFeature]</li>
-    <li>noteLocation->below a large [mapFeature]</li>
-    <li>noteLocation->along the edge of the map</li>
+    <li>mapFeature->河流</li>
+    <li>mapFeature->两河交汇处</li>
+    <li>mapFeature->十字路口</li>
+    <li>mapFeature->山脉</li>
+    <li>mapFeature->海岸线</li>
+    <li>mapFeature->湖泊</li>
+    <li>mapFeature->海岸小湾</li>
+    <li>mapFeature->海岸岛屿</li>
+    <li>noteLocation->在角落处</li>
+    <li>noteLocation->在图的角落</li>
+    <li>noteLocation->在一角</li>
+    <li>noteLocation->在左侧</li>
+    <li>noteLocation->在背面</li>
+    <li>noteLocation->在底部</li>
+    <li>noteLocation->在一处[mapFeature]附近</li>
+    <li>noteLocation->紧挨着一处[mapFeature]</li>
+    <li>noteLocation->在一处大[mapFeature]下方</li>
+    <li>noteLocation->沿着地图边缘</li>
   -->
   <Description_Map.rulePack.rulesStrings>
     <li>desc->一张[physicalDescription]的地图，展示了一个值得关注的位置。[maybe_specialFact][maybe_authorInfo][maybe_condition]\n\n[maybe_questInfo]</li>
@@ -442,177 +442,177 @@
     <li>PlaceOutlander->[CapSylE][SylE][place_end]</li>
     <li>PlaceOutlander->[CapSylE][SylE][SylE][place_end]</li>
     <li>mapSubjectAdj(p=6)->[direction]</li>
-    <li>mapSubjectAdj->ancient</li>
-    <li>mapSubjectAdj->historical</li>
-    <li>mapSubjectAdj->old</li>
-    <li>mapSubjectAdj->forgotten</li>
-    <li>mapSubjectAdj->secret</li>
-    <li>mapSubjectAdj->private</li>
-    <li>mapSubjectAdj->hidden</li>
-    <li>mapSubjectAdj->occult</li>
-    <li>mapSubjectAdj->unknown</li>
-    <li>mapSubjectAdj->peculiar</li>
-    <li>mapSubjectAdj->odd</li>
-    <li>mapSubjectAdj->strange</li>
-    <li>mapSubjectAdj->wonderful</li>
-    <li>mapSubjectAdj->worthwhile</li>
-    <li>mapSubjectAdj->precious</li>
-    <li>mapSubjectAdj->enchanting</li>
-    <li>mapSubjectAdj->glamorous</li>
-    <li>mapSubjectAdj->outrageous</li>
-    <li>mapSubjectAdj->wild</li>
-    <li>mapSubjectAdj->great</li>
-    <li>mapSubjectAdj->grand</li>
-    <li>mapSubjectAdj->lesser</li>
-    <li>mapSubjectAdj->small</li>
-    <li>mapSubjectAdj->bad</li>
-    <li>mapSubjectAdj->horrible</li>
-    <li>mapSubjectAdj->mystical</li>
-    <li>mapSubjectAdj->holy</li>
-    <li>mapSubjectAdj->local</li>
-    <li>mapSubjectAdj->regional</li>
-    <li>mapSubjectAdj->native</li>
-    <li>mapSubjectAdj->nearby</li>
-    <li>mapSubjectAdj->planetary</li>
-    <li>mapSubjectAdj->dangerous</li>
-    <li>mapSubjectAdj->deadly</li>
-    <li>mapSubjectAdj->toxic</li>
-    <li>mapSubjectAdj->select</li>
-    <li>mapSubjectAdj->unique</li>
-    <li>mapSubjectAdj->important</li>
-    <li>direction->northern</li>
-    <li>direction->eastern</li>
-    <li>direction->southern</li>
-    <li>direction->western</li>
-    <li>direction(p=0.2)->subterranean</li>
-    <li>direction(p=0.2)->underground</li>
-    <li>mapSubject->roads</li>
-    <li>mapSubject->trails</li>
-    <li>mapSubject->paths</li>
-    <li>mapSubject->caves</li>
-    <li>mapSubject->hills</li>
-    <li>mapSubject->mountains</li>
-    <li>mapSubject->rivers</li>
-    <li>mapSubject->forests</li>
-    <li>mapSubject->swamps</li>
-    <li>mapSubject->badlands</li>
-    <li>mapSubject->landmarks</li>
-    <li>mapSubject->watersheds</li>
-    <li>mapSubject->lakes</li>
-    <li>mapSubject->valleys</li>
-    <li>mapSubject->places</li>
-    <li>mapSubject->sites</li>
-    <li>mapSubject->legends</li>
-    <li>mapSubject->secrets</li>
-    <li>mapSubject->borders</li>
-    <li>mapSubject->frontiers</li>
-    <li>mapSubject->locations</li>
-    <li>mapSubject->resources</li>
-    <li>mapSubject->artifacts</li>
-    <li>mapSubject->relics</li>
-    <li>mapSubject->towns</li>
-    <li>mapSubject->settlements</li>
-    <li>mapSubject->strongholds</li>
-    <li>mapSubject->ruins</li>
-    <li>mapSubject->clans</li>
-    <li>mapSubject->peoples</li>
-    <li>mapSubject->histories</li>
-    <li>mapSubject->territories</li>
-    <li>mapSubject->landmasses</li>
+    <li>mapSubjectAdj->古老的</li>
+    <li>mapSubjectAdj->史载的</li>
+    <li>mapSubjectAdj->旧日的</li>
+    <li>mapSubjectAdj->被遗忘的</li>
+    <li>mapSubjectAdj->隐秘的</li>
+    <li>mapSubjectAdj->私人的</li>
+    <li>mapSubjectAdj->隐藏的</li>
+    <li>mapSubjectAdj->秘术的</li>
+    <li>mapSubjectAdj->未知的</li>
+    <li>mapSubjectAdj->古怪的</li>
+    <li>mapSubjectAdj->怪异的</li>
+    <li>mapSubjectAdj->奇异的</li>
+    <li>mapSubjectAdj->美妙的</li>
+    <li>mapSubjectAdj->值得一探的</li>
+    <li>mapSubjectAdj->珍贵的</li>
+    <li>mapSubjectAdj->迷人的</li>
+    <li>mapSubjectAdj->华美的</li>
+    <li>mapSubjectAdj->骇人的</li>
+    <li>mapSubjectAdj->荒野的</li>
+    <li>mapSubjectAdj->宏伟的</li>
+    <li>mapSubjectAdj->壮丽的</li>
+    <li>mapSubjectAdj->次要的</li>
+    <li>mapSubjectAdj->小巧的</li>
+    <li>mapSubjectAdj->糟糕的</li>
+    <li>mapSubjectAdj->可怕的</li>
+    <li>mapSubjectAdj->神秘的</li>
+    <li>mapSubjectAdj->神圣的</li>
+    <li>mapSubjectAdj->本地的</li>
+    <li>mapSubjectAdj->区域的</li>
+    <li>mapSubjectAdj->原生的</li>
+    <li>mapSubjectAdj->附近的</li>
+    <li>mapSubjectAdj->行星级的</li>
+    <li>mapSubjectAdj->危险的</li>
+    <li>mapSubjectAdj->致命的</li>
+    <li>mapSubjectAdj->剧毒的</li>
+    <li>mapSubjectAdj->精选的</li>
+    <li>mapSubjectAdj->独一无二的</li>
+    <li>mapSubjectAdj->重要的</li>
+    <li>direction->北方的</li>
+    <li>direction->东方的</li>
+    <li>direction->南方的</li>
+    <li>direction->西方的</li>
+    <li>direction(p=0.2)->地下的</li>
+    <li>direction(p=0.2)->地底的</li>
+    <li>mapSubject->道路</li>
+    <li>mapSubject->小径</li>
+    <li>mapSubject->路径</li>
+    <li>mapSubject->洞穴</li>
+    <li>mapSubject->丘陵</li>
+    <li>mapSubject->山脉</li>
+    <li>mapSubject->河流</li>
+    <li>mapSubject->森林</li>
+    <li>mapSubject->沼泽</li>
+    <li>mapSubject->恶地</li>
+    <li>mapSubject->地标</li>
+    <li>mapSubject->分水岭</li>
+    <li>mapSubject->湖泊</li>
+    <li>mapSubject->山谷</li>
+    <li>mapSubject->地点</li>
+    <li>mapSubject->场所</li>
+    <li>mapSubject->传说</li>
+    <li>mapSubject->秘密</li>
+    <li>mapSubject->边界</li>
+    <li>mapSubject->边疆</li>
+    <li>mapSubject->位置</li>
+    <li>mapSubject->资源</li>
+    <li>mapSubject->遗物</li>
+    <li>mapSubject->圣物</li>
+    <li>mapSubject->城镇</li>
+    <li>mapSubject->聚落</li>
+    <li>mapSubject->要塞</li>
+    <li>mapSubject->废墟</li>
+    <li>mapSubject->氏族</li>
+    <li>mapSubject->族群</li>
+    <li>mapSubject->历史</li>
+    <li>mapSubject->领地</li>
+    <li>mapSubject->陆块</li>
     <li>CapSylE->Al</li>
-    <li>CapSylE->All</li>
+    <li>CapSylE->阿尔</li>
     <li>CapSylE->An</li>
-    <li>CapSylE->And</li>
+    <li>CapSylE->安德</li>
     <li>CapSylE->Ar</li>
-    <li>CapSylE->Are</li>
+    <li>CapSylE->阿雷</li>
     <li>CapSylE->As</li>
     <li>CapSylE->At</li>
-    <li>CapSylE->Ban</li>
-    <li>CapSylE->Bin</li>
-    <li>CapSylE->Bon</li>
-    <li>CapSylE->But</li>
+    <li>CapSylE->班</li>
+    <li>CapSylE->宾</li>
+    <li>CapSylE->邦</li>
+    <li>CapSylE->巴特</li>
     <li>CapSylE->Ca</li>
     <li>CapSylE->Co</li>
     <li>CapSylE->Da</li>
-    <li>CapSylE->Del</li>
-    <li>CapSylE->Din</li>
+    <li>CapSylE->戴尔</li>
+    <li>CapSylE->丁</li>
     <li>CapSylE->Do</li>
     <li>CapSylE->Ea</li>
     <li>CapSylE->Ed</li>
     <li>CapSylE->En</li>
-    <li>CapSylE->Ent</li>
+    <li>CapSylE->恩特</li>
     <li>CapSylE->Er</li>
-    <li>CapSylE->Era</li>
-    <li>CapSylE->Ere</li>
+    <li>CapSylE->埃拉</li>
+    <li>CapSylE->埃雷</li>
     <li>CapSylE->Es</li>
-    <li>CapSylE->Eve</li>
-    <li>CapSylE->Far</li>
-    <li>CapSylE->Fen</li>
-    <li>CapSylE->Fin</li>
-    <li>CapSylE->For</li>
-    <li>CapSylE->Fun</li>
+    <li>CapSylE->埃芙</li>
+    <li>CapSylE->法尔</li>
+    <li>CapSylE->芬</li>
+    <li>CapSylE->芬</li>
+    <li>CapSylE->福尔</li>
+    <li>CapSylE->芳</li>
     <li>CapSylE->Ga</li>
     <li>CapSylE->Go</li>
     <li>CapSylE->Ha</li>
-    <li>CapSylE->Had</li>
-    <li>CapSylE->Hat</li>
+    <li>CapSylE->哈德</li>
+    <li>CapSylE->哈特</li>
     <li>CapSylE->He</li>
-    <li>CapSylE->Hen</li>
-    <li>CapSylE->Her</li>
+    <li>CapSylE->亨</li>
+    <li>CapSylE->赫尔</li>
     <li>CapSylE->Hi</li>
     <li>CapSylE->Hi</li>
-    <li>CapSylE->Hin</li>
-    <li>CapSylE->His</li>
+    <li>CapSylE->欣</li>
+    <li>CapSylE->希斯</li>
     <li>CapSylE->In</li>
     <li>CapSylE->Is</li>
     <li>CapSylE->It</li>
-    <li>CapSylE->Ith</li>
+    <li>CapSylE->伊斯</li>
     <li>CapSylE->Ja</li>
     <li>CapSylE->Ka</li>
     <li>CapSylE->Ko</li>
     <li>CapSylE->La</li>
-    <li>CapSylE->Lan</li>
+    <li>CapSylE->兰</li>
     <li>CapSylE->Le</li>
-    <li>CapSylE->Len</li>
-    <li>CapSylE->Lon</li>
+    <li>CapSylE->伦</li>
+    <li>CapSylE->隆</li>
     <li>CapSylE->Ma</li>
     <li>CapSylE->Me</li>
-    <li>CapSylE->Men</li>
-    <li>CapSylE->Min</li>
-    <li>CapSylE->Mon</li>
+    <li>CapSylE->门</li>
+    <li>CapSylE->敏</li>
+    <li>CapSylE->蒙</li>
     <li>CapSylE->Na</li>
     <li>CapSylE->Ne</li>
-    <li>CapSylE->Not</li>
-    <li>CapSylE->Ome</li>
+    <li>CapSylE->诺特</li>
+    <li>CapSylE->奥姆</li>
     <li>CapSylE->On</li>
     <li>CapSylE->Or</li>
     <li>CapSylE->Ou</li>
-    <li>CapSylE->Oul</li>
-    <li>CapSylE->Our</li>
+    <li>CapSylE->乌尔</li>
+    <li>CapSylE->奥尔</li>
     <li>CapSylE->Pa</li>
-    <li>CapSylE->Qua</li>
+    <li>CapSylE->夸</li>
     <li>CapSylE->Ra</li>
     <li>CapSylE->Re</li>
     <li>CapSylE->Ro</li>
     <li>CapSylE->Se</li>
-    <li>CapSylE->Sho</li>
+    <li>CapSylE->肖</li>
     <li>CapSylE->St</li>
     <li>CapSylE->Te</li>
-    <li>CapSylE->Ted</li>
-    <li>CapSylE->Ter</li>
-    <li>CapSylE->Tha</li>
-    <li>CapSylE->The</li>
-    <li>CapSylE->Thi</li>
-    <li>CapSylE->Thi</li>
+    <li>CapSylE->泰德</li>
+    <li>CapSylE->特尔</li>
+    <li>CapSylE->萨</li>
+    <li>CapSylE->泽</li>
+    <li>CapSylE->西</li>
+    <li>CapSylE->西</li>
     <li>CapSylE->Ti</li>
     <li>CapSylE->To</li>
     <li>CapSylE->Un</li>
     <li>CapSylE->Ve</li>
-    <li>CapSylE->Ver</li>
+    <li>CapSylE->维尔</li>
     <li>CapSylE->Wa</li>
-    <li>CapSylE->Was</li>
-    <li>CapSylE->Wit</li>
-    <li>CapSylE->You</li>
+    <li>CapSylE->瓦斯</li>
+    <li>CapSylE->维特</li>
+    <li>CapSylE->尤</li>
   -->
   <MapUtility.rulePack.rulesStrings>
     <li>place->[PlaceOutlander]</li>
@@ -804,7 +804,7 @@
     <li>title->[mapType] [mapNoun]: [subject]</li>
     <li>title->[mapNoun] of [mapSubjectAdj] [mapSubject]</li>
     <li>title->[maybeThe] [AdjectiveAny] [map]</li>
-    <li>title(p=0.5)->maps for [mapSubjectAdj] [mapSubject]</li>
+    <li>title(p=0.5)->[mapSubjectAdj][mapSubject]图集</li>
     <li>title(p=0.5)->[place] [mapNoun]</li>
     <li>maybeAdjective-></li>
     <li>maybeAdjective->[adjective]</li>
@@ -812,36 +812,36 @@
     <li>adjective->[Color]</li>
     <li>adjective->[AdjectiveLarge]</li>
     <li>maybeThe-></li>
-    <li>maybeThe->the</li>
+    <li>maybeThe-></li>
     <li>map->[mapNoun]</li>
     <li>map(p=2)->[mapNoun] of [place]</li>
     <li>map->[mapNoun] of [mapSubject]</li>
     <li>map->[mapNoun] of [mapSubjectAdj] [mapSubject]</li>
-    <li>mapNoun(p=5)->map</li>
-    <li>mapNoun(p=2)->atlas</li>
-    <li>mapNoun->almanac</li>
-    <li>mapNoun->chart</li>
-    <li>mapNoun->survey</li>
-    <li>mapNoun->study</li>
-    <li>mapNoun->pamphlet</li>
+    <li>mapNoun(p=5)->地图</li>
+    <li>mapNoun(p=2)->地图集</li>
+    <li>mapNoun->年鉴</li>
+    <li>mapNoun->海图</li>
+    <li>mapNoun->测绘图</li>
+    <li>mapNoun->研究</li>
+    <li>mapNoun->小册子</li>
     <li>mapType(p=2)->[Animal]</li>
     <li>mapType(p=2)->[TreeType]</li>
-    <li>mapType->contour</li>
-    <li>mapType->topographic</li>
-    <li>mapType->relief</li>
-    <li>mapType->population</li>
-    <li>mapType->treasure</li>
-    <li>mapType->annotated</li>
-    <li>mapType->illustrated</li>
-    <li>mapType->confederation</li>
-    <li>mapType->coalition</li>
-    <li>mapType->federation</li>
-    <li>mapType->historical</li>
-    <li>mapType->paper</li>
-    <li>mapType->leather</li>
-    <li>mapType->pigskin</li>
-    <li>mapType->laminated</li>
-    <li>mapType->holographic</li>
+    <li>mapType->等高线图</li>
+    <li>mapType->地形图</li>
+    <li>mapType->地势图</li>
+    <li>mapType->人口图</li>
+    <li>mapType->藏宝图</li>
+    <li>mapType->注记图</li>
+    <li>mapType->图绘本</li>
+    <li>mapType->邦联图</li>
+    <li>mapType->同盟图</li>
+    <li>mapType->联邦图</li>
+    <li>mapType->史载的</li>
+    <li>mapType->纸质图</li>
+    <li>mapType->皮革图</li>
+    <li>mapType->猪皮图</li>
+    <li>mapType->覆膜图</li>
+    <li>mapType->全息图</li>
   -->
   <Namer_Map.rulePack.rulesStrings>
     <li>title(p=2)->[mapType][mapNoun]之[subject]</li>
