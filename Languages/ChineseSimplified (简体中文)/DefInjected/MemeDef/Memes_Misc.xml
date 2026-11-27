@@ -27,12 +27,12 @@
     <li>veneratedOrAnyAnimal->[Animal]</li>
     <li>sacredAnimalList->the [animal0_thingDef_label], the [animal1_thingDef_label], the [animal2_thingDef_label],</li>
     <li>sacredAnimalList->the [animal0_thingDef_label], the [animal1_thingDef_label],</li>
-    <li>sacredAnimalList->the [animal0_thingDef_label]</li>
-    <li>sacredAnimalList->the cow, the fox, the bear,</li>
+    <li>sacredAnimalList->[animal0_thingDef_label]</li>
+    <li>sacredAnimalList->牛、狐狸、熊，</li>
     <li>sacredAnimalListEnd->the [animal0_thingDef_label], the [animal1_thingDef_label], and the [animal2_thingDef_label]</li>
     <li>sacredAnimalListEnd->the [animal0_thingDef_label], and the [animal1_thingDef_label]</li>
     <li>sacredAnimalListEnd->the [animal0_thingDef_label]</li>
-    <li>sacredAnimalListEnd->the cow, the fox, and the bear</li>
+    <li>sacredAnimalListEnd->牛、狐狸和熊</li>
   -->
   <AnimalPersonhood.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_AnimalPersonhood)        ->[deity0_name]在[place_summary][place_name]创造出[sacredAnimalList]和人类，并对他们一视同仁。</li>
@@ -64,18 +64,18 @@
     <li>sacredAnimalListEnd->牛，狐狸，和熊</li>
   </AnimalPersonhood.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->animal</li>
-    <li>memeAdjective->furry</li>
-    <li>memeCreed->pack</li>
-    <li>memeCreed->herd</li>
-    <li>memeCreed->flock</li>
-    <li>memeConcept->animals</li>
-    <li>memeLeaderNoun->beast</li>
+    <li>memeAdjective->兽性</li>
+    <li>memeAdjective->毛茸</li>
+    <li>memeCreed->兽群</li>
+    <li>memeCreed->牧群</li>
+    <li>memeCreed->鸟群</li>
+    <li>memeConcept->动物</li>
+    <li>memeLeaderNoun->兽</li>
     <li>memeLeaderNoun->animal</li>
-    <li>memeLeaderAdjective->alpha</li>
-    <li>memeMoralist->whisperer</li>
-    <li>memeMoralist->herder</li>
-    <li>memeMoralist->shepherd</li>
+    <li>memeLeaderAdjective->首领</li>
+    <li>memeMoralist->低语者</li>
+    <li>memeMoralist->牧者</li>
+    <li>memeMoralist->牧羊人</li>
   -->
   <AnimalPersonhood.generalRules.rulesStrings>
     <li>memeAdjective->动物</li>
@@ -153,22 +153,22 @@
     <li>animistFact(tag=meme_Blindsight)     ->通过精神之眼观察才是看到世界真实本质的唯一途径。</li>
   </Blindsight.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->blind</li>
-    <li>memeAdjective->sightless</li>
-    <li>memeAdjective->visionary</li>
-    <li>memeAdjective->farsighted</li>
-    <li>memeCreed->view</li>
-    <li>memeCreed->cult</li>
+    <li>memeAdjective->盲</li>
+    <li>memeAdjective->无眼</li>
+    <li>memeAdjective->幻视</li>
+    <li>memeAdjective->远视</li>
+    <li>memeCreed->视</li>
+    <li>memeCreed->教团</li>
     <li>memeHyphenPrefix->blind</li>
-    <li>memeConcept->blindness</li>
-    <li>memeConcept->vision</li>
-    <li>memeConcept->sight</li>
-    <li>memeConcept->perception</li>
+    <li>memeConcept->失明</li>
+    <li>memeConcept->幻象</li>
+    <li>memeConcept->视觉</li>
+    <li>memeConcept->感知</li>
     <li>memeLeaderNoun->visionary</li>
     <li>memeLeaderAdjective->blind</li>
-    <li>memeMoralist->seer</li>
-    <li>memeMoralist->gouger</li>
-    <li>memeMoralist->blindfolder</li>
+    <li>memeMoralist->先知</li>
+    <li>memeMoralist->剜眼者</li>
+    <li>memeMoralist->蒙眼者</li>
   -->
   <Blindsight.generalRules.rulesStrings>
     <li>memeAdjective->盲视</li>
@@ -232,24 +232,24 @@
     <li>animistFact(tag=meme_Cannibal)     ->我们可以通过吞噬别人的血肉来吸收别人的精神和力量。</li>
   </Cannibal.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->bloody</li>
-    <li>memeCreed->eaters</li>
-    <li>memeCreed->teeth</li>
-    <li>memeCreed->abattoir</li>
-    <li>memeCreed->cult</li>
-    <li>memeHyphenPrefix->blood</li>
+    <li>memeAdjective->血腥</li>
+    <li>memeCreed->食者</li>
+    <li>memeCreed->利齿</li>
+    <li>memeCreed->屠宰场</li>
+    <li>memeCreed->教团</li>
+    <li>memeHyphenPrefix->血</li>
     <li>memeConcept->blood</li>
-    <li>memeConcept->flesh</li>
-    <li>memeConcept->murder</li>
-    <li>memeConcept->eating</li>
-    <li>memeConcept->meat</li>
-    <li>memeLeaderNoun->eater</li>
-    <li>memeLeaderNoun->chef</li>
-    <li>memeLeaderNoun->blood-drinker</li>
-    <li>memeLeaderNoun->tooth</li>
-    <li>memeLeaderNoun->fleshripper</li>
-    <li>memeMoralist->first-eater</li>
-    <li>memeMoralist->fleshknower</li>
+    <li>memeConcept->血肉</li>
+    <li>memeConcept->谋杀</li>
+    <li>memeConcept->进食</li>
+    <li>memeConcept->肉</li>
+    <li>memeLeaderNoun->食者</li>
+    <li>memeLeaderNoun->主厨</li>
+    <li>memeLeaderNoun->饮血者</li>
+    <li>memeLeaderNoun->牙</li>
+    <li>memeLeaderNoun->裂肉者</li>
+    <li>memeMoralist->首食者</li>
+    <li>memeMoralist->识肉者</li>
   -->
   <Cannibal.generalRules.rulesStrings>
     <li>memeAdjective->血腥</li>
@@ -335,19 +335,19 @@
     <li>animistFact(tag=meme_Darkness)     ->美好的灵魂生活在我们周围的阴影中，停留在难以察觉的地方。在黑暗中生活可以让它们离我们更近。</li>
   </Darkness.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->dark</li>
-    <li>memeAdjective->dim</li>
+    <li>memeAdjective->黑暗</li>
+    <li>memeAdjective->昏暗</li>
     <li>memeHyphenPrefix->dark</li>
     <li>memeHyphenPrefix->dim</li>
-    <li>memeConcept->darkness</li>
-    <li>memeConcept->dimness</li>
-    <li>memeConcept->blackness</li>
-    <li>memeLeaderNoun->shrouder</li>
-    <li>memeLeaderNoun->lightkiller</li>
+    <li>memeConcept->黑暗</li>
+    <li>memeConcept->昏暝</li>
+    <li>memeConcept->漆黑</li>
+    <li>memeLeaderNoun->遮幕者</li>
+    <li>memeLeaderNoun->灭光者</li>
     <li>memeLeaderAdjective->dark</li>
-    <li>memeMoralist->obscurer</li>
-    <li>memeMoralist->darkener</li>
-    <li>memeMoralist->confuser</li>
+    <li>memeMoralist->晦暗者</li>
+    <li>memeMoralist->沉暗者</li>
+    <li>memeMoralist->惑乱者</li>
   -->
   <Darkness.generalRules.rulesStrings>
     <li>memeAdjective->黑暗</li>
@@ -406,17 +406,17 @@
     <li>animistFact(tag=meme_FleshPurity)     ->肉体和机器的融合同时腐蚀了两者的灵魂。</li>
   </FleshPurity.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->clean</li>
-    <li>memeAdjective->pure</li>
-    <li>memeAdjective->sacred</li>
-    <li>memeCreed->cult</li>
-    <li>memeCreed->sect</li>
-    <li>memeConcept->flesh</li>
-    <li>memeConcept->purity</li>
-    <li>memeConcept->immaculacy</li>
-    <li>memeLeaderNoun->being</li>
-    <li>memeLeaderNoun->human</li>
-    <li>memeMoralist->purifier</li>
+    <li>memeAdjective->洁净</li>
+    <li>memeAdjective->纯净</li>
+    <li>memeAdjective->神圣</li>
+    <li>memeCreed->教团</li>
+    <li>memeCreed->教派</li>
+    <li>memeConcept->血肉</li>
+    <li>memeConcept->纯净</li>
+    <li>memeConcept->无瑕</li>
+    <li>memeLeaderNoun->存在</li>
+    <li>memeLeaderNoun->人</li>
+    <li>memeMoralist->净化者</li>
   -->
   <FleshPurity.generalRules.rulesStrings>
     <li>memeAdjective->干净</li>
@@ -596,17 +596,17 @@
     <li>animistFact(tag=meme_Nudism)        ->用衣物遮盖身体的同时， 也蒙蔽了我们的自然之心， 这让它们感到不安。</li>
   </Nudism.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->nude</li>
-    <li>memeAdjective->naked</li>
-    <li>memeAdjective->free</li>
-    <li>memeAdjective->natural</li>
-    <li>memeHyphenPrefix->skin</li>
-    <li>memeConcept->nudity</li>
+    <li>memeAdjective->赤裸</li>
+    <li>memeAdjective->裸身</li>
+    <li>memeAdjective->自由</li>
+    <li>memeAdjective->自然</li>
+    <li>memeHyphenPrefix->肌肤</li>
+    <li>memeConcept->裸体</li>
     <li>memeConcept->skin</li>
-    <li>memeLeaderNoun->swinger</li>
-    <li>memeLeaderNoun->breather</li>
-    <li>memeLeaderNoun->toucher</li>
-    <li>memeLeaderNoun->feeler</li>
+    <li>memeLeaderNoun->摇摆者</li>
+    <li>memeLeaderNoun->呼吸者</li>
+    <li>memeLeaderNoun->触摸者</li>
+    <li>memeLeaderNoun->感受者</li>
   -->
   <Nudism.generalRules.rulesStrings>
     <li>memeAdjective->赤裸</li>
@@ -687,27 +687,27 @@
     <li>animistFact(tag=meme_PainIsVirtue)     ->疼痛迫使精神存在。就像这样，痛苦是联系精神世界的一种途径。</li>
   </PainIsVirtue.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->nocic</li>
-    <li>memeAdjective->pain</li>
-    <li>memeCreed->house</li>
-    <li>memeCreed->chamber</li>
-    <li>memeCreed->cell</li>
-    <li>memeHyphenPrefix->nocio</li>
+    <li>memeAdjective->伤痛</li>
+    <li>memeAdjective->痛苦</li>
+    <li>memeCreed->殿堂</li>
+    <li>memeCreed->密室</li>
+    <li>memeCreed->囚室</li>
+    <li>memeHyphenPrefix->伤痛</li>
     <li>memeHyphenPrefix->pain</li>
     <li>memeConcept->pain</li>
-    <li>memeConcept->torment</li>
-    <li>memeConcept->torture</li>
-    <li>memeConcept->suffering</li>
+    <li>memeConcept->折磨</li>
+    <li>memeConcept->酷刑</li>
+    <li>memeConcept->苦难</li>
     <li>memeConcept->blood</li>
-    <li>memeLeaderNoun->torturer</li>
-    <li>memeLeaderNoun->agonizer</li>
-    <li>memeLeaderNoun->whiphand</li>
-    <li>memeLeaderNoun->chainman</li>
-    <li>memeLeaderNoun->cutter</li>
-    <li>memeLeaderNoun->bloodletter</li>
-    <li>memeMoralist->pain-whisperer</li>
-    <li>memeMoralist->sufferspeaker</li>
-    <li>memeMoralist->painspeaker</li>
+    <li>memeLeaderNoun->施刑者</li>
+    <li>memeLeaderNoun->致痛者</li>
+    <li>memeLeaderNoun->执鞭者</li>
+    <li>memeLeaderNoun->持链者</li>
+    <li>memeLeaderNoun->切割者</li>
+    <li>memeLeaderNoun->放血者</li>
+    <li>memeMoralist->痛苦低语者</li>
+    <li>memeMoralist->苦难言者</li>
+    <li>memeMoralist->痛苦言者</li>
   -->
   <PainIsVirtue.generalRules.rulesStrings>
     <li>memeAdjective->疼痛</li>
@@ -812,13 +812,13 @@
     <li>animistFact(tag=meme_Proselytizer)     ->灵想要被人所知， 但只传达给了少数人。 他们希望我们向其他人揭示真理。</li>
   </Proselytizer.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->true</li>
-    <li>memeAdjective->real</li>
-    <li>memeHyphenPrefix->truth</li>
+    <li>memeAdjective->真</li>
+    <li>memeAdjective->真实</li>
+    <li>memeHyphenPrefix->真理</li>
     <li>memeConcept->truth</li>
-    <li>memeLeaderNoun->speaker</li>
-    <li>memeMoralist->proselytizer</li>
-    <li>memeMoralist->converter</li>
+    <li>memeLeaderNoun->言者</li>
+    <li>memeMoralist->传教者</li>
+    <li>memeMoralist->皈依者</li>
   -->
   <Proselytizer.generalRules.rulesStrings>
     <li>memeAdjective->真理</li>
@@ -899,20 +899,20 @@
     <li>animistProphecy(tag=meme_Raider) ->当一个人成为最强大的人时， 我们的宇宙就会结束， 每个灵魂都会看到祂并向祂致敬。</li>
   </Raider.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->outlaw</li>
+    <li>memeAdjective->亡命</li>
     <li>memeHyphenPrefix->outlaw</li>
-    <li>memeHyphenPrefix->raid</li>
-    <li>memeConcept->raiding</li>
-    <li>memeConcept->theft</li>
-    <li>memeConcept->piracy</li>
-    <li>memeConcept->assault</li>
-    <li>memeLeaderNoun->boss</li>
-    <li>memeLeaderNoun->captain</li>
-    <li>memeLeaderNoun->honcho</li>
-    <li>memeLeaderNoun->overseer</li>
-    <li>memeLeaderNoun->cheese</li>
-    <li>memeLeaderNoun->raider</li>
-    <li>memeMoralist->chaplain</li>
+    <li>memeHyphenPrefix->劫掠</li>
+    <li>memeConcept->劫掠</li>
+    <li>memeConcept->盗窃</li>
+    <li>memeConcept->海盗行径</li>
+    <li>memeConcept->袭击</li>
+    <li>memeLeaderNoun->头目</li>
+    <li>memeLeaderNoun->首领</li>
+    <li>memeLeaderNoun->当家的</li>
+    <li>memeLeaderNoun->监工</li>
+    <li>memeLeaderNoun->大佬</li>
+    <li>memeLeaderNoun->劫掠者</li>
+    <li>memeMoralist->随军牧师</li>
   -->
   <Raider.generalRules.rulesStrings>
     <li>memeAdjective->逃犯</li>
@@ -922,7 +922,7 @@
     <li>memeConcept->盗贼</li>
     <li>memeConcept->海盗</li>
     <li>memeConcept->突击</li>
-    <li>memeLeaderNoun->boss</li>
+    <li>memeLeaderNoun->头目</li>
     <li>memeLeaderNoun->船长</li>
     <li>memeLeaderNoun->主管</li>
     <li>memeLeaderNoun->督察</li>
@@ -985,11 +985,11 @@
     <li>ranchingAnimal(p=4)->[veneratedAnimal]</li>
     <li>ranchingAnimal->[Animal]</li>
     <li>rancherParent1->shepherd</li>
-    <li>rancherParent1->farrier</li>
-    <li>rancherParent1->cheese maker</li>
-    <li>rancherParent2->cowhand</li>
-    <li>rancherParent2->dairy queen</li>
-    <li>rancherParent2->butcher</li>
+    <li>rancherParent1->蹄铁匠</li>
+    <li>rancherParent1->奶酪匠</li>
+    <li>rancherParent2->牧牛人</li>
+    <li>rancherParent2->挤奶女王</li>
+    <li>rancherParent2->屠夫</li>
   -->
   <Rancher.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Rancher)        ->[deity0_name] 创造了动物， 然后是人， 之后把动物送给人类宠爱、饲养和屠宰， 作为对 [deity0_objective] 的崇拜行为。</li>
@@ -1016,16 +1016,16 @@
     <li>rancherParent2->屠夫</li>
   </Rancher.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->ranch</li>
-    <li>memeAdjective->rural</li>
-    <li>memeAdjective->country</li>
+    <li>memeAdjective->牧场</li>
+    <li>memeAdjective->乡野</li>
+    <li>memeAdjective->田园</li>
     <li>memeHyphenPrefix->ranch</li>
-    <li>memeConcept->ranching</li>
-    <li>memeLeaderNoun->rancher</li>
-    <li>memeLeaderNoun->hand</li>
-    <li>memeLeaderNoun->cowboy</li>
+    <li>memeConcept->畜牧</li>
+    <li>memeLeaderNoun->牧场主</li>
+    <li>memeLeaderNoun->牧工</li>
+    <li>memeLeaderNoun->牛仔</li>
     <li>memeLeaderNoun->herder</li>
-    <li>memeLeaderNoun->sheepdog</li>
+    <li>memeLeaderNoun->牧羊犬</li>
   -->
   <Rancher.generalRules.rulesStrings>
     <li>memeAdjective->大牧场</li>
@@ -1109,31 +1109,31 @@
     <li>animistProphecy(tag=meme_Transhumanist) ->[itIsSaid]据说终有一天，[relic0_name]的持有者将召唤祂的灵魂以教予人类最彻底的与生物融合的融合技术。</li>
   </Transhumanist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeAdjective->technological</li>
-    <li>memeAdjective->machine</li>
-    <li>memeAdjective->industrial</li>
-    <li>memeCreed->school</li>
-    <li>memeCreed->academy</li>
-    <li>memeCreed->university</li>
-    <li>memeCreed->philosophy</li>
-    <li>memeHyphenPrefix->techno</li>
-    <li>memeHyphenPrefix->cyber</li>
-    <li>memeHyphenPrefix->haxor</li>
-    <li>memeHyphenPrefix->wire</li>
-    <li>memeConcept->technology</li>
-    <li>memeConcept->silicon</li>
-    <li>memeConcept->artifice</li>
-    <li>memeConcept->augmentation</li>
-    <li>memeConcept->enhancement</li>
+    <li>memeAdjective->技术</li>
+    <li>memeAdjective->机械</li>
+    <li>memeAdjective->工业</li>
+    <li>memeCreed->学派</li>
+    <li>memeCreed->学院</li>
+    <li>memeCreed->大学</li>
+    <li>memeCreed->哲理</li>
+    <li>memeHyphenPrefix->科技</li>
+    <li>memeHyphenPrefix->赛博</li>
+    <li>memeHyphenPrefix->骇客</li>
+    <li>memeHyphenPrefix->线路</li>
+    <li>memeConcept->技术</li>
+    <li>memeConcept->硅基</li>
+    <li>memeConcept->造物</li>
+    <li>memeConcept->强化</li>
+    <li>memeConcept->增强</li>
     <li>memeLeaderNoun->haxor</li>
-    <li>memeLeaderNoun->superuser</li>
-    <li>memeLeaderNoun->booster</li>
+    <li>memeLeaderNoun->超级用户</li>
+    <li>memeLeaderNoun->助推者</li>
     <li>memeLeaderAdjective->techno</li>
     <li>memeLeaderAdjective->cyber</li>
-    <li>memeMoralist->installer</li>
-    <li>memeMoralist->fixer</li>
-    <li>memeMoralist->uplifter</li>
-    <li>memeMoralist->technologist</li>
+    <li>memeMoralist->安装者</li>
+    <li>memeMoralist->修理者</li>
+    <li>memeMoralist->提携者</li>
+    <li>memeMoralist->技术专家</li>
   -->
   <Transhumanist.generalRules.rulesStrings>
     <li>memeAdjective->技术</li>
@@ -1148,7 +1148,7 @@
     <li>memeHyphenPrefix->辅助</li>
     <li>memeHyphenPrefix->导线</li>
     <li>memeConcept->工艺</li>
-    <li>memeConcept->silicon</li>
+    <li>memeConcept->硅基</li>
     <li>memeConcept->诡计</li>
     <li>memeConcept->扩张</li>
     <li>memeConcept->增强</li>
@@ -1256,25 +1256,25 @@
     <li>animistFact(tag=meme_TreeConnection)     ->如果森林里有一棵树倒下，它的灵魂就会发出声音，其他所有的灵魂都能听到。</li>
   </TreeConnection.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeCreed->root</li>
-    <li>memeCreed->leaf</li>
-    <li>memeCreed->vine</li>
-    <li>memeCreed->glade</li>
-    <li>memeCreed->forest</li>
-    <li>memeConcept->trees</li>
-    <li>memeConcept->forests</li>
-    <li>memeAdjective->sturdy</li>
-    <li>memeAdjective->barky</li>
-    <li>memeHyphenPrefix->tree</li>
-    <li>memeHyphenPrefix->arbor</li>
-    <li>memeHyphenPrefix->twig</li>
-    <li>memeLeaderNoun->treekeeper</li>
-    <li>memeLeaderNoun->arborist</li>
-    <li>memeLeaderNoun->neodruid</li>
-    <li>memeLeaderAdjective->green</li>
+    <li>memeCreed->根</li>
+    <li>memeCreed->叶</li>
+    <li>memeCreed->藤</li>
+    <li>memeCreed->林间空地</li>
+    <li>memeCreed->森林</li>
+    <li>memeConcept->树木</li>
+    <li>memeConcept->森林</li>
+    <li>memeAdjective->坚实</li>
+    <li>memeAdjective->树皮</li>
+    <li>memeHyphenPrefix->树</li>
+    <li>memeHyphenPrefix->林木</li>
+    <li>memeHyphenPrefix->枝</li>
+    <li>memeLeaderNoun->护树人</li>
+    <li>memeLeaderNoun->树木学家</li>
+    <li>memeLeaderNoun->新德鲁伊</li>
+    <li>memeLeaderAdjective->翠绿</li>
     <li>memeLeaderAdjective->root</li>
-    <li>memeLeaderAdjective->canopy</li>
-    <li>memeMoralist->treespeaker</li>
+    <li>memeLeaderAdjective->林冠</li>
+    <li>memeMoralist->树木言者</li>
   -->
   <TreeConnection.generalRules.rulesStrings>
     <li>memeCreed->根系</li>
@@ -1309,9 +1309,9 @@
     <li>conflict(tag=meme_Tunneler)        ->A claustrophobic [foeLeader] proposed using [dangerousMining] to mine for minerals, putting the [memberNamePlural]' underground homes at risk.</li>
     <li>founderJoin(tag=meme_Tunneler)     ->The prophet [founderName] was miraculously born from the stone of [place_name], and discovered when [founder_possessive] parents broke open a fungus-covered geode.</li>
     <li>victory(tag=meme_Tunneler)         ->The [memberNamePlural] dug a tunnel under the [foeLeader]'s [place_powerCenter], and [founderName] used pheromones to summon giant insects which overran the [foeLeader]'s [foeSoldiers]. [founderName] dragged the [foeLeader] down to a deep dungeon and imprisoned [foeLeader_objective].</li>
-    <li>dangerousMining->strip mining</li>
-    <li>dangerousMining->microchipped insects</li>
-    <li>dangerousMining->nuclear blasting</li>
+    <li>dangerousMining->露天开采</li>
+    <li>dangerousMining->植入芯片的虫子</li>
+    <li>dangerousMining->核爆破</li>
     <li>setup(tag=meme_Tunneler)           ->In a shallow and meaningless world, [founderName] meditated in a deep cave and found meaning, and founded our movement.</li>
     <li>story(uses=1,tag=meme_Tunneler)    ->[founderName] hid treasures in deep caverns, so that [memberNamePlural] would learn to dig deep for them.</li>
     <li>lessonIntro(tag=meme_Tunneler)         ->The codex I found in the City of the Deep taught me one lesson above all others:</li>
@@ -1347,26 +1347,26 @@
     <li>animistFact(tag=meme_Tunneler)     ->焦虑的人类令岩石之灵狂躁，引来了巨型昆虫。</li>
   </Tunneler.descriptionMaker.rules.rulesStrings>
   <!-- EN:
-    <li>memeCreed->cave</li>
-    <li>memeCreed->bunker</li>
-    <li>memeCreed->shaft</li>
-    <li>memeAdjective->deep</li>
-    <li>memeHyphenPrefix->stone</li>
+    <li>memeCreed->洞穴</li>
+    <li>memeCreed->地堡</li>
+    <li>memeCreed->竖井</li>
+    <li>memeAdjective->深</li>
+    <li>memeHyphenPrefix->石</li>
     <li>memeHyphenPrefix->cave</li>
     <li>memeHyphenPrefix->deep</li>
-    <li>memeHyphenPrefix->sub</li>
-    <li>memeHyphenPrefix->under</li>
-    <li>memeConcept->earth</li>
+    <li>memeHyphenPrefix->地下</li>
+    <li>memeHyphenPrefix->岩底</li>
+    <li>memeConcept->土地</li>
     <li>memeConcept->stone</li>
-    <li>memeConcept->depth</li>
-    <li>memeConcept->burial</li>
-    <li>memeLeaderNoun->foredigger</li>
-    <li>memeLeaderNoun->deepsounder</li>
+    <li>memeConcept->深处</li>
+    <li>memeConcept->埋葬</li>
+    <li>memeLeaderNoun->先掘者</li>
+    <li>memeLeaderNoun->深测者</li>
     <li>memeLeaderNoun->shaft</li>
     <li>memeLeaderAdjective->deep</li>
-    <li>memeMoralist->truthdigger</li>
-    <li>memeMoralist->thoughtdigger</li>
-    <li>memeMoralist->mindminer</li>
+    <li>memeMoralist->掘真者</li>
+    <li>memeMoralist->掘思者</li>
+    <li>memeMoralist->采心者</li>
   -->
   <Tunneler.generalRules.rulesStrings>
     <li>memeCreed->洞穴</li>
