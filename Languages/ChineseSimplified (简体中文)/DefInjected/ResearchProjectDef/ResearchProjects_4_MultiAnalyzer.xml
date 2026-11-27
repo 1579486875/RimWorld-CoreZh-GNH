@@ -6,11 +6,11 @@
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
   <AdvancedFabrication.description>解锁用零部件和其他材料制作「高级零部件」。</AdvancedFabrication.description>
   <!-- EN:
-    <li>subject->advanced component fabrication</li>
-    <li>subject_story->traded advanced components to desperate rimworlders</li>
-    <li>subject_story->learned the secrets of fabricating advanced components and died without revealing them</li>
-    <li>subject_story->balked at the extreme cost of crafting advanced components and chose a simpler lifestyle</li>
-    <li>subject_gerund->fabricating advanced components</li>
+    <li>subject->高级零部件制造</li>
+    <li>subject_story->把高级零部件卖给走投无路的边缘世界居民</li>
+    <li>subject_story->学会了制造高级零部件的秘密，直到死都没有透露</li>
+    <li>subject_story->被制造高级零部件的天价成本吓退，选择了更简朴的生活</li>
+    <li>subject_gerund->制造高级零部件</li>
   -->
   <AdvancedFabrication.generalRules.rulesStrings>
     <li>subject->高级零部件装配</li>
@@ -25,12 +25,12 @@
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
   <Bionics.description>解锁制作高科技的仿生体部件，用于替换失去的肢体和器官。需要一名熟练的医生进行安装。</Bionics.description>
   <!-- EN:
-    <li>subject->bionic prosthesis</li>
-    <li>subject_story->worked primarily with disfigured soldiers, crafting bespoke bionic facial elements so they could return to their loved ones</li>
-    <li>subject_story->studied slowed vids of human motion to better craft bionic prosthetics</li>
-    <li>subject_story->was volunteered to have the various prototype bionics  implanted, ending up as more machine than man</li>
-    <li>subject_gerund->constructing bionic prosthetics</li>
-    <li>subject_gerund->utilizing bionic body parts</li>
+    <li>subject->仿生假肢</li>
+    <li>subject_story->主要服务于毁容的士兵，为他们定制仿生面部部件，好让他们能回到亲人身边</li>
+    <li>subject_story->研究人体动作的慢放影像，以更好地制作仿生假肢</li>
+    <li>subject_story->被「志愿」接受了各种原型仿生体的植入，最后机器多过人</li>
+    <li>subject_gerund->建造仿生假肢</li>
+    <li>subject_gerund->使用仿生身体部件</li>
   -->
   <Bionics.generalRules.rulesStrings>
     <li>subject->仿生假体</li>
@@ -46,12 +46,12 @@
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
   <ChargedShot.description>解锁制作发射高伤害脉冲电荷弹的「电荷步枪」和「电荷标枪」。请注意，它们制作时都需要消耗高级零部件。</ChargedShot.description>
   <!-- EN:
-    <li>subject->pulse munitions</li>
-    <li>subject_story->studied glitterworld monorails and modified the tech for weapons</li>
-    <li>subject_story->killed a mechanical crawler by kiting it with a charge lance</li>
-    <li>subject_story->learned how to imbue rifle ammunition with retained charge, heavily increasing its lethality</li>
-    <li>subject_gerund->constructing pulse munitions</li>
-    <li>subject_gerund->utilising pulse munitions</li>
+    <li>subject->脉冲弹药</li>
+    <li>subject_story->研究闪耀世界的单轨列车，并把这项技术改成了武器</li>
+    <li>subject_story->用蓄能长矛放风筝，干掉了一台机械爬行体</li>
+    <li>subject_story->学会了给步枪弹药注入滞留电荷，大幅提升其杀伤力</li>
+    <li>subject_gerund->制造脉冲弹药</li>
+    <li>subject_gerund->使用脉冲弹药</li>
   -->
   <ChargedShot.generalRules.rulesStrings>
     <li>subject->电荷弹</li>
@@ -67,12 +67,12 @@
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
   <Cryptosleep.description>解锁建造「低温休眠舱」，可使其内的生命体进入生理上的暂停状态。</Cryptosleep.description>
   <!-- EN:
-    <li>subject->cryptosleep</li>
-    <li>subject_story->intended to test a prototype cryptosleep casket and woke a generation later, alone</li>
-    <li>subject_story->sentenced the system's worst criminal to indefinite cryptosleep rather than death</li>
-    <li>subject_story->used a cryptosleep capsule to suspend the terminally ill, so they could see their children once they'd grown up</li>
-    <li>subject_gerund->constructing cryptosleep caskets</li>
-    <li>subject_gerund->inducing cryptosleep</li>
+    <li>subject->低温休眠</li>
+    <li>subject_story->本想试一具原型低温休眠舱，结果一个世代后才独自醒来</li>
+    <li>subject_story->把该星系最恶劣的罪犯判为无限期低温休眠，而不是死刑</li>
+    <li>subject_story->用低温休眠舱让绝症患者暂缓，好让他们能见到长大后的孩子</li>
+    <li>subject_gerund->建造低温休眠舱</li>
+    <li>subject_gerund->诱导低温休眠</li>
   -->
   <Cryptosleep.generalRules.rulesStrings>
     <li>subject->低温休眠</li>
@@ -92,12 +92,12 @@
   <!-- EN: About: Getting advanced components -->
   <Fabrication.discoveredLetterTitle>关于：获取高级零部件</Fabrication.discoveredLetterTitle>
   <!-- EN:
-    <li>subject->high-tech fabrication benches</li>
-    <li>subject_story->spent many years crafting advanced components, to make fabrication benches to make more advanced components</li>
-    <li>subject_story->traded everything to build a single fabrication bench</li>
-    <li>subject_story->constructed technological marvels which the feral villagers worshipped as magical</li>
-    <li>subject_gerund->constructing high-tech projects</li>
-    <li>subject_gerund->building high-tech fabrication stations</li>
+    <li>subject->高科技制造台</li>
+    <li>subject_story->花了许多年制造高级零部件，用来造制造台，再造更多高级零部件</li>
+    <li>subject_story->变卖了所有家当，只为造一台制造台</li>
+    <li>subject_story->造出的技术奇观被蛮荒村民当作神迹膜拜</li>
+    <li>subject_gerund->建造高科技项目</li>
+    <li>subject_gerund->建造高科技制造站</li>
   -->
   <Fabrication.generalRules.rulesStrings>
     <li>subject->精密装配台</li>
@@ -113,11 +113,11 @@
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
   <MultiAnalyzer.description>解锁建造「多元分析仪」，用于提高研究速度，以及解锁更高级的研究项目。需要放置在高级研究台附近。</MultiAnalyzer.description>
   <!-- EN:
-    <li>subject->multi-analysis</li>
-    <li>subject_story->automated a research laboratory</li>
-    <li>subject_story->unlocked the trans-spectrum secrets of the universe</li>
-    <li>subject_story->helped identify new stable isotopes</li>
-    <li>subject_gerund->constructing multi-analyzers</li>
+    <li>subject->多元分析</li>
+    <li>subject_story->把一间研究实验室全自动化了</li>
+    <li>subject_story->揭开了宇宙跨频谱的秘密</li>
+    <li>subject_story->协助鉴定出了新的稳定同位素</li>
+    <li>subject_gerund->建造多元分析仪</li>
   -->
   <MultiAnalyzer.generalRules.rulesStrings>
     <li>subject->多元分析</li>
@@ -132,13 +132,13 @@
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
   <PoweredArmor.description>解锁制作「海军装甲」，一种常由高科技突击部队使用的泛用型动力装甲。请注意，制作时需要消耗高级零部件。</PoweredArmor.description>
   <!-- EN:
-    <li>subject->marine armor</li>
-    <li>subject_story->was employed by the shock troops to maintain their armor</li>
-    <li>subject_story->tested the armor by walking, unarmed, through a hostile feral village without receiving a scratch</li>
-    <li>subject_story->intended the armor as protection against the planet's hostile weather, but it worked well against the pirates too</li>
-    <li>subject_gerund->constructing shock troop armor</li>
-    <li>subject_gerund->constructing marine armor</li>
-    <li>subject_gerund->constructing general-use advanced armor</li>
+    <li>subject->陆战队装甲</li>
+    <li>subject_story->受雇于突击部队维护他们的装甲</li>
+    <li>subject_story->为了测试装甲，赤手空拳穿过一座敌对的蛮荒村落，毫发无伤</li>
+    <li>subject_story->本想让装甲抵御这颗行星的恶劣天气，结果对付海盗也很管用</li>
+    <li>subject_gerund->建造突击部队装甲</li>
+    <li>subject_gerund->建造陆战队装甲</li>
+    <li>subject_gerund->建造通用高级装甲</li>
   -->
   <PoweredArmor.generalRules.rulesStrings>
     <li>subject->海军装甲</li>
@@ -155,12 +155,12 @@
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
   <ReconArmor.description>解锁制作「斥候装甲」，一种能为侦察部队提供防护的轻型动力装甲。请注意，制作时需要消耗高级零部件。</ReconArmor.description>
   <!-- EN:
-    <li>subject->recon armor</li>
-    <li>subject_story->led the rebel scouts against the Imperial forces, until captured</li>
-    <li>subject_story->crafted powered armor light and resilient enough for the hammer-users to close with the enemy</li>
-    <li>subject_story->intended recon armor more for hunters than soldiers. It sold well, regardless</li>
-    <li>subject_gerund->crafting recon armor</li>
-    <li>subject_gerund->reducing armor weight</li>
+    <li>subject->侦察装甲</li>
+    <li>subject_story->率领叛军斥候对抗帝国军队，直到被俘</li>
+    <li>subject_story->造出了轻便又坚韧的动力装甲，让持锤者足以贴身接敌</li>
+    <li>subject_story->本想把侦察装甲卖给猎人而非士兵。结果不管怎样都卖得很好</li>
+    <li>subject_gerund->制作侦察装甲</li>
+    <li>subject_gerund->减轻装甲重量</li>
   -->
   <ReconArmor.generalRules.rulesStrings>
     <li>subject->斥候装甲</li>
@@ -176,11 +176,11 @@
   <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
   <RocketswarmLauncher.description>解锁建造「集群火箭发射器」，一种能在战斗的关键时刻对大面积地区进行毁灭性打击的炮塔。需要殖民者手动激活。一轮连射后会进入持续数小时的冷却期。</RocketswarmLauncher.description>
   <!-- EN:
-    <li>subject->rocket turrets</li>
-    <li>subject_story->testified about the use of rocketswarm launchers against civilian targets</li>
-    <li>subject_story->constructed last-ditch defenses, including traps and launchers, in case the settlement was ever threatened</li>
-    <li>subject_story->started by constructing primitive rockets to reach space, but the high failure rate led to them being repurposed as weapons</li>
-    <li>subject_gerund->constructing rocket turrets</li>
+    <li>subject->火箭炮塔</li>
+    <li>subject_story->就火箭群发射器被用于攻击平民目标一事作证</li>
+    <li>subject_story->构筑了最后一道防线，包括陷阱与发射器，以防聚落受到威胁</li>
+    <li>subject_story->起初造原始火箭想上太空，但失败率太高，于是被改作武器</li>
+    <li>subject_gerund->建造火箭炮塔</li>
   -->
   <RocketswarmLauncher.generalRules.rulesStrings>
     <li>subject->火箭炮塔</li>
@@ -195,11 +195,11 @@
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
   <SniperTurret.description>解锁建造「铀弹加农炮塔」。发射大威力和高穿透力的铀弹，能够轻易撕碎像玻璃钢这样的高级防御材料，但近距离的效果较差。</SniperTurret.description>
   <!-- EN:
-    <li>subject->sniper turrets</li>
-    <li>subject_story->led the clean-up after the war, collecting spent radioactive uranium slugs from the front line</li>
-    <li>subject_story->saw a turret shoot straight through an assault mechanoid and needed to understand how</li>
-    <li>subject_story->researched the effects of ammunition density on armor</li>
-    <li>subject_gerund->constructing sniper turrets</li>
+    <li>subject->狙击炮塔</li>
+    <li>subject_story->战后主持清理工作，从前线收集用过的放射性铀弹头</li>
+    <li>subject_story->亲眼看见一座炮塔直接射穿了突击机械体，非要弄明白是怎么做到的</li>
+    <li>subject_story->研究弹药密度对装甲的影响</li>
+    <li>subject_gerund->建造狙击炮塔</li>
   -->
   <SniperTurret.generalRules.rulesStrings>
     <li>subject->狙击炮塔</li>
@@ -214,12 +214,12 @@
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
   <VitalsMonitor.description>解锁建造「生命体征监测仪」，将其放在医疗床旁时能提高治疗质量。</VitalsMonitor.description>
   <!-- EN:
-    <li>subject->vital signs monitoring</li>
-    <li>subject_story->struggled in an overcrowded hospital and vowed to work for change</li>
-    <li>subject_story->nursed a glassworld survivor back to health</li>
-    <li>subject_story->monitored the isolation ward remotely, sending mechanoids in for treatments</li>
-    <li>subject_gerund->monitoring vital signs</li>
-    <li>subject_gerund->constructing vital signs monitors</li>
+    <li>subject->生命体征监测</li>
+    <li>subject_story->在一家拥挤不堪的医院里苦撑，发誓要推动改变</li>
+    <li>subject_story->把一位玻璃世界的幸存者照料到康复</li>
+    <li>subject_story->远程监控隔离病房，派机械体进去做治疗</li>
+    <li>subject_gerund->监测生命体征</li>
+    <li>subject_gerund->建造生命体征监测仪</li>
   -->
   <VitalsMonitor.generalRules.rulesStrings>
     <li>subject->生命体征信号监测</li>

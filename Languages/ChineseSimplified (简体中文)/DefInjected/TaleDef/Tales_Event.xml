@@ -4,19 +4,19 @@
   <!-- EN: collapse dodged -->
   <CollapseDodged.label>躲避塌落</CollapseDodged.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] dodging a cave-in</li>
-    <li>tale_noun->[PAWN_nameDef] nearly crushed by falling objects</li>
-    <li>image->[PAWN_nameFull] leaping away from a collapse of debris [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] narrowly avoiding a cave-in [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] avoiding a falling ceiling [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] avoiding certain death by a falling rock [circumstance_group]</li>
-    <li>circumstance_phrase->that vanishes behind a curtain of debris and dust</li>
-    <li>circumstance_phrase->that pulverizes everything beneath it</li>
-    <li>circumstance_phrase->which impacts with incredible force</li>
-    <li>desc_sentence->[PAWN_pronoun] is sweating with exertion.</li>
-    <li>desc_sentence->[PAWN_pronoun] appears to be terrified.</li>
-    <li>desc_sentence->[PAWN_pronoun] is scratched and bleeding.</li>
-    <li>desc_sentence->[PAWN_pronoun] has lost [PAWN_possessive] balance.</li>
+    <li>tale_noun->[PAWN_nameDef]躲过塌方</li>
+    <li>tale_noun->[PAWN_nameDef]险些被落物砸中</li>
+    <li>image->[PAWN_nameFull]纵身跃离塌落的碎块，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]险险避开塌方，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]避开坠落的天花板，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]避开落石、逃过必死之劫，[circumstance_group]</li>
+    <li>circumstance_phrase->消失在碎块与尘土的帷幕之后</li>
+    <li>circumstance_phrase->把下方一切碾成粉末</li>
+    <li>circumstance_phrase->以不可思议的力量撞击</li>
+    <li>desc_sentence->[PAWN_pronoun]因用力而满头大汗。</li>
+    <li>desc_sentence->[PAWN_pronoun]看上去惊恐万分。</li>
+    <li>desc_sentence->[PAWN_pronoun]身上擦伤流血。</li>
+    <li>desc_sentence->[PAWN_pronoun]失去了平衡。</li>
   -->
   <CollapseDodged.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]躲避塌落</li>
@@ -37,27 +37,27 @@
   <!-- EN: launched ship -->
   <LaunchedShip.label>发射飞船</LaunchedShip.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] escaping the planet</li>
-    <li>tale_noun->[PAWN_nameDef] taking off in a spaceship</li>
-    <li>image->[PAWN_nameFull] being launched towards the stars [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] racing towards the heavens [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] accelerating to escape velocity [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] piloting a rocket [circumstance_group]</li>
-    <li>circumstance_phrase->in front of a [TerrainFeature]</li>
-    <li>circumstance_phrase->with incredible force</li>
-    <li>circumstance_phrase->in a plume of dust and rocks</li>
-    <li>circumstance_phrase->with rockets firing dramatically</li>
-    <li>circumstance_phrase->in a precision takeoff</li>
-    <li>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</li>
-    <li>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes closed and looks confident.</li>
-    <li>desc_sentence->[PAWN_pronoun] is sleeping, [PAWN_possessive] eyes closed peacefully.</li>
-    <li>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</li>
-    <li>desc_sentence->[PAWN_pronoun] seems to be fully in control of the situation.</li>
-    <li>desc_sentence->There is a flame trail licking off the back of the ship.</li>
-    <li>desc_sentence->A nearby [Animal] is looking up, startled.</li>
-    <li>desc_sentence->A [Animal] is fleeing the launch in fear.</li>
-    <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
-    <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
+    <li>tale_noun->[PAWN_nameDef]逃离这颗行星</li>
+    <li>tale_noun->[PAWN_nameDef]乘飞船升空</li>
+    <li>image->[PAWN_nameFull]被射向群星，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]向天空疾驰，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]加速至逃逸速度，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]驾驶着火箭，[circumstance_group]</li>
+    <li>circumstance_phrase->在一处[TerrainFeature]之前</li>
+    <li>circumstance_phrase->以不可思议的力量</li>
+    <li>circumstance_phrase->在尘与石的烟柱中</li>
+    <li>circumstance_phrase->火箭轰然喷发</li>
+    <li>circumstance_phrase->以精准的姿势升空</li>
+    <li>desc_sentence->[PAWN_pronoun]全神贯注地盯着操纵装置。</li>
+    <li>desc_sentence->[PAWN_pronoun]闭着眼，一脸自信。</li>
+    <li>desc_sentence->[PAWN_pronoun]睡着了，双眼安详地闭着。</li>
+    <li>desc_sentence->[PAWN_pronoun]露出冷峻的喜色。</li>
+    <li>desc_sentence->[PAWN_pronoun]似乎完全掌控了局面。</li>
+    <li>desc_sentence->船尾拖出一道火焰的尾迹。</li>
+    <li>desc_sentence->附近一只[Animal]受惊地抬头望。</li>
+    <li>desc_sentence->一只[Animal]惊恐地逃离发射现场。</li>
+    <li>desc_sentence->背景里有一处[TerrainFeature]。</li>
+    <li>desc_sentence->远处一位[PersonJob]默默旁观。</li>
   -->
   <LaunchedShip.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]逃离星球</li>
@@ -87,34 +87,34 @@
   <SocialFight.label>打架</SocialFight.label>
   <!-- EN:
     <li>tale_noun->[INITIATOR_nameDef] [fight_name_present] [RESPONDER_nameDef]</li>
-    <li>image->[INITIATOR_nameFull] insulting [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] taunting [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] threatening [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] intimidating [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] attacking [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] assaulting [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] punching [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] kicking [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>image->[INITIATOR_nameFull] cowering from [RESPONDER_nameFull] [circumstance_group]</li>
-    <li>fight_name_present->assaulting</li>
-    <li>fight_name_present->attacking</li>
-    <li>fight_name_present->fighting</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] insults [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] taunts [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] threatens [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] intimidates [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] attacks [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] assaults [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] punches [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] kicks [INITIATOR_objective]</li>
-    <li>circumstance_phrase->while [RESPONDER_nameDef] cowers from [INITIATOR_objective]</li>
-    <li>desc_sentence->[target] appears without remorse.</li>
-    <li>desc_sentence->[target] is consumed with passionate rage.</li>
-    <li>desc_sentence->[target] has no emotion or expression.</li>
-    <li>desc_sentence->[target]'s body is covered in [Gore].</li>
-    <li>desc_sentence->[target] is screaming furiously.</li>
-    <li>desc_sentence->[target] is visibly wounded.</li>
-    <li>desc_sentence->[target]'s eyes are glowing [Color].</li>
+    <li>image->[INITIATOR_nameFull]侮辱[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]嘲弄[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]威胁[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]恫吓[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]攻击[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]猛攻[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]拳打[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]脚踢[RESPONDER_nameFull]，[circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull]在[RESPONDER_nameFull]面前畏缩，[circumstance_group]</li>
+    <li>fight_name_present->猛攻</li>
+    <li>fight_name_present->攻击</li>
+    <li>fight_name_present->交战</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在侮辱[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在嘲弄[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在威胁[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在恫吓[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在攻击[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在猛攻[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在拳打[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在脚踢[INITIATOR_objective]</li>
+    <li>circumstance_phrase->同时[RESPONDER_nameDef]在[INITIATOR_objective]面前畏缩</li>
+    <li>desc_sentence->[target]毫无悔意。</li>
+    <li>desc_sentence->[target]被炽烈的怒火吞没。</li>
+    <li>desc_sentence->[target]面无表情、毫无情绪。</li>
+    <li>desc_sentence->[target]身上覆满[Gore]。</li>
+    <li>desc_sentence->[target]在狂怒地尖叫。</li>
+    <li>desc_sentence->[target]明显受了伤。</li>
+    <li>desc_sentence->[target]的双眼泛着[Color]的光。</li>
     <li>target->[INITIATOR_nameDef]</li>
     <li>target->[RESPONDER_nameDef]</li>
   -->
