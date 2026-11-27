@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(askerIsNull==true)->我们截获了消息，说[map_definite]不远处有一批价值[itemStashContentsValue]的贵重物品。这批物品包括：\n\n[itemStashContents]\n\n看来[allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]的[asker_faction_leaderTitle][asker_nameDef]告知我们，不远处有一批价值[itemStashContentsValue]的贵重物品。这批物品包括：\n\n[itemStashContents]\n\n[asker_label]说，[allSitePartsDescriptionsExceptFirst]</li>
   -->
   <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->根据我们刚截获的讯息可知，有一批价值约为[itemStashContentsValue]的贵重物资被藏匿在了[map_definite]附近。\n其中包括：\n\n[itemStashContents]\n\n不幸的是，这些物资所在的位置并不安全：\n\n那里存在[allSitePartsDescriptionsExceptFirst]</li>
@@ -12,15 +12,15 @@
   <!-- EN:
     <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
     <li>questName->[stash] of [treasure]</li>
-    <li>stash->Stash</li>
-    <li>stash->Cache</li>
-    <li>stash->Collection</li>
-    <li>stash->Shack</li>
-    <li>treasure->Treasure</li>
-    <li>treasure->Valuables</li>
-    <li>treasure->Fortune</li>
-    <li>treasure->Goodies</li>
-    <li>treasure->Supplies</li>
+    <li>stash->藏匿点</li>
+    <li>stash->储藏处</li>
+    <li>stash->收藏</li>
+    <li>stash->棚屋</li>
+    <li>treasure->宝藏</li>
+    <li>treasure->贵重品</li>
+    <li>treasure->财宝</li>
+    <li>treasure->好东西</li>
+    <li>treasure->补给</li>
   -->
   <OpportunitySite_ItemStash.questNameRules.rulesStrings>
     <li>questName(priority=1)->[asker_nameDef][stash]的[treasure]</li>

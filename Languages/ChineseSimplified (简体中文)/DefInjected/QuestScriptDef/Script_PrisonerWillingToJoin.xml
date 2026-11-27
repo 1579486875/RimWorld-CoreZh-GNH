@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->A prisoner being held by [siteFaction_name] has managed to steal a radio and call you!\n\n[prisoner_nameDef] is being held at a camp near [map_definite][underArmedGuard]. Rescue [prisoner_objective], and [prisoner_pronoun] will join your colony. [prisoner_pronoun] is a [prisoner_age]-year-old [prisoner_title]. [prisoner_pronoun] says that [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nIf you miss this opportunity, you may never hear from [prisoner_nameDef] again.</li>
+    <li>questDescription->一名被[siteFaction_name]关押的囚犯设法偷到一台无线电，联系上了你！\n\n[prisoner_nameDef]被关在[map_definite]附近的一处营地[underArmedGuard]。救出[prisoner_objective]，[prisoner_pronoun]就会加入你的殖民地。[prisoner_pronoun]是一位[prisoner_age]岁的[prisoner_title]。[prisoner_pronoun]说，[allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\n若你错过这次机会，也许再也听不到[prisoner_nameDef]的消息了。</li>
     <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
     <li>formerColonistInfo-></li>
-    <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)->有武装警卫看守</li>
     <li>underArmedGuard-></li>
   -->
   <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
@@ -16,12 +16,12 @@
     <li>underArmedGuard-></li>
   </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->[prisoner_nameDef]'s Salvation</li>
-    <li>questName->[prisoner_nameDef]'s Rescue</li>
-    <li>questName->[prisoner_nameDef]'s Breakout</li>
-    <li>questName->Rescuing [prisoner_nameDef]</li>
-    <li>questName->Saving [prisoner_nameDef]</li>
-    <li>questName->Breaking [prisoner_nameDef] Out</li>
+    <li>questName->[prisoner_nameDef]的救赎</li>
+    <li>questName->[prisoner_nameDef]的营救</li>
+    <li>questName->[prisoner_nameDef]的越狱</li>
+    <li>questName->营救[prisoner_nameDef]</li>
+    <li>questName->拯救[prisoner_nameDef]</li>
+    <li>questName->把[prisoner_nameDef]救出来</li>
   -->
   <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
     <li>questName->[prisoner_nameDef]的脱逃方案</li>

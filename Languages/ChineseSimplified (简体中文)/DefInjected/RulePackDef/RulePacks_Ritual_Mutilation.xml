@@ -6,16 +6,16 @@
     <li>r_ritualName->[ritNoun] of [chosenTheme]</li>
     <li>r_ritualName->[ritNoun] of [memeConcept]</li>
     <li>r_ritualName->[memeAdjective] [ritNoun]</li>
-    <li>ritNoun->mutilation</li>
-    <li>ritNoun->cutting</li>
-    <li>ritNoun->slicing</li>
-    <li>ritNoun->peeling</li>
-    <li>ritNoun->bladerip</li>
-    <li>ritNoun->ripping</li>
-    <li>ritNoun->mangling</li>
-    <li>ritNoun->fleshcarving</li>
-    <li>ritNoun->gashing</li>
-    <li>ritNoun->rend</li>
+    <li>ritNoun->残肢</li>
+    <li>ritNoun->割切</li>
+    <li>ritNoun->片割</li>
+    <li>ritNoun->剥皮</li>
+    <li>ritNoun->刀裂</li>
+    <li>ritNoun->撕裂</li>
+    <li>ritNoun->碾碎</li>
+    <li>ritNoun->刻肉</li>
+    <li>ritNoun->深割</li>
+    <li>ritNoun->裂解</li>
   -->
   <NamerRitualMutilation.rulePack.rulesStrings>
     <li>r_ritualName->[keyDeity][ritNoun]</li>

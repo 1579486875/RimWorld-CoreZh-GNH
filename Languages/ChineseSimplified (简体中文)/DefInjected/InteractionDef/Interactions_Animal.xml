@@ -103,16 +103,16 @@
   <ReleaseToWild.label>放生</ReleaseToWild.label>
   <!-- EN:
     <li>r_logentry->[farewell] [released]</li>
-    <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
-    <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
-    <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
-    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_pronoun] had with [RECIPIENT_nameDef]</li>
-    <li>released->and released [RECIPIENT_objective] to the wild.</li>
-    <li>released->and set [RECIPIENT_objective] free.</li>
-    <li>released->and sent [RECIPIENT_objective] off.</li>
-    <li>released->and let [RECIPIENT_objective] go.</li>
-    <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
-    <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
+    <li>farewell->[INITIATOR_nameDef]最后一次轻抚[RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef]对[RECIPIENT_nameDef]说了几句温暖的话</li>
+    <li>farewell->[INITIATOR_nameDef]取下了[RECIPIENT_nameDef]的项圈</li>
+    <li>farewell->[INITIATOR_nameDef]追忆起与[RECIPIENT_nameDef]共度的美好时光</li>
+    <li>released->并把[RECIPIENT_objective]放归野外。</li>
+    <li>released->并给[RECIPIENT_objective]自由。</li>
+    <li>released->并把[RECIPIENT_objective]送走。</li>
+    <li>released->并让[RECIPIENT_objective]离去。</li>
+    <li>released->然后转身，让[RECIPIENT_objective]离开殖民地。</li>
+    <li>released->然后让[RECIPIENT_objective]去自由生活。</li>
   -->
   <ReleaseToWild.logRulesInitiator.rulesStrings>
     <li>r_logentry->[farewell]，[released]</li>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must build a monument. It is [monumentSize] in size and will require these resources (total value [monumentRequiredResourcesMarketValue_money]):\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\nYou must keep the monument safe for [keepMonumentTicks_duration] after completion, otherwise [asker_nameDef] will be unhappy.</li>
+    <li>questDescription->[decreeIntro]\n\n你必须建造一座纪念碑。它的规模为[monumentSize]，需要以下资源（总价值[monumentRequiredResourcesMarketValue_money]）：\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\n完工后，你必须在[keepMonumentTicks_duration]内保证纪念碑的安全，否则[asker_nameDef]会不高兴。</li>
   -->
   <Decree_BuildMonument.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\n你必须建造一个纪念碑。建造这个[monumentSize]的纪念碑需要以下资源（总价值：[monumentRequiredResourcesMarketValue_money]）：\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\n你在建造完成后 [keepMonumentTicks_duration] 内保护这个纪念碑， 否则 [asker_nameDef] 会不满。</li>
   </Decree_BuildMonument.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->monument decree</li>
+    <li>questName->纪念碑敕令</li>
   -->
   <Decree_BuildMonument.questNameRules.rulesStrings>
     <li>questName->纪念碑法令</li>
@@ -33,20 +33,20 @@
   <Decree_BuildMonument.KeepMonument.slateRef>保护纪念碑 {0}</Decree_BuildMonument.KeepMonument.slateRef>
   
   <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must harvest [plantToHarvest_label] x[harvestItemCount].\n\nYou may need to plant and grow the [plantToHarvest_label] first.\n\n[decreeThreatInfo]</li>
+    <li>questDescription->[decreeIntro]\n\n你必须收获[plantToHarvest_label] x[harvestItemCount]。\n\n你可能需要先种下并培育[plantToHarvest_label]。\n\n[decreeThreatInfo]</li>
   -->
   <Decree_HarvestCrop.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\n你必须收获[plantToHarvest_label]X[harvestItemCount]。\n\n你可能需要先种植[plantToHarvest_label]，然后再来谈收获的事。\n\n[decreeThreatInfo]</li>
   </Decree_HarvestCrop.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->[plantToHarvest_label] harvest decree</li>
+    <li>questName->[plantToHarvest_label]收获敕令</li>
   -->
   <Decree_HarvestCrop.questNameRules.rulesStrings>
     <li>questName->[plantToHarvest_label]收获法令</li>
   </Decree_HarvestCrop.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must hunt or slaughter [animalToHuntWithCount].\n\n[decreeThreatInfo]</li>
+    <li>questDescription->[decreeIntro]\n\n你必须猎杀或宰杀[animalToHuntWithCount]。\n\n[decreeThreatInfo]</li>
     <li>animalToHuntWithCount(countToHunt==1)->[animalToHunt_indefinite]</li>
     <li>animalToHuntWithCount(countToHunt!=1)->[countToHunt] [animalToHunt_labelPlural]</li>
   -->
@@ -56,20 +56,20 @@
     <li>animalToHuntWithCount(countToHunt!=1)->[countToHunt]个[animalToHunt_labelPlural]</li>
   </Decree_HuntAnimal.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->[animalToHunt_label] hunting decree</li>
+    <li>questName->[animalToHunt_label]狩猎敕令</li>
   -->
   <Decree_HuntAnimal.questNameRules.rulesStrings>
     <li>questName->[animalToHunt_label]猎取法令</li>
   </Decree_HuntAnimal.questNameRules.rulesStrings>
   
   <!-- EN:
-    <li>questDescription->[decreeIntro]\n\nYou must produce:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
+    <li>questDescription->[decreeIntro]\n\n你必须生产：\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
   -->
   <Decree_ProduceItem.questDescriptionRules.rulesStrings>
     <li>questDescription->[decreeIntro]\n\n你必须生产：\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
   </Decree_ProduceItem.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->[defToProduce_label] production decree</li>
+    <li>questName->[defToProduce_label]生产敕令</li>
   -->
   <Decree_ProduceItem.questNameRules.rulesStrings>
     <li>questName->[defToProduce_label]生产法令</li>

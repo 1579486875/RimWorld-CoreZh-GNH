@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[intro]The [asker_faction_leaderTitle] of [asker_faction_name] will perform a customary visit with any Archon of his domain upon request. Invite him, satisfy his royal needs for [shuttleDelayTicks_duration], and all of you can ride the shuttle to the Imperial flotilla. You may then join the Imperial court, or escape to a new life among the stars.\n\nEarning the title of Archon means completing quests to earn [asker_faction_royalFavorLabel] with [asker_faction_name]. It may take years to finally achieve the title of Archon.\n\nDuring his visit, you must keep his mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.[threatsInfo]\n\nThe [asker_faction_leaderTitle] will bring four of his personal guards and place them under your command. You must house these guards, but the [asker_faction_leaderTitle] will not complain if they are killed or unhappy.\n\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, you will have another chance at it later.</li>
-    <li>intro(sameQuestsCount==0)->You have learned of a way to escape this planet!\n\n</li>
-    <li>intro(sameQuestsCount>=1)->You have been given another chance at royal ascent.\n\n</li>
-    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nOthers will take the opportunity to try to kill the [asker_faction_leaderTitle], and will attack with great intensity. Be prepared to defend.</li>
+    <li>questDescription->[intro][asker_faction_name]的[asker_faction_leaderTitle]应请求会对其领地内任何一位执政官进行例行拜访。邀请他前来，在[shuttleDelayTicks_duration]内满足他的王室需求，你们所有人就能乘穿梭机前往帝国舰队。之后你可以加入帝国宫廷，也可以逃向群星之间开始新生活。\n\n要获得执政官头衔，就得完成任务、在[asker_faction_name]累积[asker_faction_royalFavorLabel]。最终拿到执政官头衔可能要花上好几年。\n\n他来访期间，你必须把他的心情维持在[lodgersMoodThreshold_percent]以上。这意味着要提供王室级别的待遇，比如一间奢华的卧室。[threatsInfo]\n\n这位[asker_faction_leaderTitle]会带来四名私人卫兵，交给你指挥。你必须安置这些卫兵，但他们被杀或不高兴，这位[asker_faction_leaderTitle]都不会抱怨。\n\n你必须把访客留在[map_definite]，不得把他们派往别处。若你任务失败或迁离，日后还会有另一次机会。</li>
+    <li>intro(sameQuestsCount==0)->你已找到一条逃离这颗行星的路！\n\n</li>
+    <li>intro(sameQuestsCount>=1)->你又得到了一次王室晋升的机会。\n\n</li>
+    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\n其他人会趁此机会设法杀死这位[asker_faction_leaderTitle]，进攻将极为猛烈。请准备好防卫。</li>
     <li>threatsInfo-></li>
   -->
   <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
@@ -16,14 +16,14 @@
     <li>threatsInfo-></li>
   </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName(sameQuestsCount==0)->Royal Ascent</li>
-    <li>questName(sameQuestsCount>=1)->Royal [titleEnd]</li>
-    <li>titleEnd->Ascension</li>
-    <li>titleEnd->Ascendance</li>
-    <li>titleEnd->Visitor</li>
-    <li>titleEnd->Guest</li>
-    <li>titleEnd->Host</li>
-    <li>titleEnd->Victory</li>
+    <li>questName(sameQuestsCount==0)->王室晋升</li>
+    <li>questName(sameQuestsCount>=1)->王室[titleEnd]</li>
+    <li>titleEnd->晋升</li>
+    <li>titleEnd->升临</li>
+    <li>titleEnd->来访</li>
+    <li>titleEnd->贵客</li>
+    <li>titleEnd->主宾</li>
+    <li>titleEnd->凯旋</li>
   -->
   <EndGame_RoyalAscent.questNameRules.rulesStrings>
     <li>questName(sameQuestsCount==0)->荣誉晋升</li>
