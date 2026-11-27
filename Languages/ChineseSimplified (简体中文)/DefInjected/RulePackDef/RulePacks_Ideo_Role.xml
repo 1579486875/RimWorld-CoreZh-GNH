@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_roleName->creaturizer</li>
-    <li>r_roleName->animalor</li>
-    <li>firstPart->fur</li>
-    <li>firstPart->paw</li>
-    <li>firstPart->hoof</li>
-    <li>firstPart->tail</li>
-    <li>firstPart->whisker</li>
-    <li>firstPart->fang</li>
-    <li>firstPart->feral</li>
-    <li>firstPart->snout</li>
-    <li>secondPart(p=4)->kin</li>
-    <li>secondPart(p=4)->touch</li>
+    <li>r_roleName->造物师</li>
+    <li>r_roleName->驭兽者</li>
+    <li>firstPart->毛皮</li>
+    <li>firstPart->爪</li>
+    <li>firstPart->蹄</li>
+    <li>firstPart->尾</li>
+    <li>firstPart->须</li>
+    <li>firstPart->牙</li>
+    <li>firstPart->野性</li>
+    <li>firstPart->鼻吻</li>
+    <li>secondPart(p=4)->亲族</li>
+    <li>secondPart(p=4)->之手</li>
   -->
   <NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
     <li>r_roleName->动物专家</li>
@@ -31,20 +31,20 @@
   </NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_roleName->berserker</li>
-    <li>firstPart->slash</li>
-    <li>firstPart->fist</li>
-    <li>firstPart->bruise</li>
-    <li>firstPart->blade</li>
-    <li>firstPart->brawl</li>
-    <li>firstPart->knuckle</li>
-    <li>firstPart->spear</li>
-    <li>firstPart->sword</li>
-    <li>firstPart->club</li>
-    <li>firstPart->edge</li>
-    <li>firstPart->cut</li>
-    <li>firstPart->smash</li>
-    <li>firstPart->crush</li>
+    <li>r_roleName->狂战士</li>
+    <li>firstPart->斩</li>
+    <li>firstPart->拳</li>
+    <li>firstPart->瘀</li>
+    <li>firstPart->刃</li>
+    <li>firstPart->斗殴</li>
+    <li>firstPart->指节</li>
+    <li>firstPart->矛</li>
+    <li>firstPart->剑</li>
+    <li>firstPart->棍</li>
+    <li>firstPart->锋</li>
+    <li>firstPart->割</li>
+    <li>firstPart->碎</li>
+    <li>firstPart->碾</li>
   -->
   <NamerRoleBrawler.rulePack.rulesStrings>
     <li>r_roleName->狂战士</li>
@@ -64,14 +64,14 @@
   </NamerRoleBrawler.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>firstPart->health</li>
-    <li>firstPart->heal</li>
-    <li>firstPart->heart</li>
-    <li>firstPart->medi</li>
-    <li>firstPart->scalpel</li>
-    <li>firstPart->sanito</li>
-    <li>firstPart->surgo</li>
-    <li>firstPart->clinic</li>
+    <li>firstPart->健康</li>
+    <li>firstPart->疗</li>
+    <li>firstPart->心</li>
+    <li>firstPart->医</li>
+    <li>firstPart->刀</li>
+    <li>firstPart->净</li>
+    <li>firstPart->手术</li>
+    <li>firstPart->诊所</li>
   -->
   <NamerRoleMedicalSpecialist.rulePack.rulesStrings>
     <li>firstPart->医疗</li>
@@ -85,20 +85,20 @@
   </NamerRoleMedicalSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_roleName->spelunker</li>
-    <li>firstPart->mine</li>
-    <li>firstPart->deep</li>
-    <li>firstPart->depth</li>
-    <li>firstPart->rock</li>
-    <li>firstPart->cave</li>
-    <li>firstPart->pick</li>
-    <li>firstPart->drill</li>
-    <li>firstPart->under</li>
-    <li>firstPart->stone</li>
-    <li>firstPart->hill</li>
-    <li>firstPart->hole</li>
-    <li>firstPart->tunnel</li>
-    <li>firstPart->crack</li>
+    <li>r_roleName->洞穴探险者</li>
+    <li>firstPart->矿</li>
+    <li>firstPart->深</li>
+    <li>firstPart->渊</li>
+    <li>firstPart->岩</li>
+    <li>firstPart->洞穴</li>
+    <li>firstPart->镐</li>
+    <li>firstPart->钻</li>
+    <li>firstPart->地下</li>
+    <li>firstPart->石</li>
+    <li>firstPart->丘</li>
+    <li>firstPart->孔</li>
+    <li>firstPart->隧道</li>
+    <li>firstPart->裂</li>
   -->
   <NamerRoleMiner.rulePack.rulesStrings>
     <li>r_roleName->洞窟专家</li>
@@ -139,14 +139,14 @@
   </NamerRoleMoralist.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_roleName->manufactor</li>
-    <li>r_roleName->handyman</li>
-    <li>r_roleName->maker</li>
-    <li>firstPart->make</li>
-    <li>firstPart->craft</li>
-    <li>firstPart->build</li>
-    <li>firstPart->manu</li>
-    <li>firstPart->make</li>
+    <li>r_roleName->制造师</li>
+    <li>r_roleName->多面手</li>
+    <li>r_roleName->匠人</li>
+    <li>firstPart->制</li>
+    <li>firstPart->工艺</li>
+    <li>firstPart->建造</li>
+    <li>firstPart->手工</li>
+    <li>firstPart->制</li>
   -->
   <NamerRoleProductionSpecialist.rulePack.rulesStrings>
     <li>r_roleName->生产专家</li>
@@ -160,16 +160,16 @@
   </NamerRoleProductionSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_roleName->highmind</li>
-    <li>r_roleName->cogitor</li>
-    <li>r_roleName->thinker</li>
-    <li>r_roleName->learner</li>
-    <li>firstPart->mind</li>
-    <li>firstPart->thought</li>
-    <li>firstPart->focus</li>
-    <li>firstPart->neuro</li>
-    <li>firstPart->cogito</li>
-    <li>firstPart->idea</li>
+    <li>r_roleName->高思者</li>
+    <li>r_roleName->思辨者</li>
+    <li>r_roleName->思想者</li>
+    <li>r_roleName->学徒</li>
+    <li>firstPart->思</li>
+    <li>firstPart->念</li>
+    <li>firstPart->专注</li>
+    <li>firstPart->神经</li>
+    <li>firstPart->认知</li>
+    <li>firstPart->理念</li>
   -->
   <NamerRoleResearcher.rulePack.rulesStrings>
     <li>r_roleName->智囊</li>
@@ -185,16 +185,16 @@
   </NamerRoleResearcher.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>firstPart->gun</li>
-    <li>firstPart->shot</li>
-    <li>firstPart->trigger</li>
-    <li>firstPart->bullet</li>
-    <li>firstPart->shell</li>
-    <li>firstPart->aim</li>
-    <li>firstPart->snipe</li>
-    <li>firstPart->point</li>
-    <li>firstPart->shoot</li>
-    <li>secondPart(p=4)->slinger</li>
+    <li>firstPart->枪</li>
+    <li>firstPart->弹</li>
+    <li>firstPart->扳机</li>
+    <li>firstPart->子弹</li>
+    <li>firstPart->炮弹</li>
+    <li>firstPart->瞄准</li>
+    <li>firstPart->狙击</li>
+    <li>firstPart->指向</li>
+    <li>firstPart->射击</li>
+    <li>secondPart(p=4)->投手</li>
   -->
   <NamerRoleShooter.rulePack.rulesStrings>
     <li>firstPart->枪炮</li>
@@ -210,21 +210,21 @@
   </NamerRoleShooter.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_roleName->fertilizer</li>
-    <li>firstPart->leaf</li>
-    <li>firstPart->plant</li>
-    <li>firstPart->green</li>
-    <li>firstPart->sprout</li>
-    <li>firstPart->garden</li>
-    <li>firstPart->flora</li>
-    <li>firstPart->herb</li>
-    <li>firstPart->crop</li>
-    <li>firstPart->farm</li>
-    <li>firstPart->land</li>
-    <li>firstPart->dirt</li>
-    <li>firstPart->seed</li>
-    <li>firstPart->soil</li>
-    <li>firstPart->root</li>
+    <li>r_roleName->沃土者</li>
+    <li>firstPart->叶</li>
+    <li>firstPart->植物</li>
+    <li>firstPart->碧绿</li>
+    <li>firstPart->芽</li>
+    <li>firstPart->园艺</li>
+    <li>firstPart->花神</li>
+    <li>firstPart->草药</li>
+    <li>firstPart->作物</li>
+    <li>firstPart->农</li>
+    <li>firstPart->土地</li>
+    <li>firstPart->泥土</li>
+    <li>firstPart->种子</li>
+    <li>firstPart->土壤</li>
+    <li>firstPart->根</li>
   -->
   <NamerRoleSower.rulePack.rulesStrings>
     <li>r_roleName->种植专家</li>
@@ -246,30 +246,30 @@
   
   <!-- EN:
     <li>r_roleName(p=7)->[firstPart][secondPart]</li>
-    <li>secondPart->master</li>
-    <li>secondPart->crat</li>
-    <li>secondPart->flame</li>
-    <li>secondPart->mind</li>
-    <li>secondPart->head</li>
-    <li>secondPart->eye</li>
-    <li>secondPart->hand</li>
-    <li>secondPart->func</li>
-    <li>secondPart->brain</li>
-    <li>secondPart->holder</li>
-    <li>secondPart->bringer</li>
-    <li>secondPart->talker</li>
-    <li>secondPart->speaker</li>
-    <li>secondPart->knower</li>
-    <li>secondPart->lover</li>
-    <li>secondPart->user</li>
-    <li>secondPart->one</li>
-    <li>secondPart->pert</li>
-    <li>secondPart->itor</li>
-    <li>secondPart->inor</li>
-    <li>secondPart->alor</li>
+    <li>secondPart->大师</li>
+    <li>secondPart->执政</li>
+    <li>secondPart->焰</li>
+    <li>secondPart->思</li>
+    <li>secondPart->头目</li>
+    <li>secondPart->之眼</li>
+    <li>secondPart->之手</li>
+    <li>secondPart->职能</li>
+    <li>secondPart->之脑</li>
+    <li>secondPart->持有者</li>
+    <li>secondPart->带来者</li>
+    <li>secondPart->言者</li>
+    <li>secondPart->说者</li>
+    <li>secondPart->知者</li>
+    <li>secondPart->爱者</li>
+    <li>secondPart->用者</li>
+    <li>secondPart->者</li>
+    <li>secondPart->专家</li>
+    <li>secondPart->者</li>
+    <li>secondPart->者</li>
+    <li>secondPart->者</li>
     <li>secondPart->or</li>
-    <li>secondPart->izer</li>
-    <li>secondPart->iner</li>
+    <li>secondPart->者</li>
+    <li>secondPart->者</li>
   -->
   <NamerRoleSpecialistUtility.rulePack.rulesStrings>
     <li>r_roleName(p=7)->[firstPart][secondPart]</li>
