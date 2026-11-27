@@ -3,27 +3,27 @@
   
   <!-- EN:
     <li>r_name->[msyl][msyl] [mechhive]</li>
-    <li>mechhive->mechhive</li>
-    <li>msyl->nyar</li>
-    <li>msyl->alg</li>
-    <li>msyl->xan</li>
-    <li>msyl->zel</li>
-    <li>msyl->kil</li>
-    <li>msyl->len</li>
-    <li>msyl->lax</li>
-    <li>msyl->alph</li>
-    <li>msyl->ome</li>
-    <li>msyl->iri</li>
-    <li>msyl->slin</li>
-    <li>msyl->toth</li>
-    <li>msyl->arth</li>
-    <li>msyl->unth</li>
+    <li>mechhive->机械巢群</li>
+    <li>msyl->尼亚尔</li>
+    <li>msyl->阿尔格</li>
+    <li>msyl->赞</li>
+    <li>msyl->泽尔</li>
+    <li>msyl->基尔</li>
+    <li>msyl->伦</li>
+    <li>msyl->拉克斯</li>
+    <li>msyl->阿尔夫</li>
+    <li>msyl->奥姆</li>
+    <li>msyl->伊里</li>
+    <li>msyl->斯林</li>
+    <li>msyl->托斯</li>
+    <li>msyl->阿斯</li>
+    <li>msyl->温斯</li>
     <li>msyl->ox</li>
-    <li>msyl->arm</li>
-    <li>msyl->murd</li>
-    <li>msyl->zen</li>
-    <li>msyl->yoth</li>
-    <li>msyl->lite</li>
+    <li>msyl->阿姆</li>
+    <li>msyl->默德</li>
+    <li>msyl->泽恩</li>
+    <li>msyl->约斯</li>
+    <li>msyl->莱特</li>
   -->
   <NamerFactionMechanoid.rulePack.rulesStrings>
     <li>r_name->[msyl][msyl] [mechhive]</li>
@@ -84,28 +84,28 @@
     <li>groupname->Words/Nouns/GroupNames</li>
   </NamerFactionPirate.rulePack.rulesFiles>
   <!-- EN:
-    <li>r_name->The [AnimalBadass]s</li>
-    <li>r_name->The [AnimalBadass] Men</li>
-    <li>r_name->The [AnimalBadass]s of [ConceptBadass]</li>
-    <li>r_name->The [PersonBadass]s of [ConceptBadass]</li>
-    <li>r_name->The [PersonBadass]s</li>
-    <li>r_name->The [Enemy]s</li>
-    <li>r_name->The [Weapon] Men</li>
-    <li>r_name->The [Weapon]s</li>
-    <li>r_name->The [Weapon] [AnimalBadass]s</li>
-    <li>r_name->The [Weapon] [Enemy]s</li>
-    <li>r_name->The [ColorBadass] [Weapon]s</li>
-    <li>r_name->The [ColorBadass] [AnimalBadass]s</li>
-    <li>r_name->The [ColorBadass] [PersonBadass]s</li>
-    <li>r_name->The [ColorBadass] [Enemy]s</li>
-    <li>r_name->The [PersonBadass] [groupname]</li>
-    <li>r_name->The [Enemy] [Enemy]s</li>
-    <li>r_name->The [AdjectiveBadass] [groupname]</li>
-    <li>r_name->The [AdjectiveBadass] [AnimalBadass]s</li>
-    <li>r_name->The [AdjectiveBadass] [Enemy]s</li>
-    <li>r_name->The [AdjectiveBadass] [PersonBadass]s</li>
-    <li>r_name->The [PersonAlly]s of [ConceptBadass]</li>
-    <li>r_name(p=0.4)->The Eaters of [Gore]</li>
+    <li>r_name->[AnimalBadass]们</li>
+    <li>r_name->[AnimalBadass]汉子</li>
+    <li>r_name->[ConceptBadass]的[AnimalBadass]们</li>
+    <li>r_name->[ConceptBadass]的[PersonBadass]们</li>
+    <li>r_name->[PersonBadass]们</li>
+    <li>r_name->[Enemy]们</li>
+    <li>r_name->[Weapon]汉子</li>
+    <li>r_name->[Weapon]们</li>
+    <li>r_name->[Weapon][AnimalBadass]们</li>
+    <li>r_name->[Weapon][Enemy]们</li>
+    <li>r_name->[ColorBadass][Weapon]们</li>
+    <li>r_name->[ColorBadass][AnimalBadass]们</li>
+    <li>r_name->[ColorBadass][PersonBadass]们</li>
+    <li>r_name->[ColorBadass][Enemy]们</li>
+    <li>r_name->[PersonBadass][groupname]</li>
+    <li>r_name->[Enemy][Enemy]们</li>
+    <li>r_name->[AdjectiveBadass][groupname]</li>
+    <li>r_name->[AdjectiveBadass][AnimalBadass]们</li>
+    <li>r_name->[AdjectiveBadass][Enemy]们</li>
+    <li>r_name->[AdjectiveBadass][PersonBadass]们</li>
+    <li>r_name->[ConceptBadass]的[PersonAlly]们</li>
+    <li>r_name(p=0.4)->[Gore]的食者</li>
     <li>r_name->[NamePerson]'s [Enemy]s</li>
     <li>r_name->[NamePerson]'s [AnimalBadass]s</li>
     <li>r_name->[NamePerson]'s [Weapon]s</li>
@@ -150,11 +150,11 @@
   </NamerFactionTribal.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[WordTribal] [political_union_tribal]</li>
-    <li>r_name->The [WordTribal] [political_union_tribal]</li>
-    <li>r_name->The [Color] [TerrainFeature] [political_union_tribal]</li>
+    <li>r_name->[WordTribal][political_union_tribal]</li>
+    <li>r_name->[Color][TerrainFeature][political_union_tribal]</li>
     <li>r_name->[political_union_tribal] of [WordTribal]</li>
-    <li>r_name->The [Color] [Animal] [WordTribal]</li>
-    <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
+    <li>r_name->[Color][Animal][WordTribal]</li>
+    <li>r_name->[TerrainFeature]的[political_union_tribal]</li>
   -->
   <NamerFactionTribal.rulePack.rulesStrings>
     <li>r_name->[WordTribal][political_union_tribal]</li>
@@ -166,14 +166,14 @@
   </NamerFactionTribal.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_name->Colony</li>
+    <li>r_name->殖民地</li>
   -->
   <NamerInitialSettlementColony.rulePack.rulesStrings>
     <li>r_name->殖民地</li>
   </NamerInitialSettlementColony.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_name->Village</li>
+    <li>r_name->村庄</li>
   -->
   <NamerInitialSettlementTribe.rulePack.rulesStrings>
     <li>r_name->村庄</li>
@@ -204,9 +204,9 @@
     <li>townname_combo(p=2)->[concept_positive] [Community]</li>
     <li>townname_combo(p=3)->[Character]'s [TerrainFeature]</li>
     <li>townname_combo(p=3)->[Character]'s [Community]</li>
-    <li>townname_near->[nearnameinitial]-at-the-[TerrainFeature]</li>
-    <li>townname_near->[nearnameinitial]-by-the-[TerrainFeature]</li>
-    <li>townname_near->[nearnameinitial]-on-the-[TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial]-临-[TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial]-傍-[TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial]-居-[TerrainFeature]</li>
     <li>nearnameinitial->[townname_wordgen]</li>
     <li>nearnameinitial->[Community]</li>
     <li>townname_wordgen(p=2)->[SylE][SylE]</li>
@@ -215,29 +215,29 @@
     <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
     <li>townname_wordgen->[TerrainFeature][townend]</li>
     <li>townname_wordgen->[topicalnoun][townend]</li>
-    <li>townend->ville</li>
-    <li>townend->town</li>
-    <li>townend->hurst</li>
-    <li>townend->bourne</li>
-    <li>townend->brad</li>
-    <li>townend->dale</li>
-    <li>townend->hope</li>
-    <li>townend->ing</li>
-    <li>townend->ness</li>
-    <li>townend->mere</li>
-    <li>townend->shaw</li>
-    <li>townend->wick</li>
-    <li>townend->ton</li>
-    <li>townend->ston</li>
+    <li>townend->维尔</li>
+    <li>townend->镇</li>
+    <li>townend->赫斯特</li>
+    <li>townend->伯恩</li>
+    <li>townend->布拉德</li>
+    <li>townend->谷</li>
+    <li>townend->霍普</li>
+    <li>townend->英</li>
+    <li>townend->内斯</li>
+    <li>townend->米尔</li>
+    <li>townend->肖</li>
+    <li>townend->威克</li>
+    <li>townend->顿</li>
+    <li>townend->斯顿</li>
     <li>townend->os</li>
-    <li>townend->den</li>
-    <li>townend->tas</li>
-    <li>townend->wood</li>
-    <li>townend->land</li>
-    <li>townend->worth</li>
-    <li>townend->roon</li>
-    <li>townend->ron</li>
-    <li>townend->well</li>
+    <li>townend->登</li>
+    <li>townend->塔斯</li>
+    <li>townend->伍德</li>
+    <li>townend->兰</li>
+    <li>townend->沃斯</li>
+    <li>townend->鲁恩</li>
+    <li>townend->罗恩</li>
+    <li>townend->韦尔</li>
   -->
   <NamerSettlementOutlander.rulePack.rulesStrings>
     <li>r_name(p=12)->[townname_wordgen]</li>
@@ -309,27 +309,27 @@
     <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
     <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
     <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
-    <li>townendevil->vast</li>
-    <li>townendevil->varg</li>
-    <li>townendevil->vix</li>
-    <li>townendevil->tor</li>
-    <li>townendevil->tear</li>
-    <li>townendevil->cut</li>
-    <li>townendevil->lop</li>
-    <li>townendevil->oze</li>
-    <li>townendevil->ozzle</li>
-    <li>townendevil->latch</li>
-    <li>townendevil->lock</li>
-    <li>townendevil->burn</li>
-    <li>townendevil->sear</li>
-    <li>townendevil->shank</li>
-    <li>townendevil->hurt</li>
-    <li>townendevil->vash</li>
-    <li>townendevil->warg</li>
-    <li>townendevil->wug</li>
-    <li>townendevil->thot</li>
-    <li>townendevil->thard</li>
-    <li>townendevil->thad</li>
+    <li>townendevil->瓦斯特</li>
+    <li>townendevil->瓦格</li>
+    <li>townendevil->维克斯</li>
+    <li>townendevil->托尔</li>
+    <li>townendevil->提尔</li>
+    <li>townendevil->卡特</li>
+    <li>townendevil->洛普</li>
+    <li>townendevil->奥兹</li>
+    <li>townendevil->奥兹尔</li>
+    <li>townendevil->拉奇</li>
+    <li>townendevil->洛克</li>
+    <li>townendevil->伯恩</li>
+    <li>townendevil->西尔</li>
+    <li>townendevil->尚克</li>
+    <li>townendevil->赫特</li>
+    <li>townendevil->瓦什</li>
+    <li>townendevil->瓦格</li>
+    <li>townendevil->乌格</li>
+    <li>townendevil->索特</li>
+    <li>townendevil->萨德</li>
+    <li>townendevil->萨德</li>
   -->
   <NamerSettlementPirate.rulePack.rulesStrings>
     <li>r_name(p=4)->[townname_combo]</li>

@@ -3,37 +3,37 @@
   
   <!-- EN:
     <li>r_name->[firstName] [Syl][End]</li>
-    <li>End->cate</li>
-    <li>End->chite</li>
-    <li>End->cite</li>
-    <li>End->fide</li>
-    <li>End->gite</li>
-    <li>End->line</li>
-    <li>End->mine</li>
-    <li>End->mite</li>
+    <li>End->凯特</li>
+    <li>End->凯特</li>
+    <li>End->赛特</li>
+    <li>End->法德</li>
+    <li>End->盖特</li>
+    <li>End->莱恩</li>
+    <li>End->迈恩</li>
+    <li>End->迈特</li>
     <li>End->na</li>
-    <li>End->nate</li>
-    <li>End->nel</li>
-    <li>End->net</li>
-    <li>End->phite</li>
-    <li>End->quart</li>
-    <li>End->rift</li>
-    <li>End->rit</li>
-    <li>End->rock</li>
-    <li>End->ryl</li>
-    <li>End->salt</li>
-    <li>End->site</li>
-    <li>End->spar</li>
-    <li>End->spore</li>
-    <li>End->sum</li>
-    <li>End->tite</li>
-    <li>End->turf</li>
-    <li>End->vein</li>
-    <li>End->vel</li>
-    <li>End->vine</li>
-    <li>End->vite</li>
-    <li>End->zite</li>
-    <li>End->drite</li>
+    <li>End->内特</li>
+    <li>End->内尔</li>
+    <li>End->内特</li>
+    <li>End->法伊特</li>
+    <li>End->夸特</li>
+    <li>End->里夫特</li>
+    <li>End->里特</li>
+    <li>End->岩</li>
+    <li>End->瑞尔</li>
+    <li>End->盐</li>
+    <li>End->赛特</li>
+    <li>End->斯帕</li>
+    <li>End->孢</li>
+    <li>End->苏姆</li>
+    <li>End->泰特</li>
+    <li>End->草皮</li>
+    <li>End->脉</li>
+    <li>End->维尔</li>
+    <li>End->藤</li>
+    <li>End->维特</li>
+    <li>End->赛特</li>
+    <li>End->德莱特</li>
   -->
   <NamerPersonDirtmole_Female.rulePack.rulesStrings>
     <li>r_name->[firstName] [Syl][End]</li>
@@ -72,37 +72,37 @@
   
   <!-- EN:
     <li>r_name->[firstName] [Syl][End]</li>
-    <li>End->cate</li>
-    <li>End->chite</li>
-    <li>End->cite</li>
-    <li>End->fide</li>
-    <li>End->gite</li>
-    <li>End->line</li>
-    <li>End->mine</li>
-    <li>End->mite</li>
+    <li>End->凯特</li>
+    <li>End->凯特</li>
+    <li>End->赛特</li>
+    <li>End->法德</li>
+    <li>End->盖特</li>
+    <li>End->莱恩</li>
+    <li>End->迈恩</li>
+    <li>End->迈特</li>
     <li>End->na</li>
-    <li>End->nate</li>
-    <li>End->nel</li>
-    <li>End->net</li>
-    <li>End->phite</li>
-    <li>End->quart</li>
-    <li>End->rift</li>
-    <li>End->rit</li>
-    <li>End->rock</li>
-    <li>End->ryl</li>
-    <li>End->salt</li>
-    <li>End->site</li>
-    <li>End->spar</li>
-    <li>End->spore</li>
-    <li>End->sum</li>
-    <li>End->tite</li>
-    <li>End->turf</li>
-    <li>End->vein</li>
-    <li>End->vel</li>
-    <li>End->vine</li>
-    <li>End->vite</li>
-    <li>End->zite</li>
-    <li>End->drite</li>
+    <li>End->内特</li>
+    <li>End->内尔</li>
+    <li>End->内特</li>
+    <li>End->法伊特</li>
+    <li>End->夸特</li>
+    <li>End->里夫特</li>
+    <li>End->里特</li>
+    <li>End->岩</li>
+    <li>End->瑞尔</li>
+    <li>End->盐</li>
+    <li>End->赛特</li>
+    <li>End->斯帕</li>
+    <li>End->孢</li>
+    <li>End->苏姆</li>
+    <li>End->泰特</li>
+    <li>End->草皮</li>
+    <li>End->脉</li>
+    <li>End->维尔</li>
+    <li>End->藤</li>
+    <li>End->维特</li>
+    <li>End->赛特</li>
+    <li>End->德莱特</li>
   -->
   <NamerPersonDirtmole_Male.rulePack.rulesStrings>
     <li>r_name->[firstName] [Syl][End]</li>
@@ -148,26 +148,26 @@
     <li>lastName->[SylI][nameEnd]</li>
     <li>lastName->[SylI][SylI][nameEnd]</li>
     <li>nameEnd->iv</li>
-    <li>nameEnd->ich</li>
-    <li>nameEnd->izz</li>
+    <li>nameEnd->伊奇</li>
+    <li>nameEnd->伊兹</li>
     <li>nameEnd->in</li>
     <li>nameEnd->ox</li>
     <li>nameEnd->ov</li>
-    <li>nameEnd->rach</li>
-    <li>nameEnd->rath</li>
-    <li>nameEnd->rat</li>
-    <li>nameEnd->rov</li>
-    <li>nameEnd->rozz</li>
-    <li>nameEnd->ron</li>
-    <li>nameEnd->vin</li>
-    <li>nameEnd->von</li>
-    <li>nameEnd->vozz</li>
-    <li>nameEnd->ith</li>
-    <li>nameEnd->nove</li>
-    <li>nameEnd->novo</li>
-    <li>nameEnd->nav</li>
-    <li>nameEnd->naz</li>
-    <li>nameEnd->nath</li>
+    <li>nameEnd->拉奇</li>
+    <li>nameEnd->拉斯</li>
+    <li>nameEnd->拉特</li>
+    <li>nameEnd->罗夫</li>
+    <li>nameEnd->罗兹</li>
+    <li>nameEnd->罗恩</li>
+    <li>nameEnd->文</li>
+    <li>nameEnd->冯</li>
+    <li>nameEnd->沃兹</li>
+    <li>nameEnd->伊斯</li>
+    <li>nameEnd->诺维</li>
+    <li>nameEnd->诺沃</li>
+    <li>nameEnd->纳夫</li>
+    <li>nameEnd->纳兹</li>
+    <li>nameEnd->纳斯</li>
   -->
   <NamerPersonImpid.rulePack.rulesStrings>
     <li>r_name->[firstName] [lastName]</li>
@@ -214,21 +214,21 @@
     <li>nameEnd->ug</li>
     <li>nameEnd->ag</li>
     <li>nameEnd->up</li>
-    <li>nameEnd->ork</li>
-    <li>nameEnd->org</li>
+    <li>nameEnd->奥克</li>
+    <li>nameEnd->奥格</li>
     <li>nameEnd->en</li>
     <li>nameEnd->er</li>
     <li>nameEnd->ub</li>
-    <li>nameEnd->opp</li>
+    <li>nameEnd->奥普</li>
     <li>nameEnd->is</li>
     <li>nameEnd->ow</li>
     <li>nameEnd->ap</li>
     <li>nameEnd->ag</li>
     <li>nameEnd->og</li>
-    <li>nameEnd->ogg</li>
-    <li>nameEnd->obb</li>
-    <li>nameEnd->oik</li>
-    <li>nameEnd->oin</li>
+    <li>nameEnd->奥格</li>
+    <li>nameEnd->奥布</li>
+    <li>nameEnd->奥伊克</li>
+    <li>nameEnd->奥因</li>
   -->
   <NamerPersonPigskin.rulePack.rulesStrings>
     <li>r_name->[firstName] [lastName]</li>
@@ -269,30 +269,30 @@
     <li>lastName->[Syl][End]</li>
     <li>End->ad</li>
     <li>End->ak</li>
-    <li>End->ank</li>
-    <li>End->ash</li>
-    <li>End->eek</li>
+    <li>End->安克</li>
+    <li>End->灰</li>
+    <li>End->伊克</li>
     <li>End->ek</li>
-    <li>End->enk</li>
+    <li>End->恩克</li>
     <li>End->er</li>
-    <li>End->esk</li>
+    <li>End->埃斯克</li>
     <li>End->ez</li>
-    <li>End->gun</li>
+    <li>End->冈</li>
     <li>End->ik</li>
     <li>End->ip</li>
-    <li>End->isk</li>
+    <li>End->伊斯克</li>
     <li>End->ix</li>
     <li>End->iz</li>
-    <li>End->kill</li>
-    <li>End->kin</li>
-    <li>End->ling</li>
-    <li>End->man</li>
-    <li>End->men</li>
-    <li>End->nik</li>
+    <li>End->基尔</li>
+    <li>End->金</li>
+    <li>End->林</li>
+    <li>End->曼</li>
+    <li>End->门</li>
+    <li>End->尼克</li>
     <li>End->ox</li>
-    <li>End->skow</li>
-    <li>End->smoke</li>
-    <li>End->waste</li>
+    <li>End->斯科</li>
+    <li>End->烟</li>
+    <li>End->荒原</li>
     <li>End->y</li>
   -->
   <NamerPersonWaster.rulePack.rulesStrings>
@@ -337,21 +337,21 @@
     <li>firstName->[SylY][SylY][nameEnd]</li>
     <li>lastName(p=2)->[SylY][nameEnd]</li>
     <li>lastName->[SylY][SylY][nameEnd]</li>
-    <li>lastName->Kin'[SylY][nameEnd]</li>
-    <li>lastName->Wyn'[SylY][nameEnd]</li>
-    <li>nameEnd(p=3)->ytt</li>
-    <li>nameEnd->esh</li>
-    <li>nameEnd->ott</li>
-    <li>nameEnd->osh</li>
-    <li>nameEnd->ark</li>
-    <li>nameEnd->erk</li>
-    <li>nameEnd->ersh</li>
+    <li>lastName->金'[SylY][nameEnd]</li>
+    <li>lastName->温'[SylY][nameEnd]</li>
+    <li>nameEnd(p=3)->伊特</li>
+    <li>nameEnd->埃什</li>
+    <li>nameEnd->奥特</li>
+    <li>nameEnd->奥什</li>
+    <li>nameEnd->阿克</li>
+    <li>nameEnd->埃克</li>
+    <li>nameEnd->埃什</li>
     <li>nameEnd->uk</li>
-    <li>nameEnd->yon</li>
+    <li>nameEnd->永</li>
     <li>nameEnd->en</li>
     <li>nameEnd->ul</li>
     <li>nameEnd->ya</li>
-    <li>nameEnd->ysh</li>
+    <li>nameEnd->伊什</li>
     <li>nameEnd->ys</li>
     <li>nameEnd->yn</li>
   -->
