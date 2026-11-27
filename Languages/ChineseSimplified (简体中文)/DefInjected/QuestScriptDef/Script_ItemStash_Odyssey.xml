@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[discoveryMethod] the location of a collection of valuable items worth [itemStashContentsValue]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription->[discoveryMethod]一批价值[itemStashContentsValue]的贵重物品的位置。这批物品包括：\n\n[itemStashContents]\n\n看来[allSitePartsDescriptionsExceptFirst]</li>
   -->
   <OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
     <li>questDescription->[discoveryMethod]了一批价值约为[itemStashContentsValue]的贵重物资藏匿点。藏匿点包含：\n\n[itemStashContents]\n\n似乎[allSitePartsDescriptionsExceptFirst]</li>
   </OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[stash] of [treasure]</li>
-    <li>stash->Stash</li>
-    <li>stash->Cache</li>
-    <li>stash->Collection</li>
-    <li>stash->Shack</li>
-    <li>treasure->Treasure</li>
-    <li>treasure->Valuables</li>
-    <li>treasure->Fortune</li>
-    <li>treasure->Goodies</li>
-    <li>treasure->Supplies</li>
+    <li>stash->藏匿点</li>
+    <li>stash->储藏处</li>
+    <li>stash->收藏</li>
+    <li>stash->棚屋</li>
+    <li>treasure->宝藏</li>
+    <li>treasure->贵重品</li>
+    <li>treasure->财宝</li>
+    <li>treasure->好东西</li>
+    <li>treasure->补给</li>
   -->
   <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
     <li>questName->[stash][treasure]</li>
@@ -32,14 +32,14 @@
     <li>treasure->贵重补给</li>
   </OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
   <!-- EN:
-    <li>subject->loot stashes</li>
-    <li>subject->secret treasures</li>
-    <li>subject->valuables</li>
-    <li>questMapFeature->drawing of a treasure chest</li>
-    <li>questMapFeature->supply shack</li>
-    <li>questMapText->secret item stash</li>
-    <li>questMapText->loot here</li>
-    <li>questMapText->hidden valuables</li>
+    <li>subject->战利品藏匿点</li>
+    <li>subject->秘密宝藏</li>
+    <li>subject->贵重品</li>
+    <li>questMapFeature->一幅宝箱的图画</li>
+    <li>questMapFeature->补给棚屋</li>
+    <li>questMapText->秘密物品藏匿点</li>
+    <li>questMapText->此处有战利品</li>
+    <li>questMapText->隐藏的贵重品</li>
   -->
   <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
     <li>subject->战利品藏匿点</li>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN:
-    <li>physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->这件家具上刻着一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件家具上有一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件家具上的一处雕刻[depicts]着[image]。[desc_sentence_group]</li>
   -->
   <ArtDescription_Furniture.rulePack.rulesStrings>
     <li>physical_description_root->这件家具上雕刻的内容[depiction]了[image]。[desc_sentence_group]</li>
@@ -13,10 +13,10 @@
   </ArtDescription_Furniture.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->石棺上刻着一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->石棺上有一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->石棺上刻着一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这具石棺上的一处雕刻[depicts]着[image]。[desc_sentence_group]</li>
   -->
   <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
     <li>physical_description_root->这件棺材上雕刻的内容[depiction]了[image]。[desc_sentence_group]</li>
@@ -26,13 +26,13 @@
   </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>sculpture->sculpture</li>
-    <li>sculpture->work</li>
-    <li>sculpture->piece</li>
-    <li>sculpture->carving</li>
+    <li>physical_description_root->这件[sculpture][depicts]着[image]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件[sculpture]上有一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件[sculpture]上有一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>sculpture->雕塑</li>
+    <li>sculpture->作品</li>
+    <li>sculpture->物件</li>
+    <li>sculpture->刻品</li>
   -->
   <ArtDescription_Sculpture.rulePack.rulesStrings>
     <li>physical_description_root->这件[sculpture][depicts]的是[image]。[desc_sentence_group]</li>
@@ -45,9 +45,9 @@
   </ArtDescription_Sculpture.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->这件武器上刻着一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件武器上有一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件武器上的一处雕刻[depicts]着[image]。[desc_sentence_group]</li>
   -->
   <ArtDescription_WeaponGun.rulePack.rulesStrings>
     <li>physical_description_root->这件武器雕刻的内容[depiction]了[image]。[desc_sentence_group]</li>
@@ -56,9 +56,9 @@
   </ArtDescription_WeaponGun.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->这件武器上刻着一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件武器上有一幅[image]的[depiction]。[desc_sentence_group]</li>
+    <li>physical_description_root->这件武器上的一处雕刻[depicts]着[image]。[desc_sentence_group]</li>
   -->
   <ArtDescription_WeaponMelee.rulePack.rulesStrings>
     <li>physical_description_root->这件武器上雕刻的内容[depiction]了[image]。[desc_sentence_group]</li>
