@@ -6,12 +6,12 @@
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
   <Brewing.description>解锁建造「酿造台」。将啤酒花酿成美味的啤酒。</Brewing.description>
   <!-- EN:
-    <li>subject->brewing</li>
-    <li>subject_story->brewed a unique stout that became famous across the system</li>
-    <li>subject_story->retired to run a public house on an animal world</li>
-    <li>subject_story->specialized in climate-controlled fermentation techniques</li>
-    <li>subject_gerund->constructing breweries</li>
-    <li>subject_gerund->brewing beer</li>
+    <li>subject->酿造</li>
+    <li>subject_story->酿出了一种独特的烈性黑啤，名声传遍整个星系</li>
+    <li>subject_story->退休后在一个动物世界经营酒馆</li>
+    <li>subject_story->专精于控温发酵技术</li>
+    <li>subject_gerund->建造酿酒厂</li>
+    <li>subject_gerund->酿造啤酒</li>
   -->
   <Brewing.generalRules.rulesStrings>
     <li>subject->酿酒</li>
@@ -27,11 +27,11 @@
   <!-- EN: Weave beautiful carpets from cloth. -->
   <CarpetMaking.description>解锁建造「地毯」，用来提升居住环境的质量。</CarpetMaking.description>
   <!-- EN:
-    <li>subject->carpet-making</li>
-    <li>subject_story->learned to weave carpets from hair, for a distant Emperor</li>
-    <li>subject_story->left behind an unparalleled collection of carpets and tapestries</li>
-    <li>subject_story->settled on a medieval moon, where the carpetweaving craft was truly appreciated</li>
-    <li>subject_gerund->weaving carpets</li>
+    <li>subject->地毯制作</li>
+    <li>subject_story->学会了用毛发织地毯，献给一位远方的皇帝</li>
+    <li>subject_story->留下了一批无可匹敌的地毯与挂毯收藏</li>
+    <li>subject_story->在一颗中世纪卫星上定居，那里的织毯手艺真正受人赏识</li>
+    <li>subject_gerund->编织地毯</li>
   -->
   <CarpetMaking.generalRules.rulesStrings>
     <li>subject->地毯铺设</li>
@@ -46,13 +46,13 @@
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation and it's a valuable trade good too. -->
   <Cocoa.description>解锁种植「可可树」。收获的美味巧克力能够满足娱乐需求，也是广受欢迎的交易品。</Cocoa.description>
   <!-- EN:
-    <li>subject->cocoa</li>
-    <li>subject->chocolate</li>
-    <li>subject_story->became obsessed with chocolate and had to be restrained</li>
-    <li>subject_story->studied the fermentation process of cocoa for a thesis</li>
-    <li>subject_story->set up the best chocolate shop in the sector</li>
-    <li>subject_gerund->producing chocolate</li>
-    <li>subject_gerund->cultivating cocoa</li>
+    <li>subject->可可</li>
+    <li>subject->巧克力</li>
+    <li>subject_story->对巧克力痴迷到不得不被人拉住</li>
+    <li>subject_story->为写论文研究了可可的发酵过程</li>
+    <li>subject_story->开出了整个星区最好的巧克力店</li>
+    <li>subject_gerund->生产巧克力</li>
+    <li>subject_gerund->栽培可可</li>
   -->
   <Cocoa.generalRules.rulesStrings>
     <li>subject->可可树</li>
@@ -69,11 +69,11 @@
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
   <ComplexClothing.description>解锁建造「裁缝台」，用于缝制复杂的衣物，比如裤子、防尘大衣、牛仔帽等。</ComplexClothing.description>
   <!-- EN:
-    <li>subject->complex tailoring</li>
-    <li>subject_story->tailored hard-wearing clothes for urbworld cityfolk</li>
-    <li>subject_story->would relax by sewing and telling stories to the village children</li>
-    <li>subject_story->learned to craft clothing to be worn at [ANYPAWN_possessive] troupe's grand performances</li>
-    <li>subject_gerund->tailoring complex clothes</li>
+    <li>subject->复杂缝纫</li>
+    <li>subject_story->为都市世界的市民缝制耐磨衣物</li>
+    <li>subject_story->以缝纫、给村里的孩子讲故事来消遣</li>
+    <li>subject_story->学会为[ANYPAWN_possessive]剧团的盛大演出缝制服装</li>
+    <li>subject_gerund->缝制复杂衣物</li>
   -->
   <ComplexClothing.generalRules.rulesStrings>
     <li>subject->复杂衣物</li>
@@ -88,11 +88,11 @@
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiards tables, and poker tables, vents, sarcophagi, and more. -->
   <ComplexFurniture.description>解锁建造复杂的家具，比如床、床头柜、餐椅、扶手椅、矮柜、工具柜、台球桌、扑克桌、通风孔、棺材等。</ComplexFurniture.description>
   <!-- EN:
-    <li>subject->carpentry</li>
-    <li>subject_story->studied woodcarving under a master carpenter</li>
-    <li>subject_story->built a town of log-cabins singlehandedly</li>
-    <li>subject_story->established a factory, selling high-quality furniture to passing traders</li>
-    <li>subject_gerund->building complex furniture</li>
+    <li>subject->木工</li>
+    <li>subject_story->在一位木工大师门下学木雕</li>
+    <li>subject_story->独自建起了一座木屋小镇</li>
+    <li>subject_story->建起一家工厂，向过往商人出售上等家具</li>
+    <li>subject_gerund->建造复杂家具</li>
   -->
   <ComplexFurniture.generalRules.rulesStrings>
     <li>subject->木工</li>
@@ -107,11 +107,11 @@
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
   <Devilstrand.description>解锁种植「恶魔菇」，一种生长非常缓慢的蘑菇。将其收获可得到特别坚韧、耐热的织物：魔菇布。</Devilstrand.description>
   <!-- EN:
-    <li>subject->devilstrand cultivation</li>
-    <li>subject_story->used devilstrand as a natural firebreak</li>
-    <li>subject_story->established the techniques for cultivating devilstrand easily</li>
-    <li>subject_story->became obsessed with mushrooms and became the self-declared Princess of [ANYPAWN_possessive] kingdom</li>
-    <li>subject_gerund->cultivating devilstrand</li>
+    <li>subject->魔纹布栽培</li>
+    <li>subject_story->把魔纹布当作天然防火带</li>
+    <li>subject_story->确立了轻松栽培魔纹布的技术</li>
+    <li>subject_story->对蘑菇痴迷，自封为[ANYPAWN_possessive]王国的公主</li>
+    <li>subject_gerund->栽培魔纹布</li>
   -->
   <Devilstrand.generalRules.rulesStrings>
     <li>subject->恶魔菇栽培</li>
@@ -126,13 +126,13 @@
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
   <DrugProduction.description>学习成瘾品制备与合成的基础技术。解锁建造「药物实验台」。需要进一步研究以制作特定的成瘾品。</DrugProduction.description>
   <!-- EN:
-    <li>subject->drug production</li>
-    <li>subject->drug synthesis</li>
-    <li>subject_story->worked in an asteroid lab on the edge of populated space</li>
-    <li>subject_story->learned how to craft drugs from recycled chemicals, leading to many years spent in prison</li>
-    <li>subject_story->worked as a chemist, but slipped into peddling illegal drugs on the side</li>
-    <li>subject_gerund->building drug labs</li>
-    <li>subject_gerund->producing drugs</li>
+    <li>subject->毒品生产</li>
+    <li>subject->毒品合成</li>
+    <li>subject_story->在有人区边缘的一处小行星实验室里工作</li>
+    <li>subject_story->学会了用回收化学品制毒，结果在监狱里蹲了好些年</li>
+    <li>subject_story->当化学师，私下却干起了贩毒的勾当</li>
+    <li>subject_gerund->建造制毒实验室</li>
+    <li>subject_gerund->生产毒品</li>
   -->
   <DrugProduction.generalRules.rulesStrings>
     <li>subject->成瘾品生产</li>
@@ -149,11 +149,11 @@
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
   <GoJuiceProduction.description>解锁制作「活力水」，一种能够提高射击、近战和移动能力，并降低痛感的战斗强化型成瘾品。</GoJuiceProduction.description>
   <!-- EN:
-    <li>subject->go-juice production</li>
-    <li>subject_story->was expelled for taking go-juice during team sports matches</li>
-    <li>subject_story->found go-juice massively increased productivity in mines and lumberyards</li>
-    <li>subject_story->never went on a mission without go-juice or juggernaut in a pocket</li>
-    <li>subject_gerund->synthesizing go-juice</li>
+    <li>subject->速冲剂生产</li>
+    <li>subject_story->因在团队比赛中服用速冲剂而被除名</li>
+    <li>subject_story->发现速冲剂能大幅提高矿场与伐木场的产出</li>
+    <li>subject_story->出任务时口袋里从不缺速冲剂或主宰</li>
+    <li>subject_gerund->合成速冲剂</li>
   -->
   <GoJuiceProduction.generalRules.rulesStrings>
     <li>subject->活力水制作</li>
@@ -168,11 +168,11 @@
   <!-- EN: Craft greatbows for killing enemies at great range. -->
   <Greatbow.description>解锁制作「巨弓」，能在很远的距离射杀敌人。</Greatbow.description>
   <!-- EN:
-    <li>subject->greatbows</li>
-    <li>subject_story->fired an arrow right through the iron helmet of a feudal king</li>
-    <li>subject_story->hunted muffalos for their fur on a feral world</li>
-    <li>subject_story->lived alone in the greenwood, a hail of arrows greeting anyone who approached within a mile of its edge</li>
-    <li>subject_gerund->crafting greatbows</li>
+    <li>subject->巨弓</li>
+    <li>subject_story->一箭射穿了某位封建国王的铁盔</li>
+    <li>subject_story->在一个蛮荒世界猎取巨角牛的毛皮</li>
+    <li>subject_story->独居林中，任何靠近林缘一里之内的人都会迎来一阵箭雨</li>
+    <li>subject_gerund->制作巨弓</li>
   -->
   <Greatbow.generalRules.rulesStrings>
     <li>subject->巨弓</li>
@@ -187,11 +187,11 @@
   <!-- EN: Craft longswords and spears. -->
   <LongBlades.description>解锁制作「长剑」和「长矛」。</LongBlades.description>
   <!-- EN:
-    <li>subject->medieval weaponry</li>
-    <li>subject_story->rode with the Betaduke's Fifth Light Cavalry as they conquered the sector</li>
-    <li>subject_story->was enslaved as a weaponsmith beneath the arena on an iron age planet</li>
-    <li>subject_story->trained the hoplites on a warworld to use their weapons' reach</li>
-    <li>subject_gerund->smithing medieval weapons</li>
+    <li>subject->中世纪武器</li>
+    <li>subject_story->随贝塔公爵的第五轻骑兵队征战，一路征服了这个星区</li>
+    <li>subject_story->在一个铁器时代行星上被奴役，在竞技场底下当武器匠</li>
+    <li>subject_story->在一个战争世界训练重装步兵如何利用武器的攻击距离</li>
+    <li>subject_gerund->锻造中世纪武器</li>
   -->
   <LongBlades.generalRules.rulesStrings>
     <li>subject->中世纪武器</li>
@@ -206,12 +206,12 @@
   <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
   <PassiveCooler.description>解锁建造「蒸发制冷器」，一种无需通电就能为室内降温的工具。</PassiveCooler.description>
   <!-- EN:
-    <li>subject->evaporation</li>
-    <li>subject->passive coolers</li>
-    <li>subject_story->moved to a sweltering tropical world and developed unique techniques for staying cool</li>
-    <li>subject_story->researched primitive techniques for cooling areas in the comfort of a coreworld's libraries</li>
-    <li>subject_story->noticed, on the shores of an oceanic planet, that it was cooler where the sea spray settled</li>
-    <li>subject_gerund->building passive coolers</li>
+    <li>subject->蒸发制冷</li>
+    <li>subject->被动散热器</li>
+    <li>subject_story->搬到一颗酷热的热带世界，琢磨出了独特的降温办法</li>
+    <li>subject_story->在核心世界图书馆的舒适环境里，研究给区域降温的原始技术</li>
+    <li>subject_story->在一颗海洋行星的岸边发现，海雾落下的地方更凉快</li>
+    <li>subject_gerund->建造被动散热器</li>
   -->
   <PassiveCooler.generalRules.rulesStrings>
     <li>subject->蒸发作用</li>
@@ -227,11 +227,11 @@
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
   <Pemmican.description>解锁制作「干肉饼」，由肉类和素食食材混合制成，保质期很长。居家旅行必备。</Pemmican.description>
   <!-- EN:
-    <li>subject->pemmican production</li>
-    <li>subject_story->mastered pemmican production during a long pilgrimage to the planet's Spire</li>
-    <li>subject_story->survived solely on pemmican when a passenger liner crashed on a glassworld</li>
-    <li>subject_story->taught pemmican production to feral tribes</li>
-    <li>subject_gerund->making pemmican</li>
+    <li>subject->肉干生产</li>
+    <li>subject_story->在前往该行星尖塔的漫长朝圣途中精通了肉干制作</li>
+    <li>subject_story->一艘客轮在玻璃世界坠毁后，只靠肉干活了下来</li>
+    <li>subject_story->向蛮荒部落传授肉干制作</li>
+    <li>subject_gerund->制作肉干</li>
   -->
   <Pemmican.generalRules.rulesStrings>
     <li>subject->干肉饼生产</li>
@@ -246,11 +246,11 @@
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
   <PenoxycylineProduction.description>解锁制作「佩诺西林」，一种用于预防瘟疫、疟疾等疾病的药物。</PenoxycylineProduction.description>
   <!-- EN:
-    <li>subject->penoxycyline production</li>
-    <li>subject_story->lectured to the United Planets about preventative medicine</li>
-    <li>subject_story->was driven out of Dawn Falls as a quack, for selling a medicine that “doesn't do anything”</li>
-    <li>subject_story->prevented an outbreak of malaria from spreading through careful penoxycyline dosage</li>
-    <li>subject_gerund->synthesizing penoxycyline</li>
+    <li>subject->盘尼西林生产</li>
+    <li>subject_story->向联合行星讲授预防医学</li>
+    <li>subject_story->因售卖「毫无作用」的药，被当作江湖郎中赶出了曙光瀑布</li>
+    <li>subject_story->靠精细的盘尼西林用量，阻止了一场疟疾扩散</li>
+    <li>subject_gerund->合成盘尼西林</li>
   -->
   <PenoxycylineProduction.generalRules.rulesStrings>
     <li>subject->佩诺西林生产</li>
@@ -265,11 +265,11 @@
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
   <PlateArmor.description>解锁「板甲」，一种由金属或木材制成的重型防具。防护性能优秀，但缺点是会降低移动速度。</PlateArmor.description>
   <!-- EN:
-    <li>subject->plate armor</li>
-    <li>subject_story->crafted armor from scrap, when the authorities surrounded [ANYPAWN_possessive] family's shack</li>
-    <li>subject_story->became known as the Green Smith, when moss grew on the wooden armor</li>
-    <li>subject_story->started the first armorworker's collective on an urbworld</li>
-    <li>subject_gerund->smithing plate armor</li>
+    <li>subject->板甲</li>
+    <li>subject_story->当局围住[ANYPAWN_possessive]家的棚屋时，用废料打出了护甲</li>
+    <li>subject_story->木甲上长出青苔后，得了个「绿匠」的名号</li>
+    <li>subject_story->在一颗都市世界发起了第一个甲匠合作社</li>
+    <li>subject_gerund->锻造板甲</li>
   -->
   <PlateArmor.generalRules.rulesStrings>
     <li>subject->板甲</li>
@@ -284,11 +284,11 @@
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
   <PsychiteRefining.description>允许殖民者对精神叶进行精炼，解锁制作「薄片」和「呀呦粉」。</PsychiteRefining.description>
   <!-- EN:
-    <li>subject->psychite production</li>
-    <li>subject_story->used [ANYPAWN_possessive] university job as cover for [ANYPAWN_possessive] drug-dealing</li>
-    <li>subject_story->started a commune where low-dose flake was mixed into the food</li>
-    <li>subject_story->campaigned for the legalisation of yayo on a nearby urbworld</li>
-    <li>subject_gerund->refining psychite</li>
+    <li>subject->心灵药物生产</li>
+    <li>subject_story->以大学教职为掩护，干着[ANYPAWN_possessive]贩毒勾当</li>
+    <li>subject_story->办起一个公社，把低剂量的碎冰掺进饭食里</li>
+    <li>subject_story->在附近的都市世界为「亚哟」合法化奔走</li>
+    <li>subject_gerund->精炼心灵药物</li>
   -->
   <PsychiteRefining.generalRules.rulesStrings>
     <li>subject->精神叶制品生产</li>
@@ -303,11 +303,11 @@
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
   <PsychoidBrewing.description>解锁制作「精神茶」。在篝火或炉灶上烧水冲泡精神叶，制作能小幅提高精神和心情，同时成瘾性低的茶。</PsychoidBrewing.description>
   <!-- EN:
-    <li>subject->psychoid</li>
-    <li>subject_story->joined a short-lived psychoid commune on a cult world</li>
-    <li>subject_story->experimented with psychoid to help traumatized soldiers</li>
-    <li>subject_story->legalized psychoid for mass production across several coreworlds, when [ANYPAWN_pronoun] had the power to do so</li>
-    <li>subject_gerund->brewing psychoid</li>
+    <li>subject->心灵草</li>
+    <li>subject_story->在一个邪教世界加入过一个短命的心灵草公社</li>
+    <li>subject_story->尝试用心灵草帮助受创的士兵</li>
+    <li>subject_story->在[ANYPAWN_pronoun]掌权时，让心灵草在数个核心世界合法量产</li>
+    <li>subject_gerund->酿造心灵草</li>
   -->
   <PsychoidBrewing.generalRules.rulesStrings>
     <li>subject->精神叶</li>
@@ -322,12 +322,12 @@
   <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
   <RecurveBow.description>解锁制作「反曲弓」，一种有效且制作成本不高的远程武器。</RecurveBow.description>
   <!-- EN:
-    <li>subject->bowyery</li>
-    <li>subject->bow-making</li>
-    <li>subject_story->tracked a rabid boomalope for four days before killing it with a single arrow</li>
-    <li>subject_story->settled near a yew forest to secure the perfect materials for bows</li>
-    <li>subject_story->raised the colony children as hunter-gatherers, with every one a master archer</li>
-    <li>subject_gerund->crafting bows</li>
+    <li>subject->制弓</li>
+    <li>subject->制弓</li>
+    <li>subject_story->追踪一头患狂犬病的爆炸羚四天，最后一箭毙命</li>
+    <li>subject_story->在一处紫杉林旁定居，以确保制弓的上好材料</li>
+    <li>subject_story->把殖民地的孩子当狩猎采集者养大，个个都是神射手</li>
+    <li>subject_gerund->制作弓</li>
   -->
   <RecurveBow.generalRules.rulesStrings>
     <li>subject->弓</li>
@@ -343,10 +343,10 @@
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
   <Smithing.description>解锁建造「锻造台」，用于将金属材料打造成武器和工具，比如短矛、短剑、钉头锤等。</Smithing.description>
   <!-- EN:
-    <li>subject->blacksmithing</li>
-    <li>subject_story->settled in a medieval hamlet and mastered simple metal crafting</li>
-    <li>subject_story->built glitterworld smithies for the Renaissance reenactment guilds</li>
-    <li>subject_gerund->smithing</li>
+    <li>subject->铁匠工艺</li>
+    <li>subject_story->在一个中世纪小村定居，精通了简易金属工艺</li>
+    <li>subject_story->为文艺复兴重演公会打造闪耀世界的锻炉</li>
+    <li>subject_gerund->锻造</li>
   -->
   <Smithing.generalRules.rulesStrings>
     <li>subject->锻造</li>
@@ -360,12 +360,12 @@
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
   <Stonecutting.description>解锁建造「切石桌」，用于将石块切制成可用的石砖。</Stonecutting.description>
   <!-- EN:
-    <li>subject->masonry</li>
-    <li>subject_story->was the first in a line of temple designers, all sharing the same name</li>
-    <li>subject_story->developed unique techniques for cutting the hardest rock with basic tools</li>
-    <li>subject_story->tiled the entirety of the viceroy's palace on a medieval world</li>
-    <li>subject_gerund->stonecutting</li>
-    <li>subject_gerund->cutting stones</li>
+    <li>subject->石工</li>
+    <li>subject_story->是一脉神殿设计师中的第一位，代代同名</li>
+    <li>subject_story->琢磨出用基础工具切削最硬岩石的独特技法</li>
+    <li>subject_story->为一个中世纪世界总督府的全部地面铺上了砖</li>
+    <li>subject_gerund->切石</li>
+    <li>subject_gerund->切削石料</li>
   -->
   <Stonecutting.generalRules.rulesStrings>
     <li>subject->石工</li>
@@ -381,11 +381,11 @@
   <!-- EN: Sow the local biome's natural trees in your fields. -->
   <TreeSowing.description>解锁种植各种树木。可种植的树木类型会随着殖民地所在的生态群落而发生变化。</TreeSowing.description>
   <!-- EN:
-    <li>subject->tree sowing</li>
-    <li>subject_story->propagated trees across a long-dead planetoid, trying to bring life back</li>
-    <li>subject_story->published a paper about maintaining natural ecosystems</li>
-    <li>subject_story->worked in a tree nursery on an animal world</li>
-    <li>subject_gerund->sowing trees</li>
+    <li>subject->树木播种</li>
+    <li>subject_story->在一颗死去已久的星体上播撒树木，试图唤回生机</li>
+    <li>subject_story->发表过一篇关于维护自然生态系统的论文</li>
+    <li>subject_story->在一个动物世界的树木苗圃工作</li>
+    <li>subject_gerund->播种植树</li>
   -->
   <TreeSowing.generalRules.rulesStrings>
     <li>subject->植树</li>
@@ -400,11 +400,11 @@
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
   <WakeUpProduction.description>解锁制作「清醒丸」，一种可以取代睡眠、延长工作时间和使人暂时忘记疲劳的成瘾品，但会有一些副作用。</WakeUpProduction.description>
   <!-- EN:
-    <li>subject->wake-up production</li>
-    <li>subject_story->tried to overcome caffeine addiction by taking wake-up</li>
-    <li>subject_story->treated narcoleptics and sleepwalkers with carefully timed wake-up doses</li>
-    <li>subject_story->moved everyone to the dark side of an asteroid and used wake-up to maintain their biorhythms</li>
-    <li>subject_gerund->synthesizing wake-up</li>
+    <li>subject->醒神剂生产</li>
+    <li>subject_story->想靠醒神剂戒掉咖啡因瘾</li>
+    <li>subject_story->用精确计时的醒神剂治疗嗜睡症与梦游者</li>
+    <li>subject_story->把所有人迁到一颗小行星的暗面，靠醒神剂维持他们的生物钟</li>
+    <li>subject_gerund->合成醒神剂</li>
   -->
   <WakeUpProduction.generalRules.rulesStrings>
     <li>subject->清醒丸生产</li>
