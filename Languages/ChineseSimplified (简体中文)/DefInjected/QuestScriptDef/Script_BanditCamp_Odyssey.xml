@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[discoveryMethod] the location of a camp controlled by [siteFaction_name]. The camp contains hostile [siteFaction_pawnsPlural], but you don't know what defenses they have.</li>
+    <li>questDescription->[discoveryMethod]一处由[siteFaction_name]控制的营地的位置。营地里有敌意的[siteFaction_pawnsPlural]，但你不清楚他们有哪些防御。</li>
   -->
   <OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
     <li>questDescription->[discoveryMethod]了由[siteFaction_name]控制的一个营地的位置。该营地有敌对的[siteFaction_pawnsPlural]，但你并不知道它们有哪些防御设施。</li>
   </OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
-    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit][camp]</li>
     <li>questName->[bandit] [camp]</li>
-    <li>questName->[asker_nameDef] and the [camp]</li>
-    <li>camp->Camp</li>
-    <li>camp->Outpost</li>
-    <li>camp->Lair</li>
-    <li>camp->Encampment</li>
-    <li>bandit->Bandit</li>
-    <li>bandit->Raider</li>
-    <li>bandit->Outlaw</li>
-    <li>bandit->Desperado</li>
-    <li>bandit->Fugitive</li>
-    <li>bandit->Marauder</li>
-    <li>bandit->Robber</li>
-    <li>bandit->Brigand</li>
+    <li>questName->[asker_nameDef]与[camp]</li>
+    <li>camp->营地</li>
+    <li>camp->前哨</li>
+    <li>camp->巢穴</li>
+    <li>camp->营寨</li>
+    <li>bandit->匪徒</li>
+    <li>bandit->劫掠者</li>
+    <li>bandit->不法之徒</li>
+    <li>bandit->亡命徒</li>
+    <li>bandit->逃犯</li>
+    <li>bandit->劫掠团</li>
+    <li>bandit->强盗</li>
+    <li>bandit->山贼</li>
   -->
   <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
     <li>questName->这处[bandit][camp]</li>
@@ -42,16 +42,16 @@
     <li>bandit->盗匪</li>
   </OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
   <!-- EN:
-    <li>subject->bandit camps</li>
-    <li>subject->outlaws</li>
-    <li>subject->raider sightings</li>
-    <li>questMapFeature->small camp</li>
-    <li>questMapFeature->bandit outpost</li>
-    <li>questMapFeature->raider encampment</li>
-    <li>questMapText->dangerous folk</li>
-    <li>questMapText->camp loot</li>
-    <li>questMapText->trespassers get skinned</li>
-    <li>questMapText->traders beware - outlaws</li>
+    <li>subject->匪徒营地</li>
+    <li>subject->不法之徒</li>
+    <li>subject->劫掠者目击</li>
+    <li>questMapFeature->小型营地</li>
+    <li>questMapFeature->匪徒前哨</li>
+    <li>questMapFeature->劫掠者营寨</li>
+    <li>questMapText->危险人物</li>
+    <li>questMapText->营地战利品</li>
+    <li>questMapText->擅入者会被剥皮</li>
+    <li>questMapText->商人当心——不法之徒</li>
   -->
   <OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
     <li>subject->匪徒营地</li>

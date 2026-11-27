@@ -4,18 +4,18 @@
   <!-- EN: death pall -->
   <DeathPall.label>死灵迷雾</DeathPall.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] facing the encroaching death pall</li>
-    <li>image->[PAWN_nameFull] gazing in horror as the death pall blankets the land, resurrecting the dead [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] clutching [PAWN_possessive] weapon tightly, as the death pall descends, raising the dead [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] trembling with unease, witnessing the arrival of the death pall, its influence giving life to the lifeless [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] watching in horror as the death pall envelops [PAWN_possessive] peaceful home, turning it into a battleground against the dead [circumstance_group]</li>
-    <li>circumstance_phrase->and drowning out [PAWN_possessive] desperate prayers for safety</li>
-    <li>circumstance_phrase->with the scent of decay and despair filling the air</li>
-    <li>circumstance_phrase->and trapping [PAWN_objective] in a horde of shamblers</li>
-    <li>desc_sentence->In the centre of the death pall, [PAWN_nameDef] prepares for battle.</li>
-    <li>desc_sentence->The encroachment of the death pall fills [PAWN_nameDef]'s friends with terror.</li>
-    <li>desc_sentence->Shivers run down [PAWN_nameDef]'s spine as the death pall's influence continues to spread.</li>
-    <li>desc_sentence->The weight of despair settles upon [PAWN_nameDef], testing [PAWN_possessive] resolve in the face of the macabre.</li>
+    <li>tale_noun->[PAWN_nameDef]直面逼近的死幕</li>
+    <li>image->[PAWN_nameFull]惊恐地望着死幕覆盖大地、亡者复苏，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]紧握[PAWN_possessive]武器，死幕降临、亡者复起，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]不安地颤抖着，目睹死幕到来，其影响正赋予无生者以生命，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]惊恐地看着死幕吞没[PAWN_possessive]宁静的家园，把它变成对抗亡者的战场，[circumstance_group]</li>
+    <li>circumstance_phrase->淹没了[PAWN_possessive]求平安的绝望祈祷</li>
+    <li>circumstance_phrase->空气中弥漫着腐朽与绝望的气味</li>
+    <li>circumstance_phrase->把[PAWN_objective]困在一群蹒跚者之中</li>
+    <li>desc_sentence->在死幕的中心，[PAWN_nameDef]准备迎战。</li>
+    <li>desc_sentence->死幕的逼近令[PAWN_nameDef]的朋友们充满恐惧。</li>
+    <li>desc_sentence->随着死幕的影响不断扩散，[PAWN_nameDef]脊背发凉。</li>
+    <li>desc_sentence->绝望的重量压在[PAWN_nameDef]身上，考验[PAWN_possessive]面对可怖之物的决心。</li>
   -->
   <DeathPall.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]正在面对步步逼近的死灵迷雾</li>
@@ -35,19 +35,19 @@
   <!-- EN: unnatural darkness -->
   <UnnaturalDarkness.label>异常黑暗</UnnaturalDarkness.label>
   <!-- EN:
-    <li>tale_noun->[PAWN_nameDef] confronts the unnatural darkness</li>
-    <li>image->[PAWN_nameFull] standing in awe as the world is consumed by an impenetrable darkness [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] surrounded by black pillars falling from the sky which blanket the land in darkness [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] struggling to find [PAWN_possessive] way through the suffocating darkness, noctols hounding at [PAWN_possessive] heels, [circumstance_group]</li>
-    <li>image->[PAWN_nameFull] watching the world get swallowed by an abyss of shadows [circumstance_group]</li>
-    <li>circumstance_phrase->amidst by [PAWN_possessive] friends' desperate attempts to return to the safety of the light</li>
-    <li>circumstance_phrase->with piercing screams echoing all around</li>
-    <li>circumstance_phrase->the light seemingly barely able to hold it back</li>
-    <li>circumstance_phrase->as [PAWN_pronoun] offers pleas for salvation</li>
-    <li>desc_sentence->Not even the faintest flickering of lights in the distance is visible.</li>
-    <li>desc_sentence->The situation seems utterly hopeless.</li>
-    <li>desc_sentence->Groups of shadowy creatures are visible at the edge of the darkness.</li>
-    <li>desc_sentence->[PAWN_nameDef] tries to find a glimmer of hope amidst the encroaching darkness.</li>
+    <li>tale_noun->[PAWN_nameDef]对抗非自然的黑暗</li>
+    <li>image->[PAWN_nameFull]怔然伫立，世界正被无法穿透的黑暗吞没，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]被自天而降的黑色柱石包围，它们把大地笼罩在黑暗中，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]在令人窒息的黑暗中艰难寻路，夜魔紧咬[PAWN_possessive]脚跟，[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]望着世界被暗影的深渊吞没，[circumstance_group]</li>
+    <li>circumstance_phrase->而[PAWN_possessive]朋友们正拼命想回到光的安全处</li>
+    <li>circumstance_phrase->刺耳的尖叫在四周回荡</li>
+    <li>circumstance_phrase->那点光似乎勉强才挡住它</li>
+    <li>circumstance_phrase->[PAWN_pronoun]正祈求救赎</li>
+    <li>desc_sentence->连远处最微弱的灯光都看不见。</li>
+    <li>desc_sentence->局面看来毫无希望。</li>
+    <li>desc_sentence->黑暗边缘可见成群暗影生物。</li>
+    <li>desc_sentence->[PAWN_nameDef]试图在逼近的黑暗中找到一丝希望。</li>
   -->
   <UnnaturalDarkness.rulePack.rulesStrings>
     <li>tale_noun->[PAWN_nameDef]直面异常黑暗现象。</li>
