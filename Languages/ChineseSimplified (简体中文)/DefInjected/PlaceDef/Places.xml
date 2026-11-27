@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN:
-    <li>place_name->Sophiamunda</li>
-    <li>place_adjective->Sophian</li>
-    <li>place_summary->techno-feudal world</li>
-    <li>place_community->castle</li>
-    <li>place_community->palace</li>
-    <li>place_job->knight</li>
-    <li>place_job->squire</li>
-    <li>place_job->duke</li>
-    <li>place_job->maid</li>
-    <li>place_job->swordsmith</li>
-    <li>place_personalWeapon->persona plasmasword</li>
-    <li>place_personalWeapon->warhammer</li>
-    <li>place_massWeapon->an orbital mech cluster targeter</li>
-    <li>place_massWeapon->a bio-engineered plague</li>
-    <li>place_massWeapon->an army of fallen knights</li>
-    <li>place_foeLeader->revolutionist</li>
-    <li>place_foeSoldiers->rebels</li>
+    <li>place_name->索菲亚蒙达</li>
+    <li>place_adjective->索菲亚的</li>
+    <li>place_summary->技术封建世界</li>
+    <li>place_community->城堡</li>
+    <li>place_community->宫殿</li>
+    <li>place_job->骑士</li>
+    <li>place_job->侍从</li>
+    <li>place_job->公爵</li>
+    <li>place_job->女仆</li>
+    <li>place_job->铸剑师</li>
+    <li>place_personalWeapon->人格等离子剑</li>
+    <li>place_personalWeapon->战锤</li>
+    <li>place_massWeapon->一台轨道机械集群标定器</li>
+    <li>place_massWeapon->一场生物工程瘟疫</li>
+    <li>place_massWeapon->一支堕落骑士的军队</li>
+    <li>place_foeLeader->革命者</li>
+    <li>place_foeSoldiers->叛军</li>
   -->
   <Sophiamunda.placeRules.rulesStrings>
     <li>place_name->索菲亚蒙达</li>

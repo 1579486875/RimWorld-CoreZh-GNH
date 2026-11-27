@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN:
-    <li>place_personalWeapon->assault rifle</li>
-    <li>place_massWeapon->an archotech mass-inverter</li>
-    <li>seismicDevice->a seismic quake-generation device</li>
-    <li>anEMPAttack->an EMP strike to the life support systems</li>
+    <li>place_personalWeapon->突击步枪</li>
+    <li>place_massWeapon->一台远古科技质量反转器</li>
+    <li>seismicDevice->一台地震发生装置</li>
+    <li>anEMPAttack->一次针对生命支持系统的电磁脉冲打击</li>
   -->
   <PlaceMakerCommon.rulePack.rulesStrings>
     <li>place_personalWeapon->突击步枪</li>
