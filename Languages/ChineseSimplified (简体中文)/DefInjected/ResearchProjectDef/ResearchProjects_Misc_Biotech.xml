@@ -6,12 +6,12 @@
   <!-- EN: Allows a gene assembler to use archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
   <Archogenetics.description>解锁基因装配器使用超凡胶囊的限制来创造那些看似不可能被创造的基因。超凡基因和超凡胶囊可以通过贸易获取。</Archogenetics.description>
   <!-- EN:
-    <li>subject->archogenetics</li>
-    <li>subject_story->excavated archite genes from the transcendent moon of Ix</li>
-    <li>subject_story->made a good living as an archite gene trader</li>
-    <li>subject_story->led a research expedition to an ancient monolith and returned changed</li>
-    <li>subject_gerund->assembling archite genes</li>
-    <li>subject_gerund->creating seemingly impossible genes</li>
+    <li>subject->远古基因学</li>
+    <li>subject_story->从超验的伊克斯之月上发掘出远古基因</li>
+    <li>subject_story->靠做远古基因生意过得不错</li>
+    <li>subject_story->率考察队前往一座远古独石，回来时已经变了个人</li>
+    <li>subject_gerund->组装远古基因</li>
+    <li>subject_gerund->造出看似不可能的基因</li>
   -->
   <Archogenetics.generalRules.rulesStrings>
     <li>subject->超凡遗传学</li>
@@ -27,12 +27,12 @@
   <!-- EN: Those with the deathrest gene must periodically undergo a special deathrest coma that lasts several days. This research project allows you to construct buildings which accelerate the deathrest coma and confer specific bonuses on the deathrester. Over time, you can build a grand deathrest temple. -->
   <Deathrest.description>解锁建造可以加速那些拥有死眠基因的人必须定期经历的一种持续数天的死眠进行进度的设备，并给予那些死眠者特定的加成。终有一天，你可以建造出一座宏伟的死眠神庙。</Deathrest.description>
   <!-- EN:
-    <li>subject->deathrest</li>
-    <li>subject_story->dissected corpses from a deathrest temple, finally understanding how it worked</li>
-    <li>subject_story->interviewed a celebrity who never seemed to age, eventually learning her secrets</li>
-    <li>subject_story->attempted to replicate the technology and fell into a coma, only to wake weeks later</li>
-    <li>subject_gerund->constructing deathrest facilities</li>
-    <li>subject_gerund->improving deathrest</li>
+    <li>subject->死眠</li>
+    <li>subject_story->解剖死眠神殿中的尸体，终于弄懂了它如何运作</li>
+    <li>subject_story->采访过一位仿佛永不衰老的名人，最终探得了她的秘密</li>
+    <li>subject_story->试图复现那项技术，结果陷入昏迷，几周后才醒来</li>
+    <li>subject_gerund->建造死眠设施</li>
+    <li>subject_gerund->改良死眠</li>
   -->
   <Deathrest.generalRules.rulesStrings>
     <li>subject->死眠</li>
@@ -48,12 +48,12 @@
   <!-- EN: Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women. -->
   <FertilityProcedures.description>解锁生育相关的手术。从有生育能力的殖民者身上创造出可供代孕或是培育的试管胚胎。以及绝育手术。</FertilityProcedures.description>
   <!-- EN:
-    <li>subject->fertility procedures</li>
-    <li>subject_story->helped families in the coreworlds achieve their dream of parenthood with test-tube embryos</li>
-    <li>subject_story->saved the rare Callopian boomrat from extinction with dangerous hand-fertilization techniques</li>
-    <li>subject_story->solved the population crisis on an urbworld with fertility interventions and growth vats</li>
-    <li>subject_gerund->altering human fertility</li>
-    <li>subject_gerund->improving or blocking human fertility</li>
+    <li>subject->生育手术</li>
+    <li>subject_story->用试管胚胎帮核心世界的家庭圆了为人父母之梦</li>
+    <li>subject_story->以危险的人工授精技术，把稀有的卡洛皮亚爆炸鼠从灭绝边缘救了回来</li>
+    <li>subject_story->用生育干预与培育槽解决了某都市世界的人口危机</li>
+    <li>subject_gerund->改变人类生育能力</li>
+    <li>subject_gerund->提升或阻断人类生育能力</li>
   -->
   <FertilityProcedures.generalRules.rulesStrings>
     <li>subject->生育规范</li>
@@ -69,12 +69,12 @@
   <!-- EN: Build gene processors, which allow a gene assembler to create xenogerms of higher genetic complexity. -->
   <GeneProcessor.description>解锁建造「基因处理器」，它允许基因装配器创造更加复杂的异种胚芽。</GeneProcessor.description>
   <!-- EN:
-    <li>subject->gene processors</li>
-    <li>subject_story->extracted Glitterworld genes from a drifting derelict</li>
-    <li>subject_story->processed an entire village to create one set of higher genes</li>
-    <li>subject_story->began the slow process of uplift by implanting xenogerms into a primitive tribe</li>
-    <li>subject_gerund->constructing gene processors</li>
-    <li>subject_gerund->processing genes</li>
+    <li>subject->基因处理器</li>
+    <li>subject_story->从一艘漂流的废船中提取出闪耀世界基因</li>
+    <li>subject_story->把整个村庄当作原料，只为制出一套高等基因</li>
+    <li>subject_story->向一个原始部落植入异种胚质，开始了缓慢的启蒙过程</li>
+    <li>subject_gerund->建造基因处理器</li>
+    <li>subject_gerund->处理基因</li>
   -->
   <GeneProcessor.generalRules.rulesStrings>
     <li>subject->基因处理器</li>
@@ -90,14 +90,14 @@
   <!-- EN: Construct growth vats which can gestate an embryo or accelerate a child's growth. -->
   <GrowthVats.description>解锁建造「培育舱」，它可以培育胚胎或加速儿童生长。</GrowthVats.description>
   <!-- EN:
-    <li>subject->advanced gestation</li>
-    <li>subject->artificial wombs</li>
-    <li>subject_story->ran a cloning facility to supply servants for the coreworlds</li>
-    <li>subject_story->created a new army for a warworld junta</li>
-    <li>subject_story->helped families of all backgrounds have children</li>
-    <li>subject_gerund->gestating embryos in artificial wombs</li>
-    <li>subject_gerund->accelerating human growth</li>
-    <li>subject_gerund->constructing growth vats</li>
+    <li>subject->高级妊娠</li>
+    <li>subject->人工子宫</li>
+    <li>subject_story->经营一家克隆设施，为核心世界供应仆役</li>
+    <li>subject_story->为一个战争世界的军政府造出了一支新军队</li>
+    <li>subject_story->帮助各种出身的家庭生儿育女</li>
+    <li>subject_gerund->在人工子宫中孕育胚胎</li>
+    <li>subject_gerund->加速人类生长</li>
+    <li>subject_gerund->建造培育槽</li>
   -->
   <GrowthVats.generalRules.rulesStrings>
     <li>subject->先进妊娠</li>
@@ -115,13 +115,13 @@
   <!-- EN: Craft and install bionic organs that can filter out toxins from the environment and from enemy attacks. -->
   <ToxFiltration.description>解锁制作可以过滤来自攻击或环境的毒素侵害的仿生器官。</ToxFiltration.description>
   <!-- EN:
-    <li>subject->toxin filtration</li>
-    <li>subject->toxin metabolisation</li>
-    <li>subject_story->helped milworld combat survivors breathe again</li>
-    <li>subject_story->skipped chemistry practicals for extra ethics classes</li>
-    <li>subject_story->joined a mine-corp as a filtration specialist</li>
-    <li>subject_gerund->metabolising toxins</li>
-    <li>subject_gerund->crafting antitoxin organs</li>
+    <li>subject->毒素过滤</li>
+    <li>subject->毒素代谢</li>
+    <li>subject_story->帮助军事世界的战斗幸存者重新呼吸</li>
+    <li>subject_story->翘掉化学实验课，去多上伦理课</li>
+    <li>subject_story->以过滤专家的身份加入一家矿业公司</li>
+    <li>subject_gerund->代谢毒素</li>
+    <li>subject_gerund->制作解毒器官</li>
   -->
   <ToxFiltration.generalRules.rulesStrings>
     <li>subject->毒气过滤</li>
@@ -138,12 +138,12 @@
   <!-- EN: Produce weapons that utilize caustic tox gas. -->
   <ToxGas.description>解锁制作利用化学腐蚀性毒气制成的武器。</ToxGas.description>
   <!-- EN:
-    <li>subject->gas weaponry</li>
-    <li>subject->chemical warfare</li>
-    <li>subject_story->dreamed of a weapon to end all wars</li>
-    <li>subject_story->skipped ethics classes for extra chemistry practice</li>
-    <li>subject_story->researched cloud control tech for the tyrannocracy of a deathworld</li>
-    <li>subject_gerund->crafting toxic gas weapons</li>
+    <li>subject->毒气武器</li>
+    <li>subject->化学战</li>
+    <li>subject_story->梦想造出一件终结一切战争的武器</li>
+    <li>subject_story->翘掉伦理课，去多做化学练习</li>
+    <li>subject_story->为某个死亡世界的僭主政权研究云层控制技术</li>
+    <li>subject_gerund->制作毒气武器</li>
   -->
   <ToxGas.generalRules.rulesStrings>
     <li>subject->毒气武器</li>
@@ -159,11 +159,11 @@
   <!-- EN: Create toxifier generators which generate electricity, but also spread pollution around themselves. -->
   <ToxifierGenerator.description>解锁建造会污染周遭环境的「排污发电机」。</ToxifierGenerator.description>
   <!-- EN:
-    <li>subject->toxifier generator</li>
-    <li>subject_story->led a clean-up crew to a toxic planetoid</li>
-    <li>subject_story->learned about toxifiers in the deep sump of a skyripper</li>
-    <li>subject_story->researched cheap and dirty power sources for an urbcorp</li>
-    <li>subject_gerund->constructing toxifier generators</li>
+    <li>subject->毒素发电机</li>
+    <li>subject_story->率清理队前往一颗有毒的小行星体</li>
+    <li>subject_story->在天裂者的深底污水坑里摸清了毒素机</li>
+    <li>subject_story->为一家都市公司研究廉价又脏的能源</li>
+    <li>subject_gerund->建造毒素发电机</li>
   -->
   <ToxifierGenerator.generalRules.rulesStrings>
     <li>subject->污染性发电</li>
@@ -178,12 +178,12 @@
   <!-- EN: Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else. -->
   <Xenogermination.description>解锁制作可以通过植入人体进行基因改造的异种胚芽。用基因提取器从活人身上提取基因组，这样你就可以把他们的基因移植到别人身上。</Xenogermination.description>
   <!-- EN:
-    <li>subject->xenogermination</li>
-    <li>subject->genetic implantation</li>
-    <li>subject_story->was uplifted by a glitterworld charity that focused on the genetically disadvantaged</li>
-    <li>subject_story->had [ANYPAWN_possessive] genes stolen by a rogue biologist</li>
-    <li>subject_story->ran a genetic transfer clinic for the glitterworld elite</li>
-    <li>subject_gerund->crafting xenogerms</li>
+    <li>subject->异种胚质植入</li>
+    <li>subject->基因植入</li>
+    <li>subject_story->被一家专助基因弱势者的闪耀世界慈善机构扶助过</li>
+    <li>subject_story->[ANYPAWN_possessive]基因被一个无良生物学家盗走了</li>
+    <li>subject_story->为闪耀世界精英经营一家基因转移诊所</li>
+    <li>subject_gerund->制作异种胚质</li>
   -->
   <Xenogermination.generalRules.rulesStrings>
     <li>subject->异种胚芽</li>
