@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN:
-    <li>damaged_past(p=2)->blasted</li>
-    <li>damaged_past(p=2)->exploded</li>
-    <li>damaged_past->injured</li>
-    <li>damaged_past->damaged</li>
-    <li>damaged_past->wounded</li>
-    <li>damaged_past->hurt</li>
-    <li>destroyed_past->shattered</li>
-    <li>destroyed_past->crushed</li>
-    <li>destroyed_past->obliterated</li>
-    <li>destroyed_past->annihilated</li>
-    <li>destroyed_past->detonated</li>
+    <li>damaged_past(p=2)->轰击</li>
+    <li>damaged_past(p=2)->炸伤</li>
+    <li>damaged_past->伤了</li>
+    <li>damaged_past->损了</li>
+    <li>damaged_past->伤了</li>
+    <li>damaged_past->伤了</li>
+    <li>destroyed_past->击碎</li>
+    <li>destroyed_past->压碎</li>
+    <li>destroyed_past->抹除</li>
+    <li>destroyed_past->歼灭</li>
+    <li>destroyed_past->引爆</li>
   -->
   <Damage_Bomb.rulePack.rulesStrings>
     <li>damaged_past(p=2)->冲击了</li>
@@ -29,66 +29,66 @@
   </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_past->electrified</li>
-    <li>damaged_past->shocked</li>
-    <li>damaged_past->zapped</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>damaged_past->电击了</li>
+    <li>damaged_past->电麻了</li>
+    <li>damaged_past->电打了</li>
+    <li>destroyed_past->损毁</li>
   -->
   <Damage_EMP.rulePack.rulesStrings>
     <li>damaged_past->震荡了</li>
     <li>damaged_past->震撼住了</li>
     <li>damaged_past->电击了</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>destroyed_past->损毁</li>
   </Damage_EMP.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_past->extinguished</li>
-    <li>damaged_past->swamped</li>
-    <li>damaged_past->foamed</li>
-    <li>damaged_past->quenched</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>damaged_past->扑灭了</li>
+    <li>damaged_past->淹了</li>
+    <li>damaged_past->泡沫覆了</li>
+    <li>damaged_past->浇熄了</li>
+    <li>destroyed_past->损毁</li>
   -->
   <Damage_Extinguish.rulePack.rulesStrings>
     <li>damaged_past->熄灭了</li>
     <li>damaged_past->淹没了</li>
     <li>damaged_past->起泡了</li>
     <li>damaged_past->突然熄灭了</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>destroyed_past->损毁</li>
   </Damage_Extinguish.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_past(p=2)->blasted</li>
-    <li>damaged_past(p=2)->scorched</li>
-    <li>damaged_past(p=2)->burned</li>
-    <li>damaged_past(p=2)->blistered</li>
-    <li>damaged_past(p=2)->ignited</li>
-    <li>damaged_past(p=2)->seared</li>
-    <li>damaged_past->injured</li>
-    <li>damaged_past->damaged</li>
-    <li>damaged_past->wounded</li>
-    <li>damaged_past->hurt</li>
-    <li>damaged_present(p=2)->blasting</li>
-    <li>damaged_present(p=2)->scorching</li>
-    <li>damaged_present(p=2)->burning</li>
-    <li>damaged_present(p=2)->blistering</li>
-    <li>damaged_present(p=2)->igniting</li>
-    <li>damaged_present(p=2)->searing</li>
-    <li>damaged_present->injuring</li>
-    <li>damaged_present->damaging</li>
-    <li>damaged_present->wounding</li>
-    <li>damaged_present->hurting</li>
-    <li>destroyed_past->cremated</li>
-    <li>destroyed_past->incinerated</li>
-    <li>destroyed_past->charred</li>
-    <li>destroyed_past->obliterated</li>
-    <li>destroyed_past->annihilated</li>
-    <li>destroyed_past->detonated</li>
-    <li>destroyed_present->cremating</li>
-    <li>destroyed_present->incinerating</li>
-    <li>destroyed_present->charring</li>
-    <li>destroyed_present->obliterating</li>
-    <li>destroyed_present->annihilating</li>
-    <li>destroyed_present->detonating</li>
+    <li>damaged_past(p=2)->轰击</li>
+    <li>damaged_past(p=2)->灼烧</li>
+    <li>damaged_past(p=2)->烧伤</li>
+    <li>damaged_past(p=2)->烫起泡</li>
+    <li>damaged_past(p=2)->点燃</li>
+    <li>damaged_past(p=2)->炙伤</li>
+    <li>damaged_past->伤了</li>
+    <li>damaged_past->损了</li>
+    <li>damaged_past->伤了</li>
+    <li>damaged_past->伤了</li>
+    <li>damaged_present(p=2)->轰击</li>
+    <li>damaged_present(p=2)->灼烧</li>
+    <li>damaged_present(p=2)->燃烧</li>
+    <li>damaged_present(p=2)->烫起泡</li>
+    <li>damaged_present(p=2)->点燃</li>
+    <li>damaged_present(p=2)->炙烤</li>
+    <li>damaged_present->伤及</li>
+    <li>damaged_present->损伤</li>
+    <li>damaged_present->致伤</li>
+    <li>damaged_present->弄伤</li>
+    <li>destroyed_past->焚化</li>
+    <li>destroyed_past->烧成灰</li>
+    <li>destroyed_past->烧焦</li>
+    <li>destroyed_past->抹除</li>
+    <li>destroyed_past->歼灭</li>
+    <li>destroyed_past->引爆</li>
+    <li>destroyed_present->焚化</li>
+    <li>destroyed_present->烧成灰</li>
+    <li>destroyed_present->烧焦</li>
+    <li>destroyed_present->抹除</li>
+    <li>destroyed_present->歼灭</li>
+    <li>destroyed_present->引爆</li>
   -->
   <Damage_Flame.rulePack.rulesStrings>
     <li>damaged_past(p=2)->波及</li>
@@ -126,31 +126,31 @@
   </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_past->smoked</li>
-    <li>damaged_past->fogged</li>
-    <li>damaged_past->clouded</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>damaged_past->烟熏了</li>
+    <li>damaged_past->雾罩了</li>
+    <li>damaged_past->遮蔽了</li>
+    <li>destroyed_past->损毁</li>
   -->
   <Damage_Smoke.rulePack.rulesStrings>
     <li>damaged_past->冒烟了</li>
     <li>damaged_past->起雾了</li>
     <li>damaged_past->烟雾弥漫了</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>destroyed_past->损毁</li>
   </Damage_Smoke.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_past->stunned</li>
-    <li>damaged_past->confused</li>
-    <li>damaged_past->stopped</li>
-    <li>damaged_past->dizzied</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>damaged_past->震晕了</li>
+    <li>damaged_past->惑乱了</li>
+    <li>damaged_past->拦停了</li>
+    <li>damaged_past->绕晕了</li>
+    <li>destroyed_past->损毁</li>
   -->
   <Damage_Stun.rulePack.rulesStrings>
     <li>damaged_past->懵了</li>
     <li>damaged_past->混乱了</li>
     <li>damaged_past->停下来了</li>
     <li>damaged_past->眩晕了</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>destroyed_past->损毁</li>
   </Damage_Stun.rulePack.rulesStrings>
   
 </LanguageData>
