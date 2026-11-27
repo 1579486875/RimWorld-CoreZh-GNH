@@ -226,7 +226,7 @@
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
     <li>speechtopic->牺牲的高贵</li>
-    <li>speechtopic->death</li>
+    <li>speechtopic->死亡</li>
     <li>speechtopic->死后的生命</li>
     <li>speechtopic->死亡与家庭</li>
     <li>speechtopic->善生的观念</li>
@@ -395,7 +395,7 @@
     <li>crazy->突然开始吟诵</li>
     <li>crazy->朝着天空吟诵</li>
     <li>crazy->朝祭品的眼睛吐了口唾沫</li>
-    <li>crazy->cackled</li>
+    <li>crazy->咯咯怪笑</li>
     <li>crazy->挥舞刀刃</li>
     <li>crazy->反复低语</li>
   -->
@@ -442,7 +442,7 @@
     <li>crazy->疯狂地尖叫</li>
     <li>crazy->突然开始吟诵</li>
     <li>crazy->朝着天空吟诵</li>
-    <li>crazy->cackled</li>
+    <li>crazy->咯咯怪笑</li>
     <li>crazy->挥舞刀刃</li>
     <li>crazy->反复低语</li>
   -->
@@ -474,7 +474,7 @@
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
     <li>speechtopic->树木与人</li>
     <li>speechtopic->树木与灵能</li>
-    <li>speechtopic->dryads</li>
+    <li>speechtopic->树精</li>
     <li>speechtopic->高兰林的生命周期</li>
     <li>speechtopic->高兰林树的精神存在</li>
     <li>speechtopic->灵能木语</li>

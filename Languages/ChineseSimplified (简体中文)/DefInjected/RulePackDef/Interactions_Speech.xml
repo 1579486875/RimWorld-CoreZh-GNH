@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN:
-    <li>spokeof->spoke about</li>
-    <li>spokeof->talked about</li>
-    <li>spokeof->offered thoughts on</li>
-    <li>spokeof->discussed</li>
-    <li>spokeof->explained</li>
-    <li>spokeof->described</li>
-    <li>praised->gave a speech about</li>
-    <li>praised->spoke about</li>
-    <li>praised->talked about</li>
-    <li>praised->praised</li>
-    <li>praised->extolled the virtues of</li>
-    <li>praised->acclaimed</li>
-    <li>praised->heaped glory on</li>
-    <li>praised->raved about</li>
+    <li>spokeof->谈到</li>
+    <li>spokeof->聊到</li>
+    <li>spokeof->就以下发表看法：</li>
+    <li>spokeof->讨论</li>
+    <li>spokeof->解释</li>
+    <li>spokeof->描述</li>
+    <li>praised->就以下发表演讲：</li>
+    <li>praised->谈到</li>
+    <li>praised->聊到</li>
+    <li>praised->赞扬</li>
+    <li>praised->盛赞以下之德行：</li>
+    <li>praised->称颂</li>
+    <li>praised->把荣耀加于</li>
+    <li>praised->狂热夸赞</li>
   -->
   <SpeechUtility.rulePack.rulesStrings>
     <li>spokeof->谈到了</li>
