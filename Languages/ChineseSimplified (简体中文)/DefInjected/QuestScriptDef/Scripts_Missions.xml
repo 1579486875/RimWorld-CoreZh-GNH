@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[enemiesLabel] have set up a camp and are harassing caravans of [asker_faction_name]. [asker_nameDef] is planning an aerial assault on the camp, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [soldiers] to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed and medically tended en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTicks_duration].</li>
-    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldiers</li>
-    <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
+    <li>questDescription->[enemiesLabel]已经建起一处营地，正在骚扰[asker_faction_name]的商队。[asker_nameDef]计划对那处营地进行空中突袭，营地由[enemiesCount]名[enemiesLabel]守卫。[asker_pronoun]希望你能提供[soldiers]来执行这次进攻。\n\n[asker_pronoun]会派穿梭机来接你的战士，送他们到进攻地点，事后送回。途中会供食并提供医疗照料。\n\n进攻一旦开始，你必须在[timeoutTicks_duration]内击溃所有敌人与炮塔。</li>
+    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] 名士兵</li>
+    <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] 名士兵</li>
   -->
   <Mission_BanditCamp.questDescriptionRules.rulesStrings>
     <li>questDescription->[enemiesLabel]在附近建立了营地以骚扰[asker_faction_name]的商队。[asker_nameDef]正计划对该营地进行空袭。[asker_pronoun]想要你为这次进攻提供[soldiers]。\n\n[asker_pronoun]会派出穿梭机接送你的殖民者， 将他们带到攻击目标， 他们将在途中得到食物和医疗护理， 并在事后带他们返回。\n\n一旦开始进攻， 你必须在[timeoutTicks_duration]击败所有的敌人和炮塔。</li>
@@ -17,16 +17,16 @@
     <li>questNameInner->[aerial] [attack]</li>
     <li>questNameInner->[target] [attack]</li>
     <li>questNameInner->[attack] [work]</li>
-    <li>target->camp</li>
-    <li>target->base</li>
-    <li>target->fort</li>
-    <li>aerial->aerial</li>
-    <li>aerial->air</li>
-    <li>aerial->shuttle-borne</li>
-    <li>attack->attack</li>
-    <li>attack->assault</li>
-    <li>work->work</li>
-    <li>work->job</li>
+    <li>target->营地</li>
+    <li>target->基地</li>
+    <li>target->堡垒</li>
+    <li>aerial->空中</li>
+    <li>aerial->空中</li>
+    <li>aerial->穿梭机运载</li>
+    <li>attack->进攻</li>
+    <li>attack->突袭</li>
+    <li>work->任务</li>
+    <li>work->活儿</li>
   -->
   <Mission_BanditCamp.questNameRules.rulesStrings>
     <li>questName->[questNameInner]</li>

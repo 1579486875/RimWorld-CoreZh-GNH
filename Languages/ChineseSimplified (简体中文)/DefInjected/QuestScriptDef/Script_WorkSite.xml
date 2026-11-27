@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->You've detected a [siteLabel] nearby controlled by [faction_name].\n\nIf you wish, you can raid the camp to collect loot ([loot]). [raidConsequences]\n\nThe camp will pack up and move on in [timeout_duration].</li>
-    <li>raidConsequences(faction_temporary==false)->If you do, [faction_name] will become hostile if they are not already.</li>
-    <li>raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences.</li>
+    <li>questDescription->你探测到附近有一处由[faction_name]控制的[siteLabel]。\n\n若你愿意，可以袭击这处营地收集战利品（[loot]）。[raidConsequences]\n\n这处营地会在[timeout_duration]后收拾行装离开。</li>
+    <li>raidConsequences(faction_temporary==false)->若你照做，[faction_name]如果尚未敌对，就会转为敌对。</li>
+    <li>raidConsequences(faction_temporary==true)->由于[faction_name]只是一个小小的独立团体，攻击他们不会带来更大范围的外交后果。</li>
   -->
   <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
     <li>questDescription->你侦测到附近有一处被 [faction_name] 所控制的[siteLabel]。\n\n你愿意的话可以突袭营地掠夺战利品（[loot]）。 [raidConsequences]\n\n他们将会在[timeout_duration]内收拾营地打包搬走。</li>
@@ -13,15 +13,15 @@
   </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[site_label] [detected]</li>
-    <li>detected->detected</li>
-    <li>detected->discovered</li>
-    <li>detected->nearby</li>
-    <li>detected->found</li>
-    <li>detected->identified</li>
-    <li>detected->noticed</li>
-    <li>detected->observed</li>
-    <li>detected->revealed</li>
-    <li>detected->uncovered</li>
+    <li>detected->探测到</li>
+    <li>detected->发现</li>
+    <li>detected->附近的</li>
+    <li>detected->找到</li>
+    <li>detected->辨认出</li>
+    <li>detected->注意到</li>
+    <li>detected->观察到</li>
+    <li>detected->揭示出</li>
+    <li>detected->发掘出</li>
   -->
   <OpportunitySite_WorkSite.questNameRules.rulesStrings>
     <li>questName->[detected][site_label]</li>

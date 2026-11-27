@@ -6,12 +6,12 @@
   <!-- EN: Build a heavily reinforced door. It is slow to open and requires power, but is very strong. It's a good choice if you want to keep something dangerous out - or in. -->
   <SecurityDoor.description>解锁建造「安全大门」。这种经过重重加固的门开关速度较慢，且需要通电，但优点是非常坚固。若需要将危险挡在门外或锁在门内，它是个不错的选择。</SecurityDoor.description>
   <!-- EN:
-    <li>subject->security door</li>
-    <li>subject_story->worked as a security drone in a sealed research facility</li>
-    <li>subject_story->engineered security devices for a stellar trader</li>
-    <li>subject_story->researched materials science for a mercenary firm</li>
-    <li>subject_story->worked in a Glitterworld zoo</li>
-    <li>subject_gerund->constructing security doors</li>
+    <li>subject->安保门</li>
+    <li>subject_story->在一座封闭研究设施里当安保无人机</li>
+    <li>subject_story->为一位星际商人设计安保装置</li>
+    <li>subject_story->为一家佣兵公司研究材料科学</li>
+    <li>subject_story->在闪耀世界的一座动物园工作</li>
+    <li>subject_gerund->建造安保门</li>
   -->
   <SecurityDoor.generalRules.rulesStrings>
     <li>subject->安全大门</li>
@@ -27,12 +27,12 @@
   <!-- EN: Build a wearable pack that allows the user to deploy a battery-powered turret. -->
   <TurretPack.description>解锁制作「炮塔背包」，穿戴后可以在指定地点部署一个由内置电池供电的战术炮塔。</TurretPack.description>
   <!-- EN:
-    <li>subject->deployable turrets</li>
-    <li>subject_story->defended a feralworld castle from assault</li>
-    <li>subject_story->manned a tailgun on an Imperial dropship</li>
-    <li>subject_story->researched deployable military technology</li>
-    <li>subject_story->fought in the trench battles of the [worldname] War</li>
-    <li>subject_gerund->crafting deployable gun turrets</li>
+    <li>subject->可部署炮塔</li>
+    <li>subject_story->守住了一座蛮荒世界的城堡抵御进攻</li>
+    <li>subject_story->在帝国空降艇上担任尾炮手</li>
+    <li>subject_story->研究可部署军事技术</li>
+    <li>subject_story->参加过[worldname]战争的堑壕战</li>
+    <li>subject_gerund->制作可部署枪炮塔</li>
   -->
   <TurretPack.generalRules.rulesStrings>
     <li>subject->可部署炮塔</li>

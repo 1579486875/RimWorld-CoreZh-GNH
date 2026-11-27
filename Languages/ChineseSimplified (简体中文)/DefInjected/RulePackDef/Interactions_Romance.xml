@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN:
-    <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
+    <li>sent->[RECIPIENT_nameDef]答应了，两人现已订婚。</li>
   -->
   <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef]接受了求婚。</li>
   </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
+    <li>sent->[RECIPIENT_nameDef]拒绝了求婚。</li>
   -->
   <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef]拒绝了求婚。</li>
   </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+    <li>sent->这段关系已无法为继，两人现已分手。</li>
   -->
   <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
     <li>sent->两人的关系难以为继，感情破裂了。</li>
   </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
-    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
-    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef]心生倾慕，现已成为[INITIATOR_nameDef]的恋人。</li>
+    <li>sent->[RECIPIENT_nameDef]反应良好，现已成为[INITIATOR_nameDef]的恋人。</li>
+    <li>sent->[RECIPIENT_nameDef]动了情，答应成为[INITIATOR_nameDef]的恋人。</li>
   -->
   <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef]接受了表白，并成为[INITIATOR_nameDef]的情人。</li>
@@ -34,13 +34,13 @@
   </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
-    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
-    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
-    <li>sent->[RECIPIENT_nameDef] turned away.</li>
-    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
-    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
-    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+    <li>sent->[RECIPIENT_nameDef]拒绝了这次的示好。</li>
+    <li>sent->[RECIPIENT_nameDef]无视了这次的示好。</li>
+    <li>sent->[RECIPIENT_nameDef]转过身去。</li>
+    <li>sent->[RECIPIENT_nameDef]别开了脸。</li>
+    <li>sent->[RECIPIENT_nameDef]只给了极简的回应。</li>
+    <li>sent->[RECIPIENT_nameDef]没有回应。</li>
+    <li>sent->[RECIPIENT_nameDef]拒绝了[INITIATOR_objective]。</li>
   -->
   <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
     <li>sent->[RECIPIENT_nameDef]拒绝了表白。</li>
