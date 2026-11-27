@@ -4,30 +4,30 @@
   <!-- EN: role acceptance speech -->
   <Speech_AcceptRole.label>就职演讲</Speech_AcceptRole.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->[INITIATOR_possessive] new role in the community</li>
-    <li>speechtopic->the responsibility of [INITIATOR_possessive] new role</li>
-    <li>speechtopic->the importance of [INITIATOR_possessive] new role</li>
-    <li>speechtopic->[INITIATOR_possessive] good qualities</li>
-    <li>speechtopic->[INITIATOR_possessive] strengths and how to leverage them</li>
-    <li>speechtopic->[INITIATOR_possessive] shortcomings</li>
-    <li>speechtopic->[INITIATOR_possessive] weaknesses and how to overcome them</li>
-    <li>speechtopic->[INITIATOR_possessive] desire to serve the community</li>
-    <li>speechtopic->[INITIATOR_possessive] dedication to [INITIATOR_possessive] beliefs</li>
-    <li>speechtopic->[INITIATOR_possessive] beliefs about the future</li>
-    <li>speechtopic->[INITIATOR_possessive] wish to serve a greater purpose</li>
-    <li>speechtopic->[INITIATOR_possessive] [PersonalCharacteristic] and how it relates to the role</li>
-    <li>speechtopic->how [INITIATOR_possessive] [PersonalCharacteristic] makes [INITIATOR_objective] suited for the role</li>
-    <li>speechtopic->how [INITIATOR_pronoun] will use [INITIATOR_possessive] [PersonalCharacteristic] to overcome obstacles</li>
-    <li>speechtopic->thankfulness</li>
-    <li>speechtopic->showing gratitude</li>
-    <li>speechtopic->life's purpose</li>
-    <li>speechtopic->the future of the colony</li>
-    <li>speechtopic->improving the colony</li>
-    <li>speechtopic->decision-making under stress</li>
-    <li>speechtopic->the social structure of the community</li>
-    <li>speechtopic->taking responsibility</li>
-    <li>speechtopic->putting a role above [INITIATOR_possessive] personal desires</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->[INITIATOR_possessive]在社区中的新职务</li>
+    <li>speechtopic->[INITIATOR_possessive]新职务的责任</li>
+    <li>speechtopic->[INITIATOR_possessive]新职务的重要性</li>
+    <li>speechtopic->[INITIATOR_possessive]的优点</li>
+    <li>speechtopic->[INITIATOR_possessive]的长处以及如何发挥它们</li>
+    <li>speechtopic->[INITIATOR_possessive]的短处</li>
+    <li>speechtopic->[INITIATOR_possessive]的弱点以及如何克服它们</li>
+    <li>speechtopic->[INITIATOR_possessive]服务社区的意愿</li>
+    <li>speechtopic->[INITIATOR_possessive]对自身信仰的忠诚</li>
+    <li>speechtopic->[INITIATOR_possessive]对未来的看法</li>
+    <li>speechtopic->[INITIATOR_possessive]想为更宏大的目标效力</li>
+    <li>speechtopic->[INITIATOR_possessive][PersonalCharacteristic]以及它与该职务的关系</li>
+    <li>speechtopic->[INITIATOR_possessive][PersonalCharacteristic]如何让[INITIATOR_objective]适合这个职务</li>
+    <li>speechtopic->[INITIATOR_pronoun]将如何用[INITIATOR_possessive][PersonalCharacteristic]克服障碍</li>
+    <li>speechtopic->感恩</li>
+    <li>speechtopic->表达感激</li>
+    <li>speechtopic->人生的意义</li>
+    <li>speechtopic->殖民地的未来</li>
+    <li>speechtopic->如何改善殖民地</li>
+    <li>speechtopic->压力下的决策</li>
+    <li>speechtopic->社区的社会结构</li>
+    <li>speechtopic->承担责任</li>
+    <li>speechtopic->把职务置于[INITIATOR_possessive]个人欲望之上</li>
   -->
   <Speech_AcceptRole.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -59,23 +59,23 @@
   <!-- EN: blinding speech -->
   <Speech_Blinding.label>盲视演讲</Speech_Blinding.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->blindness</li>
-    <li>speechtopic->the purity of blindness</li>
-    <li>speechtopic->the spiritual meaning of the sightless</li>
-    <li>speechtopic->hidden worlds beyond sight</li>
-    <li>speechtopic->the falseness of our visual reality</li>
-    <li>speechtopic->the technique of blinding</li>
-    <li>speechtopic->the curse of sight</li>
-    <li>speechtopic->the jelly inside the eyeball</li>
-    <li>speechtopic->growing up sighted</li>
-    <li>speechtopic->growing up blind</li>
-    <li>speechtopic->exploring without seeing or moving</li>
-    <li>speechtopic->the true layers of reality under the visual</li>
-    <li>speechtopic->psychic connections</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->失明</li>
+    <li>speechtopic->失明的纯粹</li>
+    <li>speechtopic->无眼者的精神意义</li>
+    <li>speechtopic->视觉之外的世界</li>
+    <li>speechtopic->我们所见现实的虚妄</li>
+    <li>speechtopic->致盲的技艺</li>
+    <li>speechtopic->视觉的诅咒</li>
+    <li>speechtopic->眼球里的胶状物</li>
+    <li>speechtopic->在有视力的环境中长大</li>
+    <li>speechtopic->在失明中长大</li>
+    <li>speechtopic->不靠看与动去探索</li>
+    <li>speechtopic->视觉表象之下的真实层次</li>
+    <li>speechtopic->灵能连接</li>
   -->
   <Speech_Blinding.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
     <li>speechtopic->盲视</li>
     <li>speechtopic->盲视的纯洁性</li>
     <li>speechtopic->盲视的精神意义</li>
@@ -94,22 +94,22 @@
   <!-- EN: conversion speech -->
   <Speech_Conversion.label>教化演讲</Speech_Conversion.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->uniting for the greater good</li>
-    <li>speechtopic->the wrongness of apostasy</li>
-    <li>speechtopic->choosing right beliefs</li>
-    <li>speechtopic->the moral structure of the universe</li>
-    <li>speechtopic->right and wrong</li>
-    <li>speechtopic->the purpose of life</li>
-    <li>speechtopic->the meaning of life</li>
-    <li>speechtopic->mankind's history</li>
-    <li>speechtopic->the future of mankind</li>
-    <li>speechtopic->love and hate</li>
-    <li>speechtopic->fear and safety</li>
-    <li>speechtopic->the rightness of belonging</li>
-    <li>speechtopic->joining and belonging</li>
-    <li>speechtopic->false other beliefs</li>
-    <li>speechtopic->progress towards the future</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->为更伟大的善而团结</li>
+    <li>speechtopic->背教的错误</li>
+    <li>speechtopic->选择正确的信仰</li>
+    <li>speechtopic->宇宙的道德结构</li>
+    <li>speechtopic->对与错</li>
+    <li>speechtopic->人生的目的</li>
+    <li>speechtopic->生命的意义</li>
+    <li>speechtopic->人类的历史</li>
+    <li>speechtopic->人类的未来</li>
+    <li>speechtopic->爱与恨</li>
+    <li>speechtopic->恐惧与安全</li>
+    <li>speechtopic->归属的正确性</li>
+    <li>speechtopic->加入与归属</li>
+    <li>speechtopic->其他信仰的谬误</li>
+    <li>speechtopic->通向未来的进步</li>
   -->
   <Speech_Conversion.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -133,15 +133,15 @@
   <!-- EN: celebration speech -->
   <Speech_DateRitual.label>庆典演讲</Speech_DateRitual.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</li>
-    <li>praisetopic->the joy of ideological celebrations</li>
-    <li>praisetopic->correct thinking</li>
-    <li>praisetopic->the moral structure of the universe</li>
-    <li>praisetopic->[INITIATOR_possessive] beliefs</li>
-    <li>praisetopic->togetherness</li>
-    <li>praisetopic->being together</li>
-    <li>praisetopic->sharing ideas</li>
-    <li>praisetopic->[INITIATOR_possessive] own group</li>
+    <li>r_logentry->[INITIATOR_nameDef][praised][praisetopic]。</li>
+    <li>praisetopic->意识形态庆典的喜悦</li>
+    <li>praisetopic->正确的思想</li>
+    <li>praisetopic->宇宙的道德结构</li>
+    <li>praisetopic->[INITIATOR_possessive]的信仰</li>
+    <li>praisetopic->团结</li>
+    <li>praisetopic->共处</li>
+    <li>praisetopic->交流想法</li>
+    <li>praisetopic->[INITIATOR_possessive]自己的群体</li>
   -->
   <Speech_DateRitual.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][praised][praisetopic]。</li>
@@ -158,22 +158,22 @@
   <!-- EN: duel speech -->
   <Speech_Duel.label>决斗演讲</Speech_Duel.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</li>
-    <li>praisetopic->death by blade</li>
-    <li>praisetopic->painful death</li>
-    <li>praisetopic->honorable death</li>
-    <li>praisetopic->honorable combat</li>
-    <li>praisetopic->grit and struggle</li>
-    <li>praisetopic->[AdjectiveBadass] weapons and fighters</li>
-    <li>praisetopic->the purity of physical conflict</li>
-    <li>praisetopic->love through death</li>
-    <li>praisetopic->expelling hate for health</li>
-    <li>praisetopic->strength over others</li>
-    <li>praisetopic->the conflict inherent in the universe</li>
-    <li>praisetopic->blood and dust</li>
-    <li>praisetopic->life and drama</li>
-    <li>praisetopic->anger and hope</li>
-    <li>praisetopic->rage and strength</li>
+    <li>r_logentry->[INITIATOR_nameDef][praised][praisetopic]。</li>
+    <li>praisetopic->死于刀锋</li>
+    <li>praisetopic->痛苦的死亡</li>
+    <li>praisetopic->光荣的死</li>
+    <li>praisetopic->光荣的战斗</li>
+    <li>praisetopic->坚韧与奋斗</li>
+    <li>praisetopic->[AdjectiveBadass]的武器与战士</li>
+    <li>praisetopic->肉体冲突的纯粹</li>
+    <li>praisetopic->通过死亡达成的爱</li>
+    <li>praisetopic->为了健全而排遣仇恨</li>
+    <li>praisetopic->凌驾他人之力</li>
+    <li>praisetopic->宇宙固有的冲突</li>
+    <li>praisetopic->血与尘</li>
+    <li>praisetopic->生命与戏剧</li>
+    <li>praisetopic->愤怒与希望</li>
+    <li>praisetopic->狂暴与力量</li>
   -->
   <Speech_Duel.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][praised][praisetopic]。</li>
@@ -197,16 +197,16 @@
   <!-- EN: execution speech -->
   <Speech_Execution.label>处决演讲</Speech_Execution.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->life and death</li>
-    <li>speechtopic->the necessity of justice</li>
-    <li>speechtopic->the methods of execution</li>
-    <li>speechtopic->death and cruelty</li>
-    <li>speechtopic->merciful killing</li>
-    <li>speechtopic->the mercy of a correct killing</li>
-    <li>speechtopic->the symbolism of death</li>
-    <li>speechtopic->capital punishment and its history</li>
-    <li>speechtopic->the reasons for the execution</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->生与死</li>
+    <li>speechtopic->正义的必要</li>
+    <li>speechtopic->处决的方式</li>
+    <li>speechtopic->死亡与残酷</li>
+    <li>speechtopic->仁慈的杀戮</li>
+    <li>speechtopic->正确杀戮的仁慈</li>
+    <li>speechtopic->死亡的象征</li>
+    <li>speechtopic->死刑及其历史</li>
+    <li>speechtopic->处决的理由</li>
   -->
   <Speech_Execution.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -224,19 +224,19 @@
   <!-- EN: funeral speech -->
   <Speech_Funeral.label>葬礼演讲</Speech_Funeral.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->the nobility of sacrifice</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->牺牲的高贵</li>
     <li>speechtopic->death</li>
-    <li>speechtopic->life after death</li>
-    <li>speechtopic->death and family</li>
-    <li>speechtopic->the concept of a good life</li>
-    <li>speechtopic->death as a path to dignity</li>
-    <li>speechtopic->beginnings and endings</li>
-    <li>speechtopic->what happens after death</li>
-    <li>speechtopic->celebrating the next step</li>
-    <li>speechtopic->absent friends</li>
-    <li>speechtopic->life and joy</li>
-    <li>speechtopic->carrying forward unfinished work</li>
+    <li>speechtopic->死后的生命</li>
+    <li>speechtopic->死亡与家庭</li>
+    <li>speechtopic->善生的观念</li>
+    <li>speechtopic->以死通向尊严</li>
+    <li>speechtopic->开始与终结</li>
+    <li>speechtopic->死后会发生什么</li>
+    <li>speechtopic->庆祝下一步</li>
+    <li>speechtopic->缺席的友伴</li>
+    <li>speechtopic->生命与喜悦</li>
+    <li>speechtopic->承接未竟的事业</li>
   -->
   <Speech_Funeral.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -257,40 +257,40 @@
   <!-- EN: leader speech -->
   <Speech_Leader.label>领袖演讲</Speech_Leader.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->searching for [Vegetable]s</li>
-    <li>speechtopic->how to be [AdjectiveFriendly]</li>
-    <li>speechtopic->avoiding [AnimalBadass]s</li>
-    <li>speechtopic->how life is like [Game]</li>
-    <li>speechtopic->the mind as a [Weapon]</li>
-    <li>speechtopic->exploring through [TerrainFeature]s and [TerrainFeature]s</li>
-    <li>speechtopic->promises to the [Direction]</li>
-    <li>speechtopic->how to be more like [Animal]s</li>
-    <li>speechtopic->the symbolism of the [NaturalObject] and the [NaturalObject]</li>
-    <li>speechtopic->how all are [PersonFamily]s and [PersonFamily]s</li>
-    <li>speechtopic->how to be a good [PersonAlly]</li>
-    <li>speechtopic->the need for [PersonJob]s</li>
-    <li>speechtopic->avoiding [PersonBadass]s</li>
-    <li>speechtopic->defeating [Enemy]s through [ConceptPositive]</li>
-    <li>speechtopic->seeing [Gore] during combat</li>
-    <li>speechtopic->the history of the [Mechanoid]s</li>
-    <li>speechtopic->the meaning of [ConceptPositive]</li>
-    <li>speechtopic->the [ConceptPositive] of the colony</li>
-    <li>speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass]</li>
-    <li>speechtopic->how [AdjectiveBadass] the colony is</li>
-    <li>speechtopic->[AdjectiveNatural] [TerrainFeature]s</li>
-    <li>speechtopic->the colony's [AdjectiveLarge] potential</li>
-    <li>speechtopic->the [PersonalCharacteristic] of every colonist</li>
-    <li>speechtopic->the terrible [PersonalCharacteristic] of the colony's enemies</li>
-    <li>speechtopic(p=0.25)->sticking together as group</li>
-    <li>speechtopic(p=0.25)->the path forward through tragedy</li>
-    <li>speechtopic(p=0.25)->the community and its importance</li>
-    <li>speechtopic(p=0.25)->survival versus luxury</li>
-    <li>speechtopic(p=0.25)->happiness through hardship</li>
-    <li>speechtopic(p=0.25)->satisfaction through suffering</li>
-    <li>speechtopic(p=0.25)->death as a motivator</li>
-    <li>speechtopic(p=0.25)->strong hands and hearts</li>
-    <li>speechtopic(p=0.25)->the right to survive</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->寻找[Vegetable]</li>
+    <li>speechtopic->如何做到[AdjectiveFriendly]</li>
+    <li>speechtopic->避开[AnimalBadass]</li>
+    <li>speechtopic->生活如同[Game]</li>
+    <li>speechtopic->心智即[Weapon]</li>
+    <li>speechtopic->穿越[TerrainFeature]与[TerrainFeature]的探索</li>
+    <li>speechtopic->对[Direction]的承诺</li>
+    <li>speechtopic->如何更像[Animal]</li>
+    <li>speechtopic->[NaturalObject]与[NaturalObject]的象征</li>
+    <li>speechtopic->所有人都是[PersonFamily]与[PersonFamily]</li>
+    <li>speechtopic->如何做个好的[PersonAlly]</li>
+    <li>speechtopic->[PersonJob]的必要</li>
+    <li>speechtopic->避开[PersonBadass]</li>
+    <li>speechtopic->以[ConceptPositive]战胜[Enemy]</li>
+    <li>speechtopic->战斗中见到的[Gore]</li>
+    <li>speechtopic->[Mechanoid]的历史</li>
+    <li>speechtopic->[ConceptPositive]的意义</li>
+    <li>speechtopic->殖民地的[ConceptPositive]</li>
+    <li>speechtopic->如何做到[AdjectiveBadass]而不显得[AdjectiveBadass]</li>
+    <li>speechtopic->殖民地有多[AdjectiveBadass]</li>
+    <li>speechtopic->[AdjectiveNatural]的[TerrainFeature]</li>
+    <li>speechtopic->殖民地[AdjectiveLarge]的潜力</li>
+    <li>speechtopic->每位殖民者的[PersonalCharacteristic]</li>
+    <li>speechtopic->殖民地敌人可怕的[PersonalCharacteristic]</li>
+    <li>speechtopic(p=0.25)->作为一个群体紧紧相依</li>
+    <li>speechtopic(p=0.25)->穿越悲剧的前路</li>
+    <li>speechtopic(p=0.25)->社区及其重要性</li>
+    <li>speechtopic(p=0.25)->生存与奢华的取舍</li>
+    <li>speechtopic(p=0.25)->在困苦中获得幸福</li>
+    <li>speechtopic(p=0.25)->在受苦中获得满足</li>
+    <li>speechtopic(p=0.25)->以死亡作为动力</li>
+    <li>speechtopic(p=0.25)->有力的手与坚强的心</li>
+    <li>speechtopic(p=0.25)->生存的权利</li>
   -->
   <Speech_Leader.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -332,25 +332,25 @@
   <!-- EN: role removal speech -->
   <Speech_RemoveRole.label>离职演讲</Speech_RemoveRole.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->[INITIATOR_possessive] past role in the community</li>
-    <li>speechtopic->the responsibility of [INITIATOR_possessive] old role</li>
-    <li>speechtopic->the difficulty of [INITIATOR_possessive] old role</li>
-    <li>speechtopic->[INITIATOR_possessive] shortcomings</li>
-    <li>speechtopic->[INITIATOR_possessive] weaknesses and how to overcome them</li>
-    <li>speechtopic->[INITIATOR_possessive] frustration with the community</li>
-    <li>speechtopic->[INITIATOR_possessive] dedication to [INITIATOR_possessive] beliefs</li>
-    <li>speechtopic->[INITIATOR_possessive] beliefs about the future</li>
-    <li>speechtopic->[INITIATOR_possessive] wish to pursue [INITIATOR_possessive] own goals</li>
-    <li>speechtopic->[INITIATOR_possessive] lack of [PersonalCharacteristic]</li>
-    <li>speechtopic->[INITIATOR_possessive] past</li>
-    <li>speechtopic->showing humbleness</li>
-    <li>speechtopic->life's purpose</li>
-    <li>speechtopic->the future of the colony</li>
-    <li>speechtopic->improving the colony</li>
-    <li>speechtopic->the social structure of the community</li>
-    <li>speechtopic->better candidates</li>
-    <li>speechtopic->putting community goals above [INITIATOR_possessive] personal ambitions</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->[INITIATOR_possessive]过去在社区中的职务</li>
+    <li>speechtopic->[INITIATOR_possessive]旧职务的责任</li>
+    <li>speechtopic->[INITIATOR_possessive]旧职务的艰难</li>
+    <li>speechtopic->[INITIATOR_possessive]的短处</li>
+    <li>speechtopic->[INITIATOR_possessive]的弱点以及如何克服它们</li>
+    <li>speechtopic->[INITIATOR_possessive]对社区的失望</li>
+    <li>speechtopic->[INITIATOR_possessive]对自身信仰的忠诚</li>
+    <li>speechtopic->[INITIATOR_possessive]对未来的看法</li>
+    <li>speechtopic->[INITIATOR_possessive]想追求自己的目标</li>
+    <li>speechtopic->[INITIATOR_possessive]缺乏[PersonalCharacteristic]</li>
+    <li>speechtopic->[INITIATOR_possessive]的过去</li>
+    <li>speechtopic->表现谦逊</li>
+    <li>speechtopic->人生的意义</li>
+    <li>speechtopic->殖民地的未来</li>
+    <li>speechtopic->如何改善殖民地</li>
+    <li>speechtopic->社区的社会结构</li>
+    <li>speechtopic->更合适的人选</li>
+    <li>speechtopic->把社区目标置于[INITIATOR_possessive]个人抱负之上</li>
   -->
   <Speech_RemoveRole.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -377,27 +377,27 @@
   <!-- EN: sacrifice speech -->
   <Speech_Sacrifice.label>献祭演讲</Speech_Sacrifice.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
-    <li>speechtopic->the meaning and true value of death</li>
-    <li>speechtopic->expressions of pain</li>
-    <li>speechtopic->controlled cruelty</li>
-    <li>speechtopic->the warmth of blood</li>
-    <li>speechtopic->the meaning of death</li>
-    <li>speechtopic->love and death</li>
-    <li>speechtopic->symbolizing pain</li>
-    <li>speechtopic->blades and flesh</li>
-    <li>speechtopic->the art of cutting</li>
-    <li>speechtopic->the seduction of blood</li>
-    <li>speechtopic->the music of screams</li>
-    <li>speechtopic->guts on the floor</li>
-    <li>crazy->screamed maniacally</li>
-    <li>crazy->broke into a chant</li>
-    <li>crazy->chanted towards the heavens</li>
-    <li>crazy->spat in the sacrifice's eye</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef][crazy]。</li>
+    <li>speechtopic->死亡的意义与真正价值</li>
+    <li>speechtopic->痛苦的表现</li>
+    <li>speechtopic->受控的残酷</li>
+    <li>speechtopic->血的温度</li>
+    <li>speechtopic->死亡的意义</li>
+    <li>speechtopic->爱与死</li>
+    <li>speechtopic->痛苦的象征</li>
+    <li>speechtopic->刀刃与血肉</li>
+    <li>speechtopic->切割的艺术</li>
+    <li>speechtopic->血的诱惑</li>
+    <li>speechtopic->惨叫的音乐</li>
+    <li>speechtopic->地上的内脏</li>
+    <li>crazy->疯狂地尖叫</li>
+    <li>crazy->突然开始吟诵</li>
+    <li>crazy->朝着天空吟诵</li>
+    <li>crazy->朝祭品的眼睛吐了口唾沫</li>
     <li>crazy->cackled</li>
-    <li>crazy->brandished a blade</li>
-    <li>crazy->muttered repetitively</li>
+    <li>crazy->挥舞刀刃</li>
+    <li>crazy->反复低语</li>
   -->
   <Speech_Sacrifice.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -426,25 +426,25 @@
   <!-- EN: scarification speech -->
   <Speech_Scarification.label>裂伤演讲</Speech_Scarification.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
-    <li>speechtopic->recording pain on the body</li>
-    <li>speechtopic->expressions of pain</li>
-    <li>speechtopic->controlled cruelty</li>
-    <li>speechtopic->the warmth of blood</li>
-    <li>speechtopic->the meaning of the scar</li>
-    <li>speechtopic->love and pain</li>
-    <li>speechtopic->symbolizing pain</li>
-    <li>speechtopic->blades and flesh</li>
-    <li>speechtopic->the art of cutting</li>
-    <li>speechtopic->the seduction of blood</li>
-    <li>speechtopic->the music of screams</li>
-    <li>crazy->screamed maniacally</li>
-    <li>crazy->broke into a chant</li>
-    <li>crazy->chanted towards the heavens</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef][crazy]。</li>
+    <li>speechtopic->在肉体上记录痛苦</li>
+    <li>speechtopic->痛苦的表现</li>
+    <li>speechtopic->受控的残酷</li>
+    <li>speechtopic->血的温度</li>
+    <li>speechtopic->伤疤的意义</li>
+    <li>speechtopic->爱与痛</li>
+    <li>speechtopic->痛苦的象征</li>
+    <li>speechtopic->刀刃与血肉</li>
+    <li>speechtopic->切割的艺术</li>
+    <li>speechtopic->血的诱惑</li>
+    <li>speechtopic->惨叫的音乐</li>
+    <li>crazy->疯狂地尖叫</li>
+    <li>crazy->突然开始吟诵</li>
+    <li>crazy->朝着天空吟诵</li>
     <li>crazy->cackled</li>
-    <li>crazy->brandished a blade</li>
-    <li>crazy->muttered repetitively</li>
+    <li>crazy->挥舞刀刃</li>
+    <li>crazy->反复低语</li>
   -->
   <Speech_Scarification.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
@@ -471,19 +471,19 @@
   <!-- EN: tree connection speech -->
   <Speech_TreeConnection.label>共鸣演讲</Speech_TreeConnection.label>
   <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->the trees and the people</li>
-    <li>speechtopic->the trees and psychic powers</li>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->树木与人</li>
+    <li>speechtopic->树木与灵能</li>
     <li>speechtopic->dryads</li>
-    <li>speechtopic->the Gauranlen life cycle</li>
-    <li>speechtopic->the spiritual presence of Gauranlen trees</li>
-    <li>speechtopic->psychic dendro-pathy</li>
-    <li>speechtopic->how cute dryads are</li>
-    <li>speechtopic->the nobility of the dryads</li>
-    <li>speechtopic->the age of the trees</li>
-    <li>speechtopic->humanity's role below the trees</li>
-    <li>speechtopic->plant life and eternity</li>
-    <li>speechtopic->connecting with nature</li>
+    <li>speechtopic->高兰林的生命周期</li>
+    <li>speechtopic->高兰林树的精神存在</li>
+    <li>speechtopic->灵能木语</li>
+    <li>speechtopic->树精有多可爱</li>
+    <li>speechtopic->树精的高贵</li>
+    <li>speechtopic->树木的年龄</li>
+    <li>speechtopic->人类在树下的角色</li>
+    <li>speechtopic->植物生命与永恒</li>
+    <li>speechtopic->与自然相通</li>
   -->
   <Speech_TreeConnection.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
