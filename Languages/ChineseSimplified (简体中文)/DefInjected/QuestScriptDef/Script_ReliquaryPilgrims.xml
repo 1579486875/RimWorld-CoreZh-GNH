@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN:
-    <li>pilgrimsArrivedLetterLabel->[factionAdj] [pilgrimSingularOrPlural] arrived</li>
+    <li>pilgrimsArrivedLetterLabel->[factionAdj][pilgrimSingularOrPlural]已抵达</li>
     <li>pilgrimsArrivedLetterText->[questDescription]</li>
-    <li>delayedRewardLetterText->[pawns0_nameDef] thanks you for letting [pawns0_objective] [andFollowers] venerate [relic_name] on the [venerateDate]. As a reward, [pawns0_nameDef] is sending you the following via drop pod (total value [rewardsMarketValue_money]):\n\n[rewards].</li>
-    <li>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural] [hasHave] finished venerating [relic_name] and [areIs] now leaving.</li>
-    <li>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural] [hasHave] left the map.</li>
+    <li>delayedRewardLetterText->[pawns0_nameDef]感谢你让[pawns0_objective][andFollowers]在[venerateDate]瞻仰[relic_name]。作为回报，[pawns0_nameDef]正通过空投舱送来以下物品（总价值[rewardsMarketValue_money]）：\n\n[rewards]。</li>
+    <li>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural][hasHave]完成对[relic_name]的瞻仰，现在[areIs]要离开了。</li>
+    <li>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural][hasHave]离开了这张地图。</li>
     <li>areIs(pilgrimCount==1)->is</li>
-    <li>areIs(pilgrimCount>=2)->are</li>
+    <li>areIs(pilgrimCount>=2)->正</li>
     <li>andFollowers(pilgrimCount==1)-></li>
-    <li>andFollowers(pilgrimCount==2)->and the other [faction_pawnSingular]</li>
-    <li>andFollowers(pilgrimCount>=3)->and the other [faction_pawnsPlural]</li>
-    <li>pilgrimSingularOrPlural(pilgrimCount==1)->pilgrim</li>
-    <li>pilgrimSingularOrPlural(pilgrimCount>=2)->pilgrims</li>
+    <li>andFollowers(pilgrimCount==2)->以及另一位[faction_pawnSingular]</li>
+    <li>andFollowers(pilgrimCount>=3)->以及其他[faction_pawnsPlural]</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount==1)->朝圣者</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount>=2)->朝圣者</li>
     <li>factionAdj(pilgrimFaction==true)-></li>
     <li>factionAdj(pilgrimFaction==false)->[faction_pawnSingular]</li>
   -->
@@ -38,8 +38,8 @@
     <li>pilgrimsLabelPlural->[faction_pawnsPlural]</li>
     <li>pilgrimsLabelSingularOrPlural(pilgrimCount==1)->[pilgrimsLabel]</li>
     <li>pilgrimsLabelSingularOrPlural(pilgrimCount>=2)->[pilgrimsLabelPlural]</li>
-    <li>hasHave(pilgrimCount==1)->has</li>
-    <li>hasHave(pilgrimCount>=2)->have</li>
+    <li>hasHave(pilgrimCount==1)->已</li>
+    <li>hasHave(pilgrimCount>=2)->已</li>
   -->
   <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
     <li>pilgrimsLabel->[pawns0_nameDef]</li>
@@ -50,17 +50,17 @@
     <li>hasHave(pilgrimCount>=2)-></li>
   </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
-    <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
-    <li>questDescription(pilgrimCount==1,childCount==1,priority=1)->[pilgrimsLabelSingularOrPlural], a child, [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
-    <li>questDescription(pilgrimCount>=2,childCount==1,priority=1)->A group of [pilgrimsLabelSingularOrPlural] including a child has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
-    <li>questDescription(pilgrimCount>=2,childCount>=2,allChildren==false,priority=1)->A group of [pilgrimsLabelSingularOrPlural] including some children has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
-    <li>questDescription(pilgrimCount>=2,allChildren==true,priority=1)->A group of child [pilgrimsLabelSingularOrPlural] has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
+    <li>questDescription->[pilgrimsLabelSingularOrPlural][hasHave]抵达，前来瞻仰[relic_name]。\n\n如果你能确保[pronounSingularOrPlural]在[visitSingularOrPlural]这件远古圣物期间安全并受到尊重，[pronounSingularOrPlural]也许会给你一份回报。</li>
+    <li>questDescription(pilgrimCount==1,childCount==1,priority=1)->一位孩子[pilgrimsLabelSingularOrPlural][hasHave]抵达，前来瞻仰[relic_name]。\n\n如果你能确保[pronounSingularOrPlural]在[visitSingularOrPlural]这件远古圣物期间安全并受到尊重，[pronounSingularOrPlural]也许会给你一份回报。</li>
+    <li>questDescription(pilgrimCount>=2,childCount==1,priority=1)->一群[pilgrimsLabelSingularOrPlural]已抵达，其中有一个孩子，前来瞻仰[relic_name]。\n\n如果你能确保[pronounSingularOrPlural]在[visitSingularOrPlural]这件远古圣物期间安全并受到尊重，[pronounSingularOrPlural]也许会给你一份回报。</li>
+    <li>questDescription(pilgrimCount>=2,childCount>=2,allChildren==false,priority=1)->一群[pilgrimsLabelSingularOrPlural]已抵达，其中有几个孩子，前来瞻仰[relic_name]。\n\n如果你能确保[pronounSingularOrPlural]在[visitSingularOrPlural]这件远古圣物期间安全并受到尊重，[pronounSingularOrPlural]也许会给你一份回报。</li>
+    <li>questDescription(pilgrimCount>=2,allChildren==true,priority=1)->一群年幼的[pilgrimsLabelSingularOrPlural]已抵达，前来瞻仰[relic_name]。\n\n如果你能确保[pronounSingularOrPlural]在[visitSingularOrPlural]这件远古圣物期间安全并受到尊重，[pronounSingularOrPlural]也许会给你一份回报。</li>
     <li>isAre(pilgrimCount==1)->is</li>
-    <li>isAre(pilgrimCount>=2)->are</li>
+    <li>isAre(pilgrimCount>=2)->正</li>
     <li>pronounSingularOrPlural(pilgrimCount==1)->[pawns0_pronoun]</li>
-    <li>pronounSingularOrPlural(pilgrimCount>=2)->they</li>
-    <li>visitSingularOrPlural(pilgrimCount==1)->visits</li>
-    <li>visitSingularOrPlural(pilgrimCount>=2)->visit</li>
+    <li>pronounSingularOrPlural(pilgrimCount>=2)->他们</li>
+    <li>visitSingularOrPlural(pilgrimCount==1)->拜访</li>
+    <li>visitSingularOrPlural(pilgrimCount>=2)->拜访</li>
   -->
   <ReliquaryPilgrims.questDescriptionRules.rulesStrings>
     <li>questDescription->[pilgrimsLabelSingularOrPlural]已前来参拜[relic_name]。\n\n如果你能确保[pronounSingularOrPlural][visitSingularOrPlural]古老圣物期间的待遇和人身安全， [pronounSingularOrPlural] 或许会回馈予你。</li>
@@ -79,21 +79,21 @@
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
     <li>questName(pilgrimCount>=2)->[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</li>
     <li>visitAdj(p=6)-></li>
-    <li>visitAdj->holy</li>
-    <li>visitAdj->sacred</li>
-    <li>visitAdj->spiritual</li>
-    <li>visitAdj->divine</li>
-    <li>visitAdj->hallowed</li>
-    <li>visitAdj->solemn</li>
-    <li>visitAdj->sacramental</li>
-    <li>visitAdj->sanctified</li>
-    <li>visit->visit</li>
-    <li>visit->pilgrimage</li>
-    <li>visit->mission</li>
-    <li>visit->expedition</li>
-    <li>visit->excursion</li>
-    <li>visit->tour</li>
-    <li>visit->veneration</li>
+    <li>visitAdj->神圣</li>
+    <li>visitAdj->圣洁</li>
+    <li>visitAdj->灵性</li>
+    <li>visitAdj->神授</li>
+    <li>visitAdj->圣化</li>
+    <li>visitAdj->庄严</li>
+    <li>visitAdj->圣礼</li>
+    <li>visitAdj->蒙圣</li>
+    <li>visit->拜访</li>
+    <li>visit->朝圣</li>
+    <li>visit->使命</li>
+    <li>visit->远征</li>
+    <li>visit->远足</li>
+    <li>visit->巡礼</li>
+    <li>visit->瞻仰</li>
   -->
   <ReliquaryPilgrims.questNameRules.rulesStrings>
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]的[visitAdj][visit]</li>
