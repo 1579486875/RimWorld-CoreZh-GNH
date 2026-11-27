@@ -2,115 +2,115 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_art_description->This [cubeWork] [cubeDepicts] [aCube]. [cube_style_group]</li>
+    <li>r_art_description->这件[cubeWork][cubeDepicts][aCube]。[cube_style_group]</li>
     <li>cube_style_group(p=2)->[cubeDescSentence]. [cubeExtraSentence].</li>
     <li>cube_style_group(p=3)->[cubeDescSentence].</li>
     <li>cube_style_group-></li>
     <li>cubeDescSentence(p=3)->[cubeLocation], [aPawn] [worshipsTheCube]</li>
-    <li>cubeDescSentence(p=3)->[cubeLocation], [pawnsPlural] are [worshippingTheCube]</li>
-    <li>cubeDescSentence->The [cubeWork] invites the viewer to begin [worshippingTheCube]</li>
-    <li>cubeDescSentence->Figures [worshippingTheCube] from the center of this [cubeWork]</li>
-    <li>cubeWork->work</li>
-    <li>cubeWork->sculpture</li>
-    <li>cubeWork->artwork</li>
-    <li>cubeWork->piece</li>
-    <li>aCube->an abstract cube</li>
-    <li>aCube->a perfect cube</li>
-    <li>aCube->a wonky cube</li>
-    <li>aCube->a stylised cube</li>
-    <li>aCube->a multiplying cube</li>
-    <li>aCube->a crude cube</li>
-    <li>aCube->a distorted cube</li>
-    <li>aCube->a terrifying cube</li>
-    <li>aCube->a dark cube</li>
-    <li>cubeLocation->near the center</li>
-    <li>cubeLocation->on each cube face</li>
-    <li>cubeLocation->at the face centers</li>
-    <li>cubeLocation->on top of the main figure</li>
-    <li>cubeLocation->under the main figure</li>
-    <li>cubeLocation->behind the main figure</li>
-    <li>cubeLocation->near the edges</li>
-    <li>cubeLocation->along the edges</li>
-    <li>cubeLocation->along the edges</li>
-    <li>cubeDepicts->depicts</li>
-    <li>cubeDepicts->shows</li>
-    <li>cubeDepicts->displays</li>
-    <li>cubeDepicts->portrays</li>
-    <li>aPawn->a self-portrait of the artist</li>
-    <li>aPawn->a thrumbo</li>
-    <li>aPawn->an emaciated human figure with too many eyes</li>
-    <li>aPawn->one of your colonists</li>
-    <li>aPawn->a neanderthal</li>
-    <li>aPawn->a glitterworld leader</li>
-    <li>aPawn->an indistinct figure</li>
-    <li>aPawn->a tribal shaman</li>
-    <li>aPawn->a hooded sanguophage</li>
-    <li>aPawn->a medieval princess</li>
-    <li>aPawn->the leader of a distant [Community]</li>
-    <li>aPawn->a [Weapon]-wielding woman</li>
-    <li>aPawn->a robed procession</li>
-    <li>pawnsPlural->your colonists</li>
-    <li>pawnsPlural->a group of raiders</li>
-    <li>pawnsPlural->a tribal congregation</li>
-    <li>pawnsPlural->a mechanoid swarm</li>
-    <li>pawnsPlural->a pirate gang</li>
-    <li>pawnsPlural->rustic farmers</li>
+    <li>cubeDescSentence(p=3)->[cubeLocation]，[pawnsPlural]正[worshippingTheCube]</li>
+    <li>cubeDescSentence->这件[cubeWork]邀请观者一同[worshippingTheCube]</li>
+    <li>cubeDescSentence->[worshippingTheCube]的身影从这件[cubeWork]的中心浮现</li>
+    <li>cubeWork->作品</li>
+    <li>cubeWork->雕塑</li>
+    <li>cubeWork->艺术品</li>
+    <li>cubeWork->物件</li>
+    <li>aCube->一个抽象的立方体</li>
+    <li>aCube->一个完美的立方体</li>
+    <li>aCube->一个歪斜的立方体</li>
+    <li>aCube->一个风格化的立方体</li>
+    <li>aCube->一个不断增生的立方体</li>
+    <li>aCube->一个粗糙的立方体</li>
+    <li>aCube->一个扭曲的立方体</li>
+    <li>aCube->一个骇人的立方体</li>
+    <li>aCube->一个阴暗的立方体</li>
+    <li>cubeLocation->在中央附近</li>
+    <li>cubeLocation->在每个立方体面上</li>
+    <li>cubeLocation->在各面中心</li>
+    <li>cubeLocation->在主形象之上</li>
+    <li>cubeLocation->在主形象之下</li>
+    <li>cubeLocation->在主形象之后</li>
+    <li>cubeLocation->在边缘附近</li>
+    <li>cubeLocation->沿着边缘</li>
+    <li>cubeLocation->沿着边缘</li>
+    <li>cubeDepicts->描绘着</li>
+    <li>cubeDepicts->展现着</li>
+    <li>cubeDepicts->呈现着</li>
+    <li>cubeDepicts->刻画着</li>
+    <li>aPawn->艺术家的一幅自画像</li>
+    <li>aPawn->一只巨鼬</li>
+    <li>aPawn->一具瘦骨嶙峋、眼睛过多的人形</li>
+    <li>aPawn->你的一位殖民者</li>
+    <li>aPawn->一个尼安德特人</li>
+    <li>aPawn->一位闪耀世界领袖</li>
+    <li>aPawn->一个模糊的身影</li>
+    <li>aPawn->一位部落萨满</li>
+    <li>aPawn->一位兜帽遮面的血族</li>
+    <li>aPawn->一位中世纪公主</li>
+    <li>aPawn->一个远方[Community]的领袖</li>
+    <li>aPawn->一位手持[Weapon]的女子</li>
+    <li>aPawn->一列身披长袍的游行队伍</li>
+    <li>pawnsPlural->你的殖民者</li>
+    <li>pawnsPlural->一群劫掠者</li>
+    <li>pawnsPlural->一群部落信众</li>
+    <li>pawnsPlural->一群机械体</li>
+    <li>pawnsPlural->一伙海盗</li>
+    <li>pawnsPlural->质朴的农夫</li>
     <li>pawnsPlural->a [AnimalGroup] of [Animal]s</li>
-    <li>pawnsPlural->a group from a nearby [Community]</li>
-    <li>pawnsPlural->[Quantity_adjphrase] people</li>
-    <li>worshippingTheCube->worshipping the cube</li>
-    <li>worshippingTheCube->bowing to cube</li>
-    <li>worshippingTheCube->kneeling before cube</li>
-    <li>worshippingTheCube->circling the cube</li>
-    <li>worshippingTheCube->praising the cube</li>
-    <li>worshippingTheCube->trembling in awe of the cube</li>
-    <li>worshippingTheCube->pleading with the cube</li>
-    <li>worshippingTheCube->crying before the cube</li>
-    <li>worshippingTheCube->playing with the cube</li>
-    <li>worshippingTheCube->befriending the cube</li>
-    <li>worshippingTheCube->observing the cube</li>
-    <li>worshippingTheCube->obsessing over the cube</li>
-    <li>worshippingTheCube->sacrificing to the cube</li>
-    <li>worshippingTheCube->making offerings to the cube</li>
-    <li>worshippingTheCube->railing against the cube</li>
-    <li>worshippingTheCube->respecting the cube</li>
-    <li>worshippingTheCube->burying the cube</li>
-    <li>worshippingTheCube->placing the cube on a pedestal</li>
-    <li>worshippingTheCube->copying the cube</li>
-    <li>worshippingTheCube->taking the cube to another world</li>
-    <li>worshipsTheCube->worships the cube</li>
-    <li>worshipsTheCube->bows to the cube</li>
-    <li>worshipsTheCube->kneels before the cube</li>
-    <li>worshipsTheCube->circles the cube</li>
-    <li>worshipsTheCube->praises the cube</li>
-    <li>worshipsTheCube->trembles in awe of the cube</li>
-    <li>worshipsTheCube->pleads with the cube</li>
-    <li>worshipsTheCube->cries before the cube</li>
-    <li>worshipsTheCube->plays with the cube</li>
-    <li>worshipsTheCube->befriends the cube</li>
-    <li>worshipsTheCube->observes the cube</li>
-    <li>worshipsTheCube->obsesses over the cube</li>
-    <li>worshipsTheCube->sacrifices to the cube</li>
-    <li>worshipsTheCube->makes offerings to the cube</li>
-    <li>worshipsTheCube->rails against the cube</li>
-    <li>worshipsTheCube->attacks the cube</li>
-    <li>worshipsTheCube->buries the cube</li>
-    <li>worshipsTheCube->places the cube on a pedestal</li>
-    <li>worshipsTheCube->copies the cube</li>
-    <li>worshipsTheCube->takes the cube to another world</li>
-    <li>cubeExtraSentence->The cube seems [cubeEmotion] by this</li>
-    <li>cubeExtraSentence->[pawnsPlural] are approaching to do the same</li>
-    <li>cubeExtraSentence->[aPawn] approaches to do the same</li>
-    <li>cubeExtraSentence->[aPawn] gazes mournfully at the scene</li>
-    <li>cubeExtraSentence->[pawnsPlural] are trying to steal the cube</li>
-    <li>cubeExtraSentence->The cube seems to shimmer softly</li>
-    <li>cubeEmotion->unfazed</li>
-    <li>cubeEmotion->pleased</li>
-    <li>cubeEmotion->upset</li>
-    <li>cubeEmotion->unmoved</li>
-    <li>cubeEmotion->enraged</li>
-    <li>cubeEmotion->charmed</li>
-    <li>cubeEmotion->aggravated</li>
+    <li>pawnsPlural->来自附近[Community]的一群人</li>
+    <li>pawnsPlural->[Quantity_adjphrase]个人</li>
+    <li>worshippingTheCube->膜拜立方体</li>
+    <li>worshippingTheCube->向立方体鞠躬</li>
+    <li>worshippingTheCube->在立方体前跪下</li>
+    <li>worshippingTheCube->绕着立方体转圈</li>
+    <li>worshippingTheCube->赞美立方体</li>
+    <li>worshippingTheCube->敬畏地对着立方体发抖</li>
+    <li>worshippingTheCube->向立方体恳求</li>
+    <li>worshippingTheCube->在立方体前哭泣</li>
+    <li>worshippingTheCube->与立方体玩耍</li>
+    <li>worshippingTheCube->与立方体交好</li>
+    <li>worshippingTheCube->观察立方体</li>
+    <li>worshippingTheCube->为立方体痴迷</li>
+    <li>worshippingTheCube->向立方体献祭</li>
+    <li>worshippingTheCube->向立方体供奉</li>
+    <li>worshippingTheCube->痛斥立方体</li>
+    <li>worshippingTheCube->敬重立方体</li>
+    <li>worshippingTheCube->掩埋立方体</li>
+    <li>worshippingTheCube->把立方体供上基座</li>
+    <li>worshippingTheCube->复制立方体</li>
+    <li>worshippingTheCube->把立方体带往另一个世界</li>
+    <li>worshipsTheCube->膜拜立方体</li>
+    <li>worshipsTheCube->向立方体鞠躬</li>
+    <li>worshipsTheCube->在立方体前跪下</li>
+    <li>worshipsTheCube->绕着立方体转圈</li>
+    <li>worshipsTheCube->赞美立方体</li>
+    <li>worshipsTheCube->敬畏地对着立方体发抖</li>
+    <li>worshipsTheCube->向立方体恳求</li>
+    <li>worshipsTheCube->在立方体前哭泣</li>
+    <li>worshipsTheCube->与立方体玩耍</li>
+    <li>worshipsTheCube->与立方体交好</li>
+    <li>worshipsTheCube->观察立方体</li>
+    <li>worshipsTheCube->为立方体痴迷</li>
+    <li>worshipsTheCube->向立方体献祭</li>
+    <li>worshipsTheCube->向立方体供奉</li>
+    <li>worshipsTheCube->痛斥立方体</li>
+    <li>worshipsTheCube->攻击立方体</li>
+    <li>worshipsTheCube->掩埋立方体</li>
+    <li>worshipsTheCube->把立方体供上基座</li>
+    <li>worshipsTheCube->复制立方体</li>
+    <li>worshipsTheCube->把立方体带往另一个世界</li>
+    <li>cubeExtraSentence->立方体似乎对此[cubeEmotion]</li>
+    <li>cubeExtraSentence->[pawnsPlural]正靠过来，也想照做</li>
+    <li>cubeExtraSentence->[aPawn]靠过来，也想照做</li>
+    <li>cubeExtraSentence->[aPawn]哀伤地凝望着这一幕</li>
+    <li>cubeExtraSentence->[pawnsPlural]正试图偷走立方体</li>
+    <li>cubeExtraSentence->立方体似乎在柔和地闪烁</li>
+    <li>cubeEmotion->无动于衷</li>
+    <li>cubeEmotion->愉悦</li>
+    <li>cubeEmotion->不悦</li>
+    <li>cubeEmotion->不为所动</li>
+    <li>cubeEmotion->暴怒</li>
+    <li>cubeEmotion->着迷</li>
+    <li>cubeEmotion->恼怒</li>
   -->
   <ArtDescription_CubeSculpture.rulePack.rulesStrings>
     <li>r_art_description->这个[cubeWork][cubeDepicts][aCube]。[cube_style_group]</li>
@@ -225,38 +225,38 @@
   </ArtDescription_CubeSculpture.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_art_description->This [voidStrange] sculpture [voidVerbphrase]. [voidDesc]</li>
-    <li>voidStrange->strange</li>
-    <li>voidStrange->disturbing</li>
-    <li>voidStrange->unsettling</li>
-    <li>voidStrange->frightening</li>
-    <li>voidStrange->twisted</li>
-    <li>voidStrange->misshapen</li>
-    <li>voidStrange->inhuman</li>
-    <li>voidStrange->weird</li>
-    <li>voidVerbphrase->curls in a disturbing shape</li>
-    <li>voidVerbphrase->twists as though trying to harm the viewer</li>
-    <li>voidVerbphrase->seems to shift under the viewer's gaze</li>
-    <li>voidVerbphrase->emanates a sense of rage</li>
-    <li>voidVerbphrase->emanates a sense of depression and sadness</li>
-    <li>voidVerbphrase->provokes feelings of dread and self-doubt</li>
-    <li>voidVerbphrase->expands randomly in different directions in fits and starts</li>
-    <li>voidVerbphrase->seems to quiver until you look straight at it</li>
-    <li>voidVerbphrase->almost looks like it is breathing</li>
-    <li>voidVerbphrase->doesn't resemble any living creature</li>
-    <li>voidVerbphrase->appears to be a metaphor for suffering</li>
-    <li>voidDesc->Dozens of finger-like appendages painfully grip a central figure.</li>
-    <li>voidDesc->Globes of material crush and squeeze each other into stretched-out shapes.</li>
-    <li>voidDesc->Bladelike segments are bent together to resemble a face screaming in terror.</li>
-    <li>voidDesc->Arm-like protrusions squeeze each other, as though trying to destroy themselves.</li>
-    <li>voidDesc->Needles protruding from the surface look ready to shoot out and skewer anyone who moves nearby.</li>
-    <li>voidDesc->The surface whorls and roils, shifting from organic-like texture to machinelike edges and blades.</li>
-    <li>voidDesc->It looks as though it has sheared itself into pieces with great force, yet somehow still hangs together.</li>
-    <li>voidDesc->A hand-like appendage waits as though ready to reach out and attack.</li>
-    <li>voidDesc->A pair of figures each seem to penetrate and torture the other with curled, jagged fingers.</li>
-    <li>voidDesc->A complex shape emerges from the mouth of a screaming face.</li>
-    <li>voidDesc->An abstracted shape resembling an animal appears to rip off one of its own limbs.</li>
-    <li>voidDesc->Hundreds of tiny abstract figure-like objects swarm over a large distorted globe.</li>
+    <li>r_art_description->这尊[voidStrange]雕塑[voidVerbphrase]。[voidDesc]</li>
+    <li>voidStrange->怪异的</li>
+    <li>voidStrange->令人不安的</li>
+    <li>voidStrange->令人不宁的</li>
+    <li>voidStrange->令人恐惧的</li>
+    <li>voidStrange->扭曲的</li>
+    <li>voidStrange->畸形的</li>
+    <li>voidStrange->非人的</li>
+    <li>voidStrange->诡异的</li>
+    <li>voidVerbphrase->蜷曲成令人不安的形状</li>
+    <li>voidVerbphrase->扭曲着，仿佛要伤害观者</li>
+    <li>voidVerbphrase->似乎在观者的注视下变换着</li>
+    <li>voidVerbphrase->散发着一股怒火</li>
+    <li>voidVerbphrase->散发着抑郁与哀伤</li>
+    <li>voidVerbphrase->激起恐惧与自我怀疑</li>
+    <li>voidVerbphrase->断断续续地朝各个方向胡乱扩张</li>
+    <li>voidVerbphrase->似乎一直在颤动，直到你直视它为止</li>
+    <li>voidVerbphrase->几乎像是在呼吸</li>
+    <li>voidVerbphrase->不像任何活物</li>
+    <li>voidVerbphrase->仿佛是对苦难的隐喻</li>
+    <li>voidDesc->数十条手指状的附肢痛苦地抓握着一个中央形体。</li>
+    <li>voidDesc->一团团物质彼此挤压碾磨，被拉成延展的形状。</li>
+    <li>voidDesc->刃状的片段被弯曲拼合，形似一张惊恐尖叫的脸。</li>
+    <li>voidDesc->臂状的凸起互相挤压，仿佛要自我毁灭。</li>
+    <li>voidDesc->表面突出的针状物仿佛随时会射出，刺穿任何靠近的人。</li>
+    <li>voidDesc->表面盘旋翻涌，从类有机的质地转变为机械般的棱角与刀刃。</li>
+    <li>voidDesc->它看起来像是被巨力剪成了碎片，却不知怎地仍然连在一起。</li>
+    <li>voidDesc->一条手状的附肢静静等待，仿佛随时会伸出攻击。</li>
+    <li>voidDesc->一对形体似乎各自用蜷曲的锯齿状手指刺入并折磨对方。</li>
+    <li>voidDesc->一个复杂的形状从一张尖叫的脸口中涌出。</li>
+    <li>voidDesc->一个形似动物的抽象形状，似乎在撕下自己的一条肢体。</li>
+    <li>voidDesc->数百个微小的抽象人形物体密布在一个巨大的扭曲球体上。</li>
   -->
   <ArtDescription_VoidSculpture.rulePack.rulesStrings>
     <li>r_art_description->这座[voidStrange]雕塑[voidVerbphrase]。[voidDesc]</li>
