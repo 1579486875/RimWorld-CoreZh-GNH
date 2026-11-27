@@ -6,24 +6,24 @@
     <li>placeNameCore->[SylI][SylI][SylI]</li>
     <li>placeNameCore->[SylI][placeEnd]</li>
     <li>placeNameCore->[SylI][SylI][placeEnd]</li>
-    <li>placeEnd->ach</li>
+    <li>placeEnd->阿奇</li>
     <li>placeEnd->az</li>
-    <li>placeEnd->eth</li>
-    <li>placeEnd->zoz</li>
-    <li>placeEnd->och</li>
+    <li>placeEnd->埃斯</li>
+    <li>placeEnd->佐兹</li>
+    <li>placeEnd->奥奇</li>
     <li>placeEnd->oz</li>
-    <li>placeEnd->echz</li>
-    <li>placeEnd->ess</li>
-    <li>placeEnd->onss</li>
+    <li>placeEnd->埃克斯</li>
+    <li>placeEnd->艾斯</li>
+    <li>placeEnd->昂斯</li>
     <li>placeEnd->in</li>
-    <li>placeEnd->ichs</li>
-    <li>placeEnd->izz</li>
-    <li>placeEnd->sezz</li>
-    <li>placeEnd->tch</li>
-    <li>placeEnd->tchz</li>
-    <li>placeEnd->ken</li>
-    <li>placeEnd->kev</li>
-    <li>placeEnd->vel</li>
+    <li>placeEnd->伊克斯</li>
+    <li>placeEnd->伊兹</li>
+    <li>placeEnd->塞兹</li>
+    <li>placeEnd->奇</li>
+    <li>placeEnd->奇兹</li>
+    <li>placeEnd->肯</li>
+    <li>placeEnd->凯夫</li>
+    <li>placeEnd->维尔</li>
   -->
   <ImpidUtility.rulePack.rulesStrings>
     <li>placeNameCore->[SylI][SylI]</li>
@@ -61,15 +61,15 @@
     <li>nameCore->[SylP][maybeHyphen][end]</li>
     <li>nameCore->[SylP][maybeHyphen][SylP][maybeHyphen][end]</li>
     <li>end->oo</li>
-    <li>end->lok</li>
-    <li>end->lom</li>
-    <li>end->oink</li>
-    <li>end->gug</li>
-    <li>end->und</li>
-    <li>end->oog</li>
-    <li>end->pig</li>
-    <li>end->pog</li>
-    <li>end->mok</li>
+    <li>end->洛克</li>
+    <li>end->洛姆</li>
+    <li>end->奥因克</li>
+    <li>end->古格</li>
+    <li>end->温德</li>
+    <li>end->乌格</li>
+    <li>end->皮格</li>
+    <li>end->波格</li>
+    <li>end->莫克</li>
     <li>end->mm</li>
   -->
   <NamerFactionOutlanderPig.rulePack.rulesStrings>
@@ -98,20 +98,20 @@
   <!-- EN:
     <li>r_name->[poison] [groupname]</li>
     <li>r_name->[poison] [men]</li>
-    <li>men->men</li>
-    <li>men->crew</li>
-    <li>men->gang</li>
-    <li>men->chokers</li>
-    <li>men->pillers</li>
-    <li>men->psychers</li>
-    <li>men->toxers</li>
-    <li>men->blighters</li>
-    <li>men->wasters</li>
-    <li>men->packers</li>
-    <li>men->slickers</li>
-    <li>men->slickers</li>
-    <li>men->pests</li>
-    <li>men->trash</li>
+    <li>men->众</li>
+    <li>men->帮</li>
+    <li>men->帮</li>
+    <li>men->扼喉者</li>
+    <li>men->劫掠者</li>
+    <li>men->灵能者</li>
+    <li>men->投毒者</li>
+    <li>men->枯萎者</li>
+    <li>men->废土人</li>
+    <li>men->兽群</li>
+    <li>men->滑头</li>
+    <li>men->滑头</li>
+    <li>men->害虫</li>
+    <li>men->垃圾</li>
   -->
   <NamerFactionPirateWaster.rulePack.rulesStrings>
     <li>r_name->[poison][groupname]</li>
@@ -136,14 +136,14 @@
     <li>r_name(p=2)->[placeNameCore]</li>
     <li>r_name->[placeNameCore] [faction]</li>
     <li>r_name->[faction] of [placeNameCore]</li>
-    <li>faction->roarclan</li>
-    <li>faction->tribe</li>
-    <li>faction->clan</li>
-    <li>faction->roar</li>
-    <li>faction->pack</li>
-    <li>faction->family</li>
-    <li>faction->fur</li>
-    <li>faction->kinroar</li>
+    <li>faction->咆哮氏族</li>
+    <li>faction->部落</li>
+    <li>faction->氏族</li>
+    <li>faction->咆哮</li>
+    <li>faction->兽群</li>
+    <li>faction->家族</li>
+    <li>faction->毛皮</li>
+    <li>faction->亲族咆哮</li>
   -->
   <NamerFactionPirateYttakin.rulePack.rulesStrings>
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -163,12 +163,12 @@
     <li>r_name(p=2)->[placeNameCore]</li>
     <li>r_name->[placeNameCore] [faction]</li>
     <li>r_name->[faction] of [placeNameCore]</li>
-    <li>faction->clade</li>
-    <li>faction->league</li>
-    <li>faction->runship</li>
-    <li>faction->sprintship</li>
-    <li>faction->flamehome</li>
-    <li>faction->firehome</li>
+    <li>faction->支系</li>
+    <li>faction->同盟</li>
+    <li>faction->疾行船</li>
+    <li>faction->迅驰船</li>
+    <li>faction->焰居</li>
+    <li>faction->火居</li>
   -->
   <NamerFactionTribalImpid.rulePack.rulesStrings>
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -201,28 +201,28 @@
     <li>townname_wordgen->[SylP][maybeHyphen][SylP][maybeHyphen][SylP]</li>
     <li>townname_wordgen->[SylP][maybeHyphen][townend]</li>
     <li>townname_wordgen->[SylP][maybeHyphen][SylP][maybeHyphen][townend]</li>
-    <li>townend->bille</li>
-    <li>townend->wille</li>
-    <li>townend->bwug</li>
-    <li>townend->born</li>
-    <li>townend->grab</li>
-    <li>townend->bal</li>
-    <li>townend->wope</li>
+    <li>townend->比尔</li>
+    <li>townend->维尔</li>
+    <li>townend->布乌格</li>
+    <li>townend->博恩</li>
+    <li>townend->格拉布</li>
+    <li>townend->巴尔</li>
+    <li>townend->沃普</li>
     <li>townend->ig</li>
-    <li>townend->kess</li>
-    <li>townend->mur</li>
-    <li>townend->wig</li>
-    <li>townend->gon</li>
+    <li>townend->凯斯</li>
+    <li>townend->穆尔</li>
+    <li>townend->维格</li>
+    <li>townend->冈</li>
     <li>townend->og</li>
-    <li>townend->wen</li>
-    <li>townend->wag</li>
-    <li>townend->woog</li>
-    <li>townend->worg</li>
-    <li>townend->roog</li>
-    <li>townend->rog</li>
-    <li>townend->welg</li>
+    <li>townend->温</li>
+    <li>townend->瓦格</li>
+    <li>townend->沃格</li>
+    <li>townend->沃格</li>
+    <li>townend->鲁格</li>
+    <li>townend->罗格</li>
+    <li>townend->韦尔格</li>
     <li>townend->op</li>
-    <li>townend->pig</li>
+    <li>townend->皮格</li>
   -->
   <NamerSettlementOutlanderPig.rulePack.rulesStrings>
     <li>r_name->[townname_wordgen]</li>
@@ -263,24 +263,24 @@
     <li>townNameWordgen->[SylE][SylE][SylE]</li>
     <li>townNameWordgen->[SylE][townEndToxic]</li>
     <li>townNameWordgen->[SylE][SylE][townEndToxic]</li>
-    <li>townEndToxic->tox</li>
-    <li>townEndToxic->vor</li>
-    <li>townEndToxic->son</li>
-    <li>townEndToxic->zon</li>
-    <li>townEndToxic->toth</li>
-    <li>townEndToxic->zoun</li>
-    <li>townEndToxic->slick</li>
-    <li>townEndToxic->pill</li>
-    <li>townEndToxic->ash</li>
-    <li>townEndToxic->ven</li>
+    <li>townEndToxic->托克斯</li>
+    <li>townEndToxic->沃尔</li>
+    <li>townEndToxic->松</li>
+    <li>townEndToxic->宗</li>
+    <li>townEndToxic->托斯</li>
+    <li>townEndToxic->宗</li>
+    <li>townEndToxic->斯利克</li>
+    <li>townEndToxic->皮尔</li>
+    <li>townEndToxic->阿什</li>
+    <li>townEndToxic->文</li>
     <li>townNameCombo->[poison] [town]</li>
-    <li>town->town</li>
-    <li>town->base</li>
-    <li>town->fort</li>
-    <li>town->port</li>
-    <li>town->abattoir</li>
-    <li>town->butchery</li>
-    <li>town->tank</li>
+    <li>town->镇</li>
+    <li>town->基地</li>
+    <li>town->堡垒</li>
+    <li>town->港</li>
+    <li>town->屠宰场</li>
+    <li>town->屠场</li>
+    <li>town->槽</li>
   -->
   <NamerSettlementPirateWaster.rulePack.rulesStrings>
     <li>r_name->[townNameWordgen]</li>
@@ -337,24 +337,24 @@
     <li>placeNameCore->[SylN][maybeApo][SylN][maybeApo][SylN]</li>
     <li>placeNameCore->[SylN][maybeApo][placeEnd]</li>
     <li>placeNameCore->[SylN][maybeApo][SylN][maybeApo][placeEnd]</li>
-    <li>placeEnd->ils</li>
-    <li>placeEnd->ilt</li>
+    <li>placeEnd->伊尔斯</li>
+    <li>placeEnd->伊尔特</li>
     <li>placeEnd->ig</li>
-    <li>placeEnd->fweg</li>
-    <li>placeEnd->then</li>
-    <li>placeEnd->thor</li>
-    <li>placeEnd->bog</li>
-    <li>placeEnd->ton</li>
-    <li>placeEnd->ten</li>
-    <li>placeEnd->moor</li>
-    <li>placeEnd->mouk</li>
-    <li>placeEnd->mun</li>
-    <li>placeEnd->mursh</li>
-    <li>placeEnd->man</li>
-    <li>placeEnd->bel</li>
-    <li>placeEnd->sil</li>
-    <li>placeEnd->sonk</li>
-    <li>placeEnd->soud</li>
+    <li>placeEnd->弗韦格</li>
+    <li>placeEnd->森</li>
+    <li>placeEnd->索尔</li>
+    <li>placeEnd->博格</li>
+    <li>placeEnd->顿</li>
+    <li>placeEnd->滕</li>
+    <li>placeEnd->穆尔</li>
+    <li>placeEnd->莫克</li>
+    <li>placeEnd->蒙</li>
+    <li>placeEnd->穆尔什</li>
+    <li>placeEnd->曼</li>
+    <li>placeEnd->贝尔</li>
+    <li>placeEnd->西尔</li>
+    <li>placeEnd->松克</li>
+    <li>placeEnd->苏德</li>
   -->
   <NeanderthalUtility.rulePack.rulesStrings>
     <li>maybeApo(p=8)-></li>
@@ -384,25 +384,25 @@
   </NeanderthalUtility.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>poison->poison</li>
-    <li>poison->toxin</li>
-    <li>poison->tox</li>
-    <li>poison->choke</li>
-    <li>poison->gas</li>
-    <li>poison->pill</li>
-    <li>poison->psyck</li>
-    <li>poison->virus</li>
-    <li>poison->venom</li>
-    <li>poison->cancer</li>
-    <li>poison->toxoid</li>
-    <li>poison->blight</li>
-    <li>poison->miasma</li>
-    <li>poison->filth</li>
-    <li>poison->garbage</li>
-    <li>poison->pollution</li>
-    <li>poison->decay</li>
-    <li>poison->trash</li>
-    <li>poison->pest</li>
+    <li>poison->毒</li>
+    <li>poison->毒素</li>
+    <li>poison->托克斯</li>
+    <li>poison->窒息</li>
+    <li>poison->毒气</li>
+    <li>poison->皮尔</li>
+    <li>poison->灵能</li>
+    <li>poison->病毒</li>
+    <li>poison->毒液</li>
+    <li>poison->癌</li>
+    <li>poison->类毒素</li>
+    <li>poison->枯萎</li>
+    <li>poison->瘴气</li>
+    <li>poison->污秽</li>
+    <li>poison->垃圾</li>
+    <li>poison->污染</li>
+    <li>poison->腐朽</li>
+    <li>poison->垃圾</li>
+    <li>poison->疫害</li>
   -->
   <WasterUtility.rulePack.rulesStrings>
     <li>poison->毒物</li>
@@ -431,23 +431,23 @@
     <li>placeNameCore->[SylY][SylY][SylY]</li>
     <li>placeNameCore->[SylY][placeEnd]</li>
     <li>placeNameCore->[SylY][SylY][placeEnd]</li>
-    <li>placeEnd->esh</li>
-    <li>placeEnd->sytt</li>
-    <li>placeEnd->wytt</li>
-    <li>placeEnd->wott</li>
-    <li>placeEnd->wosh</li>
-    <li>placeEnd->barg</li>
-    <li>placeEnd->berg</li>
-    <li>placeEnd->bersh</li>
-    <li>placeEnd->bug</li>
-    <li>placeEnd->bytt</li>
-    <li>placeEnd->byon</li>
-    <li>placeEnd->den</li>
-    <li>placeEnd->gen</li>
-    <li>placeEnd->yul</li>
+    <li>placeEnd->埃什</li>
+    <li>placeEnd->西特</li>
+    <li>placeEnd->维特</li>
+    <li>placeEnd->沃特</li>
+    <li>placeEnd->沃什</li>
+    <li>placeEnd->巴格</li>
+    <li>placeEnd->贝格</li>
+    <li>placeEnd->贝尔什</li>
+    <li>placeEnd->布格</li>
+    <li>placeEnd->比特</li>
+    <li>placeEnd->比昂</li>
+    <li>placeEnd->登</li>
+    <li>placeEnd->根</li>
+    <li>placeEnd->尤尔</li>
     <li>placeEnd->ya</li>
-    <li>placeEnd->ysh</li>
-    <li>placeEnd->ytt</li>
+    <li>placeEnd->伊什</li>
+    <li>placeEnd->伊特</li>
     <li>placeEnd->ys</li>
     <li>placeEnd->yn</li>
   -->
