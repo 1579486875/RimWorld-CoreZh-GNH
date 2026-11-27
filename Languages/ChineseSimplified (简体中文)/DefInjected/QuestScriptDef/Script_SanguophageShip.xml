@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN:
-    <li>sanguophageShuttleCrashedLetterLabel->Crashed shuttle</li>
-    <li>sanguophageShuttleCrashedLetterText->A shuttle containing a sanguophage master and [thrallCount] thralls has crashed nearby. They will exit the crashed craft and prepare to fight.</li>
-    <li>reinforcementsArrivedLetterLabel->Thrall reinforcements</li>
-    <li>reinforcementsArrivedLetterText->Thralls are arriving in drop pods to reinforce the crashed sanguophage.</li>
-    <li>assaultBeginLetterLabel->Assault begun</li>
-    <li>assaultBeginLetterText->The hostile sanguophage master and [sanguophage_possessive] thralls have initiated an assault on the colony!</li>
+    <li>sanguophageShuttleCrashedLetterLabel->穿梭机坠毁</li>
+    <li>sanguophageShuttleCrashedLetterText->一艘载着一位血族尊主与[thrallCount]名血仆的穿梭机在附近坠毁。他们会离开残骸，准备战斗。</li>
+    <li>reinforcementsArrivedLetterLabel->血仆增援</li>
+    <li>reinforcementsArrivedLetterText->血仆正乘空投舱赶来增援坠毁的血族。</li>
+    <li>assaultBeginLetterLabel->进攻开始</li>
+    <li>assaultBeginLetterText->敌意的血族尊主与[sanguophage_possessive]血仆已对殖民地发动进攻！</li>
   -->
   <SanguophageShip.questContentRules.rulesStrings>
     <li>sanguophageShuttleCrashedLetterLabel->坠毁的穿梭机</li>
@@ -18,8 +18,8 @@
     <li>assaultBeginLetterText->敌对的血族主人和[sanguophage_possessive]血仆们开始对殖民地发起袭击。</li>
   </SanguophageShip.questContentRules.rulesStrings>
   <!-- EN:
-    <li>questDescription->You have intercepted a distress signal! A hostile shuttle carrying a sanguophage master and [thrallCount] thralls is having trouble with its engines. You can use signals to draw it down to a crash near [map_definite].\n\nOnce the ship has crashed, you can fight the sanguophage and [sanguophage_possessive] minions. If you can capture the master, you can force [sanguophage_objective] to turn one of your colonists into a sanguophage.\n\n[sanguophageInfo]</li>
-    <li>sanguophageInfo->(*Gray)About sanguophages: Sanguophages are ageless, deathless super-humans powered by archotech-created archites in the bloodstream. They are beautiful and extremely intelligent. They can heal any injury, and never suffer from disease or poison. In combat, they can launch deadly spines and heal injured friends. The price is that sanguophages must consume hemogen derived from human blood to survive, and they must periodically deathrest for long periods. They're easily destroyed by fire, and slowed down by UV light.(/Gray)</li>
+    <li>questDescription->你截获了一段求救信号！一艘载着一位血族尊主与[thrallCount]名血仆的敌意穿梭机引擎出了故障。你可以用信号把它引到[map_definite]附近坠毁。\n\n飞船坠毁后，你可以与那位血族及其[sanguophage_possessive]爪牙交战。若能俘获这位尊主，你就能强迫[sanguophage_objective]把你的一名殖民者转化为血族。\n\n[sanguophageInfo]</li>
+    <li>sanguophageInfo->(*Gray)关于血族：血族是长生不死、无惧死亡的超人，靠血液中由远古科技制造的远古质供能。他们美丽绝伦、智力极高。他们能治愈任何伤势，从不罹患疾病或中毒。战斗中，他们能射出致命棘刺，也能治愈受伤的同伴。代价是：血族必须摄入由人血提取的血原质才能存活，且必须定期进行长时间的「死眠」。他们极易被火焰摧毁，也会被紫外线减速。(/Gray)</li>
   -->
   <SanguophageShip.questDescriptionRules.rulesStrings>
     <li>questDescription->你截获了一个求救信号！一艘载有血族主人和[thrallCount]名血仆的敌对穿梭机出现引擎故障。你可以使用信号将其引导至[map_definite]附近坠毁。\n\n一但飞船坠毁，你可以与血族和[sanguophage_possessive]仆从战斗。如果你抓住一个血族，你可以迫使[sanguophage_objective]将你的一个殖民者变成血族。\n\n[sanguophageInfo]</li>
@@ -27,22 +27,22 @@
   </SanguophageShip.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[shipAdjective] [shipNoun]</li>
-    <li>shipAdjective->sanguophage</li>
-    <li>shipAdjective->bloodthirsty</li>
-    <li>shipAdjective->blood</li>
-    <li>shipAdjective->shadow</li>
-    <li>shipAdjective->dark</li>
-    <li>shipAdjective->crimson</li>
-    <li>shipAdjective->red</li>
-    <li>shipAdjective->scab</li>
-    <li>shipAdjective->hemic</li>
-    <li>shipAdjective->sanguine</li>
-    <li>shipNoun->ship</li>
-    <li>shipNoun->shuttle</li>
-    <li>shipNoun->craft</li>
-    <li>shipNoun->hulk</li>
-    <li>shipNoun->crash</li>
-    <li>shipNoun->wreck</li>
+    <li>shipAdjective->血族</li>
+    <li>shipAdjective->嗜血</li>
+    <li>shipAdjective->血</li>
+    <li>shipAdjective->暗影</li>
+    <li>shipAdjective->暗</li>
+    <li>shipAdjective->绯红</li>
+    <li>shipAdjective->赤</li>
+    <li>shipAdjective->疮</li>
+    <li>shipAdjective->血液</li>
+    <li>shipAdjective->血色</li>
+    <li>shipNoun->飞船</li>
+    <li>shipNoun->穿梭机</li>
+    <li>shipNoun->飞行器</li>
+    <li>shipNoun->残骸</li>
+    <li>shipNoun->坠机</li>
+    <li>shipNoun->残船</li>
   -->
   <SanguophageShip.questNameRules.rulesStrings>
     <li>questName->[shipAdjective][shipNoun]</li>

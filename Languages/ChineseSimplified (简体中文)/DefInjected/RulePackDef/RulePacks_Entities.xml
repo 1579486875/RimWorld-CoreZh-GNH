@@ -2,64 +2,64 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] leaped onto [SUBJECT_definite] and began digesting [SUBJECT_objective].</li>
+    <li>r_logentry->[INITIATOR_definite]扑到[SUBJECT_definite]身上，开始消化[SUBJECT_objective]。</li>
   -->
   <Event_DevourerConsumeLeap.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]扑向了[SUBJECT_definite]并开始消化[SUBJECT_objective]。</li>
   </Event_DevourerConsumeLeap.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] vomited [SUBJECT_definite] up.</li>
+    <li>r_logentry->[INITIATOR_definite]把[SUBJECT_definite]吐了出来。</li>
   -->
   <Event_DevourerDigestionAborted.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]将[SUBJECT_definite]吐了出来。</li>
   </Event_DevourerDigestionAborted.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] digested [SUBJECT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite]消化了[SUBJECT_definite]。</li>
   -->
   <Event_DevourerDigestionCompleted.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]彻底消化了[SUBJECT_definite]。</li>
   </Event_DevourerDigestionCompleted.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] put [SUBJECT_definite] into a trance.</li>
+    <li>r_logentry->[INITIATOR_definite]使[SUBJECT_definite]陷入了恍惚。</li>
   -->
   <Event_Hypnotized.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]将[SUBJECT_definite]催眠。</li>
   </Event_Hypnotized.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] emerged from [SUBJECT_definite].</li>
+    <li>r_logentry->[INITIATOR_definite]从[SUBJECT_definite]中钻出。</li>
   -->
   <Event_MetalhorrorEmerged.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]从[SUBJECT_definite]体内破体而出。</li>
   </Event_MetalhorrorEmerged.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] psychically incinerated [SUBJECT_definite]'s brain.</li>
+    <li>r_logentry->[INITIATOR_definite]以灵能烧毁了[SUBJECT_definite]的大脑。</li>
   -->
   <Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
     <li>r_logentry->[INITIATOR_definite]使用灵能烧坏了[SUBJECT_definite]的脑子。</li>
   </Event_UnnaturalCorpseAttack.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>verb->breathing</li>
-    <li>verb->shuddering</li>
-    <li>verb->shivering</li>
-    <li>verb->creaking</li>
-    <li>verb->rasping</li>
-    <li>verb->scraping</li>
-    <li>verb->hissing</li>
-    <li>verb->groaning</li>
-    <li>verb->grumbling</li>
-    <li>verb->chattering</li>
-    <li>verb->clicking</li>
-    <li>verb->wheezing</li>
-    <li>verb->rattling</li>
-    <li>verb->twitching</li>
-    <li>verb->gnashing</li>
-    <li>verb->coughing</li>
+    <li>verb->呼吸</li>
+    <li>verb->战栗</li>
+    <li>verb->颤抖</li>
+    <li>verb->嘎吱作响</li>
+    <li>verb->沙哑作响</li>
+    <li>verb->刮擦</li>
+    <li>verb->嘶鸣</li>
+    <li>verb->呻吟</li>
+    <li>verb->轰鸣</li>
+    <li>verb->嗒嗒作响</li>
+    <li>verb->咔嗒</li>
+    <li>verb->气喘</li>
+    <li>verb->咔啦作响</li>
+    <li>verb->抽搐</li>
+    <li>verb->咬牙</li>
+    <li>verb->咳嗽</li>
   -->
   <RevenantNoises.rulePack.rulesStrings>
     <li>verb->喘息</li>
