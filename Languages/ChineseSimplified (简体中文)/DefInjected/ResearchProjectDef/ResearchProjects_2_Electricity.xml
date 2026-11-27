@@ -6,11 +6,11 @@
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
   <AirConditioning.description>解锁建造空调，能在天气炎热时给房间降温，或用于划设冷库。</AirConditioning.description>
   <!-- EN:
-    <li>subject->air conditioning</li>
-    <li>subject_story->visited the hottest town on the planet</li>
-    <li>subject_story->worked at the ice caps, in an interstellar warehouse kept near to absolute zero</li>
-    <li>subject_story->learned all about air conditioning and freezers, then returned home</li>
-    <li>subject_gerund->building air conditioning units</li>
+    <li>subject->空调</li>
+    <li>subject_story->造访过这颗行星上最热的小镇</li>
+    <li>subject_story->在极地冰盖工作过，那是一座维持着接近绝对零度的星际仓库</li>
+    <li>subject_story->学通了空调与冷冻机的全部学问，然后回到了家乡</li>
+    <li>subject_gerund->建造空调机组</li>
   -->
   <AirConditioning.generalRules.rulesStrings>
     <li>subject->空调</li>
@@ -25,12 +25,12 @@
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
   <Autodoors.description>解锁建造「自动门」，人通过时不会被减速。</Autodoors.description>
   <!-- EN:
-    <li>subject->autodoors</li>
-    <li>subject->automatic doors</li>
-    <li>subject_story->was recruited by a robotics security firm, opening the door to a career as an automation tester</li>
-    <li>subject_story->prototyped unique models of autodoors</li>
-    <li>subject_story->worked very hard to ensure the doors made a satisfying 'hiss' when they opened or closed</li>
-    <li>subject_gerund->constructing autodoors</li>
+    <li>subject->自动门</li>
+    <li>subject->自动门</li>
+    <li>subject_story->被一家机器人安保公司录用，从此走上自动化测试员的职业道路</li>
+    <li>subject_story->试制过多种独特的自动门原型</li>
+    <li>subject_story->费尽心力确保门开合时发出令人满意的「嘶」声</li>
+    <li>subject_gerund->建造自动门</li>
   -->
   <Autodoors.generalRules.rulesStrings>
     <li>subject->自动门</li>
@@ -45,11 +45,11 @@
   <!-- EN: Build batteries for storing electricity. -->
   <Batteries.description>解锁建造「蓄电池」以储存电力。</Batteries.description>
   <!-- EN:
-    <li>subject->batteries</li>
-    <li>subject_story->discovered that an acid lake on the leaden shores of a deathworld worked as a natural battery</li>
-    <li>subject_story->was in charge of maintaining the life support if the colony lost power</li>
-    <li>subject_story->worked in the scrapworlds, repairing machines and batteries</li>
-    <li>subject_gerund->building batteries</li>
+    <li>subject->电池</li>
+    <li>subject_story->发现死亡世界铅灰色海岸上的一座酸湖可以充当天然电池</li>
+    <li>subject_story->负责在殖民地断电时维持生命支持系统</li>
+    <li>subject_story->在废料世界修理机器与电池</li>
+    <li>subject_gerund->制造电池</li>
   -->
   <Batteries.generalRules.rulesStrings>
     <li>subject->蓄电池</li>
@@ -64,11 +64,11 @@
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
   <BiofuelRefining.description>解锁建造「精炼设备」，用于从木材、生食等生物物质中精炼化合燃料。</BiofuelRefining.description>
   <!-- EN:
-    <li>subject->biofuel</li>
-    <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
-    <li>subject_story->used automated biorefineries to begin the long terraforming process on an iceworld</li>
-    <li>subject_story->started a distillery to make moonshine but, realizing it was undrinkable, sold it as chemfuel instead</li>
-    <li>subject_gerund->refining biofuel</li>
+    <li>subject->生物燃料</li>
+    <li>subject_story->在一艘世代飞船上断电时被困住了。[ANYPAWN_pronoun]用[ANYPAWN_possessive]精炼知识把人类遗骸转化成了生物燃料，重新启动了引擎</li>
+    <li>subject_story->用自动化生物精炼厂在冰世界启动了漫长的地球化改造</li>
+    <li>subject_story->开了家酒坊酿私酒，发现难以下咽，便改当化合燃料卖掉</li>
+    <li>subject_gerund->精炼生物燃料</li>
   -->
   <BiofuelRefining.generalRules.rulesStrings>
     <li>subject->生物燃料</li>
@@ -83,12 +83,12 @@
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
   <BlowbackOperation.description>解锁制作反冲式轻型枪械，比如自动手枪和冲锋手枪。</BlowbackOperation.description>
   <!-- EN:
-    <li>subject->pistols</li>
-    <li>subject->blowback firearms</li>
-    <li>subject_story->utilized machine pistols in the trench fighting that overtook the planet</li>
-    <li>subject_story->sold low-powered autopistols to law enforcement in the orbitals</li>
-    <li>subject_story->crafted blowback-operated guns for near-sighted conscripts</li>
-    <li>subject_gerund->crafting blowback firearms</li>
+    <li>subject->手枪</li>
+    <li>subject->自由枪机式火器</li>
+    <li>subject_story->在席卷全球的堑壕战中用过冲锋手枪</li>
+    <li>subject_story->向轨道上的执法部门出售低威力自动手枪</li>
+    <li>subject_story->为近视的应征兵制造自由枪机式枪械</li>
+    <li>subject_gerund->制造自由枪机式火器</li>
   -->
   <BlowbackOperation.generalRules.rulesStrings>
     <li>subject->手枪</li>
@@ -104,11 +104,11 @@
   <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
   <ColoredLights.description>解锁建造照明范围更大的「泛光灯」。此外，所有电灯的耗电量都将减半，且可以根据喜好来改变光照颜色。此效果不会影响太阳灯。</ColoredLights.description>
   <!-- EN:
-    <li>subject->advanced lighting</li>
-    <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
-    <li>subject_story->made sure that the planet's dark side was well-lit</li>
-    <li>subject_story->moved into running concerts for interstellar troubadours, specializing in controlling the ship's massive lighting rigs</li>
-    <li>subject_gerund->building advanced lights</li>
+    <li>subject->高级照明</li>
+    <li>subject_story->在监狱世界的多处安保周界装上了泛光灯</li>
+    <li>subject_story->确保这颗行星的暗面光照充足</li>
+    <li>subject_story->转行给星际行吟诗人办演唱会，专精于操控飞船上那套巨型灯架</li>
+    <li>subject_gerund->建造高级灯具</li>
   -->
   <ColoredLights.generalRules.rulesStrings>
     <li>subject->改进照明</li>
@@ -127,11 +127,11 @@
   <!-- EN: About: Electricity -->
   <Electricity.discoveredLetterTitle>关于：电力</Electricity.discoveredLetterTitle>
   <!-- EN:
-    <li>subject->electricity</li>
-    <li>subject_story->was struck by lighting and became determined to harness it</li>
-    <li>subject_story->created the first generator and lightbulb on a medieval world</li>
-    <li>subject_story->was executed on a feudal world for the blasphemy of creating light</li>
-    <li>subject_gerund->harnessing electricity</li>
+    <li>subject->电力</li>
+    <li>subject_story->被闪电击中后，下定决心要驾驭它</li>
+    <li>subject_story->在一个中世纪世界造出了第一台发电机与灯泡</li>
+    <li>subject_story->在一个封建世界因「创造光」的亵渎之罪被处死</li>
+    <li>subject_gerund->驾驭电力</li>
   -->
   <Electricity.generalRules.rulesStrings>
     <li>subject->电力</li>
@@ -146,13 +146,13 @@
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
   <Firefoam.description>解锁建造「泡沫灭火器」，一种能够感应火焰并喷出大量阻燃泡沫的自动消防设备。</Firefoam.description>
   <!-- EN:
-    <li>subject->firefoam poppers</li>
-    <li>subject->fire safety devices</li>
-    <li>subject_story->headed up an agency promulgating fire safety to the whole population</li>
-    <li>subject_story->became a firefighter</li>
-    <li>subject_story->was saved by the poppers when an oil fire spiraled out of control</li>
-    <li>subject_gerund->constructing firefoam poppers</li>
-    <li>subject_gerund->suppressing fires with poppers</li>
+    <li>subject->灭火泡沫喷洒器</li>
+    <li>subject->消防装置</li>
+    <li>subject_story->主管一个向全体民众普及消防安全的机构</li>
+    <li>subject_story->当了消防员</li>
+    <li>subject_story->一场油火失控时，靠喷洒器捡回一条命</li>
+    <li>subject_gerund->建造灭火泡沫喷洒器</li>
+    <li>subject_gerund->用喷洒器灭火</li>
   -->
   <Firefoam.generalRules.rulesStrings>
     <li>subject->泡沫灭火器</li>
@@ -169,11 +169,11 @@
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
   <FlakArmor.description>解锁制作能够有效抵挡子弹和爆炸冲击的金属防弹衣物，缺点是具会稍微减慢移动速度。</FlakArmor.description>
   <!-- EN:
-    <li>subject->flak armor</li>
-    <li>subject_story->supplied flak armor to the militias that ran the cities</li>
-    <li>subject_story->learned to sew metal plates into clothing, to protect kin from the roving gangs</li>
-    <li>subject_story->survived a rifle bullet thanks to the metal plate sewn into the breast pocket</li>
-    <li>subject_gerund->crafting flak armor</li>
+    <li>subject->防弹装甲</li>
+    <li>subject_story->向掌管城市的民兵供应防弹装甲</li>
+    <li>subject_story->学会把金属板缝进衣物，好让亲人挡得住流窜的帮派</li>
+    <li>subject_story->靠缝在胸前口袋里的金属板挡住了一发步枪弹</li>
+    <li>subject_gerund->制造防弹装甲</li>
   -->
   <FlakArmor.generalRules.rulesStrings>
     <li>subject->防弹衣</li>
@@ -188,13 +188,13 @@
   <!-- EN: Produce a turret which can be activated to spray fire-extinguishing foam. -->
   <FoamTurret.description>解锁建造「泡沫喷射塔」，一种能向周围喷射阻燃泡沫的炮塔。需要殖民者手动激活。</FoamTurret.description>
   <!-- EN:
-    <li>subject->foam turrets</li>
-    <li>subject->fire suppression turrets</li>
-    <li>subject_story->redesigned gun turrets to put out fires, not create them</li>
-    <li>subject_story->incorporated heat sensors and foam ejectors into a standard turret chassis</li>
-    <li>subject_story->was praised after installing cheap foam turrets in public areas and saving many lives</li>
-    <li>subject_gerund->constructing fire suppression turrets</li>
-    <li>subject_gerund->suppressing fires with turrets</li>
+    <li>subject->泡沫炮塔</li>
+    <li>subject->灭火炮塔</li>
+    <li>subject_story->重新设计了枪炮塔，让它用来灭火而不是制造火</li>
+    <li>subject_story->把热传感器与泡沫喷射器装进了标准炮塔底盘</li>
+    <li>subject_story->在公共区域安装了廉价泡沫炮塔、救下许多人命而受嘉奖</li>
+    <li>subject_gerund->建造灭火炮塔</li>
+    <li>subject_gerund->用炮塔灭火</li>
   -->
   <FoamTurret.generalRules.rulesStrings>
     <li>subject->灭火炮塔</li>
@@ -210,12 +210,12 @@
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
   <GasOperation.description>制作大威力枪械，比如重型冲锋枪，链式霰弹枪和轻机枪。</GasOperation.description>
   <!-- EN:
-    <li>subject->heavy weaponry</li>
-    <li>subject->high-power firearms</li>
-    <li>subject_story->equipped the special weapons squads of the tyrant's guard with light machine guns</li>
-    <li>subject_story->supplied several planetary armies with heavy firearms</li>
-    <li>subject_story->designed new types of high-power gun, still known today</li>
-    <li>subject_gerund->crafting heavy firearms</li>
+    <li>subject->重型武器</li>
+    <li>subject->大威力火器</li>
+    <li>subject_story->给暴君卫队的特种武器小队配上了轻机枪</li>
+    <li>subject_story->向数支行星军队供应重型火器</li>
+    <li>subject_story->设计过至今仍闻名的新型大威力枪械</li>
+    <li>subject_gerund->制造重型火器</li>
   -->
   <GasOperation.generalRules.rulesStrings>
     <li>subject->重型武器</li>
@@ -231,12 +231,12 @@
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
   <GeothermalPower.description>解锁建造「地热发电机」，放置在蒸汽间歇喷泉上后能提供不间断的电力。</GeothermalPower.description>
   <!-- EN:
-    <li>subject->geothermal power</li>
-    <li>subject_story->studied steam power and established geothermal plants throughout the region</li>
-    <li>subject_story->tapped the power of a dormant volcano to power the local grid</li>
-    <li>subject_story->argued with the local population who wanted to preserve the scenic geysers, not use them for power</li>
-    <li>subject_gerund->tapping geothermal energy</li>
-    <li>subject_gerund->building geothermal power plants</li>
+    <li>subject->地热发电</li>
+    <li>subject_story->研究蒸汽动力，并在全地区建起地热电厂</li>
+    <li>subject_story->引取一座休眠火山的能量为当地电网供电</li>
+    <li>subject_story->与当地民众争执——他们想保住风景优美的间歇泉，不愿拿它发电</li>
+    <li>subject_gerund->引取地热能</li>
+    <li>subject_gerund->建造地热电厂</li>
   -->
   <GeothermalPower.generalRules.rulesStrings>
     <li>subject->地热能</li>
@@ -252,12 +252,12 @@
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
   <Gunsmithing.description>制作简单的手动操作枪械，比如左轮手枪、泵动霰弹枪、栓动步枪，以及燃烧弹发射器等。</Gunsmithing.description>
   <!-- EN:
-    <li>subject->simple firearms</li>
-    <li>subject_story->built a unique 12-shot revolver and won shoot-out after shoot-out</li>
-    <li>subject_story->specialized in simple gunsmithing, providing shotguns and rifles for hunters</li>
-    <li>subject_story->set up as a gunsmith, achieving fame across the sector</li>
-    <li>subject_gerund->gunsmithing</li>
-    <li>subject_gerund->crafting firearms</li>
+    <li>subject->简易火器</li>
+    <li>subject_story->造了一把独特的十二连发左轮，赢下一场又一场枪战</li>
+    <li>subject_story->专精简易枪械制作，为猎人供应霰弹枪与步枪</li>
+    <li>subject_story->开设枪匠铺，名声传遍整个星区</li>
+    <li>subject_gerund->枪械制作</li>
+    <li>subject_gerund->制造火器</li>
   -->
   <Gunsmithing.generalRules.rulesStrings>
     <li>subject->简易枪械</li>
@@ -273,11 +273,11 @@
   <!-- EN: Produce simple automated gun turrets. -->
   <GunTurrets.description>解锁建造「小型自动机枪塔」。</GunTurrets.description>
   <!-- EN:
-    <li>subject->gun turrets</li>
-    <li>subject_story->worked on AI routines, to enable gun turrets to identify friends and foes</li>
-    <li>subject_story->designed a modular gun turret holster, capable of taking any weapon type</li>
-    <li>subject_story->disabled the enemy's turrets remotely, before leading the charge</li>
-    <li>subject_gerund->constructing automated gun turrets</li>
+    <li>subject->枪炮塔</li>
+    <li>subject_story->编写 AI 程序，让枪炮塔能分辨敌友</li>
+    <li>subject_story->设计了一种模块化炮塔枪座，能装上任何类型的武器</li>
+    <li>subject_story->远程瘫痪敌方炮塔后带头冲锋</li>
+    <li>subject_gerund->建造自动枪炮塔</li>
   -->
   <GunTurrets.generalRules.rulesStrings>
     <li>subject->自动机枪塔</li>
@@ -292,12 +292,12 @@
   <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
   <Hydroponics.description>解锁建造「水栽培植物盆」，用于在室内快速种植作物，不受土壤贫瘠和室外天气的影响。</Hydroponics.description>
   <!-- EN:
-    <li>subject->hydroponics</li>
-    <li>subject_story->joined a generation ship crew as their crop specialist</li>
-    <li>subject_story->established a hydroponics facility to feed the hungry</li>
-    <li>subject_story->traveled around, teaching artificial plant growth to new colonists</li>
-    <li>subject_gerund->building hydroponics</li>
-    <li>subject_gerund->growing plants indoors</li>
+    <li>subject->水培</li>
+    <li>subject_story->以作物专家的身份加入了一艘世代飞船的船员队伍</li>
+    <li>subject_story->建起水培设施，为饥民供食</li>
+    <li>subject_story->四处奔波，向新殖民者传授人工栽培</li>
+    <li>subject_gerund->建造水培设施</li>
+    <li>subject_gerund->在室内种植</li>
   -->
   <Hydroponics.generalRules.rulesStrings>
     <li>subject->水栽培</li>
@@ -313,11 +313,11 @@
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
   <IEDs.description>解锁建造用迫击炮弹改装而成的简易爆炸陷阱，类型包括高爆、EMP、泡沫灭火、反粒子弹头等。</IEDs.description>
   <!-- EN:
-    <li>subject->improvised explosive traps</li>
-    <li>subject_story->disarmed the leftover shells of the war, sending them onto the new frontline as mines</li>
-    <li>subject_story->came under mortar fire, only surviving by crafting traps from the enemy's many dud shells</li>
-    <li>subject_story->advocated for the rights of small settlements, where unexploded munitions were a constant peril</li>
-    <li>subject_gerund->crafting improvised explosive traps</li>
+    <li>subject->简易爆炸陷阱</li>
+    <li>subject_story->拆解战争遗留的炮弹，改造成地雷送上了新前线</li>
+    <li>subject_story->遭遇迫击炮轰击，靠用敌方大量哑弹改造陷阱才活下来</li>
+    <li>subject_story->为小聚落争取权益——那里未爆弹药是常年隐患</li>
+    <li>subject_gerund->制作简易爆炸陷阱</li>
   -->
   <IEDs.generalRules.rulesStrings>
     <li>subject->爆炸陷阱</li>
@@ -332,12 +332,12 @@
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
   <Machining.description>解锁建造「机械加工台」，用于制作枪械、手榴弹、防弹衣等武器装备，或拆解回收机械族的残骸。</Machining.description>
   <!-- EN:
-    <li>subject->machining</li>
-    <li>subject_story->gathered the remains of dead mechanoids and shredded them for resources</li>
-    <li>subject_story->quietly built an arsenal of self-made weapons in the basement of a suburban home</li>
-    <li>subject_story->built machining tables for many gunsmiths, despite being a pacifist</li>
-    <li>subject_gerund->building machining equipment</li>
-    <li>subject_gerund->machining</li>
+    <li>subject->机械加工</li>
+    <li>subject_story->收集死去的机械体残骸，切碎后回收资源</li>
+    <li>subject_story->在郊区住宅的地下室里悄悄攒出了一整库自制武器</li>
+    <li>subject_story->虽是和平主义者，却为许多枪匠造过机械加工台</li>
+    <li>subject_gerund->建造机械加工设备</li>
+    <li>subject_gerund->机械加工</li>
   -->
   <Machining.generalRules.rulesStrings>
     <li>subject->机械加工</li>
@@ -353,13 +353,13 @@
   <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
   <Mortars.description>解锁建造「迫击炮」，可越过墙抛射炮弹，射程非常远。</Mortars.description>
   <!-- EN:
-    <li>subject->artillery</li>
-    <li>subject->mortars</li>
-    <li>subject_story->was instrumental in the glasshouse siege that overthrew the town council</li>
-    <li>subject_story->developed a collapsible, lightweight mortar tube for the local police</li>
-    <li>subject_story->demolished the many derelict buildings from a distance, with explosive shells</li>
-    <li>subject_gerund->crafting mortars</li>
-    <li>subject_gerund->constructing simple artillery</li>
+    <li>subject->火炮</li>
+    <li>subject->迫击炮</li>
+    <li>subject_story->在那场推翻镇议会的温室围攻中起了关键作用</li>
+    <li>subject_story->为当地警察研制了可折叠的轻型迫击炮管</li>
+    <li>subject_story->用爆破弹从远处拆掉了许多废弃建筑</li>
+    <li>subject_gerund->制造迫击炮</li>
+    <li>subject_gerund->建造简易火炮</li>
   -->
   <Mortars.generalRules.rulesStrings>
     <li>subject->火炮</li>
@@ -376,11 +376,11 @@
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
   <NutrientPaste.description>解锁建造「营养膏合成机」，能自动将生食高效地合成为营养膏，用于应对食物短缺。它几乎不需要进行操作。</NutrientPaste.description>
   <!-- EN:
-    <li>subject->nutrient paste</li>
-    <li>subject_story->worked in a factory canteen and devised nutrient paste as a way to avoid all labor</li>
-    <li>subject_story->lost [ANYPAWN_possessive] taste of smell to disease, so devised a cheap, flavorless nutrient paste</li>
-    <li>subject_story->advocated for the recycling of all organic matter into nutrient paste, even corpses</li>
-    <li>subject_gerund->building nutrient paste dispensers</li>
+    <li>subject->营养膏</li>
+    <li>subject_story->在工厂食堂工作，琢磨出营养膏这个彻底免去劳作的法子</li>
+    <li>subject_story->因疾病失去了嗅觉，于是做出了一种廉价无味的营养膏</li>
+    <li>subject_story->主张把所有有机物都回收成营养膏，连尸体也不例外</li>
+    <li>subject_gerund->建造营养膏分配器</li>
   -->
   <NutrientPaste.generalRules.rulesStrings>
     <li>subject->营养膏</li>
@@ -395,12 +395,12 @@
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
   <PackagedSurvivalMeal.description>解锁制作「包装生存食物」，一种密封储存且不会腐烂的食物。适合长途旅行时携带。</PackagedSurvivalMeal.description>
   <!-- EN:
-    <li>subject->packaged survival meals</li>
-    <li>subject->non-perishable food</li>
-    <li>subject_story-> knew, when disaster struck, there were enough packaged meals to survive until rescuers arrived</li>
-    <li>subject_story->established a social kitchen, which donated survival meals to all outgoing vessels</li>
-    <li>subject_story->discovered survival meals in the mountains that were hundreds of years old</li>
-    <li>subject_gerund->preparing survival meals</li>
+    <li>subject->包装生存餐</li>
+    <li>subject->不易腐坏的食物</li>
+    <li>subject_story->知道灾难降临时，存下的包装餐足以撑到救援到来</li>
+    <li>subject_story->办了一家公益厨房，向所有出航飞船捐赠生存餐</li>
+    <li>subject_story->在山中发现过数百年前的生存餐</li>
+    <li>subject_gerund->备制生存餐</li>
   -->
   <PackagedSurvivalMeal.generalRules.rulesStrings>
     <li>subject->包装生存食物</li>
@@ -416,11 +416,11 @@
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
   <Prosthetics.description>解锁制作廉价的假体部件，用于替换失去的肢体。需要一名熟练的医生进行安装。</Prosthetics.description>
   <!-- EN:
-    <li>subject->prosthesis</li>
-    <li>subject_story->had a limb replaced with a prosthetic, to show how easy it was</li>
-    <li>subject_story->opened a prosthetics clinic</li>
-    <li>subject_story->began crafting bespoke fake limbs for the many war veterans in the area</li>
-    <li>subject_gerund->crafting prosthetics</li>
+    <li>subject->假肢</li>
+    <li>subject_story->自己换上一条假肢，以示此事并不难</li>
+    <li>subject_story->开了一家假肢诊所</li>
+    <li>subject_story->开始为当地众多退伍老兵定制假肢</li>
+    <li>subject_gerund->制作假肢</li>
   -->
   <Prosthetics.generalRules.rulesStrings>
     <li>subject->简易假体</li>
@@ -435,12 +435,12 @@
   <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
   <SmokepopBelt.description>解锁制作「烟罐包」，穿戴后可手动释放防御烟幕。</SmokepopBelt.description>
   <!-- EN:
-    <li>subject->smokescreen</li>
-    <li>subject_story->worked as a hauler for bands, using smokepops for special effects</li>
-    <li>subject_story->established a defensive smokepop perimeter around the local towns, to keep the wildlife back</li>
-    <li>subject_story->used smokepop packs to train new firefighters, without the peril of actual fire</li>
-    <li>subject_gerund->building smokepop packs</li>
-    <li>subject_gerund->deploying smokescreens</li>
+    <li>subject->烟幕</li>
+    <li>subject_story->给乐队当搬运工，用烟雾弹做特效</li>
+    <li>subject_story->在当地城镇周围布下烟雾弹防线，把野兽挡在外面</li>
+    <li>subject_story->用烟雾弹训练新消防员，不必冒真火之险</li>
+    <li>subject_gerund->建造烟雾弹包</li>
+    <li>subject_gerund->布设烟幕</li>
   -->
   <SmokepopBelt.generalRules.rulesStrings>
     <li>subject->烟幕</li>
@@ -456,12 +456,12 @@
   <!-- EN: Build solar panels for electricity generation. -->
   <SolarPanels.description>解锁建造「太阳能板」，用于发电。</SolarPanels.description>
   <!-- EN:
-    <li>subject->solar panels</li>
-    <li>subject->solar energy</li>
-    <li>subject_story->established a multi-spectrum solar farm</li>
-    <li>subject_story->studied ways of maximizing the percentage of solar energy captured</li>
-    <li>subject_story->left on a sundiver to see a fly-by of a star's photosphere</li>
-    <li>subject_gerund->building solar panels</li>
+    <li>subject->太阳能板</li>
+    <li>subject->太阳能</li>
+    <li>subject_story->建起一座多频谱太阳能农场</li>
+    <li>subject_story->研究如何最大化太阳能的捕获率</li>
+    <li>subject_story->乘太阳潜水器出发，去看一次恒星色球层的掠过</li>
+    <li>subject_gerund->建造太阳能板</li>
   -->
   <SolarPanels.generalRules.rulesStrings>
     <li>subject->太阳能板</li>
@@ -477,12 +477,12 @@
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
   <SterileMaterials.description>解锁建造「无菌地砖」，用于为医务室、研究室和厨房提供更干净的环境。</SterileMaterials.description>
   <!-- EN:
-    <li>subject->sterile surfaces</li>
-    <li>subject_story->prevented many deaths by insisting on effective, consistent sterilization of all equipment</li>
-    <li>subject_story->started a kibble kitchen which, uniquely for the system, was known to be free of food poisoning</li>
-    <li>subject_story->established a decorative tile factory, with a sideline in medical equipment and sterile tiles</li>
-    <li>subject_gerund->sterilizing surfaces</li>
-    <li>subject_gerund->constructing sterilized surfaces</li>
+    <li>subject->无菌表面</li>
+    <li>subject_story->坚持对所有器材做有效且一致的消毒，避免了许多死亡</li>
+    <li>subject_story->开了家饲料厨房——在整个星系里独一份地以「从不食物中毒」闻名</li>
+    <li>subject_story->建了一家装饰瓷砖厂，兼做医疗器材与无菌地砖</li>
+    <li>subject_gerund->给表面消毒</li>
+    <li>subject_gerund->建造无菌表面</li>
   -->
   <SterileMaterials.generalRules.rulesStrings>
     <li>subject->无菌表面</li>
@@ -498,11 +498,11 @@
   <!-- EN: Produce tube televisions for recreational watching. -->
   <TubeTelevision.description>解锁建造「显像管电视」。</TubeTelevision.description>
   <!-- EN:
-    <li>subject->tube televisions</li>
-    <li>subject_story->designed a faux-retro television set that could pick up interstellar signals</li>
-    <li>subject_story->moved into broadcasting, producing programmes just for the archaic tube televisions</li>
-    <li>subject_story->ensured that everyone knew the dangers of cathode ray tubes</li>
-    <li>subject_gerund->producing tube televisions</li>
+    <li>subject->显像管电视</li>
+    <li>subject_story->设计了一台能接收星际信号的仿复古电视机</li>
+    <li>subject_story->转入广播业，专为那些老掉牙的显像管电视制作节目</li>
+    <li>subject_story->确保人人都知道阴极射线管的危害</li>
+    <li>subject_gerund->生产显像管电视</li>
   -->
   <TubeTelevision.generalRules.rulesStrings>
     <li>subject->显像管电视</li>
@@ -517,11 +517,11 @@
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
   <WatermillGenerator.description>解锁建造「水轮发电机」，放置在河流上后能提供不间断的电力。</WatermillGenerator.description>
   <!-- EN:
-    <li>subject->watermill generators</li>
-    <li>subject_story->watched twigs and leaves get pulled downstream and envisioned the power there</li>
-    <li>subject_story->hooked cabling up to an ancient flour mill on a feudalworld</li>
-    <li>subject_story->beached a paddle steamer on a ruinworld's shores and converted it into a watermill</li>
-    <li>subject_gerund->watermill generators</li>
+    <li>subject->水车发电机</li>
+    <li>subject_story->看着枝枝叶叶被拽向下游，从中看出了力量</li>
+    <li>subject_story->在一个封建世界把电缆接上了一座古老磨坊</li>
+    <li>subject_story->把一艘明轮船搁浅在废墟世界的岸边，改装成了水车</li>
+    <li>subject_gerund->水车发电机</li>
   -->
   <WatermillGenerator.generalRules.rulesStrings>
     <li>subject->水轮发电机</li>
