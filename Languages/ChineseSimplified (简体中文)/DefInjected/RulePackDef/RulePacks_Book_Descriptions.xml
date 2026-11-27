@@ -2,211 +2,211 @@
 <LanguageData>
   
   <!-- EN:
-    <li>desc->This [writingQualityAdjective] [bookType] [follows] a [PersonJob] as [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]</li>
-    <li>desc->In this [writingQualityAdjective] [bookType], the [author] [tellsAStoryOf] [ANYPAWN_possessive] [storySource]. [writingQualitySentence]. [maybe_date]</li>
+    <li>desc->这[writingQualityAdjective]的[bookType][follows]一位[PersonJob]，写[protagHe][storyStruggles]。[writingQualitySentence]。[maybe_date]</li>
+    <li>desc->在这[writingQualityAdjective]的[bookType]中，[author][tellsAStoryOf][ANYPAWN_possessive][storySource]。[writingQualitySentence]。[maybe_date]</li>
     <li>follows->follows</li>
     <li>follows->covers</li>
-    <li>follows->tells the story of</li>
-    <li>follows->is written from the point of view of</li>
+    <li>follows->讲述…的故事</li>
+    <li>follows->以…的视角写成</li>
     <li>protagHe->he</li>
     <li>protagHis->his</li>
     <li>protagHim->him</li>
-    <li>storyStruggles->[struggles] against [opponent]</li>
+    <li>storyStruggles->与[opponent][struggles]</li>
     <li>storyStruggles->[seeks] [seekObjective]</li>
     <li>struggles->struggles</li>
     <li>struggles->fights</li>
     <li>struggles->strives</li>
     <li>opponent->injustice</li>
     <li>opponent->fear</li>
-    <li>opponent->a dangerous [Enemy]</li>
-    <li>opponent->a rival [PersonJob]</li>
-    <li>opponent->the meaninglessness of [ConceptPositive]</li>
-    <li>opponent->[protagHis] evil [PersonFamily]</li>
-    <li>opponent->[protagHis] community's social norms</li>
+    <li>opponent->一个危险的[Enemy]</li>
+    <li>opponent->一位对手[PersonJob]</li>
+    <li>opponent->[ConceptPositive]的毫无意义</li>
+    <li>opponent->[protagHis]邪恶的[PersonFamily]</li>
+    <li>opponent->[protagHis]社群的社会规范</li>
     <li>seeks->seeks</li>
-    <li>seeks->searches the universe for</li>
-    <li>seeks->tries to find</li>
-    <li>seeks->looks inside [protagHim]self and across the world to find</li>
-    <li>seeks->desperately searches for</li>
-    <li>seeks->struggles to find</li>
-    <li>seeks->scours the land for</li>
-    <li>seeks->hunts down</li>
-    <li>seeks->deliberately pursues</li>
-    <li>seeks->expends every effort to find</li>
-    <li>seeks->doggedly pursues</li>
-    <li>seeks->leaves no stone unturned in search of</li>
-    <li>seeks->embarks on a quest for</li>
-    <li>seeks->rends [protagHis] flesh while seeking</li>
-    <li>seeks->strives to locate</li>
-    <li>seeks->diligently seeks out</li>
-    <li>seeks->wanders in search of</li>
-    <li>seeks->goes on a mission to find</li>
-    <li>seekObjective->a mysterious golden cube</li>
-    <li>seekObjective->a demon inside [protagHis] own head</li>
-    <li>seekObjective->the best-tasting [Vegetable] in the universe</li>
-    <li>seekObjective->a shiny new [Weapon]</li>
-    <li>seekObjective->[protagHis] lost pet [Animal]</li>
-    <li>seekObjective->parts to rebuild a destroyed [Mechanoid]</li>
-    <li>seekObjective->a [TerrainFeature] that [protagHe] saw in a dream</li>
-    <li>seekObjective->an old flame</li>
-    <li>seekObjective->romantic satisfaction</li>
-    <li>seekObjective->a new kidney to replace [protagHis] own diseased kidney</li>
-    <li>seekObjective->food in a vast wasteland</li>
-    <li>seekObjective->the warmth and safety of home</li>
-    <li>seekObjective->love in a world full of hate</li>
-    <li>seekObjective->a long-lost family recipe</li>
-    <li>seekObjective->a childhood toy left behind</li>
-    <li>seekObjective->a stolen family heirloom</li>
-    <li>seekObjective->a mentor's lost journal</li>
-    <li>seekObjective->a rare collectible from [protagHis] favorite series</li>
-    <li>seekObjective->the perfect spot for a picnic</li>
-    <li>seekObjective->a missing piece from a prized collection</li>
-    <li>seekObjective->an apology for a past mistake</li>
-    <li>seekObjective->closure from a past relationship</li>
-    <li>seekObjective->a lost treasure map from childhood</li>
-    <li>seekObjective->a meaningful memento from a deceased loved one</li>
-    <li>seekObjective->a recipe for a cure to an illness</li>
-    <li>seekObjective->a rare plant for a personal garden</li>
-    <li>seekObjective->a letter written but never sent</li>
-    <li>seekObjective->an elusive answer to a philosophical question</li>
-    <li>seekObjective->a quiet moment away from the chaos</li>
-    <li>seekObjective->an old friend in a new city</li>
-    <li>seekObjective->the thrill of a forgotten hobby</li>
-    <li>seekObjective->a single moment of pure happiness</li>
-    <li>tellsAStoryOf->tells a tale about</li>
-    <li>tellsAStoryOf->goes into detail about</li>
-    <li>tellsAStoryOf->explores a story about</li>
-    <li>tellsAStoryOf->tells a story about</li>
-    <li>tellsAStoryOf->spins a narrative about</li>
-    <li>tellsAStoryOf->paints a picture of</li>
-    <li>tellsAStoryOf->dives deep into</li>
-    <li>tellsAStoryOf->unravels the tale of</li>
-    <li>tellsAStoryOf->reveals the journey of</li>
-    <li>tellsAStoryOf->captures the essence of</li>
-    <li>tellsAStoryOf->sheds light on</li>
-    <li>tellsAStoryOf->weaves together</li>
-    <li>tellsAStoryOf->portrays the experience of</li>
-    <li>tellsAStoryOf->embarks on the narrative of</li>
-    <li>tellsAStoryOf->depicts the story of</li>
-    <li>tellsAStoryOf->touches upon the tale of</li>
-    <li>tellsAStoryOf->presents the story of</li>
-    <li>tellsAStoryOf->conveys the journey of</li>
-    <li>tellsAStoryOf->delves into the story of</li>
-    <li>tellsAStoryOf->illuminates the narrative of</li>
-    <li>tellsAStoryOf->captures the saga of</li>
-    <li>tellsAStoryOf->paints a vivid picture of</li>
-    <li>tellsAStoryOf->weaves the tapestry of</li>
-    <li>tellsAStoryOf->explores the chronicle of</li>
+    <li>seeks->在宇宙中搜寻</li>
+    <li>seeks->试图找到</li>
+    <li>seeks->向内审视自己、向世界各处寻找</li>
+    <li>seeks->拼命寻找</li>
+    <li>seeks->苦苦寻找</li>
+    <li>seeks->走遍大地寻找</li>
+    <li>seeks->追猎</li>
+    <li>seeks->刻意追求</li>
+    <li>seeks->竭尽全力寻找</li>
+    <li>seeks->执拗地追求</li>
+    <li>seeks->为寻…翻遍每一块石头</li>
+    <li>seeks->踏上寻找…的远征</li>
+    <li>seeks->撕扯[protagHis]血肉以寻找</li>
+    <li>seeks->努力定位</li>
+    <li>seeks->勤勉地寻访</li>
+    <li>seeks->游荡着寻找</li>
+    <li>seeks->肩负使命去寻找</li>
+    <li>seekObjective->一具神秘的黄金立方体</li>
+    <li>seekObjective->[protagHis]自己脑中的一个恶魔</li>
+    <li>seekObjective->宇宙中最好吃的[Vegetable]</li>
+    <li>seekObjective->一把锃亮的新[Weapon]</li>
+    <li>seekObjective->[protagHis]走失的宠物[Animal]</li>
+    <li>seekObjective->用来重建一台被毁[Mechanoid]的零件</li>
+    <li>seekObjective->[protagHe]在梦中见过的一处[TerrainFeature]</li>
+    <li>seekObjective->一位旧情人</li>
+    <li>seekObjective->情感上的满足</li>
+    <li>seekObjective->一颗用来替换[protagHis]病肾的新肾</li>
+    <li>seekObjective->荒原中的食物</li>
+    <li>seekObjective->家的温暖与安全</li>
+    <li>seekObjective->满是仇恨的世界里的爱</li>
+    <li>seekObjective->一份失传的家传菜谱</li>
+    <li>seekObjective->一件遗落的童年玩具</li>
+    <li>seekObjective->一件被偷走的传家宝</li>
+    <li>seekObjective->一位导师遗失的日记</li>
+    <li>seekObjective->[protagHis]最爱系列中的一件稀有藏品</li>
+    <li>seekObjective->一处完美的野餐地</li>
+    <li>seekObjective->一套珍藏中缺失的那一件</li>
+    <li>seekObjective->为过去过错作出的道歉</li>
+    <li>seekObjective->从旧情中了结</li>
+    <li>seekObjective->一张童年遗失的藏宝图</li>
+    <li>seekObjective->一件亡故挚爱留下的、有意义的纪念物</li>
+    <li>seekObjective->一份治病之药的配方</li>
+    <li>seekObjective->一株为私人花园的稀有植物</li>
+    <li>seekObjective->一封写了却从未寄出的信</li>
+    <li>seekObjective->一个哲学问题的难解答案</li>
+    <li>seekObjective->远离喧嚣的片刻安宁</li>
+    <li>seekObjective->新城市里的一位老友</li>
+    <li>seekObjective->一项被遗忘爱好的刺激</li>
+    <li>seekObjective->一个纯粹幸福的瞬间</li>
+    <li>tellsAStoryOf->讲述…的故事</li>
+    <li>tellsAStoryOf->详细叙述</li>
+    <li>tellsAStoryOf->展开一个关于…的故事</li>
+    <li>tellsAStoryOf->讲一个关于…的故事</li>
+    <li>tellsAStoryOf->编织一段关于…的叙事</li>
+    <li>tellsAStoryOf->描绘出…</li>
+    <li>tellsAStoryOf->深入探讨</li>
+    <li>tellsAStoryOf->解开…的传说</li>
+    <li>tellsAStoryOf->揭示…的旅程</li>
+    <li>tellsAStoryOf->捕捉…的精髓</li>
+    <li>tellsAStoryOf->阐明</li>
+    <li>tellsAStoryOf->交织起</li>
+    <li>tellsAStoryOf->刻画…的经历</li>
+    <li>tellsAStoryOf->踏上…的叙事</li>
+    <li>tellsAStoryOf->描摹…的故事</li>
+    <li>tellsAStoryOf->触及…的传说</li>
+    <li>tellsAStoryOf->呈现…的故事</li>
+    <li>tellsAStoryOf->传达…的旅程</li>
+    <li>tellsAStoryOf->深入…的故事</li>
+    <li>tellsAStoryOf->照亮…的叙事</li>
+    <li>tellsAStoryOf->捕捉…的传奇</li>
+    <li>tellsAStoryOf->绘出…的生动图景</li>
+    <li>tellsAStoryOf->编织…的织锦</li>
+    <li>tellsAStoryOf->探索…的纪事</li>
     <li>author->author</li>
     <li>author->[authorTitle] [ANYPAWN_nameIndef]</li>
-    <li>author(p=2)->unnamed [authorTitle]</li>
+    <li>author(p=2)->未具名的[authorTitle]</li>
     <li>authorTitle->author</li>
     <li>authorTitle->scribe</li>
     <li>authorTitle->writer</li>
     <li>authorTitle->poet</li>
     <li>authorTitle->storyteller</li>
-    <li>storySource->personal experiences</li>
+    <li>storySource->亲身经历</li>
     <li>storySource->youth</li>
     <li>storySource->childhood</li>
     <li>storySource->nation</li>
-    <li>storySource->home planet</li>
+    <li>storySource->故乡行星</li>
     <li>storySource->grandfather</li>
     <li>storySource->grandmother</li>
-    <li>storySource->experiences in the war</li>
-    <li>storySource->deepest fears</li>
-    <li>storySource->dreams of traveling to the stars</li>
-    <li>storySource->love of fresh [Vegetable]s</li>
-    <li>storySource->time as a [PersonJob]</li>
-    <li>storySource->favorite [Weapon]</li>
-    <li>storySource->experience fighting against [Mechanoid]s</li>
-    <li>storySource->youth growing up in a [Community]</li>
-    <li>storySource->gigantic [BodyPart]</li>
-    <li>storySource->memories of a lost friend</li>
-    <li>storySource->passion for music</li>
-    <li>storySource->curiosity about ancient ruins</li>
-    <li>storySource->attachment to a family heirloom</li>
-    <li>storySource->fascination with a mysterious figure</li>
-    <li>storySource->efforts to preserve a dying language</li>
-    <li>storySource->dreams of inventing something groundbreaking</li>
-    <li>storySource->connection to a mythical creature</li>
-    <li>storySource->affection for a particular landscape</li>
-    <li>storySource->aspirations of becoming a renowned [PersonJob]</li>
-    <li>storySource->struggles with social anxiety</li>
-    <li>storySource->longing for adventure beyond the horizon</li>
-    <li>storySource->bond with a robotic companion</li>
-    <li>storySource->adventures as a pirate in the past</li>
-    <li>storySource->close ties to a secret society</li>
-    <li>storySource->time spent as a nomad</li>
-    <li>storySource->fascination with time travel</li>
-    <li>storySource->connection to a legendary artifact</li>
-    <li>writingQualityAdjective(quality==6)->remarkably well-written</li>
-    <li>writingQualityAdjective(quality==5)->smart and insightful</li>
-    <li>writingQualityAdjective(quality==4)->thoughtful and eloquent</li>
-    <li>writingQualityAdjective(quality==3)->well-written</li>
+    <li>storySource->战时的经历</li>
+    <li>storySource->最深的恐惧</li>
+    <li>storySource->远航群星的梦想</li>
+    <li>storySource->对新鲜[Vegetable]的热爱</li>
+    <li>storySource->当[PersonJob]的岁月</li>
+    <li>storySource->最爱的[Weapon]</li>
+    <li>storySource->与[Mechanoid]作战的经历</li>
+    <li>storySource->在[Community]长大的少年时代</li>
+    <li>storySource->巨大的[BodyPart]</li>
+    <li>storySource->对一位故去友人的记忆</li>
+    <li>storySource->对音乐的热爱</li>
+    <li>storySource->对远古废墟的好奇</li>
+    <li>storySource->对一件传家宝的依恋</li>
+    <li>storySource->对一位神秘人物的着迷</li>
+    <li>storySource->为保存一门濒危语言所做的努力</li>
+    <li>storySource->发明出某种开创性事物的梦想</li>
+    <li>storySource->与一只神话生物的联系</li>
+    <li>storySource->对某片特定地景的喜爱</li>
+    <li>storySource->成为著名[PersonJob]的抱负</li>
+    <li>storySource->与社交焦虑的抗争</li>
+    <li>storySource->对地平线之外冒险的渴望</li>
+    <li>storySource->与一台机械伙伴的羁绊</li>
+    <li>storySource->昔日当海盗的冒险</li>
+    <li>storySource->与某个秘密社团的密切关系</li>
+    <li>storySource->作为游牧者度过的岁月</li>
+    <li>storySource->对时间旅行的着迷</li>
+    <li>storySource->与一件传说圣物的联系</li>
+    <li>writingQualityAdjective(quality==6)->写得极为出色</li>
+    <li>writingQualityAdjective(quality==5)->聪慧而富有洞见</li>
+    <li>writingQualityAdjective(quality==4)->深思而雄辩</li>
+    <li>writingQualityAdjective(quality==3)->写得不错</li>
     <li>writingQualityAdjective(quality==2)->mediocre</li>
-    <li>writingQualityAdjective(quality==1)->poorly-written</li>
-    <li>writingQualityAdjective(quality==0)->nearly-incoherent</li>
+    <li>writingQualityAdjective(quality==1)->写得拙劣</li>
+    <li>writingQualityAdjective(quality==0)->几乎不知所云</li>
     <li>writingQualitySentence(quality[greater_than]4)->It is [excellentDesc] [excellentExtra]</li>
     <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->It is [decentDesc] [decentExtra]</li>
     <li>writingQualitySentence(quality[less_than]2)->It is [awfulDesc] [awfulExtra]</li>
-    <li>excellentDesc->a heart-pounding tale of excitement</li>
-    <li>excellentDesc->a thoughtful exploration of the human spirit</li>
-    <li>excellentDesc->deeply insightful about the complexity of the world</li>
-    <li>excellentDesc->tightly-written and rich with emotion</li>
-    <li>excellentDesc->creative and original</li>
-    <li>excellentDesc->wildly original and remarkably well-crafted</li>
-    <li>excellentDesc->filled with relatable humor</li>
-    <li>excellentExtra->. Each story beat flows naturally into the next</li>
-    <li>excellentExtra->. It is a page-turner and very hard to put down</li>
-    <li>excellentExtra->. It blows the reader's mind at least three times</li>
-    <li>excellentExtra->. The plot twists are unpredictable but also feel inevitable</li>
-    <li>excellentExtra->. The characters feel like real people</li>
-    <li>decentDesc->a decent story</li>
-    <li>decentDesc->interesting and engaging</li>
-    <li>decentDesc->focused on one interesting idea</li>
-    <li>decentDesc->somewhat humorous from time to time</li>
-    <li>decentDesc->gripping during some parts</li>
-    <li>decentDesc->original and quirky</li>
-    <li>decentDesc->appealing to a certain type of reader</li>
-    <li>decentExtra-> but has some glaring plot holes</li>
-    <li>decentExtra-> but is often hard to follow</li>
-    <li>decentExtra-> but is riddled with continuity errors</li>
-    <li>decentExtra-> but lacks any deep emotions</li>
-    <li>decentExtra-> but the characters are trite and cartoonish</li>
-    <li>decentExtra-> but the author constantly uses words inappropriately in an attempt to sound smart</li>
-    <li>decentExtra-> but the world is unoriginal and dull</li>
-    <li>decentExtra-> but the writing is excessively flowery</li>
-    <li>decentExtra-> but many of the story beats are unnecessary and fail to move the plot forward</li>
-    <li>awfulDesc->very poorly written</li>
-    <li>awfulDesc->terribly written</li>
-    <li>awfulDesc->hard to read</li>
-    <li>awfulDesc->hard to follow</li>
-    <li>awfulDesc->lacking in artistic vision</li>
-    <li>awfulDesc->filled with plot holes and generic characters</li>
-    <li>awfulDesc->dominated by an author self-insert character</li>
-    <li>awfulDesc->bizarre yet unoriginal</li>
-    <li>awfulDesc->far, far too long</li>
-    <li>awfulExtra-> and the writing is borderline incoherent</li>
-    <li>awfulExtra-> and is extremely hard to follow</li>
-    <li>awfulExtra-> and fails to assemble a coherent plot</li>
-    <li>awfulExtra-> and lacks any sense of theme or meaning</li>
-    <li>awfulExtra-> and doesn't present any interesting ideas at all</li>
-    <li>awfulExtra-> and every character is boring</li>
-    <li>awfulExtra-> and there is no identifiable protagonist at any point</li>
+    <li>excellentDesc->一则令人心跳加速的惊险故事</li>
+    <li>excellentDesc->一场对人类精神的深思探索</li>
+    <li>excellentDesc->对世界之复杂有着深刻洞见</li>
+    <li>excellentDesc->文字紧凑、情感丰沛</li>
+    <li>excellentDesc->富有创意且原创</li>
+    <li>excellentDesc->极具原创性，且结构精巧得惊人</li>
+    <li>excellentDesc->充满令人会心一笑的幽默</li>
+    <li>excellentExtra->. 每个情节都自然流向下一个</li>
+    <li>excellentExtra->. 它令人一页接一页，难以放下</li>
+    <li>excellentExtra->. 它至少三次让读者脑袋炸开</li>
+    <li>excellentExtra->. 那些转折既出人意料，又让人觉得理所必然</li>
+    <li>excellentExtra->. 角色们读来如同真人</li>
+    <li>decentDesc->一个尚可的故事</li>
+    <li>decentDesc->有趣且引人入胜</li>
+    <li>decentDesc->聚焦于一个有趣的想法</li>
+    <li>decentDesc->时而有些幽默</li>
+    <li>decentDesc->部分章节扣人心弦</li>
+    <li>decentDesc->原创而古怪</li>
+    <li>decentDesc->对某一类读者颇具吸引力</li>
+    <li>decentExtra->但有些刺眼的剧情漏洞</li>
+    <li>decentExtra->但常常难以跟上</li>
+    <li>decentExtra->但满是连续性错误</li>
+    <li>decentExtra->但缺乏任何深沉的情感</li>
+    <li>decentExtra->但角色陈腐且像卡通人物</li>
+    <li>decentExtra->但作者为了显得聪明而不断误用词藻</li>
+    <li>decentExtra->但世界观毫无新意且乏味</li>
+    <li>decentExtra->但文笔过分华丽</li>
+    <li>decentExtra->但许多情节纯属多余，未能推动故事</li>
+    <li>awfulDesc->写得很糟</li>
+    <li>awfulDesc->写得极糟</li>
+    <li>awfulDesc->难以阅读</li>
+    <li>awfulDesc->难以跟上</li>
+    <li>awfulDesc->缺乏艺术视野</li>
+    <li>awfulDesc->满是剧情漏洞与千篇一律的角色</li>
+    <li>awfulDesc->被一个作者自我代入的角色所主宰</li>
+    <li>awfulDesc->怪诞却毫无新意</li>
+    <li>awfulDesc->实在太长太长</li>
+    <li>awfulExtra->而且文笔几近不知所云</li>
+    <li>awfulExtra->而且极难跟上</li>
+    <li>awfulExtra->而且没能拼出一个连贯的情节</li>
+    <li>awfulExtra->而且毫无主题或意义可言</li>
+    <li>awfulExtra->而且完全没有提出任何有趣的想法</li>
+    <li>awfulExtra->而且每个角色都乏味</li>
+    <li>awfulExtra->而且从头到尾都没有一个可辨认的主角</li>
     <li>maybe_date-></li>
-    <li>maybe_date->The book was published [date_form].</li>
-    <li>maybe_date->The text was first printed [date_form].</li>
-    <li>maybe_date->It's unclear exactly when the book was written.</li>
+    <li>maybe_date->此书出版于[date_form]。</li>
+    <li>maybe_date->此文本初印于[date_form]。</li>
+    <li>maybe_date->此书究竟何时写成，已不清楚。</li>
     <li>date_form->recently</li>
-    <li>date_form->many centuries ago</li>
-    <li>date_form->on the [date]</li>
+    <li>date_form->许多个世纪以前</li>
+    <li>date_form->在[date]</li>
     <li>date_form->in [date_season]</li>
     <li>bookType(p=4)->novel</li>
     <li>bookType(p=2)->novella</li>
     <li>bookType->story</li>
     <li>bookType->narrative</li>
     <li>bookType->biography</li>
-    <li>bookType->epic poem</li>
+    <li>bookType->叙事长诗</li>
   -->
   <Description_Novel.rulePack.rulesStrings>
     <li>desc->这本[writingQualityAdjective]的[bookType][follows]一个[PersonJob][storyStruggles]的故事。[writingQualitySentence]。[maybe_date]</li>
@@ -436,194 +436,194 @@
     <li>maybe_physical_adjective->[physical_adjective] </li>
     <li>maybe_date(p=3)-></li>
     <li>maybe_date->[dates]</li>
-    <li>subject_intro->the [schematic_synonym] [shows_synonym_verb]s a [state_adjective] [diagram_type] about [subject]</li>
-    <li>subject_intro->in this [schematic_synonym], the [author] [shows_synonym_verb]s [ANYPAWN_possessive] [theory_synonym_adj] of [subject]</li>
-    <li>subject_intro->this [physical_adjective] [schematic_synonym] [contain_verb]s [schematic_synonym]s focused on [subject]</li>
-    <li>subject_intro->the [author] has employed [notable_adjective] [image_types] to communicate [ANYPAWN_possessive] [theory_synonym_adj] of [subject]</li>
-    <li>subject_intro->[device_synonym]s associated with [subject_primary] are [shows_synonym_verb1]ed in this [maybe_physical_adjective][schematic_synonym]</li>
-    <li>subject_intro->the [schematic_synonym] [shows_synonym_verb]s a [state_adjective] [diagram_type] about [subject_primary] and [subject_secondary]</li>
-    <li>subject_intro->[device_synonym]s associated with [subject_primary] and [subject_secondary] are [shows_synonym_verb1]ed in this [maybe_physical_adjective][schematic_synonym]</li>
+    <li>subject_intro->这份[schematic_synonym][shows_synonym_verb]了一张关于[subject]的[state_adjective][diagram_type]</li>
+    <li>subject_intro->在这份[schematic_synonym]中，[author][shows_synonym_verb]了[ANYPAWN_possessive]关于[subject]的[theory_synonym_adj]</li>
+    <li>subject_intro->这份[physical_adjective]的[schematic_synonym][contain_verb]了专论[subject]的[schematic_synonym]</li>
+    <li>subject_intro->[author]采用了[notable_adjective]的[image_types]来传达[ANYPAWN_possessive]关于[subject]的[theory_synonym_adj]</li>
+    <li>subject_intro->与[subject_primary]相关的[device_synonym]都[shows_synonym_verb1]在这份[maybe_physical_adjective][schematic_synonym]中</li>
+    <li>subject_intro->这份[schematic_synonym][shows_synonym_verb]了一张关于[subject_primary]与[subject_secondary]的[state_adjective][diagram_type]</li>
+    <li>subject_intro->与[subject_primary]和[subject_secondary]相关的[device_synonym]都[shows_synonym_verb1]在这份[maybe_physical_adjective][schematic_synonym]中</li>
     <li>schematic_desc->[schematic_desc_first][schematic_desc_second]</li>
-    <li>schematic_desc_first->the ancient technology described here for [subject_primary_gerund] is [negative_adjective] compared to present systems</li>
-    <li>schematic_desc_first->this is only a fragment of a full [schematic_synonym] for [subject_primary_gerund] </li>
-    <li>schematic_desc_first->this [schematic_synonym] is [negative_adjective] in several places</li>
-    <li>schematic_desc_first->the [schematic_synonym] for [subject_primary_gerund] is incomplete</li>
-    <li>schematic_desc_first->[subject_primary_gerund] with these [schematic_synonym]s is complicated by contradictory annotations</li>
-    <li>schematic_desc_first->the author's [negative_adjective] understanding of [subject_primary_gerund] is apparent throughout</li>
-    <li>schematic_desc_first->part of the [schematic_synonym] has been torn away</li>
-    <li>schematic_desc_first->fire and soot have marred the paper</li>
-    <li>schematic_desc_first->the [schematic_synonym] for [subject_primary_gerund] is too [negative_adjective]</li>
-    <li>schematic_desc_first->the limited [other_subject] for [subject_primary_gerund] compromised this [schematic_synonym]</li>
-    <li>schematic_desc_first->imprecise details about [subject_primary_gerund] make implementing this [schematic_synonym] difficult</li>
-    <li>schematic_desc_first->this [negative_adjective] [schematic_synonym] sometimes causes errors when [subject_primary_gerund]</li>
-    <li>schematic_desc_first->this [schematic_synonym] for [subject_primary_gerund] fails aesthetically</li>
-    <li>schematic_desc_first->a lack of imagination about [subject_primary_gerund] has limited this [schematic_synonym]</li>
-    <li>schematic_desc_first->this [schematic_container] provides many contradictory specifications for [subject_primary_gerund]</li>
-    <li>schematic_desc_first->disagreements over [other_subject] have left ambiguities in this [schematic_synonym] for [subject_primary_gerund]</li>
-    <li>schematic_desc_first->sloppy draftsmanship undermines the [author]'s meticulous plans for [subject_primary_gerund]</li>
-    <li>schematic_desc_first->worries about the [other_subject] for [subject_primary_gerund] limited this [schematic_synonym]</li>
-    <li>schematic_desc_first->this [schematic_synonym] for [subject_primary_gerund] has been copied repeatedly, obscuring its contents</li>
-    <li>schematic_desc_first->this [schematic_synonym] establishes no real connection between [subject_primary_gerund] and [subject_secondary_gerund]</li>
-    <li>schematic_desc_first->[subject_primary_gerund] and [subject_secondary_gerund] are not easily paired</li>
-    <li>schematic_desc_first->this [schematic_container] has [schematic_synonym]s on both [subject_primary_gerund] and [subject_secondary_gerund]</li>
-    <li>schematic_desc_first->this [schematic_container] has [schematic_synonym]s on both [subject_tertiary_gerund] and [subject_secondary_gerund]</li>
-    <li>schematic_desc_first->this [schematic_container] has [schematic_synonym]s on both [subject_primary_gerund] and [subject_tertiary_gerund]</li>
-    <li>schematic_desc_first->this [schematic_container] has [schematic_synonym]s on  [subject_primary_gerund], [subject_secondary_gerund] and [subject_tertiary_gerund]</li>
-    <li>schematic_desc_second(quality[less_than]2)->. This is frustrating for those learning the subject</li>
-    <li>schematic_desc_second(quality[less_than]2)->, making it valueless for most purposes</li>
-    <li>schematic_desc_second(quality[less_than]2)->, undermining the lessons that it communicates</li>
-    <li>schematic_desc_second(quality[less_than]2)->. Only beginners will benefit from its lessons</li>
-    <li>schematic_desc_second(quality[less_than]2)->. A misleading schematic can be worse than having no schematic at all</li>
-    <li>schematic_desc_second(quality[less_than]2)->, rendering it of questionable utility</li>
-    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->, but the basics are present</li>
-    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->, but it still [contain_verb]s enough data to provide insights</li>
-    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->. However, this doesn't detract from its utility to experienced practitioners</li>
-    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->, though it still has some value to most students</li>
-    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->. Beginners will still benefit from its teachings</li>
-    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->. However, only experts will notice the flaws</li>
-    <li>schematic_desc_second(quality[greater_than]4)->. Yet, the content is exceptional for the era</li>
-    <li>schematic_desc_second(quality[greater_than]4)->, yet it conveys advanced concepts with ease</li>
-    <li>schematic_desc_second(quality[greater_than]4)->, but it is still full of wisdom for all learners</li>
-    <li>schematic_desc_second(quality[greater_than]4)->. Despite this, every student will benefit from reading it, no matter how experienced</li>
-    <li>schematic_desc_second(quality[greater_than]4)->, but the issues are minor compared to the wealth of knowledge it contains</li>
-    <li>schematic_desc_second(quality[greater_than]4)->. However, the lessons it teaches are timeless</li>
-    <li>medium->An in-built sensory system [tells_verb]s to listeners [schematic_origin]</li>
-    <li>medium->Rolled inside is a sheaf of personal papers, [tells_verb]ing [schematic_origin]</li>
-    <li>medium->A sticker [tells_verb]s limited information about [schematic_origin]</li>
-    <li>medium->An included informational pamphlet [tells_verb]s [schematic_origin]</li>
-    <li>medium->Loose leaves of parchment [tells_verb] [schematic_origin]</li>
-    <li>medium->A second sheet of paper [tells_verb]s [schematic_origin]</li>
-    <li>medium->Inscribed stone tablets [tells_verb] [schematic_origin]</li>
-    <li>medium->A plasteel [schematic_container] is inscribed with [schematic_origin]</li>
-    <li>medium->A scrawled note falls out, which [tells_verb]s [schematic_origin]</li>
-    <li>medium->The rear of the document [tells_verb]s more about [schematic_origin]</li>
-    <li>medium->A recording plays, [tells_verb]ing [schematic_origin]</li>
-    <li>medium->[schematic_origin] would be a matter of conjecture, if not for notes on the document</li>
-    <li>medium(p=4)->[schematic_origin] is known but included in the document's notes</li>
-    <li>medium->An attached diary tells [schematic_origin]</li>
-    <li>medium->An archaic mechanism [tells_verb]s [schematic_origin]</li>
-    <li>medium->A miniature mechanoid whirrs into life, telling [schematic_origin]</li>
+    <li>schematic_desc_first->此处所述的[subject_primary_gerund]远古技术，与现代系统相比[negative_adjective]</li>
+    <li>schematic_desc_first->这只是完整的[subject_primary_gerund][schematic_synonym]的一个残片</li>
+    <li>schematic_desc_first->这份[schematic_synonym]有几处[negative_adjective]</li>
+    <li>schematic_desc_first->这份[subject_primary_gerund]的[schematic_synonym]并不完整</li>
+    <li>schematic_desc_first->依这些[schematic_synonym]进行[subject_primary_gerund]时，相互矛盾的批注使其变得复杂</li>
+    <li>schematic_desc_first->作者对[subject_primary_gerund]那种[negative_adjective]的理解贯穿全篇</li>
+    <li>schematic_desc_first->[schematic_synonym]的一部分已被撕去</li>
+    <li>schematic_desc_first->火与烟灰污损了纸张</li>
+    <li>schematic_desc_first->这份[subject_primary_gerund]的[schematic_synonym]过于[negative_adjective]</li>
+    <li>schematic_desc_first->对[subject_primary_gerund]的[other_subject]有限，损害了这份[schematic_synonym]</li>
+    <li>schematic_desc_first->关于[subject_primary_gerund]的细节不精确，使这份[schematic_synonym]难以实施</li>
+    <li>schematic_desc_first->这份[negative_adjective]的[schematic_synonym]在进行[subject_primary_gerund]时偶尔会导致错误</li>
+    <li>schematic_desc_first->这份[subject_primary_gerund]的[schematic_synonym]在美学上不合格</li>
+    <li>schematic_desc_first->对[subject_primary_gerund]缺乏想象，限制了这份[schematic_synonym]</li>
+    <li>schematic_desc_first->这份[schematic_container]给出了许多相互矛盾的[subject_primary_gerund]规格</li>
+    <li>schematic_desc_first->围绕[other_subject]的分歧，使这份[subject_primary_gerund]的[schematic_synonym]留下了含糊之处</li>
+    <li>schematic_desc_first->潦草的绘图毁掉了[author]对[subject_primary_gerund]那份缜密的计划</li>
+    <li>schematic_desc_first->对[subject_primary_gerund]的[other_subject]的担忧，限制了这份[schematic_synonym]</li>
+    <li>schematic_desc_first->这份[subject_primary_gerund]的[schematic_synonym]被反复抄录，内容已变得模糊</li>
+    <li>schematic_desc_first->这份[schematic_synonym]并未在[subject_primary_gerund]与[subject_secondary_gerund]之间建立起真正的联系</li>
+    <li>schematic_desc_first->[subject_primary_gerund]与[subject_secondary_gerund]并不容易配对</li>
+    <li>schematic_desc_first->这份[schematic_container]兼有[subject_primary_gerund]与[subject_secondary_gerund]两方面的[schematic_synonym]</li>
+    <li>schematic_desc_first->这份[schematic_container]兼有[subject_tertiary_gerund]与[subject_secondary_gerund]两方面的[schematic_synonym]</li>
+    <li>schematic_desc_first->这份[schematic_container]兼有[subject_primary_gerund]与[subject_tertiary_gerund]两方面的[schematic_synonym]</li>
+    <li>schematic_desc_first->这份[schematic_container]兼有[subject_primary_gerund]、[subject_secondary_gerund]与[subject_tertiary_gerund]三方面的[schematic_synonym]</li>
+    <li>schematic_desc_second(quality[less_than]2)->. 这让学习这门学问的人十分沮丧</li>
+    <li>schematic_desc_second(quality[less_than]2)->, 使其在多数用途上毫无价值</li>
+    <li>schematic_desc_second(quality[less_than]2)->, 削弱了它所要传达的教益</li>
+    <li>schematic_desc_second(quality[less_than]2)->. 只有初学者还能从它的讲解中受益</li>
+    <li>schematic_desc_second(quality[less_than]2)->. 一张误导性的图纸，可能比没有图纸更糟</li>
+    <li>schematic_desc_second(quality[less_than]2)->, 使其实用性存疑</li>
+    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->, 但基础部分仍在</li>
+    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->, 但仍[contain_verb]足够的数据以供洞见</li>
+    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->. 不过，这并不减损它对老手们的用处</li>
+    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->, 但对多数学生而言仍有些价值</li>
+    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->. 初学者仍能从它的教导中受益</li>
+    <li>schematic_desc_second(quality[less_than]5,quality[greater_than]1)->. 然而只有专家才会察觉其中的瑕疵</li>
+    <li>schematic_desc_second(quality[greater_than]4)->. 然而就其时代而言，内容已属卓越</li>
+    <li>schematic_desc_second(quality[greater_than]4)->, 却能轻松传达进阶概念</li>
+    <li>schematic_desc_second(quality[greater_than]4)->, 但对所有学习者而言仍满是智慧</li>
+    <li>schematic_desc_second(quality[greater_than]4)->. 尽管如此，无论经验多丰富，每个学生都能从阅读中受益</li>
+    <li>schematic_desc_second(quality[greater_than]4)->, 但与其所载的丰富知识相比，这些瑕疵微不足道</li>
+    <li>schematic_desc_second(quality[greater_than]4)->. 然而它传授的教益不受时代所限</li>
+    <li>medium->一套内置感官系统向听者[tells_verb][schematic_origin]</li>
+    <li>medium->里面卷着一叠私人文件，[tells_verb]着[schematic_origin]</li>
+    <li>medium->一张贴纸为[schematic_origin][tells_verb]了有限的信息</li>
+    <li>medium->附在其中的说明小册[tells_verb]了[schematic_origin]</li>
+    <li>medium->散落的羊皮纸页[tells_verb]了[schematic_origin]</li>
+    <li>medium->第二张纸[tells_verb]了[schematic_origin]</li>
+    <li>medium->刻字的石板[tells_verb]了[schematic_origin]</li>
+    <li>medium->一只塑钢[schematic_container]上刻着[schematic_origin]</li>
+    <li>medium->一张潦草的纸条掉落出来，上面[tells_verb]了[schematic_origin]</li>
+    <li>medium->文件背面[tells_verb]了更多关于[schematic_origin]的内容</li>
+    <li>medium->一段录音响起，[tells_verb]着[schematic_origin]</li>
+    <li>medium->若非文件上留有批注，[schematic_origin]就只能靠猜</li>
+    <li>medium(p=4)->[schematic_origin]已知，但只附在文件的注释里</li>
+    <li>medium->附着的日记讲述了[schematic_origin]</li>
+    <li>medium->一套古老机构[tells_verb]了[schematic_origin]</li>
+    <li>medium->一台微型机械体嗡嗡启动，讲述了[schematic_origin]</li>
     <li>tells_verb->tell</li>
     <li>tells_verb->relay</li>
     <li>tells_verb->recount</li>
     <li>tells_verb->report</li>
-    <li>schematic_origin->the [notable_adjective] story of the schematic's creation</li>
-    <li>schematic_origin->how the author came to create the schematic</li>
-    <li>schematic_origin->the [notable_adjective] life of the schematic's author</li>
-    <li>schematic_origin->a story about this schematic's creation</li>
-    <li>schematic_origin->the origin of this [notable_adjective] diagram</li>
-    <li>schematic_origin->a [notable_adjective] tale about the author's life</li>
-    <li>schematic_origin->a rumor about why this [notable_adjective] document ended up on the Rim and who wrote it</li>
+    <li>schematic_origin->这份图纸如何诞生的[notable_adjective]故事</li>
+    <li>schematic_origin->作者是如何作成这份图纸的</li>
+    <li>schematic_origin->图纸作者那段[notable_adjective]生平</li>
+    <li>schematic_origin->一个关于这份图纸如何诞生的故事</li>
+    <li>schematic_origin->这张[notable_adjective]图样的来历</li>
+    <li>schematic_origin->一个关于作者生平的[notable_adjective]故事</li>
+    <li>schematic_origin->一则传闻：这份[notable_adjective]文件为何流落边缘世界，又是谁写的</li>
     <li>author_story->[author_storyname][author_intent]</li>
     <li>author_story->[author_storyname][learning_story]</li>
     <li>author_story->[author_storyname][calltoadventure]</li>
     <li>author_storyname(p=3)->[ANYPAWN_nameFull]</li>
-    <li>author_storyname->the unnamed [authorTitle]</li>
-    <li>author_intent-> was hungry for knowledge about [subject] from a young age and questioned everyone in [ANYPAWN_possessive] hometown</li>
-    <li>author_intent-> dreamed of rejuvenating [subject], leading a scientific revolution on Kuhn[worldname]</li>
-    <li>author_intent-> made [subject] [ANYPAWN_possessive] life's work</li>
-    <li>author_intent-> shared [ANYPAWN_possessive] views on [subject] in a [physical_adjective] book, written [written_when]</li>
-    <li>author_intent-> knew of no calling finer than the study of [subject] and created this schematic [written_when]</li>
-    <li>author_intent-> happened across the secrets of [subject] in [ANYPAWN_possessive] mother's [physical_adjective] study</li>
-    <li>author_intent-> was severely ill as a child but used the time to study [subject]</li>
-    <li>author_intent-> wanted the world to know about [subject] and, [written_when], created this schematic</li>
-    <li>author_intent-> needed the galaxy to know about [subject]</li>
-    <li>author_intent-> was lured into a love of [subject] by a children's book series</li>
-    <li>author_intent-> never loved the study of [subject] but was obliged to do it</li>
-    <li>author_intent-> felt [subject] was [ANYPAWN_possessive] calling</li>
-    <li>learning_story-> traveled far and wide, seeking wisdom about [subject]</li>
-    <li>learning_story-> lived an identical day every day, working on [subject] in the cyclical cities of [midworld]</li>
-    <li>learning_story-> came up through a [subject]-focused slumschool on [urbworld]</li>
-    <li>learning_story-> graduated with honors in [subject] from the [worldname] Academy</li>
-    <li>learning_story-> taught [ANYPAWN_objective]self about [subject] on the feral world of [animalworld]</li>
-    <li>learning_story-> discovered a trove of lost schematics about [subject] in the ruins of [ruinworld]</li>
-    <li>learning_story-> traversed the blackened streets of [steamworld], chasing [subject] amidst the sootfall</li>
-    <li>learning_story-> somehow survived the toxin swamps of [toxicworld], where rumors spread of [subject] experts</li>
-    <li>learning_story-> scoured the melted suburbs of the glassed world of [glassworld], searching for knowledge of [subject]</li>
-    <li>learning_story-> orbited the transcendent sphere of [transcendentworld], learning of [subject] by intercepting comms traffic</li>
-    <li>learning_story-> went with the mules into the depths of [mineworld], listening to old miners tell stories of [subject] and learning its secrets</li>
-    <li>learning_story-> was an indentured [subject] expert on the coreworld of [coreworld]</li>
-    <li>learning_story-> owned the factories on the indworld of [indworld], indulging [ANYPAWN_possessive] love of [subject] whilst [ANYPAWN_possessive] workers slaved away</li>
-    <li>learning_story-> learned about [subject] incarcerated in Cellcity V on [prisonworld], forever protesting [ANYPAWN_possessive] innocence</li>
-    <li>learning_story-> pieced together this [subject] schematic in the hive-heaps of the trashworld [trashworld], collecting fragments discarded by idle glitterworld citizens</li>
-    <li>learning_story-> raised cloned apatovores on [dinoworld] and traded their meat for knowledge of [subject]</li>
-    <li>learning_story-> lived in the skyrippers of [urbworld], where knowledge of [subject] was common</li>
-    <li>learning_story-> was raised in the outer deadlands of [ruinworld], learning [subject] to survive</li>
-    <li>calltoadventure-> felt [ANYPAWN_possessive] life was stagnant. Then one day, [ANYPAWN_pronoun] found [subject]</li>
-    <li>calltoadventure-> was entrusted with starting a new colony, on [ANYPAWN_possessive] own, focused on [subject]</li>
-    <li>calltoadventure->'s older sibling passed away, leaving [ANYPAWN_objective] as the family [subject] specialist</li>
-    <li>calltoadventure-> learned of an abandoned Glitterworld colony that focused on [subject]</li>
-    <li>calltoadventure-> was on a solar cruiser when it was captured by [feudalworld] pirates. As a [subject] expert, they ransomed him for a high price</li>
-    <li>calltoadventure-> was blown off course to the deadworld of [deadworld], where [ANYPAWN_pronoun] learned about [subject]</li>
-    <li>calltoadventure-> discovered a data file about [subject] in a broken mechanoid and learned from it</li>
-    <li>calltoadventure-> followed a dirtmole down its burrow, where it taught [ANYPAWN_objective] about [subject]</li>
-    <li>calltoadventure-> was brought up by a [subject]-loving Yttakin clan on [iceworld]</li>
-    <li>calltoadventure-> was created by sanguophage cloners and found pleasure in [subject]</li>
-    <li>calltoadventure-> was raised on [warworld], escaping in a stolen cargo pod. The only reading for months was a [subject] manual</li>
-    <li>calltoadventure-> spent [ANYPAWN_possessive] lifetime travelling up through the layers of the shellworld [shellworld], chasing a malfunctioning [subject] mechanoid</li>
-    <li>calltoadventure-> escaped serfdom in the hamlets of [medievalworld] by stowing away on the starship of a trader who was an expert in [subject]</li>
-    <li>calltoadventure-> traveled to the rim and back, learning about [subject] on [rimworld]</li>
-    <li>calltoadventure-> sailed the seas of [oceanicworld], claiming to learn [subject] secrets from the living oceans themselves</li>
-    <li>calltoadventure-> was a zero-g scavenger across [worldname]'s asteroid belt, finding the secrets of [subject] on either [asteroid] A3 or [asteroid] 7DD</li>
-    <li>written_when-> the night before [ANYPAWN_possessive] execution</li>
-    <li>written_when-> in [ANYPAWN_possessive] early years</li>
-    <li>written_when-> during the Blue Period of [worldname]</li>
-    <li>written_when-> as part of [ANYPAWN_possessive] post-doctoral thesis</li>
-    <li>written_when-> in [ANYPAWN_possessive] wanderings across the rim</li>
-    <li>written_when-> in the ur-[worldname] clone facilities</li>
-    <li>written_when-> as the final part of the [notable_adjective] ka'[worldname] ritual</li>
-    <li>written_when-> idly, upon the back of a scrap of letter-scrip from [ANYPAWN_possessive] parents</li>
-    <li>written_when-> many years after they first conceived of it</li>
-    <li>written_when-> in [ANYPAWN_possessive] old age</li>
-    <li>written_when-> in the evenings, in time snatched from sleep</li>
-    <li>written_when-> when not caring for [ANYPAWN_possessive] children</li>
-    <li>written_when-> in a rush, on the way to the front</li>
-    <li>written_when-> at leisure, whilst sipping cooled drinks on [ANYPAWN_possessive] verandah</li>
-    <li>written_when-> at a young age, working alone while [ANYPAWN_possessive] peers played</li>
+    <li>author_storyname->那位未具名的[authorTitle]</li>
+    <li>author_intent->自幼便渴求[subject]的知识，把[ANYPAWN_possessive]家乡的每个人都问了个遍</li>
+    <li>author_intent->梦想复兴[subject]，在库恩[worldname]引领一场科学革命</li>
+    <li>author_intent->把[subject]当作[ANYPAWN_possessive]毕生事业</li>
+    <li>author_intent->在一本[physical_adjective]的书中阐述了[ANYPAWN_possessive]对[subject]的看法，该书[written_when]</li>
+    <li>author_intent->认为没有比钻研[subject]更高尚的志业，并在[written_when]绘出了这份图纸</li>
+    <li>author_intent->在[ANYPAWN_possessive]母亲那间[physical_adjective]书房里偶然得悉了[subject]的奥秘</li>
+    <li>author_intent->幼时重病，却利用那段时间研习[subject]</li>
+    <li>author_intent->想让世人都知道[subject]，于是[written_when]绘出了这份图纸</li>
+    <li>author_intent->认为整个星系都必须知道[subject]</li>
+    <li>author_intent->因一套童书而对[subject]生出热爱</li>
+    <li>author_intent->从未喜爱研习[subject]，却不得不做</li>
+    <li>author_intent->觉得[subject]就是[ANYPAWN_possessive]的天职</li>
+    <li>learning_story->走遍四方，寻访关于[subject]的智慧</li>
+    <li>learning_story->在[midworld]那些周而复始的城市里日复一日过着相同的日子，一边钻研[subject]</li>
+    <li>learning_story->从[urbworld]一所专攻[subject]的贫民学校一路读出来</li>
+    <li>learning_story->以优异成绩从[worldname]学院的[subject]专业毕业</li>
+    <li>learning_story->在蛮荒世界[animalworld]上自学了[subject]</li>
+    <li>learning_story->在[ruinworld]的废墟中发现了一批失落的[subject]图纸</li>
+    <li>learning_story->穿过[steamworld]熏黑的街道，在漫天煤灰中追寻[subject]</li>
+    <li>learning_story->不知怎么熬过了[toxicworld]的毒素沼泽——那里流传着关于[subject]专家的传闻</li>
+    <li>learning_story->走遍被熔毁的玻璃世界[glassworld]郊区，搜寻关于[subject]的知识</li>
+    <li>learning_story->环绕[transcendentworld]的超验球体，靠截听通讯来学习[subject]</li>
+    <li>learning_story->随驮畜深入[mineworld]的地底，听老矿工讲[subject]的故事，学着它的秘密</li>
+    <li>learning_story->曾在核心世界[coreworld]做过契约制[subject]专家</li>
+    <li>learning_story->拥有工业世界[indworld]的工厂，一边沉溺于[ANYPAWN_possessive]对[subject]的热爱，一边让工人苦役</li>
+    <li>learning_story->被关在[prisonworld]的第五牢城时学得了[subject]，始终坚称[ANYPAWN_possessive]清白</li>
+    <li>learning_story->在垃圾世界[trashworld]的巢堆里拼出这份[subject]图纸，捡拾闲散的闪耀世界公民丢弃的残片</li>
+    <li>learning_story->在[dinoworld]饲养克隆的无齿龙，用它们的肉换取[subject]的知识</li>
+    <li>learning_story->住在[urbworld]的天裂者区——那里[subject]的知识很常见</li>
+    <li>learning_story->在[ruinworld]外围的死地长大，为求生而学[subject]</li>
+    <li>calltoadventure->觉得[ANYPAWN_possessive]生活停滞不前。后来有一天，[ANYPAWN_pronoun]发现了[subject]</li>
+    <li>calltoadventure->受命独自建立一处新殖民地，专攻[subject]</li>
+    <li>calltoadventure->的兄姐过世了，[ANYPAWN_objective]便成了家中唯一的[subject]专家</li>
+    <li>calltoadventure->得知有一处被弃置的闪耀世界殖民地曾专攻[subject]</li>
+    <li>calltoadventure->乘太阳巡洋舰时被[feudalworld]的海盗劫持。因是[subject]专家，他们以高价将其赎出</li>
+    <li>calltoadventure->被风偏离航线，落到死寂世界[deadworld]，在那里学会了[subject]</li>
+    <li>calltoadventure->在一台损毁的机械体里发现了一份关于[subject]的数据文件，并从中学习</li>
+    <li>calltoadventure->跟着一只土蝠钻进它的洞穴，它在洞里教会了[ANYPAWN_objective][subject]</li>
+    <li>calltoadventure->由[iceworld]上一个热爱[subject]的伊塔金氏族抚养长大</li>
+    <li>calltoadventure->由血族克隆者创造，在[subject]中找到了乐趣</li>
+    <li>calltoadventure->在[warworld]长大，乘偷来的货舱逃离。此后数月唯一的读物是一本[subject]手册</li>
+    <li>calltoadventure->毕生都在层壳世界[shellworld]的各层间向上穿行，追踪一台故障的[subject]机械体</li>
+    <li>calltoadventure->藏身于一位[subject]专家的商人星舰上，逃出了[medievalworld]小村的农奴身份</li>
+    <li>calltoadventure->往返边缘世界，在[rimworld]上学到了[subject]</li>
+    <li>calltoadventure->航行于[oceanicworld]的海上，声称从活着的海洋本身习得了[subject]的奥秘</li>
+    <li>calltoadventure->在[worldname]的小行星带做零重力拾荒者，在[asteroid] A3 或 [asteroid] 7DD 上找到了[subject]的奥秘</li>
+    <li>written_when->在[ANYPAWN_possessive]被处决前夜</li>
+    <li>written_when->在[ANYPAWN_possessive]早年</li>
+    <li>written_when->在[worldname]的蓝色时期</li>
+    <li>written_when->作为[ANYPAWN_possessive]博士后论文的一部分</li>
+    <li>written_when->在[ANYPAWN_possessive]漫游边缘世界的途中</li>
+    <li>written_when->在[worldname]的初代克隆设施里</li>
+    <li>written_when->作为[notable_adjective]的「卡-[worldname]」仪式的最后一步</li>
+    <li>written_when->闲来无事，写在[ANYPAWN_possessive]父母来信的背面</li>
+    <li>written_when->在最初构想它的许多年之后</li>
+    <li>written_when->在[ANYPAWN_possessive]晚年</li>
+    <li>written_when->在夜里，从睡眠中挤出的时间里</li>
+    <li>written_when->在照料[ANYPAWN_possessive]孩子之余</li>
+    <li>written_when->在赶往前线的路上匆匆写就</li>
+    <li>written_when->闲暇时，一边在[ANYPAWN_possessive]游廊上啜着冰饮</li>
+    <li>written_when->年幼时，在[ANYPAWN_possessive]同伴玩耍之际独自用功</li>
     <li>subject_consequence(p=18)->[subject_primary_story]</li>
     <li>subject_consequence->[digression]</li>
-    <li>digression->At one point, the story veers into a confusing discussion about [digression_subject]</li>
-    <li>digression->The schematic's narrative loses its way here, digressing into [digression_subject]</li>
-    <li>digression->the [author] has inserted a footnote here, about [digression_subject]</li>
-    <li>digression->It is unclear why the story turns to [digression_subject]</li>
-    <li>digression->It is a surprise that the schematic [contain_verb]s information about [digression_subject]</li>
-    <li>digression->The section on [digression_subject] is irrelevant</li>
-    <li>digression_subject->love and war</li>
-    <li>digression_subject->interminable, increasingly minor political distinctions</li>
-    <li>digression_subject->Glitterworld cuisine trends</li>
-    <li>digression_subject->the fashion markets of [animalworld] and [urbworld]</li>
-    <li>digression_subject->scurrilous gossip about the widespread use of love enhancers</li>
-    <li>digression_subject->the military dispositions of the [glitterworld] fleet a century earlier</li>
-    <li>digression_subject->the mysterious coreworld relationships with supermassive black holes</li>
-    <li>digression_subject->the deadworld of [deadworld] and rumors of its fate</li>
-    <li>digression_subject->the species variants on the dinosaur planet of [dinoworld]</li>
-    <li>digression_subject->[ANYPAWN_possessive] experience of feudalism on [feudalworld]</li>
-    <li>digression_subject->the lack of microbes in the fallen cities of [glassworld]</li>
-    <li>digression_subject->the short lives of the paupers of [indworld]</li>
-    <li>digression_subject->the adaptations of hi-ruin scavengers in the post [worldname]-war urbworlds</li>
-    <li>digression_subject->neutroamine barter in the rich skyrippers of [coreworld]</li>
-    <li>aftermath->The pages communicate nothing more of the [author]'s story</li>
-    <li>aftermath->A [note] in a different hand says that the [author] was last seen heading for [deathworld]</li>
-    <li>aftermath->Pages are torn out here</li>
-    <li>aftermath->The leaves are dotted with brown stains</li>
-    <li>aftermath->Despite [ANYPAWN_possessive] adventures, [ANYPAWN_pronoun] managed to create this schematic</li>
-    <li>aftermath->[ANYPAWN_pronoun] devoted [ANYPAWN_possessive] last years to this schematic</li>
-    <li>aftermath->Later, [ANYPAWN_pronoun] found peace in this work. [subject_chat]</li>
-    <li>aftermath->[ANYPAWN_possessive] story ends here, with a technical description of [ANYPAWN_possessive] work on [worldname]. [subject_chat]</li>
-    <li>subject_chat->the [author]'s work proves [ANYPAWN_objective] authoritative on [subject]</li>
-    <li>subject_chat->Few dispute the findings in this [subject] document</li>
-    <li>subject_chat->This document will be inspirational to anyone interested in [subject]</li>
-    <li>subject_chat->Though the diagrams are faded, the [author]'s lessons on [subject] are valuable</li>
+    <li>digression->书中有一处，故事突然岔进一段关于[digression_subject]的混乱讨论</li>
+    <li>digression->这份图纸的叙述在这里迷失了方向，离题谈到[digression_subject]</li>
+    <li>digression->[author]在此插入了一条脚注，讲的是[digression_subject]</li>
+    <li>digression->不明白故事为何转向[digression_subject]</li>
+    <li>digression->这份图纸竟[contain_verb]了关于[digression_subject]的信息，令人意外</li>
+    <li>digression->关于[digression_subject]的那一节毫不相干</li>
+    <li>digression_subject->爱与战争</li>
+    <li>digression_subject->冗长无尽、越来越琐碎的政治区分</li>
+    <li>digression_subject->闪耀世界的饮食潮流</li>
+    <li>digression_subject->[animalworld]与[urbworld]的时装市场</li>
+    <li>digression_subject->关于催情剂广泛使用的下流传闻</li>
+    <li>digression_subject->一个世纪前[glitterworld]舰队的军事部署</li>
+    <li>digression_subject->核心世界与超大质量黑洞之间的神秘关系</li>
+    <li>digression_subject->死寂世界[deadworld]及其命运的传闻</li>
+    <li>digression_subject->恐龙行星[dinoworld]上的物种变种</li>
+    <li>digression_subject->[ANYPAWN_possessive]在[feudalworld]经历的封建制度</li>
+    <li>digression_subject->[glassworld]陷落城市中微生物的缺失</li>
+    <li>digression_subject->[indworld]贫民短暂的一生</li>
+    <li>digression_subject->[worldname]战后都市世界里高废墟拾荒者的适应之道</li>
+    <li>digression_subject->[coreworld]富裕天裂者区里的中性胺物物交换</li>
+    <li>aftermath->书页再也没有讲述[author]之后的故事</li>
+    <li>aftermath->一段字迹不同的[note]说，[author]最后一次被人看见是朝[deathworld]去了</li>
+    <li>aftermath->这里有几页被撕掉了</li>
+    <li>aftermath->书页上点缀着褐色污渍</li>
+    <li>aftermath->尽管历尽[ANYPAWN_possessive]冒险，[ANYPAWN_pronoun]还是完成了这份图纸</li>
+    <li>aftermath->[ANYPAWN_pronoun]把[ANYPAWN_possessive]最后几年都献给了这份图纸</li>
+    <li>aftermath->后来，[ANYPAWN_pronoun]在这项工作中找到了安宁。[subject_chat]</li>
+    <li>aftermath->[ANYPAWN_possessive]故事到此为止，结尾是一段对[ANYPAWN_possessive]在[worldname]所做工作的技术性描述。[subject_chat]</li>
+    <li>subject_chat->[author]的著作证明了[ANYPAWN_objective]在[subject]上的权威</li>
+    <li>subject_chat->很少有人质疑这份[subject]文件中的结论</li>
+    <li>subject_chat->这份文件会给任何对[subject]感兴趣的人以启发</li>
+    <li>subject_chat->尽管图样已褪色，[author]关于[subject]的教益仍有价值</li>
     <li>authorTitle->author</li>
     <li>authorTitle->scribe</li>
     <li>authorTitle->writer</li>
-    <li>linkage->this inspired [ANYPAWN_objective] and [ANYPAWN_pronoun] </li>
-    <li>linkage->this proved useful later when [ANYPAWN_pronoun] </li>
-    <li>linkage->using this knowledge, [ANYPAWN_pronoun] </li>
-    <li>linkage->[ANYPAWN_pronoun] found this useful when [ANYPAWN_pronoun] </li>
-    <li>linkage->that was why [ANYPAWN_pronoun] </li>
-    <li>linkage->on [worldname], [ANYPAWN_pronoun] used [ANYPAWN_possessive] insight and </li>
-    <li>linkage->to master it, [ANYPAWN_pronoun] traveled to [worldname] where [ANYPAWN_pronoun] </li>
+    <li>linkage->这启发了[ANYPAWN_objective]，于是[ANYPAWN_pronoun]</li>
+    <li>linkage->后来这派上了用场，当[ANYPAWN_pronoun]</li>
+    <li>linkage->凭着这些知识，[ANYPAWN_pronoun]</li>
+    <li>linkage->[ANYPAWN_pronoun]觉得这很有用，当[ANYPAWN_pronoun]</li>
+    <li>linkage->正因如此，[ANYPAWN_pronoun]</li>
+    <li>linkage->在[worldname]，[ANYPAWN_pronoun]运用[ANYPAWN_possessive]洞见，</li>
+    <li>linkage->为了精通它，[ANYPAWN_pronoun]前往[worldname]，在那里[ANYPAWN_pronoun]</li>
     <li>notable_adjective->famous</li>
     <li>notable_adjective->obscure</li>
     <li>notable_adjective->iconic</li>
@@ -642,72 +642,72 @@
     <li>phys_desc(quality[less_than]4)->[negative_physical_statement1]</li>
     <li>phys_desc(quality[greater_than]3)->[positive_physical_statement1]</li>
     <li>phys_desc(p=2)->[physical_yet_statement]</li>
-    <li>phys_desc(quality[less_than]3)->this document [badsmells] of [stink]</li>
-    <li>phys_desc(quality[greater_than]4)->this document [smells] of [scent]</li>
+    <li>phys_desc(quality[less_than]3)->这份文件[badsmells]着[stink]的味道</li>
+    <li>phys_desc(quality[greater_than]4)->这份文件[smells]着[scent]的气味</li>
     <li>nonphys_desc->[otherwordly_nonphys_desc]</li>
     <li>nonphys_desc->[technical_nonphys_desc]</li>
     <li>nonphys_desc->[academic_nonphys_desc]</li>
-    <li>physical_yet_statement(quality[less_than]5,quality[greater_than]1)->[negative_physical_statement1] but [positive_physical_statement2]</li>
-    <li>physical_yet_statement(quality[less_than]5,quality[greater_than]1)->[positive_physical_statement1] but [negative_physical_statement2]</li>
-    <li>physical_yet_statement(quality[greater_than]4)->[positive_physical_statement1] and [positive_physical_statement2]</li>
-    <li>physical_yet_statement(quality[less_than]2)->[negative_physical_statement1]. Also, [negative_physical_statement2]</li>
+    <li>physical_yet_statement(quality[less_than]5,quality[greater_than]1)->[negative_physical_statement1]，但[positive_physical_statement2]</li>
+    <li>physical_yet_statement(quality[less_than]5,quality[greater_than]1)->[positive_physical_statement1]，但[negative_physical_statement2]</li>
+    <li>physical_yet_statement(quality[greater_than]4)->[positive_physical_statement1]，且[positive_physical_statement2]</li>
+    <li>physical_yet_statement(quality[less_than]2)->[negative_physical_statement1]。此外，[negative_physical_statement2]</li>
     <li>negative_physical_statement->[negative_physical_statement1]</li>
     <li>negative_physical_statement->[negative_physical_statement2]</li>
-    <li>negative_physical_statement1->jagged tears mar the calfskin cover</li>
-    <li>negative_physical_statement1->one of the [author]'s pupils signed the front leaf</li>
-    <li>negative_physical_statement1->a sour-tasting ichor coats it</li>
-    <li>negative_physical_statement2->the decayed cover sticks to the reader's hands</li>
-    <li>negative_physical_statement2->maggots have made their home beneath the foolscap and flies flutter out as the book is opened</li>
-    <li>negative_physical_statement2->the pages appear to be written on crumbling parchment</li>
-    <li>negative_physical_statement2->the pages are saturated with red ink</li>
+    <li>negative_physical_statement1->参差的裂口毁了小牛皮封面</li>
+    <li>negative_physical_statement1->[author]的一名学生在卷首签了名</li>
+    <li>negative_physical_statement1->一层带酸味的脓液覆在其上</li>
+    <li>negative_physical_statement2->朽坏的封面会粘在读的人手上</li>
+    <li>negative_physical_statement2->书页下已成了蛆虫的巢穴，一翻开就有苍蝇飞出来</li>
+    <li>negative_physical_statement2->书页似乎写在一碰就碎的羊皮纸上</li>
+    <li>negative_physical_statement2->书页浸透了红墨水</li>
     <li>positive_physical_statement->[positive_physical_statement1]</li>
     <li>positive_physical_statement->[positive_physical_statement2]</li>
-    <li>positive_physical_statement1->inside the pages are pristine</li>
-    <li>positive_physical_statement1->the pages are composed of a thin plasteel derivative</li>
-    <li>positive_physical_statement1->each page is made of a flexible, diamond-like structure</li>
-    <li>positive_physical_statement1->it is warm to the touch</li>
-    <li>positive_physical_statement2->it bears the kitemark of a respected coreworld publishing house - [coreworld] Schematics</li>
-    <li>positive_physical_statement2->the edges of the page are still un-cut</li>
-    <li>positive_physical_statement2->semi-precious plastics glisten on its surface</li>
-    <li>otherwordly_nonphys_desc->holding the [author]'s schematic, the room swims</li>
-    <li>otherwordly_nonphys_desc->just looking at the schematic hurts the reader's head</li>
-    <li>otherwordly_nonphys_desc->looking at the schematic, the runes seem to move in the corner of the reader's eye</li>
-    <li>otherwordly_nonphys_desc->whispers permeate the area around the [author]'s schematic</li>
-    <li>otherwordly_nonphys_desc->the [author]'s schematic bears the psychic imprint of something impossibly ancient</li>
-    <li>technical_nonphys_desc->the complexity of the schematic is beyond the average reader</li>
-    <li>technical_nonphys_desc->the notation is unusual, drawn from an extinct Impid dialect</li>
-    <li>technical_nonphys_desc->wires run through the pages of the schematic, though the device is nearly defunct</li>
-    <li>technical_nonphys_desc->the same mechanism is explained by the [author] in three different languages</li>
-    <li>academic_nonphys_desc->this schematic is dedicated to a genie tutor who inspired the [author]</li>
-    <li>academic_nonphys_desc->this document is marked with the crest of the institution which sponsored the [author]</li>
-    <li>badsmells->smells heavily</li>
-    <li>badsmells->has the stench</li>
-    <li>badsmells->smells weakly</li>
+    <li>positive_physical_statement1->内页崭新如初</li>
+    <li>positive_physical_statement1->书页由一种薄塑钢衍生物制成</li>
+    <li>positive_physical_statement1->每一页都由柔韧的类钻石结构制成</li>
+    <li>positive_physical_statement1->摸上去是温的</li>
+    <li>positive_physical_statement2->它带着一家受人尊敬的核心世界出版社的认证标记——[coreworld]图纸社</li>
+    <li>positive_physical_statement2->书页边缘仍未裁开</li>
+    <li>positive_physical_statement2->表面有半宝石质感的塑料在闪光</li>
+    <li>otherwordly_nonphys_desc->握着[author]的图纸时，整个房间都在旋转</li>
+    <li>otherwordly_nonphys_desc->光是看着这份图纸，读的人就头痛</li>
+    <li>otherwordly_nonphys_desc->看着这份图纸时，那些符篆似乎在读者眼角移动</li>
+    <li>otherwordly_nonphys_desc->低语声弥漫在[author]图纸的四周</li>
+    <li>otherwordly_nonphys_desc->[author]的图纸上带着某种古老得不可思议之物的灵能印记</li>
+    <li>technical_nonphys_desc->这份图纸的复杂程度超出一般读者的理解</li>
+    <li>technical_nonphys_desc->其记号十分奇特，出自一种已消亡的顽魔方言</li>
+    <li>technical_nonphys_desc->图页之间穿有导线，尽管那装置已几近失灵</li>
+    <li>technical_nonphys_desc->同一套机构，[author]用了三种不同的语言来解释</li>
+    <li>academic_nonphys_desc->这份图纸献给一位启发过[author]的精灵导师</li>
+    <li>academic_nonphys_desc->这份文件上盖有资助[author]那家机构的徽记</li>
+    <li>badsmells->气味浓重</li>
+    <li>badsmells->散发着恶臭</li>
+    <li>badsmells->气味微弱</li>
     <li>badsmells->reeks</li>
     <li>badsmells->stinks</li>
-    <li>stink->corpse slime</li>
-    <li>stink->brimstone and rotten eggs</li>
-    <li>stink->slow, ancient death</li>
-    <li>stink->something akin to Yttakin sweat</li>
-    <li>stink->Waster breath</li>
-    <li>stink->a Hussar locker room</li>
-    <li>smells->has a heady scent</li>
-    <li>smells->has an odor</li>
-    <li>smells->has a perfume</li>
-    <li>smells->has an aroma</li>
-    <li>scent->must, like the bottom of a grape barrel</li>
-    <li>scent->Highmate pheromones</li>
+    <li>stink->尸液</li>
+    <li>stink->硫磺与臭蛋</li>
+    <li>stink->缓慢而古老的死亡</li>
+    <li>stink->类似伊塔金汗味的东西</li>
+    <li>stink->荒人的口气</li>
+    <li>stink->骠骑兵的更衣室</li>
+    <li>smells->有一股浓烈的气味</li>
+    <li>smells->有一股异味</li>
+    <li>smells->有一股香气</li>
+    <li>smells->有一股芬芳</li>
+    <li>scent->霉味，像葡萄桶底</li>
+    <li>scent->高等伴侣信息素</li>
     <li>scent->frankincense</li>
     <li>scent->sandalwood</li>
-    <li>scent->sweet boomrat juice</li>
-    <li>scent->Glitterworld spice</li>
-    <li>scent->fresh Gauranlen seeds</li>
+    <li>scent->甜腻的爆炸羚汁</li>
+    <li>scent->闪耀世界香料</li>
+    <li>scent->新鲜的高兰林种子</li>
     <li>conjunction->and </li>
     <li>conjunction->but </li>
     <li>conjunction->yet </li>
     <li>conjunction->though </li>
     <li>conjunction->besides </li>
-    <li>conjunction->. In addition,</li>
+    <li>conjunction->. 此外，</li>
     <li>author(p=4)->author</li>
     <li>author(p=4)->writer</li>
     <li>author->inventor</li>
@@ -722,25 +722,25 @@
     <li>author->expert</li>
     <li>author->craftsman</li>
     <li>anAuthorDesc(p=2)->a</li>
-    <li>anAuthorDesc->a young</li>
-    <li>anAuthorDesc->an old</li>
-    <li>anAuthorDesc->a terrified</li>
-    <li>anAuthorDesc->a sorrowful</li>
-    <li>anAuthorDesc->an elderly</li>
-    <li>anAuthorDesc->a wise</li>
-    <li>anAuthorDesc->a headstrong</li>
-    <li>anAuthorDesc->a foolish</li>
-    <li>anAuthorDesc->an innocent</li>
-    <li>anAuthorDesc->a disturbed</li>
-    <li>anAuthorDesc->an eldritch</li>
-    <li>anAuthorDesc->an outrageous</li>
-    <li>anAuthorDesc->an archetypal</li>
-    <li>anAuthorDesc->a boring</li>
-    <li>anAuthorDesc->a crazed</li>
-    <li>anAuthorDesc->an immoral</li>
-    <li>anAuthorDesc->a moral</li>
-    <li>anAuthorDesc->an amoral</li>
-    <li>anAuthorDesc->a shadowy</li>
+    <li>anAuthorDesc->年轻的</li>
+    <li>anAuthorDesc->年迈的</li>
+    <li>anAuthorDesc->惊恐的</li>
+    <li>anAuthorDesc->悲痛的</li>
+    <li>anAuthorDesc->年长的</li>
+    <li>anAuthorDesc->睿智的</li>
+    <li>anAuthorDesc->固执的</li>
+    <li>anAuthorDesc->愚昧的</li>
+    <li>anAuthorDesc->天真的</li>
+    <li>anAuthorDesc->心神不宁的</li>
+    <li>anAuthorDesc->诡异莫名的</li>
+    <li>anAuthorDesc->骇人听闻的</li>
+    <li>anAuthorDesc->典型的</li>
+    <li>anAuthorDesc->乏味的</li>
+    <li>anAuthorDesc->癫狂的</li>
+    <li>anAuthorDesc->不道德的</li>
+    <li>anAuthorDesc->有道德的</li>
+    <li>anAuthorDesc->无道德观的</li>
+    <li>anAuthorDesc->行踪隐秘的</li>
     <li>worldname->[glitterworld]</li>
     <li>worldname->[urbworld]</li>
     <li>worldname->[deadworld]</li>
@@ -768,181 +768,181 @@
     <li>worldname->[animalworld]</li>
     <li>feralworld->[animalworld]</li>
     <li>milworld->[warworld]</li>
-    <li>animalworld->Sorne</li>
-    <li>animalworld->Rhydell</li>
-    <li>animalworld->Zoutera</li>
-    <li>animalworld->Thylacine</li>
-    <li>animalworld->Jiai</li>
-    <li>animalworld->Steller's World</li>
-    <li>animalworld->Aukton</li>
-    <li>asteroid->Iwamura</li>
-    <li>asteroid->Atura</li>
-    <li>asteroid->Widdershins</li>
-    <li>asteroid->Ranomi</li>
-    <li>asteroid->Aesh 265</li>
-    <li>asteroid->Taxlos</li>
-    <li>asteroid->Aryn Sigma</li>
-    <li>coreworld->Novaroma</li>
-    <li>coreworld->Lutuni</li>
-    <li>coreworld->Zeglar</li>
-    <li>coreworld->Novaroma</li>
-    <li>coreworld->Cormora Prime</li>
-    <li>coreworld->Glossolia</li>
-    <li>coreworld->Barbaros</li>
-    <li>deadworld->Callos IX</li>
-    <li>deadworld->Haspia</li>
-    <li>deadworld->Gost IV</li>
-    <li>deadworld->Berimund</li>
-    <li>deadworld->Ardar</li>
-    <li>deadworld->Kremhild</li>
-    <li>deadworld->Melisandz</li>
-    <li>deathworld->Creticon</li>
-    <li>deathworld->Zartza</li>
-    <li>deathworld->Rayth</li>
-    <li>deathworld->Spectra</li>
-    <li>deathworld->JNovahex</li>
-    <li>deathworld->Carthago</li>
-    <li>deathworld->Grimcore</li>
-    <li>dinoworld->Oubanyen</li>
-    <li>dinoworld->Zoutera</li>
-    <li>dinoworld->Einio</li>
-    <li>dinoworld->Baryonyx</li>
-    <li>dinoworld->N'cilo</li>
-    <li>dinoworld->Venator</li>
-    <li>dinoworld->Brach</li>
-    <li>feudalworld->Aracena VI</li>
-    <li>feudalworld->Nuchadus</li>
-    <li>feudalworld->Filson</li>
-    <li>feudalworld->Fieth</li>
-    <li>feudalworld->Bloch Regis</li>
-    <li>feudalworld->Carlosphere</li>
-    <li>feudalworld->Magna Dijou</li>
-    <li>glassworld->Ceti V</li>
-    <li>glassworld->Thebes XIV</li>
-    <li>glassworld->Naga</li>
-    <li>glassworld->Merv</li>
-    <li>glassworld->Perse</li>
-    <li>glassworld->Shechem</li>
-    <li>glassworld->Yelhazor</li>
-    <li>glitterworld->Kalthas IV</li>
-    <li>glitterworld->Amen-Ti</li>
-    <li>glitterworld->Sophiamunda</li>
-    <li>glitterworld->Rogia</li>
-    <li>glitterworld->Utmaior</li>
-    <li>glitterworld->Caspian</li>
-    <li>glitterworld->Kenerella</li>
-    <li>iceworld->Yttak</li>
-    <li>iceworld->Dedchenko</li>
-    <li>iceworld->Baltoro</li>
-    <li>iceworld->Furtwale</li>
-    <li>iceworld->Jaqua</li>
-    <li>iceworld->Christensen</li>
-    <li>iceworld->Barnes</li>
-    <li>indworld->Irithir</li>
-    <li>indworld->New China</li>
-    <li>indworld->Hudders</li>
-    <li>indworld->Iver</li>
-    <li>indworld->Achesta</li>
-    <li>indworld->Oods</li>
-    <li>indworld->Iladelf</li>
-    <li>medievalworld->Chelis</li>
-    <li>medievalworld->Vinna</li>
-    <li>medievalworld->Cassone</li>
-    <li>medievalworld->Jork</li>
-    <li>medievalworld->Cochmar</li>
-    <li>medievalworld->Alin</li>
-    <li>medievalworld->Dubrognago</li>
-    <li>midworld->Khalderia</li>
-    <li>midworld->Elsin</li>
-    <li>midworld->Haihan</li>
-    <li>midworld->Seolure</li>
-    <li>midworld->Panga</li>
-    <li>midworld->New London CXI </li>
-    <li>midworld->San Delenda</li>
-    <li>mineworld->Xanides</li>
-    <li>mineworld->Bingham</li>
-    <li>mineworld->Saarhi</li>
-    <li>mineworld->Grasbeg</li>
-    <li>mineworld->Chuqui</li>
-    <li>mineworld->Olimpia</li>
-    <li>mineworld->Orme</li>
-    <li>oceanicworld->Wavia</li>
-    <li>oceanicworld->Wadka</li>
-    <li>oceanicworld->Gichen</li>
-    <li>oceanicworld->Port Yam</li>
-    <li>oceanicworld->Baia</li>
-    <li>oceanicworld->Thonis</li>
-    <li>oceanicworld->Moaui</li>
-    <li>prisonworld->Yttak</li>
-    <li>prisonworld->Aldgate</li>
-    <li>prisonworld->Borren</li>
-    <li>prisonworld->Hoalo</li>
-    <li>prisonworld->Casmina</li>
-    <li>prisonworld->Port Basil</li>
-    <li>prisonworld->Chateau D'Ouen</li>
-    <li>rimworld->Filson</li>
-    <li>rimworld->La Grand</li>
-    <li>rimworld->Dalles</li>
-    <li>rimworld->Twig Falls</li>
-    <li>rimworld->Old Boise</li>
-    <li>rimworld->Devil's Gate</li>
-    <li>rimworld->Laramiere</li>
-    <li>ruinworld->Earth</li>
-    <li>ruinworld->Ilwaba</li>
-    <li>ruinworld->Xennoa</li>
-    <li>ruinworld->Pichu</li>
-    <li>ruinworld->Perdida</li>
-    <li>ruinworld->Hisarlik</li>
-    <li>ruinworld->Helike</li>
-    <li>shellworld->Boccocarro</li>
-    <li>shellworld->Destria</li>
-    <li>shellworld->Trophic</li>
-    <li>shellworld->Matrio</li>
-    <li>shellworld->Samen</li>
-    <li>shellworld->Xinthia</li>
-    <li>shellworld->Ferbine</li>
-    <li>steamworld->Corliss</li>
-    <li>steamworld->Borassic</li>
-    <li>steamworld->Savery II</li>
-    <li>steamworld->Heron</li>
-    <li>steamworld->Malmesburi</li>
-    <li>steamworld->Architonnerre</li>
-    <li>steamworld->Escapement</li>
-    <li>toxicworld->Scylla</li>
-    <li>toxicworld->Mauro</li>
-    <li>toxicworld->Cerospor</li>
-    <li>toxicworld->Oxy VI</li>
-    <li>toxicworld->Sangwine</li>
-    <li>toxicworld->Soleno</li>
-    <li>toxicworld->Imbatus</li>
-    <li>transcendentworld->Xaroh</li>
-    <li>transcendentworld->Immanence VI</li>
-    <li>transcendentworld->Qabba</li>
-    <li>transcendentworld->Einsof</li>
-    <li>transcendentworld->Mitvo</li>
-    <li>transcendentworld->Samydi</li>
-    <li>transcendentworld->Samsarr</li>
-    <li>trashworld->Bagua 5</li>
-    <li>trashworld->Puobell</li>
-    <li>trashworld->Deni IX</li>
-    <li>trashworld->Garbsh</li>
-    <li>trashworld->Tra'age</li>
-    <li>trashworld->Reepsyk</li>
-    <li>trashworld->Mystras</li>
-    <li>urbworld->Euterpe</li>
-    <li>urbworld->Avenna</li>
-    <li>urbworld->Essalon</li>
-    <li>urbworld->Enike</li>
-    <li>urbworld->Adocia</li>
-    <li>urbworld->N'toch</li>
-    <li>urbworld->Barca</li>
-    <li>warworld->Kemia</li>
-    <li>warworld->Vanu</li>
-    <li>warworld->Samnium</li>
-    <li>warworld->Kyrus</li>
-    <li>warworld->Punica</li>
-    <li>warworld->Cimbria XII</li>
-    <li>warworld->Barkitos</li>
+    <li>animalworld->索恩</li>
+    <li>animalworld->里戴尔</li>
+    <li>animalworld->佐特拉</li>
+    <li>animalworld->袋狼</li>
+    <li>animalworld->吉艾</li>
+    <li>animalworld->斯特勒世界</li>
+    <li>animalworld->奥克顿</li>
+    <li>asteroid->岩村</li>
+    <li>asteroid->阿图拉</li>
+    <li>asteroid->逆旋</li>
+    <li>asteroid->拉诺米</li>
+    <li>asteroid->艾什 265</li>
+    <li>asteroid->塔克斯洛斯</li>
+    <li>asteroid->艾林·西格玛</li>
+    <li>coreworld->新罗马</li>
+    <li>coreworld->卢图尼</li>
+    <li>coreworld->泽格拉</li>
+    <li>coreworld->新罗马</li>
+    <li>coreworld->科莫拉主星</li>
+    <li>coreworld->格洛索利亚</li>
+    <li>coreworld->巴巴罗斯</li>
+    <li>deadworld->卡洛斯 IX</li>
+    <li>deadworld->哈斯皮亚</li>
+    <li>deadworld->戈斯特 IV</li>
+    <li>deadworld->贝里蒙德</li>
+    <li>deadworld->阿达尔</li>
+    <li>deadworld->克雷姆希尔德</li>
+    <li>deadworld->梅利桑兹</li>
+    <li>deathworld->克雷提孔</li>
+    <li>deathworld->扎尔察</li>
+    <li>deathworld->雷伊斯</li>
+    <li>deathworld->光谱</li>
+    <li>deathworld->诺瓦赫克斯</li>
+    <li>deathworld->迦太基</li>
+    <li>deathworld->冷酷核心</li>
+    <li>dinoworld->欧班延</li>
+    <li>dinoworld->佐特拉</li>
+    <li>dinoworld->艾尼奥</li>
+    <li>dinoworld->重爪龙</li>
+    <li>dinoworld->恩西洛</li>
+    <li>dinoworld->猎手</li>
+    <li>dinoworld->腕龙</li>
+    <li>feudalworld->阿拉塞纳 VI</li>
+    <li>feudalworld->努查杜斯</li>
+    <li>feudalworld->菲尔森</li>
+    <li>feudalworld->菲斯</li>
+    <li>feudalworld->布洛赫·雷吉斯</li>
+    <li>feudalworld->卡洛球</li>
+    <li>feudalworld->大迪茹</li>
+    <li>glassworld->塞提 V</li>
+    <li>glassworld->底比斯 XIV</li>
+    <li>glassworld->娜迦</li>
+    <li>glassworld->梅尔夫</li>
+    <li>glassworld->珀耳塞</li>
+    <li>glassworld->示剑</li>
+    <li>glassworld->耶尔哈佐</li>
+    <li>glitterworld->卡尔萨斯 IV</li>
+    <li>glitterworld->阿门提</li>
+    <li>glitterworld->索菲亚蒙达</li>
+    <li>glitterworld->罗贾</li>
+    <li>glitterworld->乌特迈奥</li>
+    <li>glitterworld->里海</li>
+    <li>glitterworld->凯内雷拉</li>
+    <li>iceworld->伊塔克</li>
+    <li>iceworld->杰德琴科</li>
+    <li>iceworld->巴尔托罗</li>
+    <li>iceworld->富特韦尔</li>
+    <li>iceworld->贾夸</li>
+    <li>iceworld->克里斯滕森</li>
+    <li>iceworld->巴恩斯</li>
+    <li>indworld->伊里希尔</li>
+    <li>indworld->新华</li>
+    <li>indworld->赫德斯</li>
+    <li>indworld->艾弗</li>
+    <li>indworld->阿切斯塔</li>
+    <li>indworld->乌兹</li>
+    <li>indworld->伊拉德尔夫</li>
+    <li>medievalworld->切利斯</li>
+    <li>medievalworld->文纳</li>
+    <li>medievalworld->卡松</li>
+    <li>medievalworld->约克</li>
+    <li>medievalworld->科赫马尔</li>
+    <li>medievalworld->阿林</li>
+    <li>medievalworld->杜布罗尼亚戈</li>
+    <li>midworld->卡尔德里亚</li>
+    <li>midworld->埃尔辛</li>
+    <li>midworld->海汉</li>
+    <li>midworld->索卢尔</li>
+    <li>midworld->潘加</li>
+    <li>midworld->新伦敦 111</li>
+    <li>midworld->圣德伦达</li>
+    <li>mineworld->扎尼德斯</li>
+    <li>mineworld->宾厄姆</li>
+    <li>mineworld->萨尔希</li>
+    <li>mineworld->格拉斯贝格</li>
+    <li>mineworld->丘基</li>
+    <li>mineworld->奥林匹亚</li>
+    <li>mineworld->奥姆</li>
+    <li>oceanicworld->瓦维亚</li>
+    <li>oceanicworld->瓦德卡</li>
+    <li>oceanicworld->吉琴</li>
+    <li>oceanicworld->山药港</li>
+    <li>oceanicworld->巴亚</li>
+    <li>oceanicworld->托尼斯</li>
+    <li>oceanicworld->莫阿维</li>
+    <li>prisonworld->伊塔克</li>
+    <li>prisonworld->奥德门</li>
+    <li>prisonworld->博伦</li>
+    <li>prisonworld->霍阿洛</li>
+    <li>prisonworld->卡斯米纳</li>
+    <li>prisonworld->罗勒港</li>
+    <li>prisonworld->杜旺堡</li>
+    <li>rimworld->菲尔森</li>
+    <li>rimworld->拉格朗</li>
+    <li>rimworld->达尔斯</li>
+    <li>rimworld->枝瀑</li>
+    <li>rimworld->老博伊西</li>
+    <li>rimworld->恶魔之门</li>
+    <li>rimworld->拉拉米耶尔</li>
+    <li>ruinworld->地球</li>
+    <li>ruinworld->伊尔瓦巴</li>
+    <li>ruinworld->泽诺阿</li>
+    <li>ruinworld->皮丘</li>
+    <li>ruinworld->佩尔迪达</li>
+    <li>ruinworld->希萨利克</li>
+    <li>ruinworld->赫利刻</li>
+    <li>shellworld->博科卡罗</li>
+    <li>shellworld->德斯特里亚</li>
+    <li>shellworld->营养层</li>
+    <li>shellworld->马特里奥</li>
+    <li>shellworld->萨门</li>
+    <li>shellworld->辛西亚</li>
+    <li>shellworld->费尔宾</li>
+    <li>steamworld->科利斯</li>
+    <li>steamworld->博拉西克</li>
+    <li>steamworld->萨弗里 II</li>
+    <li>steamworld->希罗</li>
+    <li>steamworld->马姆斯伯里</li>
+    <li>steamworld->阿基托内雷</li>
+    <li>steamworld->擒纵</li>
+    <li>toxicworld->斯库拉</li>
+    <li>toxicworld->毛罗</li>
+    <li>toxicworld->塞罗斯波</li>
+    <li>toxicworld->奥克西 VI</li>
+    <li>toxicworld->桑格温</li>
+    <li>toxicworld->索莱诺</li>
+    <li>toxicworld->因巴图斯</li>
+    <li>transcendentworld->扎罗</li>
+    <li>transcendentworld->内蕴 VI</li>
+    <li>transcendentworld->卡巴</li>
+    <li>transcendentworld->无限</li>
+    <li>transcendentworld->米特沃</li>
+    <li>transcendentworld->萨米迪</li>
+    <li>transcendentworld->萨姆萨尔</li>
+    <li>trashworld->八卦 5</li>
+    <li>trashworld->普奥贝尔</li>
+    <li>trashworld->德尼 IX</li>
+    <li>trashworld->加布什</li>
+    <li>trashworld->特拉奇</li>
+    <li>trashworld->里普塞克</li>
+    <li>trashworld->米斯特拉斯</li>
+    <li>urbworld->欧忒耳佩</li>
+    <li>urbworld->阿文纳</li>
+    <li>urbworld->埃萨隆</li>
+    <li>urbworld->埃尼刻</li>
+    <li>urbworld->阿多西亚</li>
+    <li>urbworld->恩托赫</li>
+    <li>urbworld->巴尔卡</li>
+    <li>warworld->凯米亚</li>
+    <li>warworld->瓦努</li>
+    <li>warworld->萨姆尼乌姆</li>
+    <li>warworld->居鲁士</li>
+    <li>warworld->布匿</li>
+    <li>warworld->辛布里亚 XII</li>
+    <li>warworld->巴基托斯</li>
     <li>schematic_container->manual</li>
     <li>schematic_container->compendium</li>
     <li>schematic_container->binder</li>
@@ -1001,11 +1001,11 @@
     <li>schematic_synonym->blueprint</li>
     <li>schematic_synonym->design</li>
     <li>schematic_synonym->prototype</li>
-    <li>schematic_synonym->product specification</li>
-    <li>schematic_synonym->instruction set</li>
+    <li>schematic_synonym->产品规格书</li>
+    <li>schematic_synonym->指令集</li>
     <li>state_adjective->draft</li>
     <li>state_adjective->finished</li>
-    <li>state_adjective->work-in-progress</li>
+    <li>state_adjective->未完成</li>
     <li>state_adjective->complete</li>
     <li>diagram_type->illustration</li>
     <li>diagram_type->depiction</li>
@@ -1043,12 +1043,12 @@
     <li>other_subject->scope</li>
     <li>other_subject->budget</li>
     <li>other_subject->resources</li>
-    <li>dates->The schematic was published [date_form]</li>
-    <li>dates->The schematic was first printed [date_form]</li>
-    <li>dates->It's unclear exactly when the schematic was created</li>
+    <li>dates->这份图纸公布于[date_form]</li>
+    <li>dates->这份图纸初印于[date_form]</li>
+    <li>dates->这份图纸究竟何时作成，已不清楚</li>
     <li>date_form->recently</li>
-    <li>date_form->many centuries ago</li>
-    <li>date_form->on the [date]</li>
+    <li>date_form->许多个世纪以前</li>
+    <li>date_form->在[date]</li>
     <li>date_form->in [date_season]</li>
   -->
   <Description_Schematic.rulePack.rulesStrings>
@@ -1686,87 +1686,87 @@
   <!-- EN:
     <li>subject->[subject_primary]</li>
     <li>desc->[discussion].\n\n[anecdote]. [production].\n\n[quality_statement].</li>
-    <li>discussion->This [textbook] provides [useful_information] about [subject][detail]</li>
-    <li>discussion->This [textbook] establishes the author's authority on the subject of [subject][detail]</li>
-    <li>discussion->Those seeking [understanding_synonym] [subject] head to this [notable_adjective] [textbook][detail]</li>
-    <li>discussion->A standardized [textbook] on [subject][detail]</li>
-    <li>discussion->An early edition of the author's [textbook] on [subject][detail]</li>
-    <li>detail->. The [precis_synonym] focuses on the more skilled aspects of the subject</li>
-    <li>detail->. It is a succinct [precis_synonym] of a complex subject</li>
-    <li>detail->. The [precis_synonym] says that, when [ANYPAWN_label] wrote this, it was the cutting edge in the field</li>
-    <li>detail->. A quote on the [note_location] says, 'True [students] of [subject] cannot ignore [ANYPAWN_label]'s book'</li>
+    <li>discussion->这本[textbook]提供了关于[subject]的[useful_information][detail]</li>
+    <li>discussion->这本[textbook]确立了作者在[subject]这一课题上的权威[detail]</li>
+    <li>discussion->想求得[understanding_synonym][subject]的人，都会来找这本[notable_adjective]的[textbook][detail]</li>
+    <li>discussion->一本关于[subject]的标准[textbook][detail]</li>
+    <li>discussion->作者那本论[subject]的[textbook]的早期版本[detail]</li>
+    <li>detail->. [precis_synonym]着重于这门学问中更需技艺的部分</li>
+    <li>detail->. 这是对一门复杂学问的简明[precis_synonym]</li>
+    <li>detail->. [precis_synonym]称，[ANYPAWN_label]写就此书时，它正处于该领域的最前沿</li>
+    <li>detail->. [note_location]上引着一句话：「真正钻研[subject]的[students]，不能无视[ANYPAWN_label]这本书」</li>
     <li>students->students</li>
     <li>students->lovers</li>
     <li>students->practitioners</li>
-    <li>detail->. It takes you through the subject step-by-step</li>
-    <li>detail(quality[less_than]4)->, even though the author rushes through the subject</li>
-    <li>detail(quality[greater_than]3)->. It is a comprehensive treatment of the subject</li>
-    <li>detail->. The author claims in [ANYPAWN_possessive] [precis_synonym] that fraudulent copies of this book exist but that this is not one</li>
-    <li>detail(quality[less_than]4)->, though perhaps the attempt to communicate its ideas through an imagined dialogue was a mistake</li>
-    <li>detail->. The author's rhetoric in the [precis_synonym] does not distract from the core concepts</li>
-    <li>production->The [precis_synonym] says that this was printed by hand on [worldname]</li>
-    <li>production->The [precis_synonym] says that the University of [worldname] made this a set text</li>
-    <li>production->The [precis_synonym] says that, though these notes were made for [ANYPAWN_label]'s personal use, they have been widely shared</li>
-    <li>production->The useful parts of this [textbook] are hidden among the biographical details</li>
-    <li>production->A handwritten [note] on the [note_location] says that the [worldname] print-house shut down after the [worldname] Riots, so these later editions are rare</li>
-    <li>production->An inscribed [note] says that most copies of this [textbook] were lost during the [worldname] Incident</li>
-    <li>production->The [precis_synonym] makes clear that readers with knowledge of archotech information dissemination techniques tend to avoid this [textbook] series - but not why</li>
-    <li>production->From the [note_location], it is clear that the [subject] proselytes of [worldname] spent a fortune printing copies of this book, and then having it widely distributed</li>
-    <li>production->The [note_location] explains that the early copies of this book were handwritten by [ANYPAWN_label] [ANYPAWN_objective]self</li>
-    <li>production->The Duchess of [worldname] sponsored this [textbook], with the condition that it be freely available</li>
-    <li>production->A note says that a subscription of the booksellers of [coreworld] produced the first edition of this [textbook]</li>
-    <li>production->At the book's rear, the publisher advertises a larger series that tackles all subjects necessary for survival on the rim</li>
-    <li>production->The publishers perhaps could have been more forthright in their editorial duties, given the sloppy grammar</li>
+    <li>detail->. 它带你一步一步走完这门学问</li>
+    <li>detail(quality[less_than]4)->, 尽管作者对这门学问讲得有些仓促</li>
+    <li>detail(quality[greater_than]3)->. 它对这门学问作了全面的论述</li>
+    <li>detail->. 作者在[ANYPAWN_possessive][precis_synonym]中声称，此书有伪本流传，而这一本不是</li>
+    <li>detail(quality[less_than]4)->, 尽管用臆想的对话来传达其想法，或许本身就是个错误</li>
+    <li>detail->. 作者在[precis_synonym]中的辞令，并不妨碍核心概念</li>
+    <li>production->[precis_synonym]称，此书是在[worldname]手工印制的</li>
+    <li>production->[precis_synonym]称，[worldname]大学曾把此书列为指定教材</li>
+    <li>production->[precis_synonym]称，这些笔记原本只供[ANYPAWN_label]自用，却被广泛传抄</li>
+    <li>production->这本[textbook]里有用的部分，都藏在传记细节之中</li>
+    <li>production->[note_location]上一段手写的[note]称，[worldname]印坊在[worldname]暴动后关闭，因此这些后期版本十分罕见</li>
+    <li>production->一段题写的[note]称，这本[textbook]的大部分副本都在[worldname]事件中散失</li>
+    <li>production->[precis_synonym]明确指出，懂得远古科技信息传播技术的读者往往会避开这套[textbook]——但未说明原因</li>
+    <li>production->从[note_location]可以看清，[worldname]的[subject]传教者们花了一大笔钱印制此书，再把它广为散发</li>
+    <li>production->[note_location]说明，此书的早期副本都是由[ANYPAWN_label]亲手抄写的</li>
+    <li>production->[worldname]的女公爵资助了这本[textbook]，条件是要免费提供</li>
+    <li>production->一段批注称，这本[textbook]的第一版由[coreworld]的书商联合出资印行</li>
+    <li>production->书末，出版者为一套更大的丛书做了广告，声称涵盖边缘世界求生所需的一切学问</li>
+    <li>production->考虑到语法如此马虎，出版者在编校职责上或许本可以更尽责一些</li>
     <li>quality_statement->[exterior_quality] [page_quality]</li>
-    <li>anecdote->Given the large gap between [ANYPAWN_nameFull]'s birth year and the publication date of this book, it is unlikely that [ANYPAWN_pronoun] lived to see this published</li>
-    <li>anecdote->On the [note_location], someone has pasted an excoriating review of the book</li>
-    <li>anecdote->The [precis_synonym] indicates that this book passed through the public library system of [urbworld]</li>
-    <li>anecdote->According to the [note_location], [ANYPAWN_nameFull] was known for being a master of many subjects</li>
-    <li>anecdote->According to the [note_location], the people of [worldname] still talk of [ANYPAWN_nameFull] and reminisce about [ANYPAWN_possessive] love of [subject]</li>
-    <li>anecdote->According to the [note_location], a freak entanglement accident killed the author, [ANYPAWN_nameFull], shortly after publication</li>
-    <li>anecdote->According to the [precis_synonym], [ANYPAWN_nameFull] spent [ANYPAWN_possessive] days teaching in the academy on [coreworld]. This book is taken from [ANYPAWN_possessive] lectures</li>
-    <li>anecdote->According to the [precis_synonym], [ANYPAWN_nameFull]'s knowledge of [subject] was so renowned that people would stop [ANYPAWN_objective] in the street to question [ANYPAWN_objective] about it</li>
-    <li>anecdote->According to the [note_location], [ANYPAWN_nameFull] was impoverished and sold the rights to this series for very little</li>
-    <li>anecdote->According to the [note_location], [ANYPAWN_nameFull] was blind from birth, so never saw [ANYPAWN_possessive] book</li>
-    <li>anecdote->According to the [note_location], [ANYPAWN_nameFull]'s first draft of the textbook infamously featured fifty pages of digression. It was cut for the second edition</li>
-    <li>anecdote->According to the [note_location], [ANYPAWN_nameFull]'s reputation was so terrible that [ANYPAWN_pronoun] published this book under a pseudonym</li>
-    <li>anecdote->According to the [note_location], as a child, [ANYPAWN_nameFull] was so idle that [ANYPAWN_possessive] parents despaired. This textbook is a vindication of [ANYPAWN_possessive] skill</li>
-    <li>anecdote->According to the [precis_synonym], it was during [ANYPAWN_nameFull]'s fourth marriage that [ANYPAWN_pronoun] conceived of a textbook on [subject]. (This led to [ANYPAWN_possessive] fourth divorce)</li>
+    <li>anecdote->考虑到[ANYPAWN_nameFull]的出生年与此书出版日期相隔甚远，[ANYPAWN_pronoun]多半没能活着看到它问世</li>
+    <li>anecdote->在[note_location]上，有人贴了一篇痛斥此书的书评</li>
+    <li>anecdote->[precis_synonym]显示，这本书曾流经[urbworld]的公共图书馆系统</li>
+    <li>anecdote->据[note_location]所载，[ANYPAWN_nameFull]以精通多门学问著称</li>
+    <li>anecdote->据[note_location]所载，[worldname]的人们至今仍会谈起[ANYPAWN_nameFull]，追忆[ANYPAWN_possessive]对[subject]的热爱</li>
+    <li>anecdote->据[note_location]所载，作者[ANYPAWN_nameFull]在出版后不久死于一场离奇的纠缠事故</li>
+    <li>anecdote->据[precis_synonym]所载，[ANYPAWN_nameFull]曾在[coreworld]的学院执教度日。此书即取自[ANYPAWN_possessive]讲稿</li>
+    <li>anecdote->据[precis_synonym]所载，[ANYPAWN_nameFull]对[subject]的学识声名远播，人们会在街上拦住[ANYPAWN_objective]请教</li>
+    <li>anecdote->据[note_location]所载，[ANYPAWN_nameFull]当时穷困潦倒，以极低的价格卖掉了这一系列的权利</li>
+    <li>anecdote->据[note_location]所载，[ANYPAWN_nameFull]天生失明，从未见过[ANYPAWN_possessive]书</li>
+    <li>anecdote->据[note_location]所载，[ANYPAWN_nameFull]此书的初稿以五十页离题内容闻名。第二版时被删去</li>
+    <li>anecdote->据[note_location]所载，[ANYPAWN_nameFull]名声极差，因此以化名出版了此书</li>
+    <li>anecdote->据[note_location]所载，[ANYPAWN_nameFull]幼时懒散得让[ANYPAWN_possessive]父母绝望。这本教科书正是对[ANYPAWN_possessive]本事的证明</li>
+    <li>anecdote->据[precis_synonym]所载，[ANYPAWN_nameFull]是在第四次婚姻期间萌生了写一本[subject]教科书的念头。（这导致了[ANYPAWN_possessive]第四次离婚）</li>
     <li>textbook->primer</li>
     <li>textbook->manual</li>
     <li>textbook->textbook</li>
     <li>textbook(p=6)->book</li>
     <li>textbook->workbook</li>
-    <li>textbook->reference book</li>
+    <li>textbook->参考书</li>
     <li>textbook->compendium</li>
     <li>textbook->guidebook</li>
     <li>textbook->booklet</li>
     <li>textbook->syllabus</li>
     <li>textbook->coursebook</li>
-    <li>textbook->reference book</li>
-    <li>textbook->school book</li>
+    <li>textbook->参考书</li>
+    <li>textbook->教科书</li>
     <li>textbook->encyclopedia</li>
     <li>textbook->handbook</li>
     <li>textbook->tradebook</li>
     <li>textbook->work</li>
-    <li>precis_synonym->précis</li>
+    <li>precis_synonym->摘要</li>
     <li>precis_synonym->frontispiece</li>
     <li>precis_synonym->abstract</li>
     <li>precis_synonym->synopsis</li>
     <li>precis_synonym->outline</li>
     <li>precis_synonym->digest</li>
-    <li>note_location->front cover</li>
-    <li>note_location->back cover</li>
-    <li>note_location->front flap</li>
-    <li>note_location->back flap</li>
-    <li>note_location->first page</li>
-    <li>note_location->last page</li>
+    <li>note_location->封面</li>
+    <li>note_location->封底</li>
+    <li>note_location->前勒口</li>
+    <li>note_location->后勒口</li>
+    <li>note_location->第一页</li>
+    <li>note_location->最后一页</li>
     <li>note_location->margins</li>
-    <li>note_location->title page</li>
+    <li>note_location->扉页</li>
     <li>note_location->footnote</li>
     <li>note_location->endnote</li>
-    <li>note_location->author's biography</li>
-    <li>note_location->shipping label</li>
+    <li>note_location->作者简介</li>
+    <li>note_location->货运标签</li>
     <li>note->note</li>
     <li>note->addendum</li>
     <li>note->postscript</li>
@@ -1775,21 +1775,21 @@
     <li>note->coda</li>
     <li>note->footnote</li>
     <li>note->endnote</li>
-    <li>useful_information->useful tidbits of information</li>
-    <li>useful_information->useful information</li>
-    <li>useful_information->interesting facts</li>
-    <li>useful_information->valuable insights</li>
-    <li>useful_information->practical insights</li>
-    <li>useful_information->helpful tips</li>
-    <li>useful_information->informative details</li>
-    <li>understanding_synonym->knowledge of</li>
-    <li>understanding_synonym->self-improvement in</li>
-    <li>understanding_synonym->an understanding of</li>
-    <li>understanding_synonym->scholarship in</li>
-    <li>understanding_synonym->erudition in</li>
-    <li>understanding_synonym->expertise in</li>
-    <li>understanding_synonym->a philosophy of</li>
-    <li>understanding_synonym->the ethics of</li>
+    <li>useful_information->有用的零碎信息</li>
+    <li>useful_information->有用的信息</li>
+    <li>useful_information->有趣的事实</li>
+    <li>useful_information->宝贵的洞见</li>
+    <li>useful_information->实用的洞见</li>
+    <li>useful_information->有用的提示</li>
+    <li>useful_information->有信息量的细节</li>
+    <li>understanding_synonym->对…的知识</li>
+    <li>understanding_synonym->在…上的自我提升</li>
+    <li>understanding_synonym->对…的理解</li>
+    <li>understanding_synonym->在…上的学问</li>
+    <li>understanding_synonym->在…上的博学</li>
+    <li>understanding_synonym->在…上的专长</li>
+    <li>understanding_synonym->一套…的哲学</li>
+    <li>understanding_synonym->…的伦理</li>
     <li>notable_adjective->famous</li>
     <li>notable_adjective->obscure</li>
     <li>notable_adjective->iconic</li>
@@ -1803,38 +1803,38 @@
     <li>notable_adjective->simple</li>
     <li>notable_adjective->functional</li>
     <li>notable_adjective->urbworld</li>
-    <li>notable_adjective->Glitterworld</li>
+    <li>notable_adjective->闪耀世界</li>
     <li>notable_adjective->primitive</li>
     <li>notable_adjective->decorative</li>
-    <li>exterior_quality(quality[greater_than]4)->The exterior of this book is finely bound and</li>
-    <li>exterior_quality(quality[greater_than]4)->A masterpiece of the printer's art, this book shines and</li>
-    <li>exterior_quality(quality[greater_than]4)->Its leather cover is rough yet</li>
-    <li>exterior_quality(quality[greater_than]4)->Though the cover is very plain,</li>
-    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->This textbook has seen better days, but</li>
-    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->Despite being a second-hand schoolbook,</li>
-    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->This book has had many owners, but</li>
-    <li>exterior_quality(quality[less_than]2)->The front of this book seems attractive but</li>
-    <li>exterior_quality(quality[less_than]2)->Someone has torn away the first third of the book and</li>
-    <li>exterior_quality(quality[less_than]2)->The cover is soaked in a strong-smelling liquid and</li>
-    <li>exterior_quality(quality[less_than]2)->At first sight nothing is wrong with the book, but</li>
-    <li>page_quality->the pages [page_condition]</li>
+    <li>exterior_quality(quality[greater_than]4)->这本书的外装帧精致，并且</li>
+    <li>exterior_quality(quality[greater_than]4)->作为印刷工艺的杰作，这本书光华流转，并且</li>
+    <li>exterior_quality(quality[greater_than]4)->它的皮革封面粗粝却</li>
+    <li>exterior_quality(quality[greater_than]4)->尽管封面十分朴素，</li>
+    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->这本教科书已不复当年，但</li>
+    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->尽管是二手课本，</li>
+    <li>exterior_quality(quality[less_than]5,quality[greater_than]1)->这本书换过许多主人，但</li>
+    <li>exterior_quality(quality[less_than]2)->这本书的正面看似诱人，但</li>
+    <li>exterior_quality(quality[less_than]2)->有人撕掉了这本书开头三分之一，并且</li>
+    <li>exterior_quality(quality[less_than]2)->封面浸透了某种气味浓烈的液体，并且</li>
+    <li>exterior_quality(quality[less_than]2)->乍看之下这本书并无问题，但</li>
+    <li>page_quality->书页[page_condition]</li>
     <li>page_condition(quality[greater_than]4)->[page_excellent]</li>
     <li>page_condition(quality[less_than]5,quality[greater_than]1)->[page_decent]</li>
     <li>page_condition(quality[less_than]2)->[page_awful]</li>
-    <li>page_excellent->are in amazing condition, as if never touched</li>
-    <li>page_excellent->are in great condition</li>
-    <li>page_excellent->are pristine</li>
-    <li>page_excellent->are bright and clean</li>
-    <li>page_excellent->are uniquely well-preserved</li>
-    <li>page_decent->are in a decent condition</li>
-    <li>page_decent->are legible, if crumpled</li>
-    <li>page_decent->are perfectly readable</li>
-    <li>page_decent->are decent, if slightly scored</li>
-    <li>page_awful->appear to be written on crumbling parchment</li>
-    <li>page_awful->are badly damaged</li>
-    <li>page_awful->are stained with a dark substance</li>
-    <li>page_awful->are illegible</li>
-    <li>page_awful->have been annotated in an unreadable hand</li>
+    <li>page_excellent->保存得极好，仿佛从未被触碰</li>
+    <li>page_excellent->保存得极好</li>
+    <li>page_excellent->崭新如初</li>
+    <li>page_excellent->明亮洁净</li>
+    <li>page_excellent->保存得格外完好</li>
+    <li>page_decent->状况尚可</li>
+    <li>page_decent->字迹可辨，虽有褶皱</li>
+    <li>page_decent->完全可读</li>
+    <li>page_decent->尚可，虽有轻微划痕</li>
+    <li>page_awful->似乎写在一碰就碎的羊皮纸上</li>
+    <li>page_awful->破损严重</li>
+    <li>page_awful->沾着某种暗色物质</li>
+    <li>page_awful->无法辨认</li>
+    <li>page_awful->被以无法辨认的字迹作了批注</li>
     <li>worldname->[glitterworld]</li>
     <li>worldname->[urbworld]</li>
     <li>worldname->[deadworld]</li>
@@ -1862,181 +1862,181 @@
     <li>worldname->[animalworld]</li>
     <li>feralworld->[animalworld]</li>
     <li>milworld->[warworld]</li>
-    <li>animalworld->Sorne</li>
-    <li>animalworld->Rhydell</li>
-    <li>animalworld->Zoutera</li>
-    <li>animalworld->Thylacine</li>
-    <li>animalworld->Jiai</li>
-    <li>animalworld->Steller's World</li>
-    <li>animalworld->Aukton</li>
-    <li>asteroid->Iwamura</li>
-    <li>asteroid->Atura</li>
-    <li>asteroid->Widdershins</li>
-    <li>asteroid->Ranomi</li>
-    <li>asteroid->Aesh 265</li>
-    <li>asteroid->Taxlos</li>
-    <li>asteroid->Aryn Sigma</li>
-    <li>coreworld->Novaroma</li>
-    <li>coreworld->Lutuni</li>
-    <li>coreworld->Zeglar</li>
-    <li>coreworld->Novaroma</li>
-    <li>coreworld->Cormora Prime</li>
-    <li>coreworld->Glossolia</li>
-    <li>coreworld->Barbaros</li>
-    <li>deadworld->Callos IX</li>
-    <li>deadworld->Haspia</li>
-    <li>deadworld->Gost IV</li>
-    <li>deadworld->Berimund</li>
-    <li>deadworld->Ardar</li>
-    <li>deadworld->Kremhild</li>
-    <li>deadworld->Melisandz</li>
-    <li>deathworld->Creticon</li>
-    <li>deathworld->Zartza</li>
-    <li>deathworld->Rayth</li>
-    <li>deathworld->Spectra</li>
-    <li>deathworld->JNovahex</li>
-    <li>deathworld->Carthago</li>
-    <li>deathworld->Grimcore</li>
-    <li>dinoworld->Oubanyen</li>
-    <li>dinoworld->Zoutera</li>
-    <li>dinoworld->Einio</li>
-    <li>dinoworld->Baryonyx</li>
-    <li>dinoworld->N'cilo</li>
-    <li>dinoworld->Venator</li>
-    <li>dinoworld->Brach</li>
-    <li>feudalworld->Aracena VI</li>
-    <li>feudalworld->Nuchadus</li>
-    <li>feudalworld->Filson</li>
-    <li>feudalworld->Fieth</li>
-    <li>feudalworld->Bloch Regis</li>
-    <li>feudalworld->Carlosphere</li>
-    <li>feudalworld->Magna Dijou</li>
-    <li>glassworld->Ceti V</li>
-    <li>glassworld->Thebes XIV</li>
-    <li>glassworld->Naga</li>
-    <li>glassworld->Merv</li>
-    <li>glassworld->Perse</li>
-    <li>glassworld->Shechem</li>
-    <li>glassworld->Yelhazor</li>
-    <li>glitterworld->Kalthas IV</li>
-    <li>glitterworld->Amen-Ti</li>
-    <li>glitterworld->Sophiamunda </li>
-    <li>glitterworld->Rogia</li>
-    <li>glitterworld->Utmaior</li>
-    <li>glitterworld->Caspian</li>
-    <li>glitterworld->Kenerella</li>
-    <li>iceworld->Yttak</li>
-    <li>iceworld->Dedchenko</li>
-    <li>iceworld->Baltoro</li>
-    <li>iceworld->Furtwale</li>
-    <li>iceworld->Jaqua</li>
-    <li>iceworld->Christensen</li>
-    <li>iceworld->Barnes</li>
-    <li>indworld->Irithir</li>
-    <li>indworld->New China</li>
-    <li>indworld->Hudders</li>
-    <li>indworld->Iver</li>
-    <li>indworld->Achesta</li>
-    <li>indworld->Oods</li>
-    <li>indworld->Iladelf</li>
-    <li>medievalworld->Chelis</li>
-    <li>medievalworld->Vinna</li>
-    <li>medievalworld->Cassone</li>
-    <li>medievalworld->Jork</li>
-    <li>medievalworld->Cochmar</li>
-    <li>medievalworld->Alin</li>
-    <li>medievalworld->Dubrognago</li>
-    <li>midworld->Khalderia</li>
-    <li>midworld->Elsin</li>
-    <li>midworld->Haihan</li>
-    <li>midworld->Seolure</li>
-    <li>midworld->Panga</li>
-    <li>midworld->New London CXI </li>
-    <li>midworld->San Delenda</li>
-    <li>mineworld->Xanides</li>
-    <li>mineworld->Bingham</li>
-    <li>mineworld->Saarhi</li>
-    <li>mineworld->Grasbeg</li>
-    <li>mineworld->Chuqui</li>
-    <li>mineworld->Olimpia</li>
-    <li>mineworld->Orme</li>
-    <li>oceanicworld->Wavia</li>
-    <li>oceanicworld->Wadka</li>
-    <li>oceanicworld->Gichen</li>
-    <li>oceanicworld->Port Yam</li>
-    <li>oceanicworld->Baia</li>
-    <li>oceanicworld->Thonis</li>
-    <li>oceanicworld->Moaui</li>
-    <li>prisonworld->Yttak</li>
-    <li>prisonworld->Aldgate</li>
-    <li>prisonworld->Borren</li>
-    <li>prisonworld->Hoalo</li>
-    <li>prisonworld->Casmina</li>
-    <li>prisonworld->Port Basil</li>
-    <li>prisonworld->Chateau D'Ouen</li>
-    <li>rimworld->Filson</li>
-    <li>rimworld->La Grand</li>
-    <li>rimworld->Dalles</li>
-    <li>rimworld->Twig Falls</li>
-    <li>rimworld->Old Boise</li>
-    <li>rimworld->Devil's Gate</li>
-    <li>rimworld->Laramiere</li>
-    <li>ruinworld->Earth</li>
-    <li>ruinworld->Ilwaba</li>
-    <li>ruinworld->Xennoa</li>
-    <li>ruinworld->Pichu</li>
-    <li>ruinworld->Perdida</li>
-    <li>ruinworld->Hisarlik</li>
-    <li>ruinworld->Helike</li>
-    <li>shellworld->Boccocarro</li>
-    <li>shellworld->Destria</li>
-    <li>shellworld->Trophic</li>
-    <li>shellworld->Matrio</li>
-    <li>shellworld->Samen</li>
-    <li>shellworld->Xinthia</li>
-    <li>shellworld->Ferbine</li>
-    <li>steamworld->Corliss</li>
-    <li>steamworld->Borassic</li>
-    <li>steamworld->Savery II</li>
-    <li>steamworld->Heron</li>
-    <li>steamworld->Malmesburi</li>
-    <li>steamworld->Architonnerre</li>
-    <li>steamworld->Escapement</li>
-    <li>toxicworld->Scylla</li>
-    <li>toxicworld->Mauro</li>
-    <li>toxicworld->Cerospor</li>
-    <li>toxicworld->Oxy VI</li>
-    <li>toxicworld->Sangwine</li>
-    <li>toxicworld->Soleno</li>
-    <li>toxicworld->Imbatus</li>
-    <li>transcendentworld->Xaroh</li>
-    <li>transcendentworld->Immanence VI</li>
-    <li>transcendentworld->Qabba</li>
-    <li>transcendentworld->Einsof</li>
-    <li>transcendentworld->Mitvo</li>
-    <li>transcendentworld->Samydi</li>
-    <li>transcendentworld->Samsarr</li>
-    <li>trashworld->Bagua 5</li>
-    <li>trashworld->Puobell</li>
-    <li>trashworld->Deni IX</li>
-    <li>trashworld->Garbsh</li>
-    <li>trashworld->Tra'age</li>
-    <li>trashworld->Reepsyk</li>
-    <li>trashworld->Mystras</li>
-    <li>urbworld->Euterpe</li>
-    <li>urbworld->Avenna</li>
-    <li>urbworld->Essalon</li>
-    <li>urbworld->Enike</li>
-    <li>urbworld->Adocia</li>
-    <li>urbworld->N'toch</li>
-    <li>urbworld->Barca</li>
-    <li>warworld->Kemia</li>
-    <li>warworld->Vanu</li>
-    <li>warworld->Samnium</li>
-    <li>warworld->Kyrus</li>
-    <li>warworld->Punica</li>
-    <li>warworld->Cimbria XII</li>
-    <li>warworld->Barkitos</li>
+    <li>animalworld->索恩</li>
+    <li>animalworld->里戴尔</li>
+    <li>animalworld->佐特拉</li>
+    <li>animalworld->袋狼</li>
+    <li>animalworld->吉艾</li>
+    <li>animalworld->斯特勒世界</li>
+    <li>animalworld->奥克顿</li>
+    <li>asteroid->岩村</li>
+    <li>asteroid->阿图拉</li>
+    <li>asteroid->逆旋</li>
+    <li>asteroid->拉诺米</li>
+    <li>asteroid->艾什 265</li>
+    <li>asteroid->塔克斯洛斯</li>
+    <li>asteroid->艾林·西格玛</li>
+    <li>coreworld->新罗马</li>
+    <li>coreworld->卢图尼</li>
+    <li>coreworld->泽格拉</li>
+    <li>coreworld->新罗马</li>
+    <li>coreworld->科莫拉主星</li>
+    <li>coreworld->格洛索利亚</li>
+    <li>coreworld->巴巴罗斯</li>
+    <li>deadworld->卡洛斯 IX</li>
+    <li>deadworld->哈斯皮亚</li>
+    <li>deadworld->戈斯特 IV</li>
+    <li>deadworld->贝里蒙德</li>
+    <li>deadworld->阿达尔</li>
+    <li>deadworld->克雷姆希尔德</li>
+    <li>deadworld->梅利桑兹</li>
+    <li>deathworld->克雷提孔</li>
+    <li>deathworld->扎尔察</li>
+    <li>deathworld->雷伊斯</li>
+    <li>deathworld->光谱</li>
+    <li>deathworld->诺瓦赫克斯</li>
+    <li>deathworld->迦太基</li>
+    <li>deathworld->冷酷核心</li>
+    <li>dinoworld->欧班延</li>
+    <li>dinoworld->佐特拉</li>
+    <li>dinoworld->艾尼奥</li>
+    <li>dinoworld->重爪龙</li>
+    <li>dinoworld->恩西洛</li>
+    <li>dinoworld->猎手</li>
+    <li>dinoworld->腕龙</li>
+    <li>feudalworld->阿拉塞纳 VI</li>
+    <li>feudalworld->努查杜斯</li>
+    <li>feudalworld->菲尔森</li>
+    <li>feudalworld->菲斯</li>
+    <li>feudalworld->布洛赫·雷吉斯</li>
+    <li>feudalworld->卡洛球</li>
+    <li>feudalworld->大迪茹</li>
+    <li>glassworld->塞提 V</li>
+    <li>glassworld->底比斯 XIV</li>
+    <li>glassworld->娜迦</li>
+    <li>glassworld->梅尔夫</li>
+    <li>glassworld->珀耳塞</li>
+    <li>glassworld->示剑</li>
+    <li>glassworld->耶尔哈佐</li>
+    <li>glitterworld->卡尔萨斯 IV</li>
+    <li>glitterworld->阿门提</li>
+    <li>glitterworld->索菲亚蒙达</li>
+    <li>glitterworld->罗贾</li>
+    <li>glitterworld->乌特迈奥</li>
+    <li>glitterworld->里海</li>
+    <li>glitterworld->凯内雷拉</li>
+    <li>iceworld->伊塔克</li>
+    <li>iceworld->杰德琴科</li>
+    <li>iceworld->巴尔托罗</li>
+    <li>iceworld->富特韦尔</li>
+    <li>iceworld->贾夸</li>
+    <li>iceworld->克里斯滕森</li>
+    <li>iceworld->巴恩斯</li>
+    <li>indworld->伊里希尔</li>
+    <li>indworld->新华</li>
+    <li>indworld->赫德斯</li>
+    <li>indworld->艾弗</li>
+    <li>indworld->阿切斯塔</li>
+    <li>indworld->乌兹</li>
+    <li>indworld->伊拉德尔夫</li>
+    <li>medievalworld->切利斯</li>
+    <li>medievalworld->文纳</li>
+    <li>medievalworld->卡松</li>
+    <li>medievalworld->约克</li>
+    <li>medievalworld->科赫马尔</li>
+    <li>medievalworld->阿林</li>
+    <li>medievalworld->杜布罗尼亚戈</li>
+    <li>midworld->卡尔德里亚</li>
+    <li>midworld->埃尔辛</li>
+    <li>midworld->海汉</li>
+    <li>midworld->索卢尔</li>
+    <li>midworld->潘加</li>
+    <li>midworld->新伦敦 111</li>
+    <li>midworld->圣德伦达</li>
+    <li>mineworld->扎尼德斯</li>
+    <li>mineworld->宾厄姆</li>
+    <li>mineworld->萨尔希</li>
+    <li>mineworld->格拉斯贝格</li>
+    <li>mineworld->丘基</li>
+    <li>mineworld->奥林匹亚</li>
+    <li>mineworld->奥姆</li>
+    <li>oceanicworld->瓦维亚</li>
+    <li>oceanicworld->瓦德卡</li>
+    <li>oceanicworld->吉琴</li>
+    <li>oceanicworld->山药港</li>
+    <li>oceanicworld->巴亚</li>
+    <li>oceanicworld->托尼斯</li>
+    <li>oceanicworld->莫阿维</li>
+    <li>prisonworld->伊塔克</li>
+    <li>prisonworld->奥德门</li>
+    <li>prisonworld->博伦</li>
+    <li>prisonworld->霍阿洛</li>
+    <li>prisonworld->卡斯米纳</li>
+    <li>prisonworld->罗勒港</li>
+    <li>prisonworld->杜旺堡</li>
+    <li>rimworld->菲尔森</li>
+    <li>rimworld->拉格朗</li>
+    <li>rimworld->达尔斯</li>
+    <li>rimworld->枝瀑</li>
+    <li>rimworld->老博伊西</li>
+    <li>rimworld->恶魔之门</li>
+    <li>rimworld->拉拉米耶尔</li>
+    <li>ruinworld->地球</li>
+    <li>ruinworld->伊尔瓦巴</li>
+    <li>ruinworld->泽诺阿</li>
+    <li>ruinworld->皮丘</li>
+    <li>ruinworld->佩尔迪达</li>
+    <li>ruinworld->希萨利克</li>
+    <li>ruinworld->赫利刻</li>
+    <li>shellworld->博科卡罗</li>
+    <li>shellworld->德斯特里亚</li>
+    <li>shellworld->营养层</li>
+    <li>shellworld->马特里奥</li>
+    <li>shellworld->萨门</li>
+    <li>shellworld->辛西亚</li>
+    <li>shellworld->费尔宾</li>
+    <li>steamworld->科利斯</li>
+    <li>steamworld->博拉西克</li>
+    <li>steamworld->萨弗里 II</li>
+    <li>steamworld->希罗</li>
+    <li>steamworld->马姆斯伯里</li>
+    <li>steamworld->阿基托内雷</li>
+    <li>steamworld->擒纵</li>
+    <li>toxicworld->斯库拉</li>
+    <li>toxicworld->毛罗</li>
+    <li>toxicworld->塞罗斯波</li>
+    <li>toxicworld->奥克西 VI</li>
+    <li>toxicworld->桑格温</li>
+    <li>toxicworld->索莱诺</li>
+    <li>toxicworld->因巴图斯</li>
+    <li>transcendentworld->扎罗</li>
+    <li>transcendentworld->内蕴 VI</li>
+    <li>transcendentworld->卡巴</li>
+    <li>transcendentworld->无限</li>
+    <li>transcendentworld->米特沃</li>
+    <li>transcendentworld->萨米迪</li>
+    <li>transcendentworld->萨姆萨尔</li>
+    <li>trashworld->八卦 5</li>
+    <li>trashworld->普奥贝尔</li>
+    <li>trashworld->德尼 IX</li>
+    <li>trashworld->加布什</li>
+    <li>trashworld->特拉奇</li>
+    <li>trashworld->里普塞克</li>
+    <li>trashworld->米斯特拉斯</li>
+    <li>urbworld->欧忒耳佩</li>
+    <li>urbworld->阿文纳</li>
+    <li>urbworld->埃萨隆</li>
+    <li>urbworld->埃尼刻</li>
+    <li>urbworld->阿多西亚</li>
+    <li>urbworld->恩托赫</li>
+    <li>urbworld->巴尔卡</li>
+    <li>warworld->凯米亚</li>
+    <li>warworld->瓦努</li>
+    <li>warworld->萨姆尼乌姆</li>
+    <li>warworld->居鲁士</li>
+    <li>warworld->布匿</li>
+    <li>warworld->辛布里亚 XII</li>
+    <li>warworld->巴基托斯</li>
   -->
   <Description_SkillBook.rulePack.rulesStrings>
     <li>subject->[subject_primary]</li>
